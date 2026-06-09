@@ -13,6 +13,11 @@ ROOT = Path(__file__).parent
 OUTPUT_PATH = ROOT / "outputs" / "auto_slate_late.csv"
 DAILY_DIR = ROOT / "outputs" / "daily"
 ROTOWIRE_LINEUPS_URL = "https://www.rotowire.com/baseball/daily-lineups.php"
+HISTORY_WEIGHTS = {
+    0: 0.60,
+    -1: 0.30,
+    -2: 0.10,
+}
 
 
 BATTER_URL = (
@@ -112,6 +117,10 @@ FIELDS = [
     "lineup_disagreement",
     "lineup_sources_used",
     "source_warnings",
+    "stat_years_used",
+    "bvp_pa",
+    "bvp_hr",
+    "bvp_note",
     "public_attention",
     "odds",
 ]
@@ -178,6 +187,65 @@ def savant_maps(year):
     batters = {row["player_id"]: row for row in fetch_csv(BATTER_URL.format(year=year))}
     pitchers = {row["player_id"]: row for row in fetch_csv(PITCHER_URL.format(year=year))}
     return batters, pitchers
+
+
+def numeric(value):
+    try:
+        if value in ("", None):
+            return None
+        return float(str(value).replace("%", ""))
+    except ValueError:
+        return None
+
+
+def blend_rows(rows_by_year, current_year):
+    available = [(year, row) for year, row in rows_by_year.items() if row]
+    if not available:
+        return {}, ""
+
+    base_year, base = max(available)
+    blended = dict(base)
+    weighted_columns = set().union(*(row.keys() for _, row in available))
+    for column in weighted_columns:
+        values = []
+        for year, row in available:
+            value = numeric(row.get(column))
+            if value is None:
+                continue
+            values.append((value, HISTORY_WEIGHTS.get(year - current_year, 0)))
+        if not values:
+            continue
+        weight_total = sum(weight for _, weight in values)
+        if weight_total:
+            blended[column] = round(sum(value * weight for value, weight in values) / weight_total, 4)
+
+    years_used = "/".join(str(year) for year, _ in sorted(available, reverse=True))
+    return blended, years_used
+
+
+def historical_savant_maps(year):
+    current_year = int(year)
+    batter_years = {}
+    pitcher_years = {}
+    for offset in HISTORY_WEIGHTS:
+        stat_year = current_year + offset
+        batters, pitchers = savant_maps(str(stat_year))
+        for player_id, row in batters.items():
+            batter_years.setdefault(player_id, {})[stat_year] = row
+        for player_id, row in pitchers.items():
+            pitcher_years.setdefault(player_id, {})[stat_year] = row
+
+    batters = {}
+    batter_years_used = {}
+    for player_id, rows_by_year in batter_years.items():
+        batters[player_id], batter_years_used[player_id] = blend_rows(rows_by_year, current_year)
+
+    pitchers = {}
+    pitcher_years_used = {}
+    for player_id, rows_by_year in pitcher_years.items():
+        pitchers[player_id], pitcher_years_used[player_id] = blend_rows(rows_by_year, current_year)
+
+    return batters, pitchers, batter_years_used, pitcher_years_used
 
 
 def savant_display_name(row):
@@ -284,7 +352,7 @@ def default(value, fallback=""):
 
 def build_rows(run_date, mode):
     year = run_date[:4]
-    batter_stats, pitcher_stats = savant_maps(year)
+    batter_stats, pitcher_stats, batter_years_used, pitcher_years_used = historical_savant_maps(year)
     batter_stats_by_name = {
         clean_name(savant_display_name(row)): (player_id, row)
         for player_id, row in batter_stats.items()
@@ -328,6 +396,7 @@ def build_rows(run_date, mode):
             pitcher = pitcher_for_side(game, side)
             pitcher_id = str(pitcher.get("id", ""))
             pitcher_row = pitcher_stats.get(pitcher_id, {})
+            pitcher_history_years = pitcher_years_used.get(pitcher_id, "")
 
             mlb_batters = box["teams"][side].get("batters", [])[:9]
             entries = []
@@ -360,8 +429,10 @@ def build_rows(run_date, mode):
                 order = entry["order"]
                 hitter_id = entry["player_id"]
                 hitter_row = batter_stats.get(str(hitter_id), {})
+                hitter_history_years = batter_years_used.get(str(hitter_id), "")
                 if not hitter_row:
-                    _, hitter_row = batter_stats_by_name.get(clean_name(entry["player_name"]), ("", {}))
+                    matched_id, hitter_row = batter_stats_by_name.get(clean_name(entry["player_name"]), ("", {}))
+                    hitter_history_years = batter_years_used.get(str(matched_id), hitter_history_years)
                 player_name = entry["player_name"]
                 rotowire = rotowire_lineups.get((team, clean_name(player_name)), {})
                 rotowire_order = rotowire.get("rotowire_batting_order", "")
@@ -421,6 +492,10 @@ def build_rows(run_date, mode):
                         "lineup_disagreement": "Yes" if disagreements else "No",
                         "lineup_sources_used": entry["lineup_sources_used"],
                         "source_warnings": "; ".join(source_warnings),
+                        "stat_years_used": f"H:{hitter_history_years} P:{pitcher_history_years}",
+                        "bvp_pa": "",
+                        "bvp_hr": "",
+                        "bvp_note": "BvP history not yet weighted; multi-year Statcast baseline active",
                         "public_attention": "",
                         "odds": "",
                         **context,
