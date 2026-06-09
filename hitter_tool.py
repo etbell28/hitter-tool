@@ -55,6 +55,10 @@ def confirmed(row):
     return row.get("confirmed_lineup", "").strip().lower() in {"yes", "y", "true", "1"}
 
 
+def projected(row):
+    return bool(str(row.get("batting_order", "")).strip()) or "projected" in row.get("lineup_sources_used", "").lower()
+
+
 def power_score(row):
     barrel = normalize(number(row, "barrel_pct"), 3, 20)
     hard_hit = normalize(number(row, "hard_hit_pct"), 25, 60)
@@ -134,7 +138,7 @@ def lineup_score(row):
 
 
 def opportunity_score(row):
-    starter_score = 100 if confirmed(row) else 0
+    starter_score = 100 if confirmed(row) else 70 if projected(row) else 0
     return lineup_score(row) * 0.85 + starter_score * 0.15
 
 
@@ -178,6 +182,8 @@ def play_type(row, score):
 
 def reason_tags(row, scores):
     tags = []
+    if not confirmed(row):
+        tags.append("Projected Lineup")
     if scores["power"] >= 75:
         tags.append("Elite Power")
     if number(row, "barrel_pct") >= 10:
@@ -462,7 +468,11 @@ def main():
     if not INPUT_PATH.exists():
         raise SystemExit(f"Missing input file: {INPUT_PATH}")
 
-    rows = [score_row(row) for row in read_rows() if confirmed(row)]
+    rows = [
+        score_row(row)
+        for row in read_rows()
+        if row.get("player") and row.get("team") and row.get("opponent")
+    ]
     rows.sort(key=lambda row: row["hr_score"], reverse=True)
 
     for index, row in enumerate(rows, start=1):

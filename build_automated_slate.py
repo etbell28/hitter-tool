@@ -180,13 +180,22 @@ def savant_maps(year):
     return batters, pitchers
 
 
+def savant_display_name(row):
+    raw = row.get("last_name, first_name", "")
+    if "," not in raw:
+        return raw.strip()
+    last, first = raw.split(",", 1)
+    return f"{first.strip()} {last.strip()}".strip()
+
+
 def parse_rotowire_lineups():
     try:
         text = fetch_text(ROTOWIRE_LINEUPS_URL)
     except Exception as exc:
-        return {}, f"RotoWire unavailable: {type(exc).__name__}"
+        return {}, {}, f"RotoWire unavailable: {type(exc).__name__}"
 
     lineups = {}
+    team_lineups = {}
     boxes = re.findall(r'<div class="lineup__box">(.*?)<div class="lineup__bottom">', text, flags=re.S)
     if not boxes:
         boxes = re.findall(r'<div class="lineup__box">(.*?)(?=<div class="lineup__box">|</main>|</body>)', text, flags=re.S)
@@ -217,6 +226,13 @@ def parse_rotowire_lineups():
                     players.append(name)
 
             for order, name in enumerate(players[:9], start=1):
+                team_lineups.setdefault(team, []).append(
+                    {
+                        "name": name,
+                        "order": order,
+                        "rotowire_confirmed_lineup": confirmed_status,
+                    }
+                )
                 lineups[(team, clean_name(name))] = {
                     "rotowire_batting_order": order,
                     "rotowire_confirmed_lineup": confirmed_status,
@@ -224,7 +240,7 @@ def parse_rotowire_lineups():
                 }
 
     warning = "" if lineups else "RotoWire parsed no lineups"
-    return lineups, warning
+    return lineups, team_lineups, warning
 
 
 def schedule(run_date):
@@ -269,7 +285,11 @@ def default(value, fallback=""):
 def build_rows(run_date, mode):
     year = run_date[:4]
     batter_stats, pitcher_stats = savant_maps(year)
-    rotowire_lineups, rotowire_warning = parse_rotowire_lineups()
+    batter_stats_by_name = {
+        clean_name(savant_display_name(row)): (player_id, row)
+        for player_id, row in batter_stats.items()
+    }
+    rotowire_lineups, rotowire_team_lineups, rotowire_warning = parse_rotowire_lineups()
     games = [
         game
         for day in schedule(run_date).get("dates", [])
@@ -286,8 +306,17 @@ def build_rows(run_date, mode):
             pitcher = pitcher_for_side(game, side)
             if pitcher.get("id"):
                 player_ids.add(pitcher["id"])
-            for player_id in box["teams"][side].get("batters", [])[:9]:
-                player_ids.add(player_id)
+            batters = box["teams"][side].get("batters", [])[:9]
+            if batters:
+                for player_id in batters:
+                    player_ids.add(player_id)
+                continue
+
+            team = box["teams"][side]["team"]["abbreviation"]
+            for projected in rotowire_team_lineups.get(team, [])[:9]:
+                player_id, _ = batter_stats_by_name.get(clean_name(projected["name"]), ("", {}))
+                if str(player_id).isdigit():
+                    player_ids.add(int(player_id))
 
     hands = handedness(player_ids)
     rows = []
@@ -300,20 +329,52 @@ def build_rows(run_date, mode):
             pitcher_id = str(pitcher.get("id", ""))
             pitcher_row = pitcher_stats.get(pitcher_id, {})
 
-            for order, hitter_id in enumerate(box["teams"][side].get("batters", [])[:9], start=1):
-                player = box["teams"][side]["players"].get(f"ID{hitter_id}", {})
+            mlb_batters = box["teams"][side].get("batters", [])[:9]
+            entries = []
+            if mlb_batters:
+                for order, hitter_id in enumerate(mlb_batters, start=1):
+                    player = box["teams"][side]["players"].get(f"ID{hitter_id}", {})
+                    entries.append(
+                        {
+                            "order": order,
+                            "player_id": str(hitter_id),
+                            "player_name": player.get("person", {}).get("fullName", ""),
+                            "confirmed_lineup": "Yes",
+                            "lineup_sources_used": "MLB Stats API; RotoWire",
+                        }
+                    )
+            else:
+                for projected in rotowire_team_lineups.get(team, [])[:9]:
+                    player_id, _ = batter_stats_by_name.get(clean_name(projected["name"]), ("", {}))
+                    entries.append(
+                        {
+                            "order": projected["order"],
+                            "player_id": str(player_id),
+                            "player_name": projected["name"],
+                            "confirmed_lineup": "No",
+                            "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+                        }
+                    )
+
+            for entry in entries:
+                order = entry["order"]
+                hitter_id = entry["player_id"]
                 hitter_row = batter_stats.get(str(hitter_id), {})
-                player_name = player.get("person", {}).get("fullName", "")
+                if not hitter_row:
+                    _, hitter_row = batter_stats_by_name.get(clean_name(entry["player_name"]), ("", {}))
+                player_name = entry["player_name"]
                 rotowire = rotowire_lineups.get((team, clean_name(player_name)), {})
                 rotowire_order = rotowire.get("rotowire_batting_order", "")
                 rotowire_confirmed = rotowire.get("rotowire_confirmed_lineup", "")
                 rotowire_found = rotowire.get("rotowire_player_found", "No")
                 disagreements = []
-                if rotowire_confirmed and rotowire_confirmed != "Yes":
+                if entry["confirmed_lineup"] == "No":
+                    disagreements.append("lineup projected / unconfirmed")
+                if entry["confirmed_lineup"] == "Yes" and rotowire_confirmed and rotowire_confirmed != "Yes":
                     disagreements.append("RotoWire not confirmed")
                 if rotowire_order and int(rotowire_order) != order:
                     disagreements.append(f"order MLB {order} vs RotoWire {rotowire_order}")
-                if not rotowire_order:
+                if entry["confirmed_lineup"] == "Yes" and not rotowire_order:
                     disagreements.append("not found on RotoWire")
 
                 source_warnings = []
@@ -328,7 +389,7 @@ def build_rows(run_date, mode):
                         "team": team,
                         "opponent": opponent,
                         "pitcher": pitcher.get("fullName", ""),
-                        "hitter_hand": hands.get(hitter_id, {}).get("bat", ""),
+                        "hitter_hand": hands.get(int(hitter_id), {}).get("bat", "") if str(hitter_id).isdigit() else "",
                         "pitcher_hand": hands.get(pitcher.get("id"), {}).get("pitch", ""),
                         "barrel_pct": hitter_row.get("barrel_batted_rate", ""),
                         "iso": hitter_row.get("isolated_power", hitter_row.get("xiso", "")),
@@ -353,12 +414,12 @@ def build_rows(run_date, mode):
                         "pitcher_hr_allowed_vs_lhh": pitcher_row.get("home_run", ""),
                         "pitcher_hr_allowed_vs_rhh": pitcher_row.get("home_run", ""),
                         "batting_order": order,
-                        "confirmed_lineup": "Yes",
+                        "confirmed_lineup": entry["confirmed_lineup"],
                         "rotowire_confirmed_lineup": rotowire_confirmed,
                         "rotowire_batting_order": rotowire_order,
                         "rotowire_player_found": rotowire_found,
                         "lineup_disagreement": "Yes" if disagreements else "No",
-                        "lineup_sources_used": "MLB Stats API; RotoWire",
+                        "lineup_sources_used": entry["lineup_sources_used"],
                         "source_warnings": "; ".join(source_warnings),
                         "public_attention": "",
                         "odds": "",

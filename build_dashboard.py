@@ -9,7 +9,8 @@ import pandas as pd
 ROOT = Path(__file__).parent
 OUTPUTS = ROOT / "outputs"
 RANKINGS_CSV = OUTPUTS / "hr_rankings.csv"
-SLATE_CSV = OUTPUTS / "auto_slate_late.csv"
+LATE_SLATE_CSV = OUTPUTS / "auto_slate_late.csv"
+FULL_SLATE_CSV = OUTPUTS / "auto_slate_full.csv"
 DASHBOARD_HTML = OUTPUTS / "hitter_tool_dashboard.html"
 
 
@@ -83,6 +84,10 @@ def badge_class(label):
     }.get(label, "muted")
 
 
+def confirmed_lineup(value):
+    return str(value or "").strip().lower() in {"yes", "y", "true", "1"}
+
+
 def game_key(row):
     teams = sorted([str(row["team"]), str(row["opponent"])])
     return f"{teams[0]}-{teams[1]}-{row['ballpark']}"
@@ -112,21 +117,33 @@ def pairing_payload(rankings, size, limit=8):
     return sorted(pairs, key=lambda item: item["combo_score"], reverse=True)[:limit]
 
 
-def build_payload():
-    if not RANKINGS_CSV.exists():
-        raise SystemExit(f"Missing rankings file: {RANKINGS_CSV}")
-    if not SLATE_CSV.exists():
-        raise SystemExit(f"Missing slate file: {SLATE_CSV}")
-
-    rankings = pd.read_csv(RANKINGS_CSV)
-    slate = pd.read_csv(SLATE_CSV)
+def apply_badges(rankings):
+    rankings = rankings.copy()
     rankings["badges"] = rankings.apply(badges_for, axis=1)
     rankings["badge"] = rankings.apply(primary_badge, axis=1)
     rankings["badge_class"] = rankings["badge"].map(badge_class)
     rankings["badge_summary"] = rankings["badges"].apply(lambda values: " + ".join(values))
     rankings["badge_classes"] = rankings["badges"].apply(lambda values: [badge_class(value) for value in values])
+    return rankings
 
-    top20 = rankings.head(20).copy()
+
+def slate_path():
+    return FULL_SLATE_CSV if FULL_SLATE_CSV.exists() else LATE_SLATE_CSV
+
+
+def build_payload():
+    if not RANKINGS_CSV.exists():
+        raise SystemExit(f"Missing rankings file: {RANKINGS_CSV}")
+    active_slate = slate_path()
+    if not active_slate.exists():
+        raise SystemExit(f"Missing slate file: {active_slate}")
+
+    rankings = apply_badges(pd.read_csv(RANKINGS_CSV))
+    slate = pd.read_csv(active_slate)
+    confirmed_rankings = rankings[rankings["confirmed_lineup"].apply(confirmed_lineup)].copy()
+
+    top20 = confirmed_rankings.head(20).copy()
+    projected_top20 = rankings.head(20).copy()
     weather = (
         rankings.groupby(["ballpark", "wind_direction", "weather_temp"], dropna=False)
         .agg(
@@ -188,9 +205,17 @@ def build_payload():
         "generated_at": datetime.now().strftime("%I:%M %p %Z"),
         "slate_projection": len(slate),
         "games_count": len(games),
+        "confirmed_count": len(confirmed_rankings),
+        "projected_count": len(rankings) - len(confirmed_rankings),
         "top20": records(top20),
+        "projected_top20": records(projected_top20),
         "weather": records(weather),
         "pairings": {
+            "2": pairing_payload(confirmed_rankings, 2),
+            "3": pairing_payload(confirmed_rankings, 3),
+            "4": pairing_payload(confirmed_rankings, 4),
+        },
+        "projected_pairings": {
             "2": pairing_payload(rankings, 2),
             "3": pairing_payload(rankings, 3),
             "4": pairing_payload(rankings, 4),
@@ -573,6 +598,8 @@ def render_html(payload):
       <div class="stats-row">
         <div class="stat"><b>{payload["slate_projection"]}</b><span>Hitters Scanned</span></div>
         <div class="stat"><b>{payload["games_count"]}</b><span>Games</span></div>
+        <div class="stat"><b>{payload["confirmed_count"]}</b><span>Confirmed Hitters</span></div>
+        <div class="stat"><b>{payload["projected_count"]}</b><span>Projected Hitters</span></div>
         <div class="stat"><b>{payload["rotowire_found"]}/{payload["slate_size"]}</b><span>RotoWire Matches</span></div>
         <div class="stat"><b>{payload["lineup_disagreements"]}</b><span>Lineup Warnings</span></div>
       </div>
@@ -597,7 +624,7 @@ def render_html(payload):
       <section>
         <div class="top-layout">
           <div>
-            <h2 class="section-title">Top HR Targets</h2>
+            <h2 class="section-title">Confirmed Lineup Targets</h2>
             <div class="controls">
               <button class="active" data-filter="all">All</button>
               <button data-filter="BEST PICK">Best</button>
@@ -626,13 +653,37 @@ def render_html(payload):
       </section>
 
       <section>
-        <h2 class="section-title">Best HR Pairings</h2>
+        <h2 class="section-title">Full Slate Projection</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Includes projected and confirmed lineups.</strong>
+          <small>Use this for later games before lineups lock. Confirmed-lineup targets above remain the cleaner board.</small>
+        </div>
+        <table>
+          <thead>
+            <tr><th>Rank</th><th>Player</th><th>Team</th><th>Score</th><th>Order</th><th>Pitcher</th><th>Status</th><th>Badge</th></tr>
+          </thead>
+          <tbody id="projectedRows"></tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2 class="section-title">Confirmed HR Pairings</h2>
         <div class="controls">
           <button class="active" data-pairing="2">2-Leg</button>
           <button data-pairing="3">3-Leg</button>
           <button data-pairing="4">4-Leg</button>
         </div>
         <div class="pairing-grid" id="pairings"></div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Full Slate Projection Pairings</h2>
+        <div class="controls">
+          <button class="active" data-projected-pairing="2">2-Leg</button>
+          <button data-projected-pairing="3">3-Leg</button>
+          <button data-projected-pairing="4">4-Leg</button>
+        </div>
+        <div class="pairing-grid" id="projectedPairings"></div>
       </section>
 
       <section>
@@ -653,6 +704,8 @@ def render_html(payload):
     const weather = document.querySelector("#weather");
     const games = document.querySelector("#games");
     const pairings = document.querySelector("#pairings");
+    const projectedRows = document.querySelector("#projectedRows");
+    const projectedPairings = document.querySelector("#projectedPairings");
     const search = document.querySelector("#search");
     let activeFilter = "all";
     let activeGameFilter = "all";
@@ -695,9 +748,34 @@ def render_html(payload):
       `).join("") || `<tr><td colspan="7">No targets in this filter.</td></tr>`;
     }}
 
+    function renderProjectedRows() {{
+      projectedRows.innerHTML = payload.projected_top20.map(row => `
+        <tr>
+          <td class="rank">${{row.rank}}</td>
+          <td><strong>${{row.player}}</strong></td>
+          <td>${{row.team}}</td>
+          <td class="score">${{Number(row.hr_score || 0).toFixed(1)}}</td>
+          <td>${{row.batting_order}}</td>
+          <td>${{row.pitcher}}</td>
+          <td>${{String(row.confirmed_lineup || "").toLowerCase() === "yes" ? "Confirmed" : "Projected"}}</td>
+          <td>${{(row.badges || ["WATCH"]).map((badge, idx) => `<span class="badge ${{(row.badge_classes || ["muted"])[idx] || "muted"}}">${{badge}}</span>`).join(" ")}}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="8">No projection targets available.</td></tr>`;
+    }}
+
     function renderPairings(size = "2") {{
       const rows = payload.pairings[size] || [];
       pairings.innerHTML = rows.map((row, index) => `
+        <div class="pairing">
+          <strong>#${{index + 1}} · ${{row.names}}</strong>
+          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.badges}}</small>
+        </div>
+      `).join("");
+    }}
+
+    function renderProjectedPairings(size = "2") {{
+      const rows = payload.projected_pairings[size] || [];
+      projectedPairings.innerHTML = rows.map((row, index) => `
         <div class="pairing">
           <strong>#${{index + 1}} · ${{row.names}}</strong>
           <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.badges}}</small>
@@ -749,6 +827,14 @@ def render_html(payload):
       }});
     }});
 
+    document.querySelectorAll("button[data-projected-pairing]").forEach(button => {{
+      button.addEventListener("click", () => {{
+        document.querySelectorAll("button[data-projected-pairing]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderProjectedPairings(button.dataset.projectedPairing);
+      }});
+    }});
+
     document.querySelectorAll("button[data-game-filter]").forEach(button => {{
       button.addEventListener("click", () => {{
         document.querySelectorAll("button[data-game-filter]").forEach(item => item.classList.remove("active"));
@@ -761,7 +847,9 @@ def render_html(payload):
 
     renderWeather();
     renderTop();
+    renderProjectedRows();
     renderPairings("2");
+    renderProjectedPairings("2");
     renderGames();
   </script>
 </body>
