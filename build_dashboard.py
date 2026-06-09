@@ -94,24 +94,82 @@ def game_key(row):
 
 
 def pairing_payload(rankings, size, limit=8):
-    candidates = rankings.head(14).copy()
+    candidates = rankings.head(30).copy()
     pairs = []
     for group in combinations(candidates.to_dict("records"), size):
         avg_score = sum(number(row["hr_score"]) for row in group) / size
-        teams = {row["team"] for row in group}
-        games = {f"{row['team']}-{row['opponent']}" for row in group}
-        diversity_bonus = min(len(teams), size) * 0.35 + min(len(games), size) * 0.25
-        combo_score = avg_score + diversity_bonus
-        risk = "Aggressive" if avg_score < 62 or size >= 4 else "Balanced"
+        min_score = min(number(row["hr_score"]) for row in group)
+        teams = [row["team"] for row in group]
+        unique_teams = set(teams)
+        games = {
+            "-".join(sorted([str(row["team"]), str(row["opponent"])])) + f"-{row['ballpark']}"
+            for row in group
+        }
+        max_game_exposure = max(
+            sum(
+                1
+                for row in group
+                if "-".join(sorted([str(row["team"]), str(row["opponent"])])) + f"-{row['ballpark']}" == game
+            )
+            for game in games
+        )
+        avg_environment = sum(number(row.get("environment_score")) for row in group) / size
+        projected_count = sum(not confirmed_lineup(row.get("confirmed_lineup")) for row in group)
+        badge_text = " / ".join(row.get("badge_summary", "WATCH") for row in group)
+        edge_types = {
+            edge
+            for row in group
+            for edge in row.get("badges", ["WATCH"])
+            if edge in {"BEST PICK", "STAR + FIRE", "WEATHER EDGE", "PITCHER TARGET", "SLEEPER PICK"}
+        }
+
+        # General pairings should be more independent than a simple top-N list.
+        # Same-team stacks can be useful, but they belong in a separate stack view.
+        if len(unique_teams) < size:
+            continue
+        if max_game_exposure > 2:
+            continue
+        if size == 2 and max_game_exposure == 2 and avg_environment < 75:
+            continue
+
+        diversification_bonus = len(games) * 0.75 + len(unique_teams) * 0.35
+        edge_bonus = min(len(edge_types), 3) * 0.45
+        weather_stack_bonus = 0.55 if max_game_exposure == 2 and avg_environment >= 75 else 0
+        floor_penalty = max(0, 60 - min_score) * 0.35
+        projected_penalty = projected_count * 0.45
+        combo_score = (
+            avg_score
+            + diversification_bonus
+            + edge_bonus
+            + weather_stack_bonus
+            - floor_penalty
+            - projected_penalty
+        )
+
+        risk = "Aggressive" if min_score < 58 or size >= 4 else "Balanced"
         if avg_score >= 70:
             risk = "Premium"
+        if projected_count:
+            risk = f"{risk} / Projected"
+
+        reasons = []
+        if len(games) == size:
+            reasons.append("different games")
+        elif avg_environment >= 75:
+            reasons.append("weather stack")
+        if edge_types:
+            reasons.append(", ".join(sorted(edge_types)))
+        if min_score >= 60:
+            reasons.append("score floor")
+
         pairs.append(
             {
                 "names": " + ".join(row["player"] for row in group),
                 "avg_score": round(avg_score, 1),
                 "combo_score": round(combo_score, 1),
                 "risk": risk,
-        "badges": " / ".join(row.get("badge_summary", "WATCH") for row in group),
+                "badges": badge_text,
+                "reason": " · ".join(reasons),
             }
         )
     return sorted(pairs, key=lambda item: item["combo_score"], reverse=True)[:limit]
@@ -768,7 +826,7 @@ def render_html(payload):
       pairings.innerHTML = rows.map((row, index) => `
         <div class="pairing">
           <strong>#${{index + 1}} · ${{row.names}}</strong>
-          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.badges}}</small>
+          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.reason || "balanced edge mix"}} · ${{row.badges}}</small>
         </div>
       `).join("");
     }}
@@ -778,7 +836,7 @@ def render_html(payload):
       projectedPairings.innerHTML = rows.map((row, index) => `
         <div class="pairing">
           <strong>#${{index + 1}} · ${{row.names}}</strong>
-          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.badges}}</small>
+          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.reason || "balanced edge mix"}} · ${{row.badges}}</small>
         </div>
       `).join("");
     }}
