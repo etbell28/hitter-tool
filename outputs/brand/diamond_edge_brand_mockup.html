@@ -1,0 +1,723 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Diamond Edge Analytics Brand Mockup</title>
+  <style>
+    :root {
+      --ink: #080c0f;
+      --charcoal: #10171c;
+      --panel: #141d23;
+      --panel-2: #0d1317;
+      --line: rgba(232, 240, 244, .14);
+      --text: #edf4f7;
+      --muted: #8fa0aa;
+      --silver: #cfd9df;
+      --green: #22c55e;
+      --blue: #38bdf8;
+      --gold: #f3c956;
+      --red: #f04438;
+      --shadow: 0 24px 70px rgba(0, 0, 0, .42);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 18% 8%, rgba(56, 189, 248, .15), transparent 32%),
+        radial-gradient(circle at 78% 0%, rgba(34, 197, 94, .12), transparent 30%),
+        linear-gradient(180deg, #0a0f13, #06090b 62%, #040607);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      letter-spacing: 0;
+    }
+
+    .page {
+      width: min(1420px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 64px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      min-height: 64px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .mark {
+      width: 46px;
+      aspect-ratio: 1;
+      flex: 0 0 auto;
+    }
+
+    .brand-name {
+      display: grid;
+      gap: 2px;
+    }
+
+    .brand-name strong {
+      font-size: 18px;
+      line-height: 1;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    .brand-name span {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .18em;
+      font-weight: 800;
+    }
+
+    .nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .nav span,
+    .chip {
+      min-height: 34px;
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 8px 12px;
+      color: var(--silver);
+      background: rgba(255, 255, 255, .03);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, .95fr) minmax(360px, 1.05fr);
+      gap: 28px;
+      align-items: center;
+      min-height: 620px;
+      padding: 48px 0 38px;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 720px;
+      font-size: clamp(44px, 6vw, 88px);
+      line-height: .94;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      color: var(--muted);
+      max-width: 590px;
+      margin: 22px 0 0;
+      font-size: 18px;
+      line-height: 1.55;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 28px;
+    }
+
+    .button {
+      min-height: 44px;
+      border: 1px solid rgba(34, 197, 94, .55);
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 11px 16px;
+      color: var(--ink);
+      background: var(--green);
+      font-weight: 900;
+      text-transform: uppercase;
+      font-size: 12px;
+    }
+
+    .button.secondary {
+      color: var(--text);
+      background: transparent;
+      border-color: var(--line);
+    }
+
+    .hero-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(13, 19, 23, .78);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .terminal-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 54px;
+      padding: 0 16px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, .03);
+    }
+
+    .terminal-head strong {
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: .14em;
+    }
+
+    .dashboard {
+      padding: 16px;
+      display: grid;
+      gap: 14px;
+    }
+
+    .metric-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .metric,
+    .module,
+    .product,
+    .post,
+    .phone-screen,
+    .app-icon-tile {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: linear-gradient(180deg, rgba(255,255,255,.055), rgba(255,255,255,.02));
+    }
+
+    .metric {
+      min-height: 82px;
+      padding: 12px;
+    }
+
+    .metric b {
+      display: block;
+      color: var(--green);
+      font-size: 26px;
+      line-height: 1;
+    }
+
+    .metric span,
+    .tiny {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      font-weight: 850;
+    }
+
+    .table {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 44px 1fr 78px 98px;
+      gap: 10px;
+      align-items: center;
+      min-height: 48px;
+      padding: 0 12px;
+      border-bottom: 1px solid rgba(255,255,255,.07);
+      font-size: 13px;
+    }
+
+    .row:last-child { border-bottom: 0; }
+    .row.head {
+      min-height: 36px;
+      color: var(--muted);
+      background: rgba(255, 255, 255, .04);
+      text-transform: uppercase;
+      font-size: 11px;
+      font-weight: 900;
+    }
+
+    .score {
+      color: var(--gold);
+      font-weight: 950;
+    }
+
+    .badge {
+      min-height: 26px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 8px;
+      border-radius: 6px;
+      border: 1px solid rgba(34, 197, 94, .5);
+      color: var(--green);
+      font-size: 10px;
+      font-weight: 900;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .section {
+      padding: 32px 0 0;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 14px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(26px, 3vw, 42px);
+      letter-spacing: 0;
+    }
+
+    .section-title p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 520px;
+      line-height: 1.45;
+      font-size: 14px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .product {
+      padding: 18px;
+      min-height: 180px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .product::after {
+      content: "";
+      position: absolute;
+      right: 16px;
+      bottom: 14px;
+      width: 88px;
+      height: 88px;
+      border: 1px solid rgba(255,255,255,.08);
+      transform: rotate(45deg);
+    }
+
+    .product.active { border-color: rgba(34, 197, 94, .55); }
+    .product h3 { margin: 16px 0 8px; font-size: 26px; }
+    .product p { margin: 0; color: var(--muted); line-height: 1.45; }
+
+    .visual-grid {
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 14px;
+    }
+
+    .x-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-2);
+      overflow: hidden;
+      min-height: 500px;
+    }
+
+    .x-banner {
+      min-height: 190px;
+      padding: 22px;
+      background:
+        linear-gradient(120deg, rgba(34, 197, 94, .16), transparent 34%),
+        linear-gradient(135deg, rgba(56, 189, 248, .16), transparent 54%),
+        #0b1115;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .avatar {
+      width: 92px;
+      aspect-ratio: 1;
+      margin: -46px 0 0 22px;
+      border: 4px solid var(--panel-2);
+      border-radius: 22px;
+      background: var(--ink);
+      display: grid;
+      place-items: center;
+      box-shadow: 0 16px 40px rgba(0,0,0,.4);
+    }
+
+    .x-body { padding: 12px 22px 22px; }
+    .x-body h3 { margin: 0; font-size: 24px; }
+    .x-body p { color: var(--muted); line-height: 1.45; margin: 8px 0 0; }
+
+    .post {
+      margin-top: 16px;
+      padding: 14px;
+    }
+
+    .phone-wrap {
+      display: grid;
+      grid-template-columns: 170px 1fr;
+      gap: 14px;
+    }
+
+    .phone {
+      border: 1px solid rgba(255,255,255,.22);
+      border-radius: 32px;
+      min-height: 366px;
+      padding: 12px;
+      background: #030506;
+      box-shadow: var(--shadow);
+    }
+
+    .phone-screen {
+      height: 100%;
+      border-radius: 24px;
+      padding: 18px 12px;
+      display: grid;
+      align-content: start;
+      gap: 14px;
+      background:
+        radial-gradient(circle at 50% 0%, rgba(34, 197, 94, .22), transparent 38%),
+        #0a1014;
+    }
+
+    .app-icon-tile {
+      min-height: 168px;
+      display: grid;
+      place-items: center;
+      background: #070b0e;
+    }
+
+    .phone-title {
+      font-size: 22px;
+      line-height: 1.05;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .phone-nav {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 7px;
+    }
+
+    .phone-nav span {
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      min-height: 38px;
+      display: grid;
+      place-items: center;
+      color: var(--muted);
+      font-size: 10px;
+      font-weight: 900;
+    }
+
+    .phone-nav .on { color: var(--green); border-color: rgba(34,197,94,.5); }
+
+    .mini-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      background: rgba(255,255,255,.035);
+    }
+
+    .mini-card b { display: block; color: var(--gold); }
+    .mini-card span { color: var(--muted); font-size: 11px; }
+
+    .modules {
+      display: grid;
+      grid-template-columns: .9fr 1.1fr;
+      gap: 14px;
+    }
+
+    .module {
+      padding: 16px;
+    }
+
+    .module h3 { margin: 0 0 12px; font-size: 18px; }
+
+    .source-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .source-list div {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      padding-bottom: 9px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .source-list strong { color: var(--text); }
+
+    .check {
+      color: var(--green);
+      font-weight: 950;
+    }
+
+    .disclaimer {
+      margin-top: 24px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+      border-top: 1px solid var(--line);
+      padding-top: 16px;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .visual-grid,
+      .modules,
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        min-height: auto;
+        padding-top: 36px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .page { width: min(100% - 20px, 1420px); padding-top: 16px; }
+      .topbar { align-items: flex-start; flex-direction: column; padding-bottom: 12px; }
+      .nav { justify-content: flex-start; }
+      .metric-grid,
+      .phone-wrap {
+        grid-template-columns: 1fr;
+      }
+      .row {
+        grid-template-columns: 32px 1fr 56px;
+      }
+      .row .hide-sm { display: none; }
+      .x-banner { min-height: 160px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand">
+        <svg class="mark" viewBox="0 0 100 100" aria-label="Diamond Edge mark">
+          <defs>
+            <linearGradient id="edge" x1="14" y1="88" x2="86" y2="12">
+              <stop stop-color="#22c55e"/>
+              <stop offset="1" stop-color="#38bdf8"/>
+            </linearGradient>
+          </defs>
+          <path d="M50 6 88 32 50 94 12 32Z" fill="#0b1115" stroke="#dbe5ea" stroke-width="4"/>
+          <path d="M12 32h76M31 32 50 94 69 32M31 32 50 6 69 32" fill="none" stroke="#5f707a" stroke-width="2"/>
+          <path d="M23 75 76 23" stroke="url(#edge)" stroke-width="8" stroke-linecap="round"/>
+        </svg>
+        <div class="brand-name">
+          <strong>Diamond Edge</strong>
+          <span>Analytics</span>
+        </div>
+      </div>
+      <nav class="nav" aria-label="Product areas">
+        <span>BarrelIQ</span>
+        <span>RedZoneIQ</span>
+        <span>CourtIQ</span>
+        <span>Member Hub</span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div>
+          <span class="chip">Sports Betting Intelligence</span>
+          <h1>Precision analytics for sharper slate decisions.</h1>
+          <p class="lead">Diamond Edge is the parent brand: clean, premium, and sport-agnostic. The products carry the sport language, starting with BarrelIQ for MLB and expanding into NFL and NBA.</p>
+          <div class="hero-actions">
+            <div class="button">View Today’s Board</div>
+            <div class="button secondary">Explore Products</div>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="terminal-head">
+            <strong>Diamond Edge Member Hub</strong>
+            <span class="tiny">June 8 Slate</span>
+          </div>
+          <div class="dashboard">
+            <div class="metric-grid">
+              <div class="metric"><b>81.1</b><span>Top HR Score</span></div>
+              <div class="metric"><b>7</b><span>Weather Edges</span></div>
+              <div class="metric"><b>0</b><span>Lineup Warnings</span></div>
+            </div>
+            <div class="table">
+              <div class="row head"><span>Rank</span><span>Player</span><span>Score</span><span class="hide-sm">Signal</span></div>
+              <div class="row"><span>1</span><span>Yordan Alvarez</span><span class="score">81.1</span><span class="badge hide-sm">Best Pick</span></div>
+              <div class="row"><span>2</span><span>James Wood</span><span class="score">70.0</span><span class="badge hide-sm">Power Edge</span></div>
+              <div class="row"><span>3</span><span>Jackson Chourio</span><span class="score">69.9</span><span class="badge hide-sm">Weather</span></div>
+              <div class="row"><span>4</span><span>Mike Trout</span><span class="score">63.5</span><span class="badge hide-sm">Lineup</span></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-title">
+          <h2>Product Suite</h2>
+          <p>The company name stays broad. The products are where each sport gets its own vocabulary, visuals, and dashboard modules.</p>
+        </div>
+        <div class="grid-3">
+          <article class="product active">
+            <span class="chip">MLB</span>
+            <h3>BarrelIQ</h3>
+            <p>HR targets, hitter power, pitcher vulnerability, ballpark/weather context, lineup status, and value signals.</p>
+          </article>
+          <article class="product">
+            <span class="chip">NFL</span>
+            <h3>RedZoneIQ</h3>
+            <p>Touchdown and player prop intelligence built around usage, matchup leverage, game script, and injuries.</p>
+          </article>
+          <article class="product">
+            <span class="chip">NBA</span>
+            <h3>CourtIQ</h3>
+            <p>Player props, minutes, usage, pace, matchup context, injury news, and late slate movement.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-title">
+          <h2>X Presence</h2>
+          <p>On X, the brand should feel sharp and useful: daily board posts, source-aware notes, and clean visuals that build trust.</p>
+        </div>
+        <div class="visual-grid">
+          <div class="x-card">
+            <div class="x-banner">
+              <div>
+                <div class="brand">
+                  <svg class="mark" viewBox="0 0 100 100">
+                    <path d="M50 6 88 32 50 94 12 32Z" fill="#0b1115" stroke="#dbe5ea" stroke-width="4"/>
+                    <path d="M12 32h76M31 32 50 94 69 32M31 32 50 6 69 32" fill="none" stroke="#5f707a" stroke-width="2"/>
+                    <path d="M23 75 76 23" stroke="#22c55e" stroke-width="8" stroke-linecap="round"/>
+                  </svg>
+                  <div class="brand-name">
+                    <strong>Diamond Edge</strong>
+                    <span>Find the edge before the market moves</span>
+                  </div>
+                </div>
+              </div>
+              <span class="chip">BarrelIQ Live</span>
+            </div>
+            <div class="avatar">
+              <svg class="mark" viewBox="0 0 100 100">
+                <path d="M50 6 88 32 50 94 12 32Z" fill="#0b1115" stroke="#dbe5ea" stroke-width="4"/>
+                <path d="M12 32h76M31 32 50 94 69 32M31 32 50 6 69 32" fill="none" stroke="#5f707a" stroke-width="2"/>
+                <path d="M23 75 76 23" stroke="#22c55e" stroke-width="8" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <div class="x-body">
+              <h3>Diamond Edge Analytics</h3>
+              <p>Sports betting analytics built for sharper slate decisions. MLB first with BarrelIQ. NFL and NBA products coming next.</p>
+              <div class="post">
+                <span class="tiny">Pinned Post</span>
+                <p><strong>We’re building Diamond Edge: premium sports betting intelligence for people who want process, not noise.</strong></p>
+                <p>First product: BarrelIQ for MLB HR props. Power, pitcher vulnerability, weather, lineups, platoon edge, and source warnings in one board.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="phone-wrap">
+            <div>
+              <div class="app-icon-tile">
+                <svg width="112" height="112" viewBox="0 0 100 100" aria-label="App icon">
+                  <path d="M50 6 88 32 50 94 12 32Z" fill="#0b1115" stroke="#dbe5ea" stroke-width="4"/>
+                  <path d="M12 32h76M31 32 50 94 69 32M31 32 50 6 69 32" fill="none" stroke="#5f707a" stroke-width="2"/>
+                  <path d="M23 75 76 23" stroke="#22c55e" stroke-width="8" stroke-linecap="round"/>
+                </svg>
+              </div>
+              <p class="disclaimer">App label options: Diamond Edge, D Edge, or D-Edge.</p>
+            </div>
+            <div class="phone">
+              <div class="phone-screen">
+                <svg class="mark" viewBox="0 0 100 100">
+                  <path d="M50 6 88 32 50 94 12 32Z" fill="#0b1115" stroke="#dbe5ea" stroke-width="4"/>
+                  <path d="M12 32h76M31 32 50 94 69 32M31 32 50 6 69 32" fill="none" stroke="#5f707a" stroke-width="2"/>
+                  <path d="M23 75 76 23" stroke="#22c55e" stroke-width="8" stroke-linecap="round"/>
+                </svg>
+                <div class="phone-title">Today’s Edge</div>
+                <div class="phone-nav">
+                  <span class="on">MLB</span>
+                  <span>NFL</span>
+                  <span>NBA</span>
+                </div>
+                <div class="mini-card"><b>BarrelIQ</b><span>Top HR target: 81.1 score</span></div>
+                <div class="mini-card"><b>Weather Edge</b><span>7 park signals active</span></div>
+                <div class="mini-card"><b>Source Check</b><span>Lineups confirmed</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-title">
+          <h2>Member Dashboard</h2>
+          <p>The paid experience should feel like a serious board: compact, source-aware, and built for daily repeat use.</p>
+        </div>
+        <div class="hero-card">
+          <div class="terminal-head">
+            <strong>BarrelIQ Dashboard</strong>
+            <div class="nav">
+              <span>Top HR</span>
+              <span>Weather</span>
+              <span>Pitchers</span>
+              <span>Pairings</span>
+            </div>
+          </div>
+          <div class="dashboard">
+            <div class="modules">
+              <div class="module">
+                <h3>Source Status</h3>
+                <div class="source-list">
+                  <div><strong>MLB Lineups</strong><span class="check">Confirmed</span></div>
+                  <div><strong>Baseball Savant</strong><span class="check">Loaded</span></div>
+                  <div><strong>Weather</strong><span class="check">Active</span></div>
+                  <div><strong>Odds Layer</strong><span>Next</span></div>
+                </div>
+              </div>
+              <div class="module">
+                <h3>Top Signals</h3>
+                <div class="table">
+                  <div class="row head"><span>Rank</span><span>Player</span><span>Score</span><span class="hide-sm">Signal</span></div>
+                  <div class="row"><span>1</span><span>Yordan Alvarez vs Rodriguez</span><span class="score">81.1</span><span class="badge hide-sm">Best Pick</span></div>
+                  <div class="row"><span>2</span><span>James Wood vs Webb</span><span class="score">70.0</span><span class="badge hide-sm">Platoon</span></div>
+                  <div class="row"><span>3</span><span>Jackson Chourio vs Springs</span><span class="score">69.9</span><span class="badge hide-sm">Weather</span></div>
+                </div>
+              </div>
+            </div>
+            <p class="disclaimer">For branding only. Diamond Edge should present betting intelligence and educational analysis, not guaranteed outcomes. Real paid member pages should include responsible gaming language and terms.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
