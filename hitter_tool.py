@@ -355,6 +355,8 @@ def write_csv(rows):
         "player",
         "team",
         "opponent",
+        "game_start_time",
+        "game_status",
         "batting_order",
         "pitcher",
         "pitcher_hand",
