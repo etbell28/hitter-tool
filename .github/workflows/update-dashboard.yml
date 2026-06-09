@@ -1,0 +1,56 @@
+name: Update Hitter Tool Dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      slate:
+        description: "Slate to run"
+        required: true
+        default: "late"
+        type: choice
+        options:
+          - late
+          - full
+  schedule:
+    - cron: "0 20 * * *"
+    - cron: "30 21 * * *"
+    - cron: "0 23 * * *"
+    - cron: "30 0 * * *"
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Hitter Tool
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.slate }}" = "full" ]; then
+            python run_full_slate.py
+          else
+            python run_late_slate.py
+          fi
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dashboard_site/index.html outputs/daily outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_late.csv outputs/auto_slate_full.csv
+          git commit -m "Update Hitter Tool dashboard" || echo "No dashboard changes to commit"
+          git push
