@@ -423,9 +423,6 @@ def render_html(payload):
       border-bottom: 1px solid rgba(255,255,255,.08);
       background: rgba(9, 13, 22, .86);
       box-shadow: var(--shadow);
-      position: sticky;
-      top: 0;
-      z-index: 5;
     }}
 
     .brand {{
@@ -754,7 +751,16 @@ def render_html(payload):
     }}
 
     @media (max-width: 850px) {{
+      header {{ padding: 16px 14px 14px; }}
       .brand {{ grid-template-columns: 1fr; }}
+      .mark {{ width: 48px; }}
+      h1 {{ font-size: 34px; }}
+      .sub {{ font-size: 10px; line-height: 1.45; }}
+      .nav {{ gap: 6px; margin-top: 12px; }}
+      .nav a {{ font-size: 10px; padding: 7px 9px; }}
+      .stats-row {{ margin-top: 14px; gap: 8px; }}
+      .stat {{ min-width: 120px; padding: 10px 12px; }}
+      .legend {{ padding: 12px 14px; }}
       .top-layout {{ grid-template-columns: 1fr; }}
       th:nth-child(5), td:nth-child(5), th:nth-child(6), td:nth-child(6) {{ display: none; }}
       .game-title {{ width: 100%; }}
