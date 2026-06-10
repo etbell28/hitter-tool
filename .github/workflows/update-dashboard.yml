@@ -1,28 +1,35 @@
-name: Update Hitter Tool Dashboard
+name: Automate Hitter Tool
 
 on:
   workflow_dispatch:
     inputs:
-      slate:
-        description: "Slate to run"
+      task:
+        description: "What should run?"
         required: true
-        default: "late"
+        default: "remaining"
         type: choice
         options:
-          - late
           - full
+          - remaining
+          - audit
   schedule:
-    - cron: "0 20 * * *"
-    - cron: "30 21 * * *"
-    - cron: "0 23 * * *"
-    - cron: "30 0 * * *"
-    - cron: "0 2 * * *"
+    # GitHub cron uses UTC. These times are aimed at Eastern Time MLB workflow windows.
+    # Overnight audit after the prior slate is complete.
+    - cron: "30 10 * * *"
+    # Morning / early afternoon full-slate builds.
+    - cron: "0 13 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 19 * * *"
+    # Lineup window and late-slate refreshes, every 30 minutes.
+    - cron: "0,30 20-23 * * *"
+    - cron: "0,30 0-2 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-dashboard:
+  automate-hitter-tool:
     runs-on: ubuntu-latest
     env:
       TZ: America/New_York
@@ -39,18 +46,41 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Hitter Tool
+      - name: Choose task
+        id: choose
+        shell: bash
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.slate }}" = "full" ]; then
-            python run_full_slate.py
-          else
-            python run_late_slate.py
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "task=${{ inputs.task }}" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
-      - name: Commit updated dashboard
+          utc_time="$(date -u +%H%M)"
+          if [ "$utc_time" = "1030" ]; then
+            echo "task=audit" >> "$GITHUB_OUTPUT"
+          elif [ "$utc_time" = "1300" ] || [ "$utc_time" = "1500" ] || [ "$utc_time" = "1700" ] || [ "$utc_time" = "1900" ]; then
+            echo "task=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "task=remaining" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run full slate
+        if: steps.choose.outputs.task == 'full'
+        run: python run_full_slate.py
+
+      - name: Run remaining-games slate
+        if: steps.choose.outputs.task == 'remaining'
+        run: python run_remaining_slate.py
+
+      - name: Run nightly audit
+        if: steps.choose.outputs.task == 'audit'
+        run: python scripts/audit_hr_results.py
+
+      - name: Commit updated outputs
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dashboard_site/index.html outputs/daily outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_late.csv outputs/auto_slate_full.csv
-          git commit -m "Update Hitter Tool dashboard" || echo "No dashboard changes to commit"
+          git add dashboard_site/index.html outputs/daily outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_full.csv outputs/auto_slate_late.csv outputs/auto_slate_remaining.csv || true
+          git commit -m "Automated Hitter Tool update" || echo "No changes to commit"
           git push
