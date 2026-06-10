@@ -17,6 +17,7 @@ on:
     # Overnight audit after the prior slate is complete.
     - cron: "30 10 * * *"
     # Morning / early afternoon full-slate builds.
+    - cron: "30 12 * * *"
     - cron: "0 13 * * *"
     - cron: "0 15 * * *"
     - cron: "0 17 * * *"
@@ -55,10 +56,10 @@ jobs:
             exit 0
           fi
 
-          utc_time="$(date -u +%H%M)"
-          if [ "$utc_time" = "1030" ]; then
+          schedule="${{ github.event.schedule }}"
+          if [ "$schedule" = "30 10 * * *" ]; then
             echo "task=audit" >> "$GITHUB_OUTPUT"
-          elif [ "$utc_time" = "1300" ] || [ "$utc_time" = "1500" ] || [ "$utc_time" = "1700" ] || [ "$utc_time" = "1900" ]; then
+          elif [ "$schedule" = "30 12 * * *" ] || [ "$schedule" = "0 13 * * *" ] || [ "$schedule" = "0 15 * * *" ] || [ "$schedule" = "0 17 * * *" ] || [ "$schedule" = "0 19 * * *" ]; then
             echo "task=full" >> "$GITHUB_OUTPUT"
           else
             echo "task=remaining" >> "$GITHUB_OUTPUT"
