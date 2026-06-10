@@ -14,9 +14,8 @@ OUTPUT_PATH = ROOT / "outputs" / "auto_slate_late.csv"
 DAILY_DIR = ROOT / "outputs" / "daily"
 ROTOWIRE_LINEUPS_URL = "https://www.rotowire.com/baseball/daily-lineups.php"
 HISTORY_WEIGHTS = {
-    0: 0.60,
+    0: 0.70,
     -1: 0.30,
-    -2: 0.10,
 }
 
 
@@ -76,6 +75,7 @@ PARK_HR_FACTORS = {
 
 
 FIELDS = [
+    "hitter_id",
     "player",
     "team",
     "opponent",
@@ -83,6 +83,7 @@ FIELDS = [
     "game_status",
     "batting_order",
     "pitcher",
+    "pitcher_id",
     "pitcher_hand",
     "hitter_hand",
     "barrel_pct",
@@ -123,6 +124,13 @@ FIELDS = [
     "bvp_pa",
     "bvp_hr",
     "bvp_note",
+    "recent_games",
+    "recent_hits",
+    "recent_abs",
+    "recent_hr",
+    "recent_form_note",
+    "split_matchup_note",
+    "pitch_mix_note",
     "public_attention",
     "odds",
 ]
@@ -131,6 +139,13 @@ FIELDS = [
 def fetch_json(url):
     with urllib.request.urlopen(url, timeout=30) as response:
         return json.load(response)
+
+
+def safe_fetch_json(url):
+    try:
+        return fetch_json(url)
+    except Exception:
+        return {}
 
 
 def fetch_csv(url):
@@ -183,6 +198,46 @@ def handedness(player_ids):
             "pitch": person.get("pitchHand", {}).get("code", ""),
         }
     return result
+
+
+def recent_hitting_form(player_id, season):
+    if not player_id:
+        return {
+            "recent_games": "",
+            "recent_hits": "",
+            "recent_abs": "",
+            "recent_hr": "",
+            "recent_form_note": "Recent form unavailable",
+        }
+    data = safe_fetch_json(
+        "https://statsapi.mlb.com/api/v1/people/"
+        f"{player_id}/stats?stats=gameLog&group=hitting&season={season}"
+    )
+    stats = data.get("stats", [])
+    splits = stats[0].get("splits", []) if stats else []
+    games = sorted(
+        splits,
+        key=lambda row: row.get("date", ""),
+        reverse=True,
+    )[:7]
+    hits = sum(int(row.get("stat", {}).get("hits", 0) or 0) for row in games)
+    at_bats = sum(int(row.get("stat", {}).get("atBats", 0) or 0) for row in games)
+    homers = sum(int(row.get("stat", {}).get("homeRuns", 0) or 0) for row in games)
+    if not games:
+        note = "Recent form unavailable"
+    elif homers >= 2:
+        note = f"Hot streak: {homers} HR in last {len(games)} games"
+    elif at_bats and hits / at_bats >= 0.320:
+        note = f"Contact streak: {hits}/{at_bats} over last {len(games)} games"
+    else:
+        note = f"Last {len(games)} games: {hits}/{at_bats}, {homers} HR"
+    return {
+        "recent_games": len(games),
+        "recent_hits": hits,
+        "recent_abs": at_bats,
+        "recent_hr": homers,
+        "recent_form_note": note,
+    }
 
 
 def savant_maps(year):
@@ -352,6 +407,42 @@ def default(value, fallback=""):
     return value if value not in (None, "") else fallback
 
 
+def split_matchup_note(hitter_hand, pitcher_hand, pitcher_row):
+    hitter = (hitter_hand or "").upper()
+    pitcher = (pitcher_hand or "").upper()
+    barrel = numeric(pitcher_row.get("barrel_batted_rate")) or 0
+    hr_allowed = numeric(pitcher_row.get("home_run")) or 0
+    if hitter == "S":
+        side = "switch hitter"
+    elif hitter and pitcher and hitter != pitcher:
+        side = "platoon edge"
+    elif hitter and pitcher:
+        side = "same-side matchup"
+    else:
+        side = "handedness incomplete"
+    return f"{side}; pitcher baseline {barrel:.1f}% barrel, {hr_allowed:.1f} HR allowed"
+
+
+def pitch_mix_note(hitter_row, pitcher_row):
+    hitter_ev = numeric(hitter_row.get("exit_velocity_avg")) or 0
+    hitter_pull = numeric(hitter_row.get("pull_percent")) or 0
+    hitter_fb = numeric(hitter_row.get("flyballs_percent")) or 0
+    pitcher_fb = numeric(pitcher_row.get("flyballs_percent")) or 0
+    if hitter_ev >= 92 and hitter_pull >= 38 and hitter_fb >= 30:
+        hitter_note = "lift-pull EV profile"
+    elif hitter_ev >= 92:
+        hitter_note = "EV profile"
+    elif hitter_fb >= 35:
+        hitter_note = "fly-ball profile"
+    else:
+        hitter_note = "neutral batted-ball profile"
+    if pitcher_fb >= 30:
+        pitcher_note = "pitcher allows elevated contact"
+    else:
+        pitcher_note = "pitcher fly-ball pressure modest"
+    return f"{hitter_note}; {pitcher_note}"
+
+
 def build_rows(run_date, mode):
     year = run_date[:4]
     batter_stats, pitcher_stats, batter_years_used, pitcher_years_used = historical_savant_maps(year)
@@ -389,6 +480,11 @@ def build_rows(run_date, mode):
                     player_ids.add(int(player_id))
 
     hands = handedness(player_ids)
+    recent_form = {
+        player_id: recent_hitting_form(player_id, year)
+        for player_id in player_ids
+        if str(player_id).isdigit()
+    }
     rows = []
     for game, box, context in game_boxes:
         for side in ("away", "home"):
@@ -455,17 +551,28 @@ def build_rows(run_date, mode):
                     source_warnings.append(rotowire_warning)
                 if disagreements:
                     source_warnings.extend(disagreements)
+                hitter_hand = hands.get(int(hitter_id), {}).get("bat", "") if str(hitter_id).isdigit() else ""
+                pitcher_hand = hands.get(pitcher.get("id"), {}).get("pitch", "")
+                form = recent_form.get(int(hitter_id), {}) if str(hitter_id).isdigit() else {
+                    "recent_games": "",
+                    "recent_hits": "",
+                    "recent_abs": "",
+                    "recent_hr": "",
+                    "recent_form_note": "Recent form unavailable",
+                }
 
                 rows.append(
                     {
+                        "hitter_id": hitter_id,
                         "player": player_name,
                         "team": team,
                         "opponent": opponent,
                         "game_start_time": game.get("gameDate", ""),
                         "game_status": game.get("status", {}).get("detailedState", ""),
                         "pitcher": pitcher.get("fullName", ""),
-                        "hitter_hand": hands.get(int(hitter_id), {}).get("bat", "") if str(hitter_id).isdigit() else "",
-                        "pitcher_hand": hands.get(pitcher.get("id"), {}).get("pitch", ""),
+                        "pitcher_id": pitcher_id,
+                        "hitter_hand": hitter_hand,
+                        "pitcher_hand": pitcher_hand,
                         "barrel_pct": hitter_row.get("barrel_batted_rate", ""),
                         "iso": hitter_row.get("isolated_power", hitter_row.get("xiso", "")),
                         "avg_exit_velocity": hitter_row.get("exit_velocity_avg", ""),
@@ -499,7 +606,10 @@ def build_rows(run_date, mode):
                         "stat_years_used": f"H:{hitter_history_years} P:{pitcher_history_years}",
                         "bvp_pa": "",
                         "bvp_hr": "",
-                        "bvp_note": "BvP history not yet weighted; multi-year Statcast baseline active",
+                        "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+                        **form,
+                        "split_matchup_note": split_matchup_note(hitter_hand, pitcher_hand, pitcher_row),
+                        "pitch_mix_note": pitch_mix_note(hitter_row, pitcher_row),
                         "public_attention": "",
                         "odds": "",
                         **context,

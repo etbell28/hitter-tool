@@ -18,11 +18,12 @@ DAILY_DIR = ROOT / "outputs" / "daily"
 
 
 WEIGHTS = {
-    "power": 0.35,
-    "pitcher": 0.25,
+    "power": 0.33,
+    "pitcher": 0.24,
     "environment": 0.15,
-    "lineup": 0.15,
-    "platoon": 0.10,
+    "lineup": 0.14,
+    "platoon": 0.09,
+    "form": 0.05,
 }
 
 
@@ -157,6 +158,18 @@ def platoon_score(row):
     return 60.0
 
 
+def recent_form_score(row):
+    games = number(row, "recent_games", 0)
+    hits = number(row, "recent_hits", 0)
+    at_bats = number(row, "recent_abs", 0)
+    homers = number(row, "recent_hr", 0)
+    if games <= 0:
+        return 50.0
+    average_score = normalize(hits / at_bats if at_bats else 0, 0.120, 0.420)
+    hr_score = normalize(homers, 0, 3)
+    return average_score * 0.45 + hr_score * 0.55
+
+
 def tier(score):
     if score >= 80:
         return "Tier 1"
@@ -196,6 +209,8 @@ def reason_tags(row, scores):
         tags.append("Premium Lineup Spot")
     if scores["platoon"] >= 75:
         tags.append("Platoon Edge")
+    if scores.get("form", 0) >= 70:
+        tags.append("Hot Hitter/Streak")
     return ", ".join(tags) if tags else "No major boost"
 
 
@@ -206,6 +221,7 @@ def score_row(row):
         "environment": environment_score(row),
         "lineup": opportunity_score(row),
         "platoon": platoon_score(row),
+        "form": recent_form_score(row),
     }
     total = sum(scores[name] * WEIGHTS[name] for name in WEIGHTS)
     row["power_score"] = round(scores["power"], 1)
@@ -213,6 +229,7 @@ def score_row(row):
     row["environment_score"] = round(scores["environment"], 1)
     row["lineup_score"] = round(scores["lineup"], 1)
     row["platoon_score"] = round(scores["platoon"], 1)
+    row["recent_form_score"] = round(scores["form"], 1)
     row["hr_score"] = round(total, 1)
     row["tier"] = tier(total)
     row["play_type"] = play_type(row, total)
@@ -352,6 +369,7 @@ def write_csv(rows):
     OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
     fields = [
         "rank",
+        "hitter_id",
         "player",
         "team",
         "opponent",
@@ -359,6 +377,7 @@ def write_csv(rows):
         "game_status",
         "batting_order",
         "pitcher",
+        "pitcher_id",
         "pitcher_hand",
         "hr_score",
         "tier",
@@ -369,6 +388,7 @@ def write_csv(rows):
         "environment_score",
         "lineup_score",
         "platoon_score",
+        "recent_form_score",
         "confirmed_lineup",
         "rotowire_confirmed_lineup",
         "rotowire_batting_order",
@@ -380,6 +400,13 @@ def write_csv(rows):
         "bvp_pa",
         "bvp_hr",
         "bvp_note",
+        "recent_games",
+        "recent_hits",
+        "recent_abs",
+        "recent_hr",
+        "recent_form_note",
+        "split_matchup_note",
+        "pitch_mix_note",
         "barrel_pct",
         "hard_hit_pct",
         "avg_exit_velocity",

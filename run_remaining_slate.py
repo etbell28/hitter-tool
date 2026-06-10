@@ -1,5 +1,7 @@
 import subprocess
 import sys
+import shutil
+from datetime import date
 from pathlib import Path
 
 
@@ -12,11 +14,26 @@ def run(command):
     subprocess.run(command, cwd=ROOT, check=True)
 
 
+def snapshot_outputs(label):
+    daily = ROOT / "outputs" / "daily"
+    today = date.today().isoformat()
+    daily.mkdir(parents=True, exist_ok=True)
+    copies = [
+        (ROOT / "outputs" / "hr_rankings.csv", daily / f"hr_rankings_{today}_{label}.csv"),
+        (ROOT / "outputs" / "hr_rankings.xlsx", daily / f"hr_rankings_{today}_{label}.xlsx"),
+        (ROOT / "outputs" / "hr_rankings.md", daily / f"hr_rankings_{today}_{label}.md"),
+    ]
+    for source, target in copies:
+        if source.exists():
+            shutil.copy2(source, target)
+
+
 def main():
     run([PYTHON, "build_automated_slate.py", "--mode", "upcoming", "--output", str(REMAINING_SLATE)])
     run([PYTHON, "hitter_tool.py", str(REMAINING_SLATE)])
     run([PYTHON, "build_dashboard.py"])
     run([PYTHON, "publish_dashboard.py"])
+    snapshot_outputs("remaining")
     print("Remaining-game slate and HR rankings are ready.")
     print("Only games that have not started are included.")
     print(f"Slate: {REMAINING_SLATE}")

@@ -12,6 +12,7 @@ RANKINGS_CSV = OUTPUTS / "hr_rankings.csv"
 LATE_SLATE_CSV = OUTPUTS / "auto_slate_late.csv"
 FULL_SLATE_CSV = OUTPUTS / "auto_slate_full.csv"
 DASHBOARD_HTML = OUTPUTS / "hitter_tool_dashboard.html"
+SOURCE_SHEET_EDGES_CSV = OUTPUTS / "source_sheet_edges.csv"
 
 
 def clean(value, default=""):
@@ -45,12 +46,35 @@ def number(value, default=0.0):
     return float(value)
 
 
+def normalize_name(value):
+    return str(value or "").replace("í", "i").replace("ó", "o").replace("é", "e").replace("á", "a").replace("ú", "u").replace("ñ", "n").lower().strip()
+
+
+def load_source_sheet_edges():
+    if not SOURCE_SHEET_EDGES_CSV.exists():
+        return [], set()
+    frame = pd.read_csv(SOURCE_SHEET_EDGES_CSV)
+    edges = records(frame)
+    players = set()
+    for row in edges:
+        for name in str(row.get("edge_players") or "").split(";"):
+            cleaned = normalize_name(name)
+            if cleaned:
+                players.add(cleaned)
+    return edges, players
+
+
 def badges_for(row):
     score = number(row.get("hr_score"))
     power = number(row.get("power_score"))
     pitcher = number(row.get("pitcher_score"))
     order = number(row.get("batting_order"), 9)
     env = number(row.get("environment_score"))
+    avg_ev = number(row.get("avg_exit_velocity"))
+    ev50 = number(row.get("ev50"))
+    hard_hit = number(row.get("hard_hit_pct"))
+    hr_total = number(row.get("hr_total"))
+    form = number(row.get("recent_form_score"))
     badges = []
 
     if score >= 76:
@@ -59,12 +83,18 @@ def badges_for(row):
         badges.append("STAR + FIRE")
     if power >= 75 and pitcher < 45:
         badges.append("FIRE / TOUGH SP")
+    if form >= 70 or (power >= 64 and (hr_total >= 18 or score >= 64)):
+        badges.append("HOT BAT")
+    if avg_ev >= 92 or ev50 >= 103 or hard_hit >= 50:
+        badges.append("EV EDGE")
     if score >= 58 and order >= 5:
         badges.append("SLEEPER PICK")
     if env >= 70:
         badges.append("WEATHER EDGE")
     if pitcher >= 65:
         badges.append("PITCHER TARGET")
+    if row.get("source_sheet_edge"):
+        badges.append("SOURCE SHEET")
     return badges or ["WATCH"]
 
 
@@ -77,9 +107,12 @@ def badge_class(label):
         "BEST PICK": "gold",
         "STAR + FIRE": "fire",
         "FIRE / TOUGH SP": "red",
+        "HOT BAT": "orange",
+        "EV EDGE": "blue",
         "SLEEPER PICK": "teal",
         "WEATHER EDGE": "green",
         "PITCHER TARGET": "red",
+        "SOURCE SHEET": "gold",
         "WATCH": "muted",
     }.get(label, "muted")
 
@@ -120,7 +153,7 @@ def pairing_payload(rankings, size, limit=8):
             edge
             for row in group
             for edge in row.get("badges", ["WATCH"])
-            if edge in {"BEST PICK", "STAR + FIRE", "WEATHER EDGE", "PITCHER TARGET", "SLEEPER PICK"}
+            if edge in {"BEST PICK", "STAR + FIRE", "WEATHER EDGE", "PITCHER TARGET", "SLEEPER PICK", "EV EDGE", "HOT BAT"}
         }
 
         # General pairings should be more independent than a simple top-N list.
@@ -172,7 +205,25 @@ def pairing_payload(rankings, size, limit=8):
                 "reason": " · ".join(reasons),
             }
         )
-    return sorted(pairs, key=lambda item: item["combo_score"], reverse=True)[:limit]
+    selected = []
+    player_counts = {}
+    max_repeats = 2 if size >= 3 else 3
+    for pair in sorted(pairs, key=lambda item: item["combo_score"], reverse=True):
+        names = pair["names"].split(" + ")
+        if any(player_counts.get(name, 0) >= max_repeats for name in names):
+            continue
+        selected.append(pair)
+        for name in names:
+            player_counts[name] = player_counts.get(name, 0) + 1
+        if len(selected) == limit:
+            return selected
+
+    for pair in sorted(pairs, key=lambda item: item["combo_score"], reverse=True):
+        if pair not in selected:
+            selected.append(pair)
+        if len(selected) == limit:
+            break
+    return selected
 
 
 def apply_badges(rankings):
@@ -196,7 +247,10 @@ def build_payload():
     if not active_slate.exists():
         raise SystemExit(f"Missing slate file: {active_slate}")
 
-    rankings = apply_badges(pd.read_csv(RANKINGS_CSV))
+    source_edges, source_edge_players = load_source_sheet_edges()
+    rankings = pd.read_csv(RANKINGS_CSV)
+    rankings["source_sheet_edge"] = rankings["player"].apply(lambda name: normalize_name(name) in source_edge_players)
+    rankings = apply_badges(rankings)
     slate = pd.read_csv(active_slate)
     confirmed_rankings = rankings[rankings["confirmed_lineup"].apply(confirmed_lineup)].copy()
 
@@ -247,16 +301,45 @@ def build_payload():
             players.append(player)
 
         players = sorted(players, key=lambda item: item["score"], reverse=True)[:5]
+        env_score = round(
+            sum(number(ranking_lookup.get((row["player"], row["team"]), {}).get("environment_score")) for _, row in game_rows.iterrows())
+            / max(len(game_rows), 1),
+            1,
+        )
+        top_score = max((player["score"] for player in players), default=0)
+        game_tags = []
+        if env_score >= 75:
+            game_tags.append("elite weather")
+        elif env_score >= 68:
+            game_tags.append("weather watch")
+        if top_score >= 63:
+            game_tags.append("top-25 target")
+        if sum(1 for player in players if player["score"] >= 58) >= 3:
+            game_tags.append("deep stack")
+        if disagreement_count:
+            game_tags.append("lineup caution")
         games.append(
             {
                 "teams": " vs ".join(teams[:2]),
                 "ballpark": ballpark,
                 "temp": temp,
                 "wind": wind,
+                "environment_score": env_score,
+                "top_score": top_score,
+                "game_tags": " · ".join(game_tags) if game_tags else "monitor",
                 "disagreement_count": disagreement_count,
                 "players": players,
             }
         )
+
+    game_watch = sorted(
+        games,
+        key=lambda game: (
+            number(game.get("environment_score")),
+            number(game.get("top_score")),
+        ),
+        reverse=True,
+    )[:8]
 
     return {
         "date": datetime.now().strftime("%A, %B %-d, %Y"),
@@ -268,6 +351,8 @@ def build_payload():
         "top20": records(top20),
         "projected_top20": records(projected_top20),
         "weather": records(weather),
+        "game_watch": game_watch,
+        "source_edges": source_edges,
         "pairings": {
             "2": pairing_payload(confirmed_rankings, 2),
             "3": pairing_payload(confirmed_rankings, 3),
@@ -283,6 +368,7 @@ def build_payload():
         "rotowire_found": int((slate.get("rotowire_player_found", "") == "Yes").sum()),
         "slate_size": len(slate),
         "sources": "Baseball Savant; MLB Stats API; RotoWire",
+        "model_profile": "Weighted Statcast baseline: 2026 70% / 2025 30%. Streak context is noted but does not override daily matchup math.",
     }
 
 
@@ -296,20 +382,22 @@ def render_html(payload):
   <title>The Hitter Tool Dashboard</title>
   <style>
     :root {{
-      --bg: #130908;
-      --panel: #1b1512;
-      --panel-2: #071a10;
-      --line: #ff4b1f;
-      --line-soft: rgba(255, 75, 31, .38);
-      --gold: #ffd85a;
-      --amber: #ff9c2f;
-      --teal: #25f4d0;
-      --green: #54ff8f;
-      --blue: #76c7ff;
-      --red: #ff573d;
-      --text: #f7efe2;
-      --muted: #a99b8e;
-      --shadow: 0 0 18px rgba(255, 75, 31, .28);
+      --bg: #07090f;
+      --panel: #0d121c;
+      --panel-2: #101826;
+      --panel-3: #0a1019;
+      --line: #2dd4bf;
+      --line-soft: rgba(45, 212, 191, .24);
+      --gold: #f6c453;
+      --amber: #f59e0b;
+      --orange: #fb923c;
+      --teal: #2dd4bf;
+      --green: #8bd450;
+      --blue: #60a5fa;
+      --red: #f87171;
+      --text: #eef4ff;
+      --muted: #8a98ad;
+      --shadow: 0 14px 44px rgba(0, 0, 0, .34);
     }}
 
     * {{ box-sizing: border-box; }}
@@ -323,15 +411,21 @@ def render_html(payload):
 
     .shell {{
       min-height: 100vh;
-      border: 4px solid var(--line);
+      border: 1px solid rgba(255,255,255,.08);
       background:
-        linear-gradient(180deg, rgba(48, 0, 0, .82), rgba(7, 18, 12, .96) 45%, rgba(12, 12, 12, .98));
+        radial-gradient(circle at 12% -10%, rgba(45, 212, 191, .14), transparent 34%),
+        radial-gradient(circle at 82% 0%, rgba(246, 196, 83, .11), transparent 28%),
+        linear-gradient(180deg, #080b13, #0a0f18 38%, #07090f);
     }}
 
     header {{
-      padding: 28px clamp(18px, 4vw, 52px) 22px;
-      border-bottom: 4px solid var(--amber);
+      padding: 22px clamp(16px, 3vw, 42px) 18px;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      background: rgba(9, 13, 22, .86);
       box-shadow: var(--shadow);
+      position: sticky;
+      top: 0;
+      z-index: 5;
     }}
 
     .brand {{
@@ -342,27 +436,26 @@ def render_html(payload):
     }}
 
     .mark {{
-      width: 74px;
+      width: 58px;
       aspect-ratio: 1;
       display: grid;
       place-items: center;
-      border: 3px solid var(--line);
-      border-radius: 50%;
-      background: #240a06;
+      border: 1px solid var(--line-soft);
+      border-radius: 12px;
+      background: linear-gradient(135deg, rgba(45,212,191,.18), rgba(246,196,83,.12));
       color: var(--gold);
       font-weight: 900;
-      font-size: 26px;
-      box-shadow: 0 0 22px rgba(255, 75, 31, .62);
+      font-size: 20px;
+      box-shadow: 0 0 28px rgba(45, 212, 191, .14);
     }}
 
     h1 {{
       margin: 0;
-      color: var(--line);
-      font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
-      font-size: clamp(42px, 8vw, 92px);
-      line-height: .86;
+      color: var(--text);
+      font-size: clamp(34px, 5vw, 68px);
+      line-height: .92;
       text-transform: uppercase;
-      text-shadow: 0 0 12px rgba(255, 75, 31, .5);
+      text-shadow: 0 0 18px rgba(45, 212, 191, .12);
     }}
 
     .sub {{
@@ -374,6 +467,30 @@ def render_html(payload):
       letter-spacing: .18em;
     }}
 
+    .nav {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }}
+
+    .nav a {{
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+      border: 1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,.03);
+      border-radius: 999px;
+      padding: 8px 11px;
+    }}
+
+    .nav a:first-child {{
+      color: var(--line);
+      border-color: var(--line-soft);
+    }}
+
     .stats-row {{
       display: flex;
       flex-wrap: wrap;
@@ -383,9 +500,9 @@ def render_html(payload):
 
     .stat {{
       border: 1px solid var(--line-soft);
-      background: rgba(40, 12, 8, .72);
+      background: rgba(255,255,255,.035);
       padding: 12px 16px;
-      border-radius: 6px;
+      border-radius: 8px;
       min-width: 150px;
     }}
 
@@ -408,7 +525,7 @@ def render_html(payload):
       gap: 10px;
       padding: 18px clamp(18px, 4vw, 52px);
       border-bottom: 1px solid rgba(255, 216, 90, .25);
-      background: rgba(11, 15, 10, .75);
+      background: rgba(7, 9, 15, .72);
     }}
 
     .badge {{
@@ -427,6 +544,8 @@ def render_html(payload):
     .fire {{ color: var(--amber); border-color: var(--line); box-shadow: 0 0 12px rgba(255,75,31,.22); }}
     .teal {{ color: var(--teal); border-color: var(--teal); box-shadow: 0 0 12px rgba(37,244,208,.2); }}
     .green {{ color: var(--green); border-color: rgba(84,255,143,.65); }}
+    .orange {{ color: var(--orange); border-color: rgba(251,146,60,.72); }}
+    .blue {{ color: var(--blue); border-color: rgba(96,165,250,.72); }}
     .red {{ color: var(--red); border-color: var(--red); }}
     .muted {{ color: var(--muted); border-color: rgba(169,155,142,.35); }}
 
@@ -444,8 +563,8 @@ def render_html(payload):
     .section-title {{
       margin: 0 0 18px;
       color: var(--green);
-      font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
-      font-size: 28px;
+      font-size: 21px;
+      letter-spacing: .05em;
       text-transform: uppercase;
     }}
 
@@ -457,9 +576,9 @@ def render_html(payload):
 
     .weather-target {{
       padding: 12px;
-      background: rgba(3, 42, 19, .72);
-      border: 1px solid rgba(84, 255, 143, .28);
-      border-radius: 6px;
+      background: rgba(16, 24, 38, .82);
+      border: 1px solid rgba(45, 212, 191, .16);
+      border-radius: 8px;
     }}
 
     .weather-target strong {{ color: var(--gold); }}
@@ -493,8 +612,8 @@ def render_html(payload):
       width: 100%;
       border-collapse: collapse;
       background: rgba(14,14,14,.72);
-      border: 1px solid rgba(255,75,31,.25);
-      border-radius: 6px;
+      border: 1px solid rgba(45,212,191,.12);
+      border-radius: 8px;
       overflow: hidden;
     }}
 
@@ -508,7 +627,7 @@ def render_html(payload):
       color: var(--muted);
       text-transform: uppercase;
       font-size: 11px;
-      background: rgba(255,75,31,.08);
+      background: rgba(45,212,191,.07);
     }}
     td.score {{
       color: var(--gold);
@@ -526,9 +645,9 @@ def render_html(payload):
     }}
 
     .game {{
-      border-left: 5px solid var(--line);
-      background: rgba(24, 22, 20, .88);
-      border-radius: 6px;
+      border-left: 3px solid var(--line);
+      background: rgba(14, 20, 31, .88);
+      border-radius: 8px;
       overflow: hidden;
       border-top: 1px solid rgba(255,255,255,.08);
       border-right: 1px solid rgba(255,255,255,.08);
@@ -541,12 +660,11 @@ def render_html(payload):
       align-items: center;
       gap: 10px 18px;
       padding: 14px 16px;
-      background: rgba(255,75,31,.07);
+      background: rgba(45,212,191,.05);
     }}
 
     .game-title {{
       color: var(--line);
-      font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
       font-size: 24px;
       text-transform: uppercase;
       margin-right: auto;
@@ -592,9 +710,9 @@ def render_html(payload):
     }}
 
     .pairing {{
-      background: rgba(16, 17, 16, .82);
-      border: 1px solid rgba(255, 216, 90, .25);
-      border-radius: 6px;
+      background: rgba(16, 24, 38, .82);
+      border: 1px solid rgba(246, 196, 83, .18);
+      border-radius: 8px;
       padding: 13px;
     }}
 
@@ -653,6 +771,15 @@ def render_html(payload):
           <div class="sub">HR Research Dashboard · {payload["date"]} · Updated {payload["generated_at"]}</div>
         </div>
       </div>
+      <nav class="nav" aria-label="Dashboard sections">
+        <a href="#today">Today</a>
+        <a href="#radar">Game Radar</a>
+        <a href="#ev">EV / Labels</a>
+        <a href="#source">Source Check</a>
+        <a href="#pairings">Pairings</a>
+        <a href="#games">Game Boards</a>
+        <a href="#review">Review</a>
+      </nav>
       <div class="stats-row">
         <div class="stat"><b>{payload["slate_projection"]}</b><span>Hitters Scanned</span></div>
         <div class="stat"><b>{payload["games_count"]}</b><span>Games</span></div>
@@ -667,19 +794,44 @@ def render_html(payload):
       <span class="badge gold">Best Pick</span>
       <span class="badge fire">Star + Fire</span>
       <span class="badge red">Fire / Tough SP</span>
+      <span class="badge orange">Hot Bat</span>
+      <span class="badge blue">EV Edge</span>
       <span class="badge teal">Sleeper Pick</span>
       <span class="badge green">Weather Edge</span>
       <span class="badge red">Pitcher Target</span>
+      <span class="badge gold">Source Sheet</span>
       <span class="badge muted">Watch</span>
     </div>
 
     <main>
+      <section id="today">
+        <h2 class="section-title">Model Profile</h2>
+        <div class="weather-target">
+          <strong>{payload["model_profile"]}</strong>
+          <small>Primary score remains daily matchup driven: hitter power, pitcher vulnerability, environment, lineup spot, and handedness. Labels add context; they do not automatically override the board.</small>
+        </div>
+      </section>
+
       <section>
         <h2 class="section-title">Best Weather Targets Today</h2>
         <div class="weather-grid" id="weather"></div>
       </section>
 
-      <section>
+      <section id="radar">
+        <h2 class="section-title">Game Stack Radar</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Separate lens from HR Score.</strong>
+          <small>Flags games with strong weather, stack depth, or multiple playable bats without forcing every hitter upward.</small>
+        </div>
+        <div class="weather-grid" id="gameRadar"></div>
+      </section>
+
+      <section id="source">
+        <h2 class="section-title">Source Sheet Cross-Check</h2>
+        <div class="weather-grid" id="sourceEdges"></div>
+      </section>
+
+      <section id="ev">
         <div class="top-layout">
           <div>
             <h2 class="section-title">Confirmed Lineup Targets</h2>
@@ -687,9 +839,12 @@ def render_html(payload):
               <button class="active" data-filter="all">All</button>
               <button data-filter="BEST PICK">Best</button>
               <button data-filter="STAR + FIRE">Great Matchup</button>
+              <button data-filter="HOT BAT">Hot Bat</button>
+              <button data-filter="EV EDGE">EV</button>
               <button data-filter="FIRE / TOUGH SP">Tough Pitcher</button>
               <button data-filter="SLEEPER PICK">Sleepers</button>
               <button data-filter="WEATHER EDGE">Weather</button>
+              <button data-filter="SOURCE SHEET">Source</button>
               <input class="search" id="search" placeholder="Search player, team, pitcher">
             </div>
             <table>
@@ -724,14 +879,18 @@ def render_html(payload):
         </table>
       </section>
 
-      <section>
+      <section id="pairings">
         <h2 class="section-title">Confirmed HR Pairings</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Pairings are selected with diversity controls.</strong>
+          <small>The same hitter is limited across the list so one top name does not dominate every 3-leg or 4-leg card unless the slate truly lacks alternatives.</small>
+        </div>
         <div class="controls">
           <button class="active" data-pairing="2">2-Leg</button>
           <button data-pairing="3">3-Leg</button>
           <button data-pairing="4">4-Leg</button>
         </div>
-        <div class="pairing-grid" id="pairings"></div>
+        <div class="pairing-grid" id="pairingCards"></div>
       </section>
 
       <section>
@@ -744,7 +903,7 @@ def render_html(payload):
         <div class="pairing-grid" id="projectedPairings"></div>
       </section>
 
-      <section>
+      <section id="games">
         <h2 class="section-title">Game Boards</h2>
         <div class="controls">
           <button class="active" data-game-filter="all">All Games</button>
@@ -753,6 +912,14 @@ def render_html(payload):
         </div>
         <div class="game-list" id="games"></div>
       </section>
+
+      <section id="review">
+        <h2 class="section-title">Daily Learning Loop</h2>
+        <div class="weather-target">
+          <strong>Post-slate review should compare model rank, labels, game radar, and actual HR results.</strong>
+          <small>This is where misses become upgrades: pitcher split gaps, BvP/pitch-mix signals, weather underweighting, hot-bat false positives, and pairing correlation issues.</small>
+        </div>
+      </section>
     </main>
   </div>
 
@@ -760,8 +927,10 @@ def render_html(payload):
     const payload = {data};
     const topRows = document.querySelector("#topRows");
     const weather = document.querySelector("#weather");
+    const gameRadar = document.querySelector("#gameRadar");
+    const sourceEdges = document.querySelector("#sourceEdges");
     const games = document.querySelector("#games");
-    const pairings = document.querySelector("#pairings");
+    const pairings = document.querySelector("#pairingCards");
     const projectedRows = document.querySelector("#projectedRows");
     const projectedPairings = document.querySelector("#projectedPairings");
     const search = document.querySelector("#search");
@@ -779,6 +948,26 @@ def render_html(payload):
           <small>${{fmt(item.weather_temp)}}° · ${{fmt(item.wind_direction, "Wind neutral")}} · Top target: ${{fmt(item.top_player)}} (${{Number(item.top_score || 0).toFixed(1)}})</small>
         </div>
       `).join("");
+    }}
+
+    function renderGameRadar() {{
+      gameRadar.innerHTML = payload.game_watch.map((game, index) => `
+        <div class="weather-target">
+          <strong>#${{index + 1}} · ${{game.teams}} · ${{Number(game.environment_score || 0).toFixed(1)}} ENV</strong>
+          <small>${{game.ballpark}} · ${{fmt(game.temp)}}° · ${{fmt(game.wind, "Wind neutral")}} · ${{game.game_tags}}</small>
+          <small>${{game.players.map(player => `#${{player.rank}} ${{player.player}} (${{player.score.toFixed(1)}})`).join(" · ")}}</small>
+        </div>
+      `).join("");
+    }}
+
+    function renderSourceEdges() {{
+      sourceEdges.innerHTML = (payload.source_edges || []).map(edge => `
+        <div class="weather-target">
+          <strong>${{edge.game}} · Ballpark HR ${{edge.ballpark_hr_rank}}</strong>
+          <small>${{edge.source_wind}} · ${{edge.notes}}</small>
+          <small>${{edge.edge_players}}</small>
+        </div>
+      `).join("") || `<div class="weather-target"><strong>No source sheet edges loaded.</strong></div>`;
     }}
 
     function matchesSearch(row) {{
@@ -904,6 +1093,8 @@ def render_html(payload):
     search?.addEventListener("input", () => renderTop(activeFilter));
 
     renderWeather();
+    renderGameRadar();
+    renderSourceEdges();
     renderTop();
     renderProjectedRows();
     renderPairings("2");
