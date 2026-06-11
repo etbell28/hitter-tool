@@ -12,15 +12,15 @@
 | 8 | Hunter Goodman | COL | Edward Cabrera | 4 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 9 | Randal Grichuk | CWS | Martín Pérez | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Dominic Canzone | SEA | Kyle Bradish | 6 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 11 | Max Muncy | LAD | Mitch Keller | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 12 | Ian Happ | CHC | Ryan Feltner | 4 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Michael Busch | CHC | Ryan Feltner | 3 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ian Happ | CHC | Ryan Feltner | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Max Muncy | LAD | Mitch Keller | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 13 | Michael Busch | CHC | Ryan Feltner | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Corey Seager | TEX | Michael Wacha | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Michael Harris II | ATL | Anthony Kay | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 16 | Miguel Vargas | CWS | Martín Pérez | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Luke Raley | SEA | Kyle Bradish | 5 | 59.2 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 18 | Freddie Freeman | LAD | Mitch Keller | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Carter Jensen | KC | Kumar Rocker | 1 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Carter Jensen | KC | Kumar Rocker | 1 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Freddie Freeman | LAD | Mitch Keller | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Bobby Witt Jr. | KC | Kumar Rocker | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
