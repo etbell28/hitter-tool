@@ -11,8 +11,10 @@ OUTPUTS = ROOT / "outputs"
 RANKINGS_CSV = OUTPUTS / "hr_rankings.csv"
 LATE_SLATE_CSV = OUTPUTS / "auto_slate_late.csv"
 FULL_SLATE_CSV = OUTPUTS / "auto_slate_full.csv"
+REMAINING_SLATE_CSV = OUTPUTS / "auto_slate_remaining.csv"
 DASHBOARD_HTML = OUTPUTS / "hitter_tool_dashboard.html"
 SOURCE_SHEET_EDGES_CSV = OUTPUTS / "source_sheet_edges.csv"
+ACTIVE_SLATE_MARKER = OUTPUTS / "active_slate.txt"
 
 
 def clean(value, default=""):
@@ -237,6 +239,14 @@ def apply_badges(rankings):
 
 
 def slate_path():
+    if ACTIVE_SLATE_MARKER.exists():
+        active = ACTIVE_SLATE_MARKER.read_text(encoding="utf-8").strip()
+        if active == "remaining" and REMAINING_SLATE_CSV.exists():
+            return REMAINING_SLATE_CSV
+        if active == "late" and LATE_SLATE_CSV.exists():
+            return LATE_SLATE_CSV
+        if active == "full" and FULL_SLATE_CSV.exists():
+            return FULL_SLATE_CSV
     return FULL_SLATE_CSV if FULL_SLATE_CSV.exists() else LATE_SLATE_CSV
 
 
@@ -341,9 +351,11 @@ def build_payload():
         reverse=True,
     )[:8]
 
+    generated_iso = datetime.now().isoformat(timespec="seconds")
     return {
         "date": datetime.now().strftime("%A, %B %-d, %Y"),
         "generated_at": datetime.now().strftime("%I:%M %p %Z"),
+        "generated_iso": generated_iso,
         "slate_projection": len(slate),
         "games_count": len(games),
         "confirmed_count": len(confirmed_rankings),
@@ -774,7 +786,7 @@ def render_html(payload):
         <div class="mark">HT</div>
         <div>
           <h1>The Hitter<br>Tool</h1>
-          <div class="sub">HR Research Dashboard · {payload["date"]} · Updated {payload["generated_at"]}</div>
+          <div class="sub" id="updatedMeta">HR Research Dashboard · {payload["date"]} · Updated {payload["generated_at"]}</div>
         </div>
       </div>
       <nav class="nav" aria-label="Dashboard sections">
@@ -787,12 +799,12 @@ def render_html(payload):
         <a href="#review">Review</a>
       </nav>
       <div class="stats-row">
-        <div class="stat"><b>{payload["slate_projection"]}</b><span>Hitters Scanned</span></div>
-        <div class="stat"><b>{payload["games_count"]}</b><span>Games</span></div>
-        <div class="stat"><b>{payload["confirmed_count"]}</b><span>Confirmed Hitters</span></div>
-        <div class="stat"><b>{payload["projected_count"]}</b><span>Projected Hitters</span></div>
-        <div class="stat"><b>{payload["rotowire_found"]}/{payload["slate_size"]}</b><span>RotoWire Matches</span></div>
-        <div class="stat"><b>{payload["lineup_disagreements"]}</b><span>Lineup Warnings</span></div>
+        <div class="stat"><b id="statHitters">{payload["slate_projection"]}</b><span>Hitters Scanned</span></div>
+        <div class="stat"><b id="statGames">{payload["games_count"]}</b><span>Games</span></div>
+        <div class="stat"><b id="statConfirmed">{payload["confirmed_count"]}</b><span>Confirmed Hitters</span></div>
+        <div class="stat"><b id="statProjected">{payload["projected_count"]}</b><span>Projected Hitters</span></div>
+        <div class="stat"><b id="statRotowire">{payload["rotowire_found"]}/{payload["slate_size"]}</b><span>RotoWire Matches</span></div>
+        <div class="stat"><b id="statWarnings">{payload["lineup_disagreements"]}</b><span>Lineup Warnings</span></div>
       </div>
     </header>
 
@@ -813,7 +825,7 @@ def render_html(payload):
       <section id="today">
         <h2 class="section-title">Model Profile</h2>
         <div class="weather-target">
-          <strong>{payload["model_profile"]}</strong>
+          <strong id="modelProfile">{payload["model_profile"]}</strong>
           <small>Primary score remains daily matchup driven: hitter power, pitcher vulnerability, environment, lineup spot, and handedness. Labels add context; they do not automatically override the board.</small>
         </div>
       </section>
@@ -864,7 +876,7 @@ def render_html(payload):
           <div>
             <h2 class="section-title">Source Check</h2>
             <div class="weather-target">
-              <strong>{payload["sources"]}</strong>
+              <strong id="sourceList">{payload["sources"]}</strong>
               <small>Lineup cross-check is active. Rows with disagreements are flagged in the CSV and Excel output.</small>
             </div>
           </div>
@@ -930,7 +942,7 @@ def render_html(payload):
   </div>
 
   <script>
-    const payload = {data};
+    let payload = {data};
     const topRows = document.querySelector("#topRows");
     const weather = document.querySelector("#weather");
     const gameRadar = document.querySelector("#gameRadar");
@@ -942,6 +954,7 @@ def render_html(payload):
     const search = document.querySelector("#search");
     let activeFilter = "all";
     let activeGameFilter = "all";
+    let lastPayloadStamp = payload.generated_iso || "";
 
     function fmt(value, fallback = "") {{
       return value === null || value === undefined || Number.isNaN(value) ? fallback : value;
@@ -954,6 +967,49 @@ def render_html(payload):
           <small>${{fmt(item.weather_temp)}}° · ${{fmt(item.wind_direction, "Wind neutral")}} · Top target: ${{fmt(item.top_player)}} (${{Number(item.top_score || 0).toFixed(1)}})</small>
         </div>
       `).join("");
+    }}
+
+    function updateSummaryStats() {{
+      const updatedMeta = document.querySelector("#updatedMeta");
+      if (updatedMeta) updatedMeta.textContent = `HR Research Dashboard · ${{payload.date}} · Updated ${{payload.generated_at}}`;
+      document.querySelector("#statHitters").textContent = payload.slate_projection ?? 0;
+      document.querySelector("#statGames").textContent = payload.games_count ?? 0;
+      document.querySelector("#statConfirmed").textContent = payload.confirmed_count ?? 0;
+      document.querySelector("#statProjected").textContent = payload.projected_count ?? 0;
+      document.querySelector("#statRotowire").textContent = `${{payload.rotowire_found ?? 0}}/${{payload.slate_size ?? 0}}`;
+      document.querySelector("#statWarnings").textContent = payload.lineup_disagreements ?? 0;
+      const modelProfile = document.querySelector("#modelProfile");
+      if (modelProfile) modelProfile.textContent = payload.model_profile || "";
+      const sourceList = document.querySelector("#sourceList");
+      if (sourceList) sourceList.textContent = payload.sources || "";
+    }}
+
+    function renderAll() {{
+      updateSummaryStats();
+      renderWeather();
+      renderGameRadar();
+      renderSourceEdges();
+      renderTop();
+      renderProjectedRows();
+      renderPairings(document.querySelector("button[data-pairing].active")?.dataset.pairing || "2");
+      renderProjectedPairings(document.querySelector("button[data-projected-pairing].active")?.dataset.projectedPairing || "2");
+      renderGames();
+    }}
+
+    async function loadLivePayload() {{
+      try {{
+        const response = await fetch(`/api/slate?ts=${{Date.now()}}`, {{ cache: "no-store" }});
+        if (!response.ok) return;
+        const nextPayload = await response.json();
+        const nextStamp = nextPayload.generated_iso || nextPayload.generated_at || "";
+        if (nextStamp && nextStamp !== lastPayloadStamp) {{
+          payload = nextPayload;
+          lastPayloadStamp = nextStamp;
+          renderAll();
+        }}
+      }} catch (error) {{
+        // Static fallback remains usable if the live API is unavailable.
+      }}
     }}
 
     function renderGameRadar() {{
@@ -1098,14 +1154,9 @@ def render_html(payload):
 
     search?.addEventListener("input", () => renderTop(activeFilter));
 
-    renderWeather();
-    renderGameRadar();
-    renderSourceEdges();
-    renderTop();
-    renderProjectedRows();
-    renderPairings("2");
-    renderProjectedPairings("2");
-    renderGames();
+    renderAll();
+    setInterval(loadLivePayload, 60000);
+    loadLivePayload();
   </script>
 </body>
 </html>

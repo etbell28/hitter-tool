@@ -30,6 +30,7 @@ def snapshot_outputs(label):
 
 def main():
     run([PYTHON, "build_automated_slate.py", "--mode", "upcoming", "--output", str(REMAINING_SLATE)])
+    (ROOT / "outputs" / "active_slate.txt").write_text("remaining", encoding="utf-8")
     run([PYTHON, "hitter_tool.py", str(REMAINING_SLATE)])
     run([PYTHON, "build_dashboard.py"])
     run([PYTHON, "publish_dashboard.py"])
