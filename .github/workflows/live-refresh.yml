@@ -1,0 +1,62 @@
+name: Live Hitter Tool Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Refresh mode"
+        required: true
+        default: "remaining"
+        type: choice
+        options:
+          - full
+          - remaining
+  schedule:
+    # UTC times. These cover morning slate prep through late MLB windows.
+    # GitHub Actions handles frequent scheduling so Vercel Hobby can stay free.
+    - cron: "*/15 12-19 * * *"
+    - cron: "*/5 20-23 * * *"
+    - cron: "*/5 0-3 * * *"
+
+jobs:
+  refresh-live-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Choose refresh mode
+        id: choose
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          schedule="${{ github.event.schedule }}"
+          if [ "$schedule" = "*/15 12-19 * * *" ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=remaining" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build live payload
+        run: python run_live_refresh.py --mode "${{ steps.choose.outputs.mode }}"
+
+      - name: Upload live payload to Vercel Blob
+        run: |
+          curl --fail --show-error --location --max-time 300 \
+            --request POST \
+            --header "Content-Type: application/json" \
+            --header "x-live-refresh-token: ${{ secrets.LIVE_REFRESH_TOKEN }}" \
+            --data-binary @outputs/live_payload.json \
+            "https://hittertoolv1.vercel.app/api/update-slate"
