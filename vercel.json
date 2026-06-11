@@ -1,20 +1,6 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "crons": [
-    {
-      "path": "/api/refresh?mode=full",
-      "schedule": "*/15 12-19 * * *"
-    },
-    {
-      "path": "/api/refresh?mode=remaining",
-      "schedule": "*/5 16-23 * * *"
-    },
-    {
-      "path": "/api/refresh?mode=remaining",
-      "schedule": "*/5 0-3 * * *"
-    }
-  ],
   "functions": {
     "api/refresh.js": {
       "maxDuration": 300
