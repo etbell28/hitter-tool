@@ -6,7 +6,7 @@ This version changes the dashboard from a static-only page to a live page.
 
 - The dashboard loads normally at `https://hittertoolv1.vercel.app/`.
 - The page asks `/api/slate` for current slate data every 60 seconds.
-- GitHub Actions calls `/api/refresh` during MLB lineup windows.
+- GitHub Actions runs the Python model during MLB lineup windows, then posts the finished JSON to `/api/update-slate`.
 - `/api/refresh` rebuilds the slate, scores hitters, and writes the newest JSON payload to Vercel Blob.
 
 ## One-Time Setup Required
@@ -27,15 +27,16 @@ Without `BLOB_READ_WRITE_TOKEN`, the dashboard still opens, but it can only serv
 
 After redeploy:
 
-1. Open `https://hittertoolv1.vercel.app/api/refresh?mode=remaining`.
-2. Wait for JSON showing `"ok": true`.
-3. Open `https://hittertoolv1.vercel.app/api/slate`.
-4. Confirm the JSON timestamp is current.
-5. Open `https://hittertoolv1.vercel.app/`.
+1. Open GitHub Actions.
+2. Run `Live Hitter Tool Refresh` manually with `remaining`.
+3. Wait for the workflow to complete successfully.
+4. Open `https://hittertoolv1.vercel.app/api/slate`.
+5. Confirm the JSON timestamp is current.
+6. Open `https://hittertoolv1.vercel.app/`.
 
 ## Why GitHub Actions Handles Scheduling
 
-Vercel Hobby only allows daily cron jobs. Frequent refreshes are handled by `.github/workflows/live-refresh.yml` instead, which calls the live Vercel API endpoint.
+Vercel Hobby only allows daily cron jobs. Frequent refreshes are handled by `.github/workflows/live-refresh.yml` instead. GitHub Actions computes the data and sends the finished JSON to Vercel.
 
 ## Important Limitation
 
