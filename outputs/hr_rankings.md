@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Juan Soto | NYM | Hunter Dobbins | 3 | 70.0 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Jac Caglianone | KC | Kumar Rocker | 4 | 68.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Jared Young | NYM | Hunter Dobbins | 4 | 65.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 4 | Byron Buxton | MIN | Keider Montero | 2 | 64.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Braden Montgomery | CWS | Martín Pérez | 6 | 64.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 6 | Carson Benge | NYM | Hunter Dobbins | 1 | 63.1 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Riley Greene | DET | Zebby Matthews | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Kody Clemens | MIN | Keider Montero | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Kyle Stowers | MIA | Merrill Kelly | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 10 | Carter Jensen | KC | Kumar Rocker | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Bobby Witt Jr. | KC | Kumar Rocker | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 12 | Corey Seager | TEX | Michael Wacha | 2 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Shohei Ohtani | LAD | Mitch Keller | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Kerry Carpenter | DET | Zebby Matthews | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Pete Crow-Armstrong | CHC | Ryan Feltner | 1 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Dillon Dingler | DET | Zebby Matthews | 5 | 60.1 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 17 | Hunter Goodman | COL | Edward Cabrera | 4 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Matt Olson | ATL |  | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Brandon Nimmo | TEX | Michael Wacha | 4 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 20 | Vinnie Pasquantino | KC | Kumar Rocker | 3 | 58.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 1 | Braden Montgomery | CWS | Martín Pérez | 6 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 2 | Shohei Ohtani | LAD | Mitch Keller | 1 | 68.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Esmerlyn Valdez | PIT | Justin Wrobleski | 6 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 4 | Matt Olson | ATL | Anthony Kay | 3 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Pete Crow-Armstrong | CHC | Ryan Feltner | 1 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Jac Caglianone | KC | Kumar Rocker | 4 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Pete Alonso | BAL | Bryan Woo | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 8 | Hunter Goodman | COL | Edward Cabrera | 4 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Randal Grichuk | CWS | Martín Pérez | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Dominic Canzone | SEA | Kyle Bradish | 6 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 11 | Max Muncy | LAD | Mitch Keller | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Ian Happ | CHC | Ryan Feltner | 4 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Michael Busch | CHC | Ryan Feltner | 3 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Corey Seager | TEX | Michael Wacha | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Michael Harris II | ATL | Anthony Kay | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Miguel Vargas | CWS | Martín Pérez | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Luke Raley | SEA | Kyle Bradish | 5 | 59.2 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 18 | Freddie Freeman | LAD | Mitch Keller | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Carter Jensen | KC | Kumar Rocker | 1 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Bobby Witt Jr. | KC | Kumar Rocker | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Juan Soto + Jac Caglianone | Avg HR Score: 69.1
-- Jac Caglianone + Jared Young | Avg HR Score: 66.8
-- Jared Young + Byron Buxton | Avg HR Score: 65.1
-- Byron Buxton + Braden Montgomery | Avg HR Score: 64.5
-- Braden Montgomery + Carson Benge | Avg HR Score: 63.7
+- Braden Montgomery + Shohei Ohtani | Avg HR Score: 68.9
+- Shohei Ohtani + Esmerlyn Valdez | Avg HR Score: 66.9
+- Esmerlyn Valdez + Matt Olson | Avg HR Score: 65.0
+- Matt Olson + Pete Crow-Armstrong | Avg HR Score: 64.8
+- Pete Crow-Armstrong + Jac Caglianone | Avg HR Score: 64.6
 
 ## Best 3-Leg Pairings
 
-- Juan Soto + Jac Caglianone + Jared Young | Avg HR Score: 67.9
-- Jac Caglianone + Jared Young + Byron Buxton | Avg HR Score: 66.1
-- Jared Young + Byron Buxton + Braden Montgomery | Avg HR Score: 64.8
-- Byron Buxton + Braden Montgomery + Carson Benge | Avg HR Score: 64.1
-- Braden Montgomery + Carson Benge + Riley Greene | Avg HR Score: 63.5
+- Braden Montgomery + Shohei Ohtani + Esmerlyn Valdez | Avg HR Score: 67.7
+- Shohei Ohtani + Esmerlyn Valdez + Matt Olson | Avg HR Score: 66.3
+- Esmerlyn Valdez + Matt Olson + Pete Crow-Armstrong | Avg HR Score: 64.9
+- Matt Olson + Pete Crow-Armstrong + Jac Caglianone | Avg HR Score: 64.7
+- Pete Crow-Armstrong + Jac Caglianone + Pete Alonso | Avg HR Score: 64.4
 
 ## Best 4-Leg Pairings
 
-- Juan Soto + Jac Caglianone + Jared Young + Byron Buxton | Avg HR Score: 67.1
-- Jac Caglianone + Jared Young + Byron Buxton + Braden Montgomery | Avg HR Score: 65.7
-- Jared Young + Byron Buxton + Braden Montgomery + Carson Benge | Avg HR Score: 64.4
-- Byron Buxton + Braden Montgomery + Carson Benge + Riley Greene | Avg HR Score: 63.8
-- Braden Montgomery + Carson Benge + Riley Greene + Kody Clemens | Avg HR Score: 63.3
+- Braden Montgomery + Shohei Ohtani + Esmerlyn Valdez + Matt Olson | Avg HR Score: 67.0
+- Shohei Ohtani + Esmerlyn Valdez + Matt Olson + Pete Crow-Armstrong | Avg HR Score: 65.9
+- Esmerlyn Valdez + Matt Olson + Pete Crow-Armstrong + Jac Caglianone | Avg HR Score: 64.8
+- Matt Olson + Pete Crow-Armstrong + Jac Caglianone + Pete Alonso | Avg HR Score: 64.6
+- Pete Crow-Armstrong + Jac Caglianone + Pete Alonso + Hunter Goodman | Avg HR Score: 64.0
