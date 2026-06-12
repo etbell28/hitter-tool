@@ -12,7 +12,7 @@ SITE_DATA = ROOT / "dashboard_site" / "data" / "slate.json"
 
 def main():
     payload = build_payload()
-    text = json.dumps(payload, ensure_ascii=False, default=json_safe, indent=2)
+    text = json.dumps(json_safe(payload), ensure_ascii=False, default=json_safe, indent=2, allow_nan=False)
 
     OUTPUTS.mkdir(parents=True, exist_ok=True)
     LIVE_PAYLOAD.write_text(text, encoding="utf-8")

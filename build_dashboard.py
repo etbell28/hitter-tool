@@ -1,4 +1,5 @@
 import json
+import math
 from itertools import combinations
 from datetime import datetime
 from pathlib import Path
@@ -28,6 +29,8 @@ def json_safe(value):
         return [json_safe(item) for item in value]
     if isinstance(value, dict):
         return {key: json_safe(item) for key, item in value.items()}
+    if isinstance(value, float) and math.isnan(value):
+        return None
     if pd.isna(value):
         return None
     if hasattr(value, "item"):
@@ -385,7 +388,7 @@ def build_payload():
 
 
 def render_html(payload):
-    data = json.dumps(payload, ensure_ascii=False, default=json_safe)
+    data = json.dumps(json_safe(payload), ensure_ascii=False, default=json_safe, allow_nan=False)
     return f"""<!doctype html>
 <html lang="en">
 <head>
