@@ -12,11 +12,12 @@ on:
           - full
           - remaining
   schedule:
-    # UTC times. These cover morning slate prep through late MLB windows.
-    # GitHub Actions handles frequent scheduling so Vercel Hobby can stay free.
     - cron: "*/15 12-19 * * *"
     - cron: "*/5 20-23 * * *"
     - cron: "*/5 0-3 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   refresh-live-data:
@@ -52,11 +53,10 @@ jobs:
       - name: Build live payload
         run: python run_live_refresh.py --mode "${{ steps.choose.outputs.mode }}"
 
-      - name: Upload live payload to Vercel Blob
+      - name: Commit live data
         run: |
-          curl --fail --show-error --location --max-time 300 \
-            --request POST \
-            --header "Content-Type: application/json" \
-            --header "x-live-refresh-token: ${{ secrets.LIVE_REFRESH_TOKEN }}" \
-            --data-binary @outputs/live_payload.json \
-            "https://hittertoolv1.vercel.app/api/update-slate"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/live_payload.json dashboard_site/data/slate.json outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_full.csv outputs/auto_slate_remaining.csv outputs/active_slate.txt outputs/daily
+          git commit -m "Update live Hitter Tool data" || echo "No live data changes to commit"
+          git push
