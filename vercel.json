@@ -1,18 +1,4 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false,
-  "functions": {
-    "api/refresh.js": {
-      "maxDuration": 300
-    },
-    "api/slate.js": {
-      "maxDuration": 30
-    }
-  },
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/dashboard_site/index.html"
-    }
-  ]
+  "trailingSlash": false
 }
