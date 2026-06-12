@@ -1,7 +1,7 @@
 {
   "date": "Friday, June 12, 2026",
-  "generated_at": "09:05 PM ",
-  "generated_iso": "2026-06-12T21:05:01",
+  "generated_at": "09:28 PM ",
+  "generated_iso": "2026-06-12T21:28:53",
   "slate_projection": 270,
   "games_count": 15,
   "confirmed_count": 207,
@@ -639,13 +639,13 @@
       "pitcher": "Sandy Alcantara",
       "pitcher_id": 645261.0,
       "pitcher_hand": "R",
-      "hr_score": 66.1,
+      "hr_score": 66.2,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak",
       "power_score": 78.2,
       "pitcher_score": 37.4,
-      "environment_score": 64.3,
+      "environment_score": 64.8,
       "lineup_score": 76.2,
       "platoon_score": 80.0,
       "recent_form_score": 76.4,
@@ -686,8 +686,8 @@
       "pitcher_xslg_allowed": 0.4059,
       "pitcher_xiso_allowed": 0.14,
       "pitcher_fb_pct_allowed": 24.87,
-      "wind_direction": "Out To RF",
-      "weather_temp": 78.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 81.0,
       "ballpark": "PNC Park",
       "odds": null,
       "source_sheet_edge": false,
@@ -2175,13 +2175,13 @@
       "pitcher": "Sandy Alcantara",
       "pitcher_id": 645261.0,
       "pitcher_hand": "R",
-      "hr_score": 66.1,
+      "hr_score": 66.2,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak",
       "power_score": 78.2,
       "pitcher_score": 37.4,
-      "environment_score": 64.3,
+      "environment_score": 64.8,
       "lineup_score": 76.2,
       "platoon_score": 80.0,
       "recent_form_score": 76.4,
@@ -2222,8 +2222,8 @@
       "pitcher_xslg_allowed": 0.4059,
       "pitcher_xiso_allowed": 0.14,
       "pitcher_fb_pct_allowed": 24.87,
-      "wind_direction": "Out To RF",
-      "weather_temp": 78.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 81.0,
       "ballpark": "PNC Park",
       "odds": null,
       "source_sheet_edge": false,
@@ -3130,11 +3130,11 @@
     },
     {
       "ballpark": "PNC Park",
-      "wind_direction": "Out To RF",
-      "weather_temp": 78.0,
-      "environment_score": 64.3,
+      "wind_direction": "Out To LF",
+      "weather_temp": 81.0,
+      "environment_score": 64.8,
       "top_player": "Tyler Callihan",
-      "top_score": 66.1,
+      "top_score": 66.2,
       "teams": "MIA / PIT"
     },
     {
@@ -3255,7 +3255,7 @@
           "order": 2,
           "pitcher": "Eduardo Rodriguez",
           "score": 57.6,
-          "rank": 51,
+          "rank": 50,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -3370,7 +3370,7 @@
           "order": 7,
           "pitcher": "Griffin Canning",
           "score": 59.5,
-          "rank": 38,
+          "rank": 39,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3700,7 +3700,7 @@
           "order": 2,
           "pitcher": "Nolan McLean",
           "score": 58.3,
-          "rank": 47,
+          "rank": 46,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3721,7 +3721,7 @@
           "order": 1,
           "pitcher": "Spencer Strider",
           "score": 57.9,
-          "rank": 49,
+          "rank": 48,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3739,10 +3739,10 @@
     {
       "teams": "MIA vs PIT",
       "ballpark": "PNC Park",
-      "temp": 78.0,
-      "wind": "Out To RF",
-      "environment_score": 64.3,
-      "top_score": 66.1,
+      "temp": 81.0,
+      "wind": "Out To LF",
+      "environment_score": 64.8,
+      "top_score": 66.2,
       "game_tags": "top-25 target",
       "disagreement_count": 0,
       "players": [
@@ -3751,7 +3751,7 @@
           "team": "PIT",
           "order": 6,
           "pitcher": "Sandy Alcantara",
-          "score": 66.1,
+          "score": 66.2,
           "rank": 9,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
@@ -3776,8 +3776,8 @@
           "team": "PIT",
           "order": 2,
           "pitcher": "Sandy Alcantara",
-          "score": 59.4,
-          "rank": 39,
+          "score": 59.5,
+          "rank": 38,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3796,7 +3796,7 @@
           "order": 3,
           "pitcher": "Braxton Ashcraft",
           "score": 54.9,
-          "rank": 68,
+          "rank": 66,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3815,7 +3815,7 @@
           "order": 3,
           "pitcher": "Sandy Alcantara",
           "score": 54.2,
-          "rank": 78,
+          "rank": 77,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3833,8 +3833,8 @@
           "team": "PIT",
           "order": 4,
           "pitcher": "Sandy Alcantara",
-          "score": 53.4,
-          "rank": 85,
+          "score": 53.5,
+          "rank": 82,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3953,7 +3953,7 @@
           "order": 3,
           "pitcher": "Tatsuya Imai",
           "score": 54.4,
-          "rank": 76,
+          "rank": 74,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4074,7 +4074,7 @@
           "order": 4,
           "pitcher": "Zack Littell",
           "score": 58.4,
-          "rank": 46,
+          "rank": 45,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4230,7 +4230,7 @@
       },
       {
         "names": "Kody Clemens + Tyler Callihan + James Wood",
-        "avg_score": 66.2,
+        "avg_score": 66.3,
         "combo_score": 70.9,
         "risk": "Balanced",
         "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE + SLEEPER PICK / FIRE / TOUGH SP + HOT BAT + EV EDGE",
@@ -4280,7 +4280,7 @@
       },
       {
         "names": "Byron Buxton + Dominic Canzone + Tyler Callihan + Colson Montgomery",
-        "avg_score": 66.8,
+        "avg_score": 66.9,
         "combo_score": 72.6,
         "risk": "Aggressive",
         "badges": "HOT BAT / HOT BAT + EV EDGE + SLEEPER PICK + PITCHER TARGET / FIRE / TOUGH SP + HOT BAT + EV EDGE + SLEEPER PICK / WEATHER EDGE",
@@ -4430,7 +4430,7 @@
       },
       {
         "names": "Kody Clemens + Tyler Callihan + James Wood",
-        "avg_score": 66.2,
+        "avg_score": 66.3,
         "combo_score": 70.9,
         "risk": "Balanced",
         "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE + SLEEPER PICK / FIRE / TOUGH SP + HOT BAT + EV EDGE",
@@ -4480,7 +4480,7 @@
       },
       {
         "names": "Byron Buxton + Dominic Canzone + Tyler Callihan + Colson Montgomery",
-        "avg_score": 66.8,
+        "avg_score": 66.9,
         "combo_score": 72.6,
         "risk": "Aggressive",
         "badges": "HOT BAT / HOT BAT + EV EDGE + SLEEPER PICK + PITCHER TARGET / FIRE / TOUGH SP + HOT BAT + EV EDGE + SLEEPER PICK / WEATHER EDGE",
@@ -4524,10 +4524,10 @@
     {
       "teams": "MIA vs PIT",
       "ballpark": "PNC Park",
-      "temp": 78.0,
-      "wind": "Out To RF",
-      "environment_score": 64.3,
-      "top_score": 66.1,
+      "temp": 81.0,
+      "wind": "Out To LF",
+      "environment_score": 64.8,
+      "top_score": 66.2,
       "game_tags": "top-25 target",
       "disagreement_count": 0,
       "players": [
@@ -4536,7 +4536,7 @@
           "team": "PIT",
           "order": 6,
           "pitcher": "Sandy Alcantara",
-          "score": 66.1,
+          "score": 66.2,
           "rank": 9,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
@@ -4561,8 +4561,8 @@
           "team": "PIT",
           "order": 2,
           "pitcher": "Sandy Alcantara",
-          "score": 59.4,
-          "rank": 39,
+          "score": 59.5,
+          "rank": 38,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4581,7 +4581,7 @@
           "order": 3,
           "pitcher": "Braxton Ashcraft",
           "score": 54.9,
-          "rank": 68,
+          "rank": 66,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4600,7 +4600,7 @@
           "order": 3,
           "pitcher": "Sandy Alcantara",
           "score": 54.2,
-          "rank": 78,
+          "rank": 77,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4618,8 +4618,8 @@
           "team": "PIT",
           "order": 4,
           "pitcher": "Sandy Alcantara",
-          "score": 53.4,
-          "rank": 85,
+          "score": 53.5,
+          "rank": 82,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4740,7 +4740,7 @@
           "order": 4,
           "pitcher": "Zack Littell",
           "score": 58.4,
-          "rank": 46,
+          "rank": 45,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4855,7 +4855,7 @@
           "order": 7,
           "pitcher": "Griffin Canning",
           "score": 59.5,
-          "rank": 38,
+          "rank": 39,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4949,7 +4949,7 @@
           "order": 4,
           "pitcher": "Jack Flaherty",
           "score": 57.7,
-          "rank": 50,
+          "rank": 49,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4968,7 +4968,7 @@
           "order": 1,
           "pitcher": "Tanner Bibee",
           "score": 54.5,
-          "rank": 72,
+          "rank": 70,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4999,7 +4999,7 @@
           "order": 4,
           "pitcher": "Jack Leiter",
           "score": 58.8,
-          "rank": 45,
+          "rank": 44,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5018,7 +5018,7 @@
           "order": 3,
           "pitcher": "Jack Leiter",
           "score": 57.4,
-          "rank": 54,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5037,7 +5037,7 @@
           "order": 3,
           "pitcher": "Sonny Gray",
           "score": 54.6,
-          "rank": 71,
+          "rank": 69,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5058,7 +5058,7 @@
           "order": 5,
           "pitcher": "Jack Leiter",
           "score": 51.5,
-          "rank": 105,
+          "rank": 103,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5077,7 +5077,7 @@
           "order": 1,
           "pitcher": "Sonny Gray",
           "score": 50.7,
-          "rank": 113,
+          "rank": 111,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5190,7 +5190,7 @@
           "order": 2,
           "pitcher": "Eduardo Rodriguez",
           "score": 57.6,
-          "rank": 51,
+          "rank": 50,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -5284,7 +5284,7 @@
           "order": 2,
           "pitcher": "Nolan McLean",
           "score": 58.3,
-          "rank": 47,
+          "rank": 46,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5305,7 +5305,7 @@
           "order": 1,
           "pitcher": "Spencer Strider",
           "score": 57.9,
-          "rank": 49,
+          "rank": 48,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5327,8 +5327,8 @@
       "wind": "",
       "environment_score": 43.9,
       "top_score": 59.9,
-      "game_tags": "lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "monitor",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Kazuma Okamoto",
@@ -5357,7 +5357,7 @@
           "order": 2,
           "pitcher": "Trey Yesavage",
           "score": 57.1,
-          "rank": 55,
+          "rank": 53,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5369,8 +5369,8 @@
             "blue"
           ],
           "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Vladimir Guerrero Jr.",
@@ -5378,7 +5378,7 @@
           "order": 3,
           "pitcher": "Ryan Weathers",
           "score": 54.4,
-          "rank": 75,
+          "rank": 73,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5397,7 +5397,7 @@
           "order": 1,
           "pitcher": "Ryan Weathers",
           "score": 53.1,
-          "rank": 90,
+          "rank": 88,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5416,7 +5416,7 @@
           "order": 1,
           "pitcher": "Trey Yesavage",
           "score": 52.7,
-          "rank": 93,
+          "rank": 91,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5426,8 +5426,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -5582,35 +5582,12 @@
           "source_warnings": ""
         },
         {
-          "player": "Jake Bauers",
-          "team": "MIL",
-          "order": 5,
-          "pitcher": "Andrew Painter",
-          "score": 59.0,
-          "rank": 44,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE",
-            "SLEEPER PICK",
-            "SOURCE SHEET"
-          ],
-          "badge_classes": [
-            "blue",
-            "teal",
-            "gold"
-          ],
-          "badge_summary": "EV EDGE + SLEEPER PICK + SOURCE SHEET",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
           "player": "Jackson Chourio",
           "team": "MIL",
           "order": 2,
-          "pitcher": "Andrew Painter",
-          "score": 57.6,
-          "rank": 52,
+          "pitcher": "Tanner Banks",
+          "score": 54.3,
+          "rank": 75,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5626,31 +5603,12 @@
           "source_warnings": ""
         },
         {
-          "player": "Brice Turang",
-          "team": "MIL",
-          "order": 3,
-          "pitcher": "Andrew Painter",
-          "score": 54.1,
-          "rank": 80,
-          "badge": "SOURCE SHEET",
-          "badge_class": "gold",
-          "badges": [
-            "SOURCE SHEET"
-          ],
-          "badge_classes": [
-            "gold"
-          ],
-          "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
           "player": "Bryce Harper",
           "team": "PHI",
           "order": 3,
           "pitcher": "Jacob Misiorowski",
           "score": 52.0,
-          "rank": 101,
+          "rank": 99,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5660,6 +5618,46 @@
             "muted"
           ],
           "badge_summary": "WATCH",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        },
+        {
+          "player": "Jake Bauers",
+          "team": "MIL",
+          "order": 5,
+          "pitcher": "Tanner Banks",
+          "score": 50.5,
+          "rank": 113,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE",
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "blue",
+            "gold"
+          ],
+          "badge_summary": "EV EDGE + SOURCE SHEET",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        },
+        {
+          "player": "Brandon Marsh",
+          "team": "PHI",
+          "order": 4,
+          "pitcher": "Jacob Misiorowski",
+          "score": 46.5,
+          "rank": 153,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT"
+          ],
+          "badge_classes": [
+            "orange"
+          ],
+          "badge_summary": "HOT BAT",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -5769,7 +5767,7 @@
           "order": 3,
           "pitcher": "Tatsuya Imai",
           "score": 54.4,
-          "rank": 76,
+          "rank": 74,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5938,7 +5936,7 @@
           "order": 3,
           "pitcher": "Sam Aldegheri",
           "score": 54.1,
-          "rank": 81,
+          "rank": 79,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5957,7 +5955,7 @@
           "order": 4,
           "pitcher": "Shane McClanahan",
           "score": 53.2,
-          "rank": 89,
+          "rank": 87,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5976,7 +5974,7 @@
           "order": 1,
           "pitcher": "Shane McClanahan",
           "score": 51.8,
-          "rank": 102,
+          "rank": 100,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5995,7 +5993,7 @@
           "order": 1,
           "pitcher": "Sam Aldegheri",
           "score": 50.8,
-          "rank": 111,
+          "rank": 109,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -6051,7 +6049,7 @@
           "order": 3,
           "pitcher": NaN,
           "score": 55.6,
-          "rank": 65,
+          "rank": 63,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6072,7 +6070,7 @@
           "order": 4,
           "pitcher": NaN,
           "score": 53.4,
-          "rank": 86,
+          "rank": 84,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -6091,7 +6089,7 @@
           "order": 5,
           "pitcher": NaN,
           "score": 50.8,
-          "rank": 112,
+          "rank": 110,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6112,7 +6110,7 @@
           "order": 4,
           "pitcher": "Gage Jump",
           "score": 49.6,
-          "rank": 122,
+          "rank": 120,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6145,7 +6143,7 @@
           "order": 7,
           "pitcher": "Javier Assad",
           "score": 53.9,
-          "rank": 82,
+          "rank": 80,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6166,7 +6164,7 @@
           "order": 2,
           "pitcher": "Javier Assad",
           "score": 51.6,
-          "rank": 103,
+          "rank": 101,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -6185,7 +6183,7 @@
           "order": 1,
           "pitcher": "Landen Roupp",
           "score": 49.2,
-          "rank": 125,
+          "rank": 123,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6206,7 +6204,7 @@
           "order": 1,
           "pitcher": "Javier Assad",
           "score": 47.9,
-          "rank": 142,
+          "rank": 138,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6225,7 +6223,7 @@
           "order": 5,
           "pitcher": "Landen Roupp",
           "score": 46.0,
-          "rank": 159,
+          "rank": 155,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -6241,7 +6239,7 @@
       ]
     }
   ],
-  "lineup_disagreements": 81,
+  "lineup_disagreements": 72,
   "rotowire_found": 261,
   "slate_size": 270,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",
