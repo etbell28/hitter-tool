@@ -3,6 +3,7 @@ import path from "node:path";
 import { list } from "@vercel/blob";
 
 const ROOT = process.cwd();
+const GITHUB_LIVE_PAYLOAD_URL = "https://raw.githubusercontent.com/etbell28/hitter-tool/main/outputs/live_payload.json";
 const FALLBACK_PATHS = [
   path.join(ROOT, "outputs", "live_payload.json"),
   path.join(ROOT, "dashboard_site", "data", "slate.json")
@@ -38,6 +39,22 @@ export default async function handler(request, response) {
           return;
         }
       }
+    }
+  } catch {
+    // Fall through to bundled fallback data.
+  }
+
+  try {
+    const githubResponse = await fetch(`${GITHUB_LIVE_PAYLOAD_URL}?ts=${Date.now()}`, {
+      cache: "no-store",
+      headers: {
+        "Accept": "application/json"
+      }
+    });
+    if (githubResponse.ok) {
+      response.setHeader("Content-Type", "application/json; charset=utf-8");
+      response.status(200).send(await githubResponse.text());
+      return;
     }
   } catch {
     // Fall through to bundled fallback data.
