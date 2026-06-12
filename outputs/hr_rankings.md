@@ -10,7 +10,7 @@
 | 6 | Corbin Carroll | AZ | Nick Lodolo | 2 | 67.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 7 | Dominic Canzone | SEA | Zack Littell | 6 | 67.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 8 | Kody Clemens | MIN | Kyle Leahy | 3 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Tyler Callihan | PIT | Sandy Alcantara | 6 | 66.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 9 | Tyler Callihan | PIT | Sandy Alcantara | 6 | 66.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 10 | James Wood | WSH | Bryce Miller | 1 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Alec Burleson | STL | Joe Ryan | 3 | 65.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Yordan Alvarez | HOU | Luinder Avila | 2 | 65.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
