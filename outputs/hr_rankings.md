@@ -11,7 +11,7 @@
 | 7 | Braden Montgomery | CWS | Yoshinobu Yamamoto | 5 | 64.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 8 | Yordan Alvarez | HOU | Noah Cameron | 3 | 64.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 9 | Willson Contreras | BOS | Jacob deGrom | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 10 | Ben Rice | NYY | Kevin Gausman | 1 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Ben Rice | NYY | Kevin Gausman | 1 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Samuel Basallo | BAL | Randy Vásquez | 4 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Corbin Carroll | AZ | Rhett Lowder | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Wilyer Abreu | BOS | Jacob deGrom | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
