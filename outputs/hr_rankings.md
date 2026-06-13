@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Luis Castillo | 1 | 76.7 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Nick Kurtz | ATH | Kyle Freeland | 2 | 72.9 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Yordan Alvarez | HOU | Noah Cameron | 2 | 71.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Pete Alonso | BAL | Randy Vásquez | 3 | 71.1 | Tier 2 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Shohei Ohtani | LAD | Sean Burke | 1 | 69.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Bryce Eldridge | SF | Ben Brown | 2 | 67.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Shea Langeliers | ATH | Kyle Freeland | 1 | 66.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 8 | Cole Carrigg | COL | Joey Estes | 6 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 9 | Kyle Schwarber | PHI | Shane Drohan | 1 | 64.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Hunter Goodman | COL | Joey Estes | 4 | 64.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 11 | Jac Caglianone | KC | Mike Burrows | 5 | 64.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 12 | Samuel Basallo | BAL | Randy Vásquez | 4 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Braden Montgomery | CWS | Yoshinobu Yamamoto | 5 | 64.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 14 | Colby Thomas | ATH | Kyle Freeland | 3 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | Jake Bauers | MIL | Aaron Nola | 5 | 64.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 16 | Max Muncy | LAD | Sean Burke | 5 | 63.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 17 | Jackson Merrill | SD | Trey Gibson | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Luis García Jr. | WSH | Luis Castillo | 2 | 62.5 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Mike Trout | LAA | Griffin Jax | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Dominic Canzone | SEA | Cade Cavalli | 6 | 61.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 1 | Nick Kurtz | ATH | Kyle Freeland | 2 | 73.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Shea Langeliers | ATH | Kyle Freeland | 3 | 67.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 3 | Bryce Eldridge | SF | Ben Brown | 2 | 67.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Cole Carrigg | COL | Joey Estes | 6 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 5 | Hunter Goodman | COL | Joey Estes | 4 | 64.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 6 | Colby Thomas | ATH | Kyle Freeland | 1 | 64.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 7 | Mike Trout | LAA | Griffin Jax | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Edouard Julien | COL | Joey Estes | 1 | 59.5 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Rafael Devers | SF | Ben Brown | 4 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Brett Sullivan | COL | Joey Estes | 8 | 56.8 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 11 | Jonah Heim | ATH | Kyle Freeland | 4 | 56.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Zack Gelof | ATH | Kyle Freeland | 7 | 56.2 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 13 | Jonathan Aranda | TB | José Soriano | 2 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jo Adell | LAA | Griffin Jax | 4 | 55.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Henry Bolte | ATH | Kyle Freeland | 6 | 55.6 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 16 | Willi Castro | COL | Joey Estes | 2 | 55.4 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Pete Crow-Armstrong | CHC | Trevor McDonald | 1 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Junior Caminero | TB | José Soriano | 4 | 54.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Max Muncy | ATH | Kyle Freeland | 8 | 54.7 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 20 | Zach Neto | LAA | Griffin Jax | 1 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Nick Kurtz | Avg HR Score: 74.8
-- Nick Kurtz + Yordan Alvarez | Avg HR Score: 72.2
-- Yordan Alvarez + Pete Alonso | Avg HR Score: 71.3
-- Pete Alonso + Shohei Ohtani | Avg HR Score: 70.4
-- Shohei Ohtani + Bryce Eldridge | Avg HR Score: 68.7
+- Nick Kurtz + Shea Langeliers | Avg HR Score: 70.7
+- Shea Langeliers + Bryce Eldridge | Avg HR Score: 67.8
+- Bryce Eldridge + Cole Carrigg | Avg HR Score: 66.3
+- Cole Carrigg + Hunter Goodman | Avg HR Score: 64.9
+- Hunter Goodman + Colby Thomas | Avg HR Score: 64.5
 
 ## Best 3-Leg Pairings
 
-- James Wood + Nick Kurtz + Yordan Alvarez | Avg HR Score: 73.7
-- Nick Kurtz + Yordan Alvarez + Pete Alonso | Avg HR Score: 71.8
-- Yordan Alvarez + Pete Alonso + Shohei Ohtani | Avg HR Score: 70.8
-- Pete Alonso + Shohei Ohtani + Bryce Eldridge | Avg HR Score: 69.5
-- Shohei Ohtani + Bryce Eldridge + Shea Langeliers | Avg HR Score: 68.1
+- Nick Kurtz + Shea Langeliers + Bryce Eldridge | Avg HR Score: 69.7
+- Shea Langeliers + Bryce Eldridge + Cole Carrigg | Avg HR Score: 66.9
+- Bryce Eldridge + Cole Carrigg + Hunter Goodman | Avg HR Score: 65.8
+- Cole Carrigg + Hunter Goodman + Colby Thomas | Avg HR Score: 64.7
+- Hunter Goodman + Colby Thomas + Mike Trout | Avg HR Score: 63.8
 
 ## Best 4-Leg Pairings
 
-- James Wood + Nick Kurtz + Yordan Alvarez + Pete Alonso | Avg HR Score: 73.0
-- Nick Kurtz + Yordan Alvarez + Pete Alonso + Shohei Ohtani | Avg HR Score: 71.3
-- Yordan Alvarez + Pete Alonso + Shohei Ohtani + Bryce Eldridge | Avg HR Score: 70.0
-- Pete Alonso + Shohei Ohtani + Bryce Eldridge + Shea Langeliers | Avg HR Score: 68.8
-- Shohei Ohtani + Bryce Eldridge + Shea Langeliers + Cole Carrigg | Avg HR Score: 67.3
+- Nick Kurtz + Shea Langeliers + Bryce Eldridge + Cole Carrigg | Avg HR Score: 68.5
+- Shea Langeliers + Bryce Eldridge + Cole Carrigg + Hunter Goodman | Avg HR Score: 66.3
+- Bryce Eldridge + Cole Carrigg + Hunter Goodman + Colby Thomas | Avg HR Score: 65.5
+- Cole Carrigg + Hunter Goodman + Colby Thomas + Mike Trout | Avg HR Score: 64.1
+- Hunter Goodman + Colby Thomas + Mike Trout + Edouard Julien | Avg HR Score: 62.7
