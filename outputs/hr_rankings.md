@@ -19,9 +19,9 @@
 | 15 | Brandon Nimmo | TEX | Randy Vásquez | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Hunter Goodman | COL | Bubba Chandler | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 17 | Jo Adell | LAA | Jeffrey Springs | 3 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Junior Caminero | TB | PJ Poulin | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Pete Alonso | BAL | Roki Sasaki | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Drake Baldwin | ATL | Jacob Misiorowski | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Byron Buxton | MIN | Michael Soroka | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Junior Caminero | TB | PJ Poulin | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Pete Alonso | BAL | Roki Sasaki | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
