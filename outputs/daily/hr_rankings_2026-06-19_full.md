@@ -9,19 +9,19 @@
 | 5 | Ben Rice | NYY | Rhett Lowder | 1 | 66.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Bryce Eldridge | SF | Lake Bachar | 2 | 66.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Esmerlyn Valdez | PIT | Kyle Freeland | 5 | 66.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 8 | Jackson Chourio | MIL | Martín Pérez | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Lars Nootbaar | STL | Seth Lugo | 5 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 8 | Lars Nootbaar | STL | Seth Lugo | 5 | 65.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Jackson Chourio | MIL | Martín Pérez | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Bryan Reynolds | PIT | Kyle Freeland | 3 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Nick Kurtz | ATH | José Soriano | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Brandon Lowe | PIT | Kyle Freeland | 2 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 13 | Alec Burleson | STL | Seth Lugo | 3 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Matt Olson | ATL | Jacob Misiorowski | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Jac Caglianone | KC | Michael McGreevy | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jordan Walker | STL | Seth Lugo | 4 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Hunter Goodman | COL | Bubba Chandler | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Junior Caminero | TB | PJ Poulin | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Pete Alonso | BAL | Roki Sasaki | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Drake Baldwin | ATL | Jacob Misiorowski | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Alec Burleson | STL | Seth Lugo | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Nick Kurtz | ATH | José Soriano | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Brandon Lowe | PIT | Kyle Freeland | 2 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Jordan Walker | STL | Seth Lugo | 4 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Matt Olson | ATL | Jacob Misiorowski | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Jac Caglianone | KC | Michael McGreevy | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Brandon Nimmo | TEX | Randy Vásquez | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Hunter Goodman | COL | Bubba Chandler | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Junior Caminero | TB | PJ Poulin | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Pete Alonso | BAL | Roki Sasaki | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - John Rave + James Wood + Shohei Ohtani + Ben Rice | Avg HR Score: 68.6
 - James Wood + Shohei Ohtani + Ben Rice + Bryce Eldridge | Avg HR Score: 67.5
 - Shohei Ohtani + Ben Rice + Bryce Eldridge + Esmerlyn Valdez | Avg HR Score: 66.7
-- Ben Rice + Bryce Eldridge + Esmerlyn Valdez + Jackson Chourio | Avg HR Score: 65.9
+- Ben Rice + Bryce Eldridge + Esmerlyn Valdez + Lars Nootbaar | Avg HR Score: 66.0
