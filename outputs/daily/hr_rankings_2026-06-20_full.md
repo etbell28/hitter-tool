@@ -17,11 +17,11 @@
 | 13 | JJ Bleday | CIN | Will Warren | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 14 | Juan Soto | NYM | Cristopher Sánchez | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Pete Crow-Armstrong | CHC | Patrick Corbin | 1 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Randal Grichuk | CWS | Troy Melton | 5 | 59.0 | Longshot | Watch List | Strong Barrel |
+| 16 | Randal Grichuk | CWS | Troy Melton | 5 | 58.9 | Longshot | Watch List | Strong Barrel |
 | 17 | Rafael Devers | SF | Max Meyer | 4 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | George Springer | TOR | Colin Rea | 1 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 19 | Drake Baldwin | ATL | Kyle Harrison | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Kody Clemens | MIN | Zac Gallen | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Nathaniel Lowe | CIN | Will Warren | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
