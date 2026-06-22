@@ -11,8 +11,8 @@
 | 7 | Pete Crow-Armstrong | CHC | Kodai Senga | 1 | 65.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Jackson Chourio | MIL | Brady Singer | 2 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 9 | James Wood | WSH | Tim Mayza | 1 | 64.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 10 | Pete Alonso | BAL | Sam Aldegheri | 3 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Yordan Alvarez | HOU | Dylan Cease | 2 | 63.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Yordan Alvarez | HOU | Dylan Cease | 2 | 64.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Pete Alonso | BAL | Sam Aldegheri | 3 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Alec Burleson | STL | Merrill Kelly | 3 | 63.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 13 | Ben Rice | NYY | Framber Valdez | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 14 | Hunter Goodman | COL | Jake Bennett | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
