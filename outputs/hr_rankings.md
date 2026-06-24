@@ -15,7 +15,7 @@
 | 11 | Pete Alonso | BAL | José Soriano | 4 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 12 | Freddie Freeman | LAD | Joe Ryan | 3 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Max Muncy | LAD | Joe Ryan | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 14 | Dillon Dingler | DET | Ryan Weathers | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Dillon Dingler | DET | Ryan Weathers | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Francisco Alvarez | NYM | Shota Imanaga | 6 | 61.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 16 | Jake Bauers | MIL | Rhett Lowder | 5 | 61.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
 | 17 | Sal Stewart | CIN | Shane Drohan | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
