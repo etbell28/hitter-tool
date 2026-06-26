@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Byron Buxton | MIN | Tomoyuki Sugano | 2 | 65.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 2 | Yordan Alvarez | HOU | Keider Montero | 2 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Byron Buxton | MIN | Tomoyuki Sugano | 2 | 67.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 2 | Yordan Alvarez | HOU | Keider Montero | 2 | 65.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Kyle Schwarber | PHI |  | 2 | 64.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Shohei Ohtani | LAD | Walker Buehler | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | John Rave | KC |  | 7 | 61.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 6 | Kody Clemens | MIN | Tomoyuki Sugano | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 7 | Junior Caminero | TB | Zac Gallen | 4 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | Kyle Stowers | MIA | Michael McGreevy | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | James Wood | WSH | Trevor Rogers | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Jake Bauers | MIL | Colin Rea | 5 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 11 | Juan Soto | NYM | Zack Wheeler | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Kahlil Watson | CLE | Luis Castillo | 6 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 13 | Jac Caglianone | KC |  | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Josh Bell | MIN | Tomoyuki Sugano | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 15 | Jonathan Aranda | TB | Zac Gallen | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Pete Alonso | BAL | Andrew Alvarez | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Esmerlyn Valdez | PIT | Andrew Abbott | 7 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 18 | Griffin Conine | MIA | Michael McGreevy | 5 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 19 | Bryce Harper | PHI |  | 3 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Nick Kurtz | ATH | Walbert Ureña | 2 | 55.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Esmerlyn Valdez | PIT | Andrew Abbott | 6 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 5 | Shohei Ohtani | LAD | Walker Buehler | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Junior Caminero | TB | Zac Gallen | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Kody Clemens | MIN | Tomoyuki Sugano | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 8 | Kahlil Watson | CLE | Luis Castillo | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | John Rave | KC |  | 7 | 61.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 10 | Jonathan Aranda | TB | Zac Gallen | 2 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Kyle Stowers | MIA | Michael McGreevy | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Josh Bell | MIN | Tomoyuki Sugano | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 13 | James Wood | WSH | Trevor Rogers | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 14 | Jake Bauers | MIL | Colin Rea | 5 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 15 | Kazuma Okamoto | TOR | Nathan Eovaldi | 4 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Juan Soto | NYM | Zack Wheeler | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jac Caglianone | KC |  | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Mickey Moniak | COL | Taj Bradley | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Brandon Lowe | PIT | Andrew Abbott | 2 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Bryan Reynolds | PIT | Andrew Abbott | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Byron Buxton + Yordan Alvarez | Avg HR Score: 65.2
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 64.4
-- Kyle Schwarber + Shohei Ohtani | Avg HR Score: 64.1
-- Shohei Ohtani + John Rave | Avg HR Score: 62.5
-- John Rave + Kody Clemens | Avg HR Score: 60.8
+- Byron Buxton + Yordan Alvarez | Avg HR Score: 66.8
+- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 65.0
+- Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 64.1
+- Esmerlyn Valdez + Shohei Ohtani | Avg HR Score: 64.0
+- Shohei Ohtani + Junior Caminero | Avg HR Score: 63.2
 
 ## Best 3-Leg Pairings
 
-- Byron Buxton + Yordan Alvarez + Kyle Schwarber | Avg HR Score: 64.9
-- Yordan Alvarez + Kyle Schwarber + Shohei Ohtani | Avg HR Score: 64.3
-- Kyle Schwarber + Shohei Ohtani + John Rave | Avg HR Score: 63.1
-- Shohei Ohtani + John Rave + Kody Clemens | Avg HR Score: 61.9
-- John Rave + Kody Clemens + Junior Caminero | Avg HR Score: 60.4
+- Byron Buxton + Yordan Alvarez + Kyle Schwarber | Avg HR Score: 65.9
+- Yordan Alvarez + Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 64.7
+- Kyle Schwarber + Esmerlyn Valdez + Shohei Ohtani | Avg HR Score: 64.1
+- Esmerlyn Valdez + Shohei Ohtani + Junior Caminero | Avg HR Score: 63.5
+- Shohei Ohtani + Junior Caminero + Kody Clemens | Avg HR Score: 63.0
 
 ## Best 4-Leg Pairings
 
-- Byron Buxton + Yordan Alvarez + Kyle Schwarber + Shohei Ohtani | Avg HR Score: 64.7
-- Yordan Alvarez + Kyle Schwarber + Shohei Ohtani + John Rave | Avg HR Score: 63.5
-- Kyle Schwarber + Shohei Ohtani + John Rave + Kody Clemens | Avg HR Score: 62.5
-- Shohei Ohtani + John Rave + Kody Clemens + Junior Caminero | Avg HR Score: 61.3
-- John Rave + Kody Clemens + Junior Caminero + Kyle Stowers | Avg HR Score: 60.1
+- Byron Buxton + Yordan Alvarez + Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 65.4
+- Yordan Alvarez + Kyle Schwarber + Esmerlyn Valdez + Shohei Ohtani | Avg HR Score: 64.5
+- Kyle Schwarber + Esmerlyn Valdez + Shohei Ohtani + Junior Caminero | Avg HR Score: 63.7
+- Esmerlyn Valdez + Shohei Ohtani + Junior Caminero + Kody Clemens | Avg HR Score: 63.2
+- Shohei Ohtani + Junior Caminero + Kody Clemens + Kahlil Watson | Avg HR Score: 62.8
