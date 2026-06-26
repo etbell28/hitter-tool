@@ -11,15 +11,15 @@
 | 7 | Brandon Marsh | PHI | Zach Thornton | 5 | 65.4 | Tier 3 | Watch List | Pitcher Vulnerable, Hot Hitter/Streak |
 | 8 | Juan Soto | NYM | Zack Wheeler | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Kyle Stowers | MIA | Michael McGreevy | 4 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | James Wood | WSH | Trevor Rogers | 1 | 64.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 11 | Esmerlyn Valdez | PIT | Andrew Abbott | 6 | 63.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 12 | Griffin Conine | MIA | Michael McGreevy | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jac Caglianone | KC | David Sandlin | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Kody Clemens | MIN | Tomoyuki Sugano | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 15 | Pete Alonso | BAL | Andrew Alvarez | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Junior Caminero | TB | Zac Gallen | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Jake Bauers | MIL | Colin Rea | 5 | 62.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Kahlil Watson | CLE | Luis Castillo | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Esmerlyn Valdez | PIT | Andrew Abbott | 6 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 11 | Griffin Conine | MIA | Michael McGreevy | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jac Caglianone | KC | David Sandlin | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Kody Clemens | MIN | Tomoyuki Sugano | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 14 | Junior Caminero | TB | Zac Gallen | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Jake Bauers | MIL | Colin Rea | 5 | 62.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Kahlil Watson | CLE | Luis Castillo | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Bryce Eldridge | SF | Reynaldo López | 2 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | James Wood | WSH | Trevor Rogers | 1 | 61.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 19 | Kazuma Okamoto | TOR | Nathan Eovaldi | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 20 | Nick Kurtz | ATH | Walbert Ureña | 2 | 61.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
