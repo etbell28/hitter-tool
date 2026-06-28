@@ -13,7 +13,7 @@
 | 9 | Kyle Stowers | MIA | Kyle Leahy | 3 | 65.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Junior Caminero | TB | Merrill Kelly | 3 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 11 | Nick Kurtz | ATH | Sam Aldegheri | 2 | 64.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 12 | Kahlil Watson | CLE | Emerson Hancock | 5 | 64.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Kahlil Watson | CLE | Emerson Hancock | 5 | 64.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 13 | Shohei Ohtani | LAD | Michael King | 1 | 63.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | James Wood | WSH | Kyle Bradish | 1 | 63.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Jonathan Aranda | TB | Merrill Kelly | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
