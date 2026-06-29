@@ -15,13 +15,13 @@
 | 11 | Mickey Moniak | COL | Sandy Alcantara | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 12 | Colson Montgomery | CWS | Shane Baz | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Bryan Reynolds | PIT | Aaron Nola | 3 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Dillon Dingler | DET | Ryan Weathers | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Shea Langeliers | ATH | Eric Lauer | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Riley Greene | DET | Ryan Weathers | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Kazuma Okamoto | TOR | Sean Manaea | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Manny Machado | SD | Shota Imanaga | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Juan Soto | NYM | Trey Yesavage | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Pete Crow-Armstrong | CHC | Griffin Canning | 1 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Kazuma Okamoto | TOR | Sean Manaea | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Dillon Dingler | DET | Ryan Weathers | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Juan Soto | NYM | Trey Yesavage | 2 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Wilyer Abreu | BOS | Miles Mikolas | 3 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Willson Contreras | BOS | Miles Mikolas | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Shea Langeliers | ATH | Eric Lauer | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Riley Greene | DET | Ryan Weathers | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
