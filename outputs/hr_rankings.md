@@ -11,17 +11,17 @@
 | 7 | Pete Crow-Armstrong | CHC | Griffin Canning | 1 | 65.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 8 | Brandon Lowe | PIT | Aaron Nola | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 9 | Fernando Tatis Jr. | SD | Shota Imanaga | 1 | 64.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Pete Alonso | BAL | Sean Burke | 4 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Pete Alonso | BAL | Sean Burke | 4 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 11 | Dillon Dingler | DET | Ryan Weathers | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Michael Busch | CHC | Griffin Canning | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Hunter Goodman | COL | Sandy Alcantara | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 14 | Ian Happ | CHC | Griffin Canning | 5 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
 | 15 | Ty France | SD | Shota Imanaga | 5 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 16 | Spencer Torkelson | DET | Ryan Weathers | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Juan Soto | NYM | Trey Yesavage | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Kazuma Okamoto | TOR | Sean Manaea | 4 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Michael Conforto | CHC | Griffin Canning | 7 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 20 | Miguel Vargas | CWS | Shane Baz | 2 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Max Kepler | AZ | Tyler Mahle | 6 | 62.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 17 | Spencer Torkelson | DET | Ryan Weathers | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Juan Soto | NYM | Trey Yesavage | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Kazuma Okamoto | TOR | Sean Manaea | 4 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Dominic Canzone | SEA | Ryan Johnson | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
