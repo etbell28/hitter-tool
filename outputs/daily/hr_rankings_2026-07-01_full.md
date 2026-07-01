@@ -17,7 +17,7 @@
 | 13 | Ben Rice | NYY | Troy Melton | 1 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 14 | Ty France | SD | Colin Rea | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Manny Machado | SD | Colin Rea | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 16 | Pete Crow-Armstrong | CHC | Walker Buehler | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Pete Crow-Armstrong | CHC | Walker Buehler | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 17 | Junior Caminero | TB | Seth Lugo | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 18 | Rafael Devers | SF | Zac Gallen | 4 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 19 | Kyle Schwarber | PHI | Paul Skenes | 2 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
