@@ -11,15 +11,15 @@
 | 7 | Colson Montgomery | CWS | Slade Cecconi | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 8 | Jac Caglianone | KC | Ian Seymour | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 9 | Mookie Betts | LAD | Randy Vásquez | 4 | 60.8 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 10 | Miguel Vargas | CWS | Slade Cecconi | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Andy Pages | LAD | Randy Vásquez | 2 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
+| 10 | Andy Pages | LAD | Randy Vásquez | 2 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
+| 11 | Miguel Vargas | CWS | Slade Cecconi | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 12 | Fernando Tatis | SD | Roki Sasaki | 1 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 13 | Drake Baldwin | ATL | Dustin May | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Jonathan Aranda | TB | Stephen Kolek | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 15 | Manny Machado | SD | Roki Sasaki | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 16 | Gavin Sheets | SD | Roki Sasaki | 5 | 59.5 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 17 | Kahlil Watson | CLE | Davis Martin | 4 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jackson Merrill | SD | Roki Sasaki | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jackson Merrill | SD | Roki Sasaki | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Kahlil Watson | CLE | Davis Martin | 4 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Riley Greene | DET | Nathan Eovaldi | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Michael Harris II | ATL | Dustin May | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
