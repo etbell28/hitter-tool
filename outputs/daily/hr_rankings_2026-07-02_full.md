@@ -2,7 +2,7 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Jared Jones | 2 | 74.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Jared Jones | 2 | 73.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Esmerlyn Valdez | PIT | Alan Rangel | 4 | 70.6 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 3 | Shohei Ohtani | LAD | Randy Vásquez | 1 | 69.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 4 | Bryce Harper | PHI | Jared Jones | 3 | 67.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -21,11 +21,11 @@
 | 17 | Riley Greene | DET | Nathan Eovaldi | 4 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Joe Mack | MIA | Michael Lorenzen | 9 | 55.7 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
 | 19 | Colson Montgomery | CWS | Slade Cecconi | 5 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 20 | Jackson Chourio | MIL | Chase Burns | 2 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Willi Castro | COL | Ryan Gusto | 4 | 55.5 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 72.3
+- Kyle Schwarber + Esmerlyn Valdez | Avg HR Score: 72.2
 - Esmerlyn Valdez + Shohei Ohtani | Avg HR Score: 70.0
 - Shohei Ohtani + Bryce Harper | Avg HR Score: 68.3
 - Bryce Harper + Mickey Moniak | Avg HR Score: 67.1
