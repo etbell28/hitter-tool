@@ -17,11 +17,11 @@
 | 13 | Yordan Alvarez | HOU | Drew Rasmussen | 2 | 62.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Kyle Stowers | MIA | Aaron Civale | 3 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Nick Kurtz | ATH | Sandy Alcantara | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Luke Raley | SEA | Shane Bieber | 6 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 17 | Ryan McMahon | NYY | Zebby Matthews | 7 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 18 | Jake Bauers | MIL | Merrill Kelly | 5 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 19 | Cal Raleigh | SEA | Shane Bieber | 4 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 20 | Kyle Schwarber | PHI | Michael Wacha | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Riley Greene | DET | Cal Quantrill | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Luke Raley | SEA | Shane Bieber | 6 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 18 | Ryan McMahon | NYY | Zebby Matthews | 7 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 19 | Jake Bauers | MIL | Merrill Kelly | 5 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 20 | Cal Raleigh | SEA | Shane Bieber | 4 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
