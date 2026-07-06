@@ -2,7 +2,7 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Miles Mikolas | 2 | 77.4 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Yordan Alvarez | HOU | Miles Mikolas | 2 | 77.6 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | James Wood | WSH | Mike Burrows | 1 | 72.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 3 | Shohei Ohtani | LAD | Kyle Freeland | 1 | 68.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 4 | Hunter Goodman | COL | Eric Lauer | 3 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -20,8 +20,8 @@
 | 16 | Jake Bauers | MIL | Dustin May | 5 | 58.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 17 | Manny Machado | SD | Brandon Pfaadt | 3 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 18 | Max Muncy | LAD | Kyle Freeland | 7 | 58.0 | Longshot | Watch List | Strong Barrel |
-| 19 | Christian Walker | HOU | Miles Mikolas | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Fernando Tatis Jr. | SD | Brandon Pfaadt | 1 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Fernando Tatis Jr. | SD | Brandon Pfaadt | 1 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Teoscar Hernández | LAD | Kyle Freeland | 6 | 57.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
