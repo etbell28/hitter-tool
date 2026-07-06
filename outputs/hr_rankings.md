@@ -10,7 +10,7 @@
 | 6 | Ben Rice | NYY | Griffin Jax | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Juan Soto | NYM | Reynaldo López | 2 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Junior Caminero | TB | Cam Schlittler | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 9 | Bobby Witt Jr. | KC | Cristopher Sánchez | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Bobby Witt Jr. | KC | Cristopher Sánchez | 2 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Rafael Devers | SF | Kevin Gausman | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Trent Grisham | NYY | Griffin Jax | 1 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Matt Olson | ATL | Freddy Peralta | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
