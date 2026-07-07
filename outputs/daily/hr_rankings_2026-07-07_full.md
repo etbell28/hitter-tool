@@ -14,14 +14,14 @@
 | 10 | Ketel Marte | AZ | Germán Márquez | 1 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Bobby Witt Jr. | KC | Cionel Pérez | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Freddie Freeman | LAD | Michael Lorenzen | 3 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Matt Olson | ATL | Paul Skenes | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Willson Contreras | BOS | Noah Schultz | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Willson Contreras | BOS | Noah Schultz | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Matt Olson | ATL | Paul Skenes | 3 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Jake Bauers | MIL | Hunter Dobbins | 5 | 61.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 16 | Corbin Carroll | AZ | Germán Márquez | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Dominic Canzone | SEA | Max Meyer | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Kyle Stowers | MIA | Bryan Woo | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Esmerlyn Valdez | PIT | Hurston Waldrep | 4 | 60.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 20 | Jackson Merrill | SD | Zac Gallen | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jackson Merrill | SD | Zac Gallen | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Esmerlyn Valdez | PIT | Hurston Waldrep | 4 | 60.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
