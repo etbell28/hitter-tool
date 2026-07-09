@@ -5,7 +5,7 @@
 | 1 | Kyle Schwarber | PHI | Brady Singer | 2 | 76.7 | Tier 2 | Best Overall | Projected Lineup, Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Matt Olson | ATL | Mitch Keller | 3 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 3 | Alan Roden | MIN | Gavin Williams | 6 | 65.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 4 | Juan Soto | NYM | Michael Wacha | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Juan Soto | NYM | Michael Wacha | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Bryce Harper | PHI | Brady Singer | 3 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Kody Clemens | MIN | Gavin Williams | 3 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Esmerlyn Valdez | PIT | Bryce Elder | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
@@ -27,8 +27,8 @@
 
 - Kyle Schwarber + Matt Olson | Avg HR Score: 71.6
 - Matt Olson + Alan Roden | Avg HR Score: 66.1
-- Alan Roden + Juan Soto | Avg HR Score: 65.0
-- Juan Soto + Bryce Harper | Avg HR Score: 64.3
+- Alan Roden + Juan Soto | Avg HR Score: 65.1
+- Juan Soto + Bryce Harper | Avg HR Score: 64.4
 - Bryce Harper + Kody Clemens | Avg HR Score: 64.0
 
 ## Best 3-Leg Pairings
@@ -36,13 +36,13 @@
 - Kyle Schwarber + Matt Olson + Alan Roden | Avg HR Score: 69.6
 - Matt Olson + Alan Roden + Juan Soto | Avg HR Score: 65.5
 - Alan Roden + Juan Soto + Bryce Harper | Avg HR Score: 64.8
-- Juan Soto + Bryce Harper + Kody Clemens | Avg HR Score: 64.1
+- Juan Soto + Bryce Harper + Kody Clemens | Avg HR Score: 64.2
 - Bryce Harper + Kody Clemens + Esmerlyn Valdez | Avg HR Score: 63.6
 
 ## Best 4-Leg Pairings
 
 - Kyle Schwarber + Matt Olson + Alan Roden + Juan Soto | Avg HR Score: 68.3
 - Matt Olson + Alan Roden + Juan Soto + Bryce Harper | Avg HR Score: 65.2
-- Alan Roden + Juan Soto + Bryce Harper + Kody Clemens | Avg HR Score: 64.5
+- Alan Roden + Juan Soto + Bryce Harper + Kody Clemens | Avg HR Score: 64.6
 - Juan Soto + Bryce Harper + Kody Clemens + Esmerlyn Valdez | Avg HR Score: 63.8
 - Bryce Harper + Kody Clemens + Esmerlyn Valdez + Sal Stewart | Avg HR Score: 63.2
