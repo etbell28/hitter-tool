@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Cal Quantrill | 2 | 69.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Kyle Schwarber | PHI | Jack Flaherty | 2 | 66.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | James Wood | WSH | Ryan Weathers | 1 | 66.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Pete Crow-Armstrong | CHC | Hunter Greene | 1 | 65.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Mike Trout | LAA | Zebby Matthews | 2 | 64.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 6 | Sal Stewart | CIN | Shota Imanaga | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Kody Clemens | MIN | Grayson Rodriguez | 3 | 63.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Alan Roden | MIN | Grayson Rodriguez | 7 | 63.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 9 | Matt Olson | ATL | Kyle Leahy | 3 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Rafael Devers | SF | Tanner Gordon | 4 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Juan Soto | NYM | Sonny Gray | 2 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Bryce Eldridge | SF | Tanner Gordon | 7 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 13 | Jackson Merrill | SD | Shane Bieber | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 14 | Manny Machado | SD | Shane Bieber | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Michael Busch | CHC | Hunter Greene | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 16 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 60.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 17 | Nick Kurtz | ATH | Sean Burke | 1 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Kazuma Okamoto | TOR | JP Sears | 4 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Michael Conforto | CHC | Hunter Greene | 7 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
-| 20 | Josh Bell | MIN | Grayson Rodriguez | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Yordan Alvarez | HOU | Cal Quantrill | 2 | 72.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Pete Crow-Armstrong | CHC | Hunter Greene | 1 | 71.9 | Tier 2 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | James Wood | WSH | Ryan Weathers | 1 | 71.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Sal Stewart | CIN | Shota Imanaga | 2 | 69.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Matt Olson | ATL | Kyle Leahy | 3 | 69.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Juan Soto | NYM | Sonny Gray | 2 | 69.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Kyle Schwarber | PHI | Jack Flaherty | 2 | 69.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Mike Trout | LAA | Zebby Matthews | 2 | 67.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Kody Clemens | MIN | Grayson Rodriguez | 3 | 67.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Michael Busch | CHC | Hunter Greene | 3 | 67.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Eduardo Valencia | DET | Aaron Nola | 6 | 66.8 | Tier 3 | Watch List | Elite Power, Strong Barrel |
+| 12 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 66.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 13 | Michael Conforto | CHC | Hunter Greene | 7 | 66.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 14 | Seiya Suzuki | CHC | Hunter Greene | 4 | 66.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Munetaka Murakami | CWS | Jacob Lopez | 2 | 65.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 16 | Elly De La Cruz | CIN | Shota Imanaga | 1 | 65.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Drake Baldwin | ATL | Kyle Leahy | 4 | 64.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Ian Happ | CHC | Hunter Greene | 5 | 64.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Platoon Edge |
+| 19 | Michael Harris II | ATL | Kyle Leahy | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Josh Bell | MIN | Grayson Rodriguez | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 68.1
-- Kyle Schwarber + James Wood | Avg HR Score: 66.7
-- James Wood + Pete Crow-Armstrong | Avg HR Score: 66.2
-- Pete Crow-Armstrong + Mike Trout | Avg HR Score: 65.0
-- Mike Trout + Sal Stewart | Avg HR Score: 63.9
+- Yordan Alvarez + Pete Crow-Armstrong | Avg HR Score: 72.0
+- Pete Crow-Armstrong + James Wood | Avg HR Score: 71.6
+- James Wood + Sal Stewart | Avg HR Score: 70.5
+- Sal Stewart + Matt Olson | Avg HR Score: 69.5
+- Matt Olson + Juan Soto | Avg HR Score: 69.2
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + James Wood | Avg HR Score: 67.6
-- Kyle Schwarber + James Wood + Pete Crow-Armstrong | Avg HR Score: 66.3
-- James Wood + Pete Crow-Armstrong + Mike Trout | Avg HR Score: 65.6
-- Pete Crow-Armstrong + Mike Trout + Sal Stewart | Avg HR Score: 64.5
-- Mike Trout + Sal Stewart + Kody Clemens | Avg HR Score: 63.6
+- Yordan Alvarez + Pete Crow-Armstrong + James Wood | Avg HR Score: 71.7
+- Pete Crow-Armstrong + James Wood + Sal Stewart | Avg HR Score: 70.9
+- James Wood + Sal Stewart + Matt Olson | Avg HR Score: 70.1
+- Sal Stewart + Matt Olson + Juan Soto | Avg HR Score: 69.4
+- Matt Olson + Juan Soto + Kyle Schwarber | Avg HR Score: 69.1
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + James Wood + Pete Crow-Armstrong | Avg HR Score: 67.1
-- Kyle Schwarber + James Wood + Pete Crow-Armstrong + Mike Trout | Avg HR Score: 65.8
-- James Wood + Pete Crow-Armstrong + Mike Trout + Sal Stewart | Avg HR Score: 65.0
-- Pete Crow-Armstrong + Mike Trout + Sal Stewart + Kody Clemens | Avg HR Score: 64.1
-- Mike Trout + Sal Stewart + Kody Clemens + Alan Roden | Avg HR Score: 63.5
+- Yordan Alvarez + Pete Crow-Armstrong + James Wood + Sal Stewart | Avg HR Score: 71.2
+- Pete Crow-Armstrong + James Wood + Sal Stewart + Matt Olson | Avg HR Score: 70.5
+- James Wood + Sal Stewart + Matt Olson + Juan Soto | Avg HR Score: 69.8
+- Sal Stewart + Matt Olson + Juan Soto + Kyle Schwarber | Avg HR Score: 69.3
+- Matt Olson + Juan Soto + Kyle Schwarber + Mike Trout | Avg HR Score: 68.8
