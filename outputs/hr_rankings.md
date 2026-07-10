@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Jackson Merrill | SD | Merrill Kelly | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 2 | Mike Trout | LAA | Nathan Eovaldi | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Manny Machado | SD | Merrill Kelly | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 4 | Rafael Devers | SF | Ryan Feltner | 4 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Max Kepler | AZ | Griffin Canning | 5 | 61.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 6 | Fernando Tatis Jr. | SD | Merrill Kelly | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 7 | Bryce Eldridge | SF | Ryan Feltner | 6 | 61.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 8 | Corbin Carroll | AZ | Griffin Canning | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Ketel Marte | AZ | Griffin Canning | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Hunter Goodman | COL | Carson Whisenhunt | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Heliot Ramos | SF | Ryan Feltner | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Gavin Sheets | SD | Merrill Kelly | 5 | 58.3 | Longshot | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 13 | Jake Cronenworth | SD | Merrill Kelly | 6 | 54.2 | Longshot | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 14 | Casey Schmitt | SF | Ryan Feltner | 3 | 53.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Justin Foscue | TEX | Reid Detmers | 1 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Wyatt Langford | TEX | Reid Detmers | 2 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Xander Bogaerts | SD | Merrill Kelly | 3 | 53.0 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
-| 18 | Victor Bericoto | SF | Ryan Feltner | 7 | 52.8 | Longshot | Watch List | Strong Barrel |
-| 19 | Zach Neto | LAA | Nathan Eovaldi | 1 | 52.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Gabriel Moreno | AZ | Griffin Canning | 4 | 52.5 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Kyle Schwarber | PHI | Jack Flaherty | 2 | 66.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Pete Crow-Armstrong | CHC | Hunter Greene | 1 | 65.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Mike Trout | LAA | Zebby Matthews | 2 | 64.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Sal Stewart | CIN | Shota Imanaga | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Bryce Eldridge | SF | Tanner Gordon | 6 | 63.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 6 | Matt Olson | ATL | Kyle Leahy | 3 | 62.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Rafael Devers | SF | Tanner Gordon | 4 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Juan Soto | NYM | Sonny Gray | 2 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Jackson Merrill | SD | Shane Bieber | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 10 | Nick Kurtz | ATH | Sean Burke | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Manny Machado | SD | Shane Bieber | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Seiya Suzuki | CHC | Hunter Greene | 3 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Michael Busch | CHC | Hunter Greene | 5 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 14 | Fernando Tatis | SD | Shane Bieber | 1 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 15 | Elly De La Cruz | CIN | Shota Imanaga | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Riley Greene | DET | Aaron Nola | 4 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Drake Baldwin | ATL | Kyle Leahy | 4 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Heliot Ramos | SF | Tanner Gordon | 1 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Michael Harris | ATL | Kyle Leahy | 1 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Dominic Canzone | SEA | Nick Martinez | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Jackson Merrill + Mike Trout | Avg HR Score: 64.0
-- Mike Trout + Manny Machado | Avg HR Score: 62.6
-- Manny Machado + Rafael Devers | Avg HR Score: 62.0
-- Rafael Devers + Max Kepler | Avg HR Score: 61.8
-- Max Kepler + Fernando Tatis Jr. | Avg HR Score: 61.7
+- Kyle Schwarber + Pete Crow-Armstrong | Avg HR Score: 66.2
+- Pete Crow-Armstrong + Mike Trout | Avg HR Score: 65.0
+- Mike Trout + Sal Stewart | Avg HR Score: 63.9
+- Sal Stewart + Bryce Eldridge | Avg HR Score: 63.2
+- Bryce Eldridge + Matt Olson | Avg HR Score: 63.0
 
 ## Best 3-Leg Pairings
 
-- Jackson Merrill + Mike Trout + Manny Machado | Avg HR Score: 63.4
-- Mike Trout + Manny Machado + Rafael Devers | Avg HR Score: 62.4
-- Manny Machado + Rafael Devers + Max Kepler | Avg HR Score: 61.9
-- Rafael Devers + Max Kepler + Fernando Tatis Jr. | Avg HR Score: 61.7
-- Max Kepler + Fernando Tatis Jr. + Bryce Eldridge | Avg HR Score: 61.5
+- Kyle Schwarber + Pete Crow-Armstrong + Mike Trout | Avg HR Score: 65.6
+- Pete Crow-Armstrong + Mike Trout + Sal Stewart | Avg HR Score: 64.5
+- Mike Trout + Sal Stewart + Bryce Eldridge | Avg HR Score: 63.6
+- Sal Stewart + Bryce Eldridge + Matt Olson | Avg HR Score: 63.1
+- Bryce Eldridge + Matt Olson + Rafael Devers | Avg HR Score: 62.9
 
 ## Best 4-Leg Pairings
 
-- Jackson Merrill + Mike Trout + Manny Machado + Rafael Devers | Avg HR Score: 63.0
-- Mike Trout + Manny Machado + Rafael Devers + Max Kepler | Avg HR Score: 62.2
-- Manny Machado + Rafael Devers + Max Kepler + Fernando Tatis Jr. | Avg HR Score: 61.9
-- Rafael Devers + Max Kepler + Fernando Tatis Jr. + Bryce Eldridge | Avg HR Score: 61.6
-- Max Kepler + Fernando Tatis Jr. + Bryce Eldridge + Corbin Carroll | Avg HR Score: 61.1
+- Kyle Schwarber + Pete Crow-Armstrong + Mike Trout + Sal Stewart | Avg HR Score: 65.0
+- Pete Crow-Armstrong + Mike Trout + Sal Stewart + Bryce Eldridge | Avg HR Score: 64.1
+- Mike Trout + Sal Stewart + Bryce Eldridge + Matt Olson | Avg HR Score: 63.4
+- Sal Stewart + Bryce Eldridge + Matt Olson + Rafael Devers | Avg HR Score: 63.0
+- Bryce Eldridge + Matt Olson + Rafael Devers + Juan Soto | Avg HR Score: 62.6
