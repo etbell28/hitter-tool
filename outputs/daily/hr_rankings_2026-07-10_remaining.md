@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Cal Quantrill | 2 | 72.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Bryce Eldridge | SF | Tanner Gordon | 6 | 69.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 3 | Rafael Devers | SF | Tanner Gordon | 4 | 68.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 67.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 5 | Kody Clemens | MIN | Grayson Rodriguez | 3 | 67.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Jackson Merrill | SD | Shane Bieber | 2 | 66.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 7 | Manny Machado | SD | Shane Bieber | 4 | 66.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | Kazuma Okamoto | TOR | JP Sears | 3 | 65.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Matt Olson | ATL | Kyle Leahy | 3 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Fernando Tatis Jr. | SD | Shane Bieber | 1 | 64.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 11 | Josh Bell | MIN | Grayson Rodriguez | 4 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Heliot Ramos | SF | Tanner Gordon | 1 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Hunter Goodman | COL | Robbie Ray | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Ryan Jeffers | MIN | Grayson Rodriguez | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Alan Roden | MIN | Grayson Rodriguez | 7 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Casey Schmitt | SF | Tanner Gordon | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Gavin Sheets | SD | Shane Bieber | 5 | 61.1 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 18 | Drake Baldwin | ATL | Kyle Leahy | 4 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Michael Harris II | ATL | Kyle Leahy | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Vladimir Guerrero Jr. | TOR | JP Sears | 2 | 59.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 1 | Yordan Alvarez | HOU | Kumar Rocker | 2 | 67.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Shohei Ohtani | LAD | Brandon Pfaadt | 1 | 65.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | James Wood | WSH | Cam Schlittler | 1 | 64.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Ben Rice | NYY | Miles Mikolas | 2 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Eduardo Valencia | DET | Cristopher Sánchez | 6 | 63.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 6 | Kyle Schwarber | PHI | Casey Mize | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Munetaka Murakami | CWS | Gage Jump | 2 | 61.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 8 | Juan Soto | NYM |  | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Dominic Canzone | SEA | Griffin Jax | 3 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Matt Olson | ATL | Matthew Liberatore | 3 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Bryce Eldridge | SF | Kyle Freeland | 6 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel |
+| 12 | Pete Alonso | BAL | Noah Cameron | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Heliot Ramos | SF | Kyle Freeland | 1 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Esmerlyn Valdez | PIT | Shane Drohan | 4 | 59.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Rafael Devers | SF | Kyle Freeland | 4 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Kyle Stowers | MIA | Tanner Bibee | 5 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 17 | Casey Schmitt | SF | Kyle Freeland | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Sal Stewart | CIN | Javier Assad | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Trent Grisham | NYY | Miles Mikolas | 3 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Kody Clemens | MIN | Ryan Johnson | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge | Avg HR Score: 71.0
-- Bryce Eldridge + Rafael Devers | Avg HR Score: 69.1
-- Rafael Devers + Shohei Ohtani | Avg HR Score: 67.9
-- Shohei Ohtani + Kody Clemens | Avg HR Score: 67.3
-- Kody Clemens + Jackson Merrill | Avg HR Score: 67.0
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 66.3
+- Shohei Ohtani + James Wood | Avg HR Score: 65.2
+- James Wood + Ben Rice | Avg HR Score: 64.6
+- Ben Rice + Eduardo Valencia | Avg HR Score: 64.0
+- Eduardo Valencia + Kyle Schwarber | Avg HR Score: 63.5
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge + Rafael Devers | Avg HR Score: 70.1
-- Bryce Eldridge + Rafael Devers + Shohei Ohtani | Avg HR Score: 68.5
-- Rafael Devers + Shohei Ohtani + Kody Clemens | Avg HR Score: 67.7
-- Shohei Ohtani + Kody Clemens + Jackson Merrill | Avg HR Score: 67.1
-- Kody Clemens + Jackson Merrill + Manny Machado | Avg HR Score: 66.9
+- Yordan Alvarez + Shohei Ohtani + James Wood | Avg HR Score: 65.8
+- Shohei Ohtani + James Wood + Ben Rice | Avg HR Score: 64.9
+- James Wood + Ben Rice + Eduardo Valencia | Avg HR Score: 64.3
+- Ben Rice + Eduardo Valencia + Kyle Schwarber | Avg HR Score: 63.8
+- Eduardo Valencia + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 62.8
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Bryce Eldridge + Rafael Devers + Shohei Ohtani | Avg HR Score: 69.5
-- Bryce Eldridge + Rafael Devers + Shohei Ohtani + Kody Clemens | Avg HR Score: 68.2
-- Rafael Devers + Shohei Ohtani + Kody Clemens + Jackson Merrill | Avg HR Score: 67.5
-- Shohei Ohtani + Kody Clemens + Jackson Merrill + Manny Machado | Avg HR Score: 67.0
-- Kody Clemens + Jackson Merrill + Manny Machado + Kazuma Okamoto | Avg HR Score: 66.7
+- Yordan Alvarez + Shohei Ohtani + James Wood + Ben Rice | Avg HR Score: 65.5
+- Shohei Ohtani + James Wood + Ben Rice + Eduardo Valencia | Avg HR Score: 64.6
+- James Wood + Ben Rice + Eduardo Valencia + Kyle Schwarber | Avg HR Score: 64.0
+- Ben Rice + Eduardo Valencia + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 63.2
+- Eduardo Valencia + Kyle Schwarber + Munetaka Murakami + Juan Soto | Avg HR Score: 62.3
