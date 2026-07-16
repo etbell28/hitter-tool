@@ -1,7 +1,7 @@
 {
   "date": "Thursday, July 16, 2026",
-  "generated_at": "09:00 PM ",
-  "generated_iso": "2026-07-16T21:00:10",
+  "generated_at": "10:12 PM ",
+  "generated_iso": "2026-07-16T22:12:00",
   "slate_projection": 18,
   "games_count": 1,
   "confirmed_count": 18,
@@ -14,18 +14,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 69.6,
-      "tier": "Tier 3",
+      "hr_score": 71.6,
+      "tier": "Tier 2",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 73.6,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 64.3,
@@ -66,21 +66,23 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -90,18 +92,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 68.6,
-      "tier": "Tier 3",
+      "hr_score": 70.7,
+      "tier": "Tier 2",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 81.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 57.6,
@@ -142,7 +144,7 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
@@ -150,15 +152,17 @@
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -168,18 +172,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 56.7,
+      "hr_score": 58.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 45.4,
       "pitcher_score": 47.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 94.9,
       "platoon_score": 75.0,
       "recent_form_score": 25.3,
@@ -220,19 +224,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -242,18 +246,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 56.4,
+      "hr_score": 58.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 35.9,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 93.2,
       "platoon_score": 80.0,
       "recent_form_score": 68.7,
@@ -294,19 +298,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -316,18 +320,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 56.1,
+      "hr_score": 58.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 53.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 96.6,
       "platoon_score": 80.0,
       "recent_form_score": 0.8,
@@ -368,19 +372,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -390,18 +394,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 54.8,
+      "hr_score": 56.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 35.5,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 86.4,
       "platoon_score": 80.0,
       "recent_form_score": 56.6,
@@ -442,19 +446,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -464,18 +468,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 54.0,
+      "hr_score": 56.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 44.6,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 64.3,
       "platoon_score": 80.0,
       "recent_form_score": 43.4,
@@ -516,19 +520,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -538,18 +542,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 52.0,
+      "hr_score": 54.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot",
+      "reason_tags": "Good Environment, Premium Lineup Spot",
       "power_score": 35.7,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 96.6,
       "platoon_score": 50.0,
       "recent_form_score": 25.8,
@@ -590,19 +594,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -612,18 +616,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 52.0,
+      "hr_score": 54.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 40.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 94.9,
       "platoon_score": 80.0,
       "recent_form_score": 9.3,
@@ -664,19 +668,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -686,18 +690,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 51.1,
+      "hr_score": 53.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel",
+      "reason_tags": "Strong Barrel, Good Environment",
       "power_score": 54.2,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 44.8,
       "platoon_score": 50.0,
       "recent_form_score": 30.0,
@@ -738,19 +742,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -760,18 +764,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 50.3,
+      "hr_score": 52.3,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 39.2,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 52.4,
       "platoon_score": 80.0,
       "recent_form_score": 37.8,
@@ -812,19 +816,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -834,18 +838,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 45.5,
+      "hr_score": 47.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 26.9,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 76.2,
       "platoon_score": 80.0,
       "recent_form_score": 22.4,
@@ -886,19 +890,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -908,18 +912,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.7,
+      "hr_score": 46.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot",
+      "reason_tags": "Good Environment, Premium Lineup Spot",
       "power_score": 27.4,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 93.2,
       "platoon_score": 50.0,
       "recent_form_score": 10.8,
@@ -960,19 +964,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -982,18 +986,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 44.4,
+      "hr_score": 46.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 18.7,
       "pitcher_score": 47.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 76.2,
       "platoon_score": 75.0,
       "recent_form_score": 7.0,
@@ -1034,19 +1038,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1056,18 +1060,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.4,
+      "hr_score": 46.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 32.1,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 52.4,
       "platoon_score": 80.0,
       "recent_form_score": 32.9,
@@ -1108,19 +1112,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1130,18 +1134,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.0,
+      "hr_score": 46.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 30.5,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 64.3,
       "platoon_score": 50.0,
       "recent_form_score": 56.2,
@@ -1182,19 +1186,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1204,18 +1208,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 43.5,
+      "hr_score": 45.6,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 28.2,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 86.4,
       "platoon_score": 50.0,
       "recent_form_score": 0.0,
@@ -1256,19 +1260,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1278,18 +1282,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 35.9,
+      "hr_score": 37.9,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 9.3,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 44.8,
       "platoon_score": 80.0,
       "recent_form_score": 34.5,
@@ -1330,19 +1334,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     }
   ],
@@ -1354,18 +1358,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 69.6,
-      "tier": "Tier 3",
+      "hr_score": 71.6,
+      "tier": "Tier 2",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 73.6,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 64.3,
@@ -1406,21 +1410,23 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1430,18 +1436,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 68.6,
-      "tier": "Tier 3",
+      "hr_score": 70.7,
+      "tier": "Tier 2",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 81.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 57.6,
@@ -1482,7 +1488,7 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
@@ -1490,15 +1496,17 @@
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1508,18 +1516,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 56.7,
+      "hr_score": 58.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 45.4,
       "pitcher_score": 47.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 94.9,
       "platoon_score": 75.0,
       "recent_form_score": 25.3,
@@ -1560,19 +1568,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1582,18 +1590,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 56.4,
+      "hr_score": 58.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 35.9,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 93.2,
       "platoon_score": 80.0,
       "recent_form_score": 68.7,
@@ -1634,19 +1642,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1656,18 +1664,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 56.1,
+      "hr_score": 58.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 53.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 96.6,
       "platoon_score": 80.0,
       "recent_form_score": 0.8,
@@ -1708,19 +1716,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1730,18 +1738,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 54.8,
+      "hr_score": 56.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 35.5,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 86.4,
       "platoon_score": 80.0,
       "recent_form_score": 56.6,
@@ -1782,19 +1790,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1804,18 +1812,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 54.0,
+      "hr_score": 56.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 44.6,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 64.3,
       "platoon_score": 80.0,
       "recent_form_score": 43.4,
@@ -1856,19 +1864,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1878,18 +1886,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 52.0,
+      "hr_score": 54.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot",
+      "reason_tags": "Good Environment, Premium Lineup Spot",
       "power_score": 35.7,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 96.6,
       "platoon_score": 50.0,
       "recent_form_score": 25.8,
@@ -1930,19 +1938,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1952,18 +1960,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 52.0,
+      "hr_score": 54.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 40.6,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 94.9,
       "platoon_score": 80.0,
       "recent_form_score": 9.3,
@@ -2004,19 +2012,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2026,18 +2034,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 51.1,
+      "hr_score": 53.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel",
+      "reason_tags": "Strong Barrel, Good Environment",
       "power_score": 54.2,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 44.8,
       "platoon_score": 50.0,
       "recent_form_score": 30.0,
@@ -2078,19 +2086,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2100,18 +2108,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 50.3,
+      "hr_score": 52.3,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 39.2,
       "pitcher_score": 49.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 52.4,
       "platoon_score": 80.0,
       "recent_form_score": 37.8,
@@ -2152,19 +2160,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2174,18 +2182,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 45.5,
+      "hr_score": 47.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 26.9,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 76.2,
       "platoon_score": 80.0,
       "recent_form_score": 22.4,
@@ -2226,19 +2234,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2248,18 +2256,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.7,
+      "hr_score": 46.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot",
+      "reason_tags": "Good Environment, Premium Lineup Spot",
       "power_score": 27.4,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 93.2,
       "platoon_score": 50.0,
       "recent_form_score": 10.8,
@@ -2300,19 +2308,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2322,18 +2330,18 @@
       "team": "NYM",
       "opponent": "PHI",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Aaron Nola",
       "pitcher_id": 605400,
       "pitcher_hand": "R",
-      "hr_score": 44.4,
+      "hr_score": 46.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 18.7,
       "pitcher_score": 47.2,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 76.2,
       "platoon_score": 75.0,
       "recent_form_score": 7.0,
@@ -2374,19 +2382,19 @@
       "pitcher_xslg_allowed": 0.4247,
       "pitcher_xiso_allowed": 0.178,
       "pitcher_fb_pct_allowed": 27.6,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2396,18 +2404,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.4,
+      "hr_score": 46.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 32.1,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 52.4,
       "platoon_score": 80.0,
       "recent_form_score": 32.9,
@@ -2448,19 +2456,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2470,18 +2478,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 44.0,
+      "hr_score": 46.0,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 30.5,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 64.3,
       "platoon_score": 50.0,
       "recent_form_score": 56.2,
@@ -2522,19 +2530,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2544,18 +2552,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 43.5,
+      "hr_score": 45.6,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 28.2,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 86.4,
       "platoon_score": 50.0,
       "recent_form_score": 0.0,
@@ -2596,19 +2604,19 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2618,18 +2626,18 @@
       "team": "PHI",
       "opponent": "NYM",
       "game_start_time": "2026-07-16T22:10:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Christian Scott",
       "pitcher_id": 681035,
       "pitcher_hand": "R",
-      "hr_score": 35.9,
+      "hr_score": 37.9,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 9.3,
       "pitcher_score": 35.4,
-      "environment_score": 60.8,
+      "environment_score": 74.3,
       "lineup_score": 44.8,
       "platoon_score": 80.0,
       "recent_form_score": 34.5,
@@ -2670,30 +2678,30 @@
       "pitcher_xslg_allowed": 0.395,
       "pitcher_xiso_allowed": 0.155,
       "pitcher_fb_pct_allowed": 29.9,
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     }
   ],
   "weather": [
     {
       "ballpark": "Citizens Bank Park",
-      "wind_direction": "Varies",
+      "wind_direction": "Out To CF",
       "weather_temp": 94,
-      "environment_score": 60.79999999999999,
+      "environment_score": 74.3,
       "top_player": "Juan Soto",
-      "top_score": 69.6,
+      "top_score": 71.6,
       "teams": "NYM / PHI"
     }
   ],
@@ -2702,10 +2710,10 @@
       "teams": "NYM vs PHI",
       "ballpark": "Citizens Bank Park",
       "temp": 94,
-      "wind": "Varies",
-      "environment_score": 60.8,
-      "top_score": 69.6,
-      "game_tags": "top-25 target",
+      "wind": "Out To CF",
+      "environment_score": 74.3,
+      "top_score": 71.6,
+      "game_tags": "weather watch · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
         {
@@ -2713,19 +2721,21 @@
           "team": "NYM",
           "order": 2,
           "pitcher": "Aaron Nola",
-          "score": 69.6,
+          "score": 71.6,
           "rank": 1,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2734,21 +2744,23 @@
           "team": "PHI",
           "order": 2,
           "pitcher": "Christian Scott",
-          "score": 68.6,
+          "score": 70.7,
           "rank": 2,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2757,17 +2769,17 @@
           "team": "NYM",
           "order": 4,
           "pitcher": "Aaron Nola",
-          "score": 56.7,
+          "score": 58.7,
           "rank": 3,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2776,17 +2788,17 @@
           "team": "NYM",
           "order": 1,
           "pitcher": "Aaron Nola",
-          "score": 56.4,
+          "score": 58.5,
           "rank": 4,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2795,17 +2807,17 @@
           "team": "PHI",
           "order": 3,
           "pitcher": "Christian Scott",
-          "score": 56.1,
+          "score": 58.1,
           "rank": 5,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -2857,10 +2869,10 @@
       "teams": "NYM vs PHI",
       "ballpark": "Citizens Bank Park",
       "temp": 94,
-      "wind": "Varies",
-      "environment_score": 60.8,
-      "top_score": 69.6,
-      "game_tags": "top-25 target",
+      "wind": "Out To CF",
+      "environment_score": 74.3,
+      "top_score": 71.6,
+      "game_tags": "weather watch · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
         {
@@ -2868,19 +2880,21 @@
           "team": "NYM",
           "order": 2,
           "pitcher": "Aaron Nola",
-          "score": 69.6,
+          "score": 71.6,
           "rank": 1,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2889,21 +2903,23 @@
           "team": "PHI",
           "order": 2,
           "pitcher": "Christian Scott",
-          "score": 68.6,
+          "score": 70.7,
           "rank": 2,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2912,17 +2928,17 @@
           "team": "NYM",
           "order": 4,
           "pitcher": "Aaron Nola",
-          "score": 56.7,
+          "score": 58.7,
           "rank": 3,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2931,17 +2947,17 @@
           "team": "NYM",
           "order": 1,
           "pitcher": "Aaron Nola",
-          "score": 56.4,
+          "score": 58.5,
           "rank": 4,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2950,17 +2966,17 @@
           "team": "PHI",
           "order": 3,
           "pitcher": "Christian Scott",
-          "score": 56.1,
+          "score": 58.1,
           "rank": 5,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
