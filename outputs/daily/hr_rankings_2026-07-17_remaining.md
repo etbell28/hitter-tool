@@ -2,12 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
+| 1 | Ben Rice | NYY | Roki Sasaki | 2 | 74.0 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Shohei Ohtani | LAD | Gerrit Cole | 1 | 73.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Yordan Alvarez | HOU | Dean Kremer | 2 | 72.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Matt Olson | ATL | Cal Quantrill | 3 | 68.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Trent Grisham | NYY | Roki Sasaki | 1 | 65.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Willson Contreras | BOS | Mason Englert | 4 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Drake Baldwin | ATL | Cal Quantrill | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 8 | Pete Crow-Armstrong | CHC | Bailey Ober | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Mickey Moniak | COL | Brady Singer | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Hunter Goodman | COL | Brady Singer | 3 | 63.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 11 | Eduardo Valencia | DET | Reid Detmers | 6 | 62.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 12 | Wilyer Abreu | BOS | Mason Englert | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Kody Clemens | MIN | Colin Rea | 4 | 62.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 14 | Manny Machado | SD | Seth Lugo | 3 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | James Wood | WSH | Gage Jump | 1 | 62.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Jac Caglianone | KC | Michael King | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jordan Walker | STL | Merrill Kelly | 4 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Michael Harris II | ATL | Cal Quantrill | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Munetaka Murakami | CWS | Spencer Miles | 2 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Michael Busch | CHC | Bailey Ober | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
+- Ben Rice + Shohei Ohtani | Avg HR Score: 73.7
+- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 72.8
+- Yordan Alvarez + Matt Olson | Avg HR Score: 70.4
+- Matt Olson + Trent Grisham | Avg HR Score: 66.9
+- Trent Grisham + Willson Contreras | Avg HR Score: 64.9
 
 ## Best 3-Leg Pairings
 
+- Ben Rice + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 73.2
+- Shohei Ohtani + Yordan Alvarez + Matt Olson | Avg HR Score: 71.4
+- Yordan Alvarez + Matt Olson + Trent Grisham | Avg HR Score: 68.7
+- Matt Olson + Trent Grisham + Willson Contreras | Avg HR Score: 66.1
+- Trent Grisham + Willson Contreras + Drake Baldwin | Avg HR Score: 64.6
 
 ## Best 4-Leg Pairings
 
+- Ben Rice + Shohei Ohtani + Yordan Alvarez + Matt Olson | Avg HR Score: 72.0
+- Shohei Ohtani + Yordan Alvarez + Matt Olson + Trent Grisham | Avg HR Score: 69.8
+- Yordan Alvarez + Matt Olson + Trent Grisham + Willson Contreras | Avg HR Score: 67.7
+- Matt Olson + Trent Grisham + Willson Contreras + Drake Baldwin | Avg HR Score: 65.6
+- Trent Grisham + Willson Contreras + Drake Baldwin + Pete Crow-Armstrong | Avg HR Score: 64.5
