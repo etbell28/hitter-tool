@@ -13,10 +13,10 @@
 | 9 | Bryce Eldridge | SF | Bryan Woo | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Andrew Benintendi | CWS | Shane Bieber | 5 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
 | 11 | Sal Stewart | CIN |  | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Shea Langeliers | ATH | Zack Littell | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 13 | Mike Trout | LAA | Tarik Skubal | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Brandon Nimmo | TEX | Owen Murphy | 3 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Riley Greene | DET | Grayson Rodriguez | 5 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 12 | Mike Trout | LAA | Tarik Skubal | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Shea Langeliers | ATH | Zack Littell | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Riley Greene | DET | Grayson Rodriguez | 5 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 15 | Brandon Nimmo | TEX | Owen Murphy | 3 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Matt Olson | ATL | MacKenzie Gore | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 17 | Elly De La Cruz | CIN |  | 1 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | Jake Bauers | MIL | Max Meyer | 5 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
