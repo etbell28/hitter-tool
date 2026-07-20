@@ -5,9 +5,9 @@
 | 1 | Esmerlyn Valdez | PIT | Ryan Weathers | 4 | 74.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Kyle Schwarber | PHI | Emmet Sheehan | 2 | 71.8 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 3 | James Wood | WSH | Kyle Freeland | 1 | 69.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Bryce Eldridge | SF | Michael Wacha | 2 | 68.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Shohei Ohtani | LAD | Cristopher Sánchez | 1 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 6 | Yordan Alvarez | HOU | Janson Junk | 2 | 66.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Yordan Alvarez | HOU | Janson Junk | 2 | 69.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Bryce Eldridge | SF | Michael Wacha | 2 | 68.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Shohei Ohtani | LAD | Cristopher Sánchez | 1 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
 | 7 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 66.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Ben Rice | NYY | Braxton Ashcraft | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Drake Baldwin | ATL | JP Sears | 1 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -27,22 +27,22 @@
 
 - Esmerlyn Valdez + Kyle Schwarber | Avg HR Score: 73.0
 - Kyle Schwarber + James Wood | Avg HR Score: 70.7
-- James Wood + Bryce Eldridge | Avg HR Score: 69.1
+- James Wood + Yordan Alvarez | Avg HR Score: 69.3
+- Yordan Alvarez + Bryce Eldridge | Avg HR Score: 68.8
 - Bryce Eldridge + Shohei Ohtani | Avg HR Score: 67.8
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 66.8
 
 ## Best 3-Leg Pairings
 
 - Esmerlyn Valdez + Kyle Schwarber + James Wood | Avg HR Score: 71.9
-- Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 70.0
-- James Wood + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 68.4
-- Bryce Eldridge + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 67.4
-- Shohei Ohtani + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 66.5
+- Kyle Schwarber + James Wood + Yordan Alvarez | Avg HR Score: 70.1
+- James Wood + Yordan Alvarez + Bryce Eldridge | Avg HR Score: 69.1
+- Yordan Alvarez + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 68.2
+- Bryce Eldridge + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 67.3
 
 ## Best 4-Leg Pairings
 
-- Esmerlyn Valdez + Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 71.0
-- Kyle Schwarber + James Wood + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 69.3
-- James Wood + Bryce Eldridge + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 67.9
-- Bryce Eldridge + Shohei Ohtani + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 67.0
-- Shohei Ohtani + Yordan Alvarez + Munetaka Murakami + Ben Rice | Avg HR Score: 66.1
+- Esmerlyn Valdez + Kyle Schwarber + James Wood + Yordan Alvarez | Avg HR Score: 71.2
+- Kyle Schwarber + James Wood + Yordan Alvarez + Bryce Eldridge | Avg HR Score: 69.8
+- James Wood + Yordan Alvarez + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 68.6
+- Yordan Alvarez + Bryce Eldridge + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 67.7
+- Bryce Eldridge + Shohei Ohtani + Munetaka Murakami + Ben Rice | Avg HR Score: 66.6
