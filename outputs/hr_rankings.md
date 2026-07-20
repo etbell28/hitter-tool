@@ -9,11 +9,11 @@
 | 5 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Riley Greene | DET | Jameson Taillon | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Andres Chaparro | WSH | Kyle Freeland | 3 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Shohei Ohtani | LAD | Cristopher Sánchez | 1 | 60.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 8 | Shohei Ohtani | LAD | Cristopher Sánchez | 1 | 60.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 9 | Bryce Eldridge | SF | Michael Wacha | 2 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Mike Trout | LAA | Kyle Leahy | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 11 | Shea Langeliers | ATH | Mitch Bratt | 3 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Ben Rice | NYY | Braxton Ashcraft | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Ben Rice | NYY | Braxton Ashcraft | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 13 | Matt Olson | ATL | JP Sears | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 14 | Drake Baldwin | ATL | JP Sears | 1 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Curtis Mead | WSH | Kyle Freeland | 2 | 57.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
