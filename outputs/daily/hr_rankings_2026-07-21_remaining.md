@@ -13,15 +13,15 @@
 | 9 | Matt Olson | ATL | Walker Buehler | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | CJ Abrams | WSH | Michael Lorenzen | 4 | 62.6 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 | 11 | Mike Trout | LAA | Matthew Liberatore | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Willson Contreras | BOS | Kyle Bradish | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Wilyer Abreu | BOS | Kyle Bradish | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Pete Alonso | BAL | Eduardo Rivera | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | José Tena | WSH | Michael Lorenzen | 3 | 60.6 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 16 | Bryce Eldridge | SF | Luinder Avila | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Juan Soto | NYM | Brandon Sproat | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Junior Caminero | TB | Kevin Gausman | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Jac Caglianone | KC | Tyler Mahle | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Griffin Conine | MIA | Tatsuya Imai | 6 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 12 | Elly De La Cruz | CIN | Luis Castillo | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Willson Contreras | BOS | Kyle Bradish | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Wilyer Abreu | BOS | Kyle Bradish | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Pete Alonso | BAL | Eduardo Rivera | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | José Tena | WSH | Michael Lorenzen | 3 | 60.6 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Bryce Eldridge | SF | Luinder Avila | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Sal Stewart | CIN | Luis Castillo | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Griffin Conine | MIA | Tatsuya Imai | 6 | 59.8 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 20 | Juan Soto | NYM | Brandon Sproat | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
