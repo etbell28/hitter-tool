@@ -8,7 +8,7 @@
 | 4 | Mike Trout | LAA | Matthew Liberatore | 2 | 68.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Munetaka Murakami | CWS | Kumar Rocker | 2 | 66.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Luis García Jr. | WSH | Michael Lorenzen | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 7 | Drake Baldwin | ATL | Walker Buehler | 1 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Drake Baldwin | ATL | Walker Buehler | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Matt Olson | ATL | Walker Buehler | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | CJ Abrams | WSH | Michael Lorenzen | 4 | 62.6 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 | 10 | Elly De La Cruz | CIN | Luis Castillo | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -19,9 +19,9 @@
 | 15 | Sal Stewart | CIN | Luis Castillo | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 16 | Griffin Conine | MIA | Tatsuya Imai | 6 | 59.8 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 17 | Kyle Stowers | MIA | Tatsuya Imai | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jac Caglianone | KC | Tyler Mahle | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jo Adell | LAA | Matthew Liberatore | 6 | 59.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Junior Caminero | TB | Kevin Gausman | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Dominic Canzone | SEA | Chase Burns | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jac Caglianone | KC | Tyler Mahle | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jo Adell | LAA | Matthew Liberatore | 6 | 59.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Yordan Alvarez + Hunter Goodman + Mike Trout + Munetaka Murakami | Avg HR Score: 68.2
 - Hunter Goodman + Mike Trout + Munetaka Murakami + Luis García Jr. | Avg HR Score: 66.7
 - Mike Trout + Munetaka Murakami + Luis García Jr. + Drake Baldwin | Avg HR Score: 65.6
-- Munetaka Murakami + Luis García Jr. + Drake Baldwin + Matt Olson | Avg HR Score: 64.2
+- Munetaka Murakami + Luis García Jr. + Drake Baldwin + Matt Olson | Avg HR Score: 64.3
