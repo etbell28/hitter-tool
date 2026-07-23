@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Sandy Alcantara | 2 | 68.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Riley Greene | DET | Colin Rea | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Dillon Dingler | DET | Colin Rea | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Munetaka Murakami | CWS | Tyler Alexander | 2 | 56.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 5 | Griffin Conine | MIA | Peter Lambert | 6 | 55.7 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 6 | Michael Busch | CHC | Keider Montero | 3 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Spencer Torkelson | DET | Colin Rea | 5 | 54.7 | Longshot | Watch List | Strong Barrel |
-| 8 | Kyle Stowers | MIA | Peter Lambert | 2 | 54.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Brandon Nimmo | TEX | Anthony Kay | 4 | 54.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Colt Keith | DET | Colin Rea | 3 | 54.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 11 | Jake Burger | TEX | Anthony Kay | 3 | 54.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Wyatt Langford | TEX | Anthony Kay | 1 | 53.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Pete Crow-Armstrong | CHC | Keider Montero | 1 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Kerry Carpenter | DET | Colin Rea | 6 | 52.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 15 | Kevin McGonigle | DET | Colin Rea | 1 | 52.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Heriberto Hernández | MIA | Peter Lambert | 3 | 51.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Justin Foscue | TEX | Anthony Kay | 2 | 51.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | Seiya Suzuki | CHC | Keider Montero | 2 | 51.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Michael Conforto | CHC | Keider Montero | 7 | 51.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Miguel Vargas | CWS | Tyler Alexander | 3 | 51.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Junior Caminero | TB | Shane Bieber | 3 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 2 | Drake Baldwin | ATL | Griffin Canning | 1 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Matt Olson | ATL | Griffin Canning | 3 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Jonathan Aranda | TB | Shane Bieber | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 5 | Kody Clemens | MIN | Gavin Williams | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Victor Mesa | TB | Shane Bieber | 6 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
+| 7 | Riley Greene | DET | Randy Dobnak | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Michael Harris | ATL | Griffin Canning | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Yandy Diaz | TB | Shane Bieber | 1 | 54.2 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot |
+| 10 | Nelson Velazquez | STL | Brandon Pfaadt | 5 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 11 | Austin Riley | ATL | Griffin Canning | 5 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
+| 12 | Alec Burleson | STL | Brandon Pfaadt | 4 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Josh Bell | MIN | Gavin Williams | 4 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Dillon Dingler | DET | Randy Dobnak | 2 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Jordan Walker | STL | Brandon Pfaadt | 3 | 52.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Trevor Larnach | MIN | Gavin Williams | 1 | 51.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Carter Jensen | KC | Troy Melton | 1 | 51.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Fernando Tatis | SD | Chris Sale | 1 | 51.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Manny Machado | SD | Chris Sale | 3 | 51.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Cedric Mullins | TB | Shane Bieber | 4 | 50.4 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Riley Greene | Avg HR Score: 65.4
-- Riley Greene + Dillon Dingler | Avg HR Score: 60.5
-- Dillon Dingler + Munetaka Murakami | Avg HR Score: 57.8
-- Munetaka Murakami + Griffin Conine | Avg HR Score: 56.3
-- Griffin Conine + Michael Busch | Avg HR Score: 55.7
+- Junior Caminero + Drake Baldwin | Avg HR Score: 62.8
+- Drake Baldwin + Matt Olson | Avg HR Score: 61.0
+- Matt Olson + Jonathan Aranda | Avg HR Score: 59.8
+- Jonathan Aranda + Kody Clemens | Avg HR Score: 58.9
+- Kody Clemens + Victor Mesa | Avg HR Score: 57.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Riley Greene + Dillon Dingler | Avg HR Score: 63.1
-- Riley Greene + Dillon Dingler + Munetaka Murakami | Avg HR Score: 59.3
-- Dillon Dingler + Munetaka Murakami + Griffin Conine | Avg HR Score: 57.1
-- Munetaka Murakami + Griffin Conine + Michael Busch | Avg HR Score: 56.1
-- Griffin Conine + Michael Busch + Spencer Torkelson | Avg HR Score: 55.3
+- Junior Caminero + Drake Baldwin + Matt Olson | Avg HR Score: 62.0
+- Drake Baldwin + Matt Olson + Jonathan Aranda | Avg HR Score: 60.4
+- Matt Olson + Jonathan Aranda + Kody Clemens | Avg HR Score: 59.4
+- Jonathan Aranda + Kody Clemens + Victor Mesa | Avg HR Score: 58.3
+- Kody Clemens + Victor Mesa + Riley Greene | Avg HR Score: 57.4
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Riley Greene + Dillon Dingler + Munetaka Murakami | Avg HR Score: 61.6
-- Riley Greene + Dillon Dingler + Munetaka Murakami + Griffin Conine | Avg HR Score: 58.4
-- Dillon Dingler + Munetaka Murakami + Griffin Conine + Michael Busch | Avg HR Score: 56.7
-- Munetaka Murakami + Griffin Conine + Michael Busch + Spencer Torkelson | Avg HR Score: 55.7
-- Griffin Conine + Michael Busch + Spencer Torkelson + Kyle Stowers | Avg HR Score: 55.1
+- Junior Caminero + Drake Baldwin + Matt Olson + Jonathan Aranda | Avg HR Score: 61.3
+- Drake Baldwin + Matt Olson + Jonathan Aranda + Kody Clemens | Avg HR Score: 59.9
+- Matt Olson + Jonathan Aranda + Kody Clemens + Victor Mesa | Avg HR Score: 58.8
+- Jonathan Aranda + Kody Clemens + Victor Mesa + Riley Greene | Avg HR Score: 57.9
+- Kody Clemens + Victor Mesa + Riley Greene + Michael Harris | Avg HR Score: 57.2
