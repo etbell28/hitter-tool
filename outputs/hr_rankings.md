@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Junior Caminero | TB | Shane Bieber | 3 | 69.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 2 | Jonathan Aranda | TB | Shane Bieber | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 3 | Victor Mesa Jr. | TB | Shane Bieber | 4 | 65.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Byron Buxton | MIN | Gavin Williams | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 5 | Yandy Díaz | TB | Shane Bieber | 1 | 60.9 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
-| 6 | Riley Greene | DET | Randy Dobnak | 4 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Kody Clemens | MIN | Gavin Williams | 5 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 8 | Corbin Carroll | AZ | Michael McGreevy | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Max Kepler | AZ | Michael McGreevy | 4 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ryan Jeffers | MIN | Gavin Williams | 3 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Alec Burleson | STL | Brandon Pfaadt | 3 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Josh Bell | MIN | Gavin Williams | 4 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jordan Walker | STL | Brandon Pfaadt | 2 | 54.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | George Springer | TOR | Casey Legumina | 4 | 54.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Lars Nootbaar | STL | Brandon Pfaadt | 4 | 54.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Kazuma Okamoto | TOR | Casey Legumina | 6 | 53.7 | Longshot | Watch List | Strong Barrel |
-| 17 | Yohendrick Piñango | TOR | Casey Legumina | 1 | 53.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | Carter Jensen | KC | Troy Melton | 1 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Dillon Dingler | DET | Randy Dobnak | 5 | 53.0 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 20 | Vladimir Guerrero Jr. | TOR | Casey Legumina | 2 | 52.9 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Riley Greene | DET | Randy Dobnak | 4 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Corbin Carroll | AZ | Michael McGreevy | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Max Kepler | AZ | Michael McGreevy | 4 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Alec Burleson | STL | Brandon Pfaadt | 3 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Jordan Walker | STL | Brandon Pfaadt | 2 | 54.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Lars Nootbaar | STL | Brandon Pfaadt | 4 | 54.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Carter Jensen | KC | Troy Melton | 1 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Dillon Dingler | DET | Randy Dobnak | 5 | 53.0 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 9 | JJ Wetherholt | STL | Brandon Pfaadt | 1 | 51.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Colt Keith | DET | Randy Dobnak | 3 | 50.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Salvador Perez | KC | Troy Melton | 4 | 50.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Spencer Torkelson | DET | Randy Dobnak | 7 | 49.9 | Longshot | Watch List | Strong Barrel |
+| 13 | Gabriel Moreno | AZ | Michael McGreevy | 3 | 49.8 | Longshot | Watch List | Premium Lineup Spot |
+| 14 | Kerry Carpenter | DET | Randy Dobnak | 6 | 49.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Kevin McGonigle | DET | Randy Dobnak | 1 | 49.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 16 | Adrian Del Castillo | AZ | Michael McGreevy | 5 | 48.9 | Longshot | Watch List | Platoon Edge |
+| 17 | Vinnie Pasquantino | KC | Troy Melton | 3 | 46.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 18 | Jimmy Crooks | STL | Brandon Pfaadt | 9 | 46.5 | Longshot | Watch List | Platoon Edge |
+| 19 | Tim Tawa | AZ | Michael McGreevy | 6 | 45.9 | Longshot | Watch List | No major boost |
+| 20 | Gleyber Torres | DET | Randy Dobnak | 2 | 45.1 | Longshot | Watch List | Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda | Avg HR Score: 67.3
-- Jonathan Aranda + Victor Mesa Jr. | Avg HR Score: 65.6
-- Victor Mesa Jr. + Byron Buxton | Avg HR Score: 63.9
-- Byron Buxton + Yandy Díaz | Avg HR Score: 61.5
-- Yandy Díaz + Riley Greene | Avg HR Score: 60.0
+- Riley Greene + Corbin Carroll | Avg HR Score: 58.9
+- Corbin Carroll + Max Kepler | Avg HR Score: 58.0
+- Max Kepler + Alec Burleson | Avg HR Score: 56.7
+- Alec Burleson + Jordan Walker | Avg HR Score: 55.4
+- Jordan Walker + Lars Nootbaar | Avg HR Score: 54.4
 
 ## Best 3-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda + Victor Mesa Jr. | Avg HR Score: 66.8
-- Jonathan Aranda + Victor Mesa Jr. + Byron Buxton | Avg HR Score: 64.5
-- Victor Mesa Jr. + Byron Buxton + Yandy Díaz | Avg HR Score: 62.9
-- Byron Buxton + Yandy Díaz + Riley Greene | Avg HR Score: 60.8
-- Yandy Díaz + Riley Greene + Kody Clemens | Avg HR Score: 59.7
+- Riley Greene + Corbin Carroll + Max Kepler | Avg HR Score: 58.4
+- Corbin Carroll + Max Kepler + Alec Burleson | Avg HR Score: 57.3
+- Max Kepler + Alec Burleson + Jordan Walker | Avg HR Score: 56.1
+- Alec Burleson + Jordan Walker + Lars Nootbaar | Avg HR Score: 54.9
+- Jordan Walker + Lars Nootbaar + Carter Jensen | Avg HR Score: 54.0
 
 ## Best 4-Leg Pairings
 
-- Junior Caminero + Jonathan Aranda + Victor Mesa Jr. + Byron Buxton | Avg HR Score: 65.6
-- Jonathan Aranda + Victor Mesa Jr. + Byron Buxton + Yandy Díaz | Avg HR Score: 63.6
-- Victor Mesa Jr. + Byron Buxton + Yandy Díaz + Riley Greene | Avg HR Score: 62.0
-- Byron Buxton + Yandy Díaz + Riley Greene + Kody Clemens | Avg HR Score: 60.4
-- Yandy Díaz + Riley Greene + Kody Clemens + Corbin Carroll | Avg HR Score: 59.5
+- Riley Greene + Corbin Carroll + Max Kepler + Alec Burleson | Avg HR Score: 57.8
+- Corbin Carroll + Max Kepler + Alec Burleson + Jordan Walker | Avg HR Score: 56.7
+- Max Kepler + Alec Burleson + Jordan Walker + Lars Nootbaar | Avg HR Score: 55.5
+- Alec Burleson + Jordan Walker + Lars Nootbaar + Carter Jensen | Avg HR Score: 54.5
+- Jordan Walker + Lars Nootbaar + Carter Jensen + Dillon Dingler | Avg HR Score: 53.8
