@@ -13,12 +13,12 @@
 | 9 | Munetaka Murakami | CWS | Spencer Arrighetti | 2 | 63.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Francisco Lindor | NYM | Roki Sasaki | 4 | 62.4 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Griffin Conine | MIA | Germán Márquez | 6 | 61.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 12 | Garrett Mitchell | MIL | Tomoyuki Sugano | 5 | 60.9 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 12 | Garrett Mitchell | MIL | Tomoyuki Sugano | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
 | 13 | Kyle Stowers | MIA | Germán Márquez | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jackson Chourio | MIL | Tomoyuki Sugano | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 15 | Jake Bauers | MIL | Tomoyuki Sugano | 7 | 60.0 | Longshot | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 14 | Jake Bauers | MIL | Tomoyuki Sugano | 7 | 60.0 | Longshot | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 15 | Jackson Chourio | MIL | Tomoyuki Sugano | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
 | 16 | Pete Alonso | BAL | Grant Holmes | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Hunter Goodman | COL | Shane Drohan | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Hunter Goodman | COL | Shane Drohan | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | Wilyer Abreu | BOS | Trey Yesavage | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 19 | Willson Contreras | BOS | Trey Yesavage | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 20 | Tyler Locklear | AZ | Carson Palmquist | 7 | 59.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
