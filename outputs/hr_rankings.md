@@ -11,17 +11,17 @@
 | 7 | Drake Baldwin | ATL | Brandon Young | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Mike Trout | LAA | Robbie Ray | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Byron Buxton | MIN | Mason Barnett | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Christian Encarnacion-Strand | BAL | Bryce Elder | 7 | 58.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 11 | Andres Chaparro | WSH | Mitch Bratt | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Matt Olson | ATL | Brandon Young | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Hunter Goodman | COL | Robert Gasser | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Shohei Ohtani | LAD | Nolan McLean | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Ben Rice | NYY |  | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Munetaka Murakami | CWS | Hunter Brown | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Riley Greene | DET | Michael Wacha | 4 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Michael Harris | ATL | Brandon Young | 4 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Junior Caminero | TB | Tanner Bibee | 3 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Pete Alonso | BAL | Bryce Elder | 4 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Riley Greene | DET | Michael Wacha | 5 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 11 | Christian Encarnacion-Strand | BAL | Bryce Elder | 7 | 58.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Hot Hitter/Streak |
+| 12 | Andres Chaparro | WSH | Mitch Bratt | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Matt Olson | ATL | Brandon Young | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Hunter Goodman | COL | Robert Gasser | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Jac Caglianone | KC | Casey Mize | 3 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Shohei Ohtani | LAD | Nolan McLean | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Ben Rice | NYY |  | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Munetaka Murakami | CWS | Hunter Brown | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Michael Harris | ATL | Brandon Young | 4 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Junior Caminero | TB | Tanner Bibee | 3 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
