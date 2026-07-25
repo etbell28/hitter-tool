@@ -2,12 +2,12 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Bryan De La Cruz | PHI | Ryan Weathers | 6 | 72.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 2 | Yordan Alvarez | HOU | Sean Burke | 2 | 72.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Esmerlyn Valdez | PIT | Shota Imanaga | 4 | 72.1 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Bryan De La Cruz | PHI | Ryan Weathers | 6 | 74.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 2 | Esmerlyn Valdez | PIT | Shota Imanaga | 4 | 73.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Yordan Alvarez | HOU | Sean Burke | 2 | 72.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 4 | Nick Kurtz | ATH | Mike Paredes | 2 | 69.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 5 | Byron Buxton | MIN | Brady Basso | 2 | 66.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 6 | Kyle Schwarber | PHI | Ryan Weathers | 2 | 65.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 5 | Kyle Schwarber | PHI | Ryan Weathers | 2 | 67.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 6 | Byron Buxton | MIN | Brady Basso | 2 | 66.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 7 | Christian Encarnacion-Strand | BAL | Bryce Elder | 5 | 63.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
 | 8 | Tyler Soderstrom | ATH | Mike Paredes | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 9 | Munetaka Murakami | CWS | Hunter Brown | 2 | 61.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -18,31 +18,31 @@
 | 14 | Shohei Ohtani | LAD | Nolan McLean | 1 | 60.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Kody Clemens | MIN | Brady Basso | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 16 | Jordan Walker | STL | Hunter Greene | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Pete Alonso | BAL | Bryce Elder | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Junior Caminero | TB | Tanner Bibee | 3 | 57.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Michael Harris II | ATL | Brandon Young | 4 | 57.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Elly De La Cruz | CIN | Andre Pallante | 1 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Ben Rice | NYY | Tim Mayza | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Bryce Harper | PHI | Ryan Weathers | 3 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Pete Alonso | BAL | Bryce Elder | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Junior Caminero | TB | Tanner Bibee | 3 | 57.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Bryan De La Cruz + Yordan Alvarez | Avg HR Score: 72.5
-- Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 72.2
-- Esmerlyn Valdez + Nick Kurtz | Avg HR Score: 70.8
-- Nick Kurtz + Byron Buxton | Avg HR Score: 68.2
-- Byron Buxton + Kyle Schwarber | Avg HR Score: 66.3
+- Bryan De La Cruz + Esmerlyn Valdez | Avg HR Score: 74.0
+- Esmerlyn Valdez + Yordan Alvarez | Avg HR Score: 73.0
+- Yordan Alvarez + Nick Kurtz | Avg HR Score: 71.0
+- Nick Kurtz + Kyle Schwarber | Avg HR Score: 68.7
+- Kyle Schwarber + Byron Buxton | Avg HR Score: 67.3
 
 ## Best 3-Leg Pairings
 
-- Bryan De La Cruz + Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 72.3
-- Yordan Alvarez + Esmerlyn Valdez + Nick Kurtz | Avg HR Score: 71.4
-- Esmerlyn Valdez + Nick Kurtz + Byron Buxton | Avg HR Score: 69.5
-- Nick Kurtz + Byron Buxton + Kyle Schwarber | Avg HR Score: 67.4
-- Byron Buxton + Kyle Schwarber + Christian Encarnacion-Strand | Avg HR Score: 65.4
+- Bryan De La Cruz + Esmerlyn Valdez + Yordan Alvarez | Avg HR Score: 73.5
+- Esmerlyn Valdez + Yordan Alvarez + Nick Kurtz | Avg HR Score: 71.8
+- Yordan Alvarez + Nick Kurtz + Kyle Schwarber | Avg HR Score: 69.9
+- Nick Kurtz + Kyle Schwarber + Byron Buxton | Avg HR Score: 68.1
+- Kyle Schwarber + Byron Buxton + Christian Encarnacion-Strand | Avg HR Score: 66.0
 
 ## Best 4-Leg Pairings
 
-- Bryan De La Cruz + Yordan Alvarez + Esmerlyn Valdez + Nick Kurtz | Avg HR Score: 71.7
-- Yordan Alvarez + Esmerlyn Valdez + Nick Kurtz + Byron Buxton | Avg HR Score: 70.2
-- Esmerlyn Valdez + Nick Kurtz + Byron Buxton + Kyle Schwarber | Avg HR Score: 68.6
-- Nick Kurtz + Byron Buxton + Kyle Schwarber + Christian Encarnacion-Strand | Avg HR Score: 66.4
-- Byron Buxton + Kyle Schwarber + Christian Encarnacion-Strand + Tyler Soderstrom | Avg HR Score: 64.4
+- Bryan De La Cruz + Esmerlyn Valdez + Yordan Alvarez + Nick Kurtz | Avg HR Score: 72.5
+- Esmerlyn Valdez + Yordan Alvarez + Nick Kurtz + Kyle Schwarber | Avg HR Score: 70.8
+- Yordan Alvarez + Nick Kurtz + Kyle Schwarber + Byron Buxton | Avg HR Score: 69.2
+- Nick Kurtz + Kyle Schwarber + Byron Buxton + Christian Encarnacion-Strand | Avg HR Score: 66.9
+- Kyle Schwarber + Byron Buxton + Christian Encarnacion-Strand + Tyler Soderstrom | Avg HR Score: 64.9
