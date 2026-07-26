@@ -10,18 +10,18 @@
 | 6 | Corbin Carroll | AZ | Miles Mikolas | 1 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Kyle Schwarber | PHI | Will Warren | 2 | 64.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Andres Chaparro | WSH | Kohl Drake | 2 | 63.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Ketel Marte | AZ | Miles Mikolas | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Miguel Vargas | CWS | Ronel Blanco | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 11 | Byron Buxton | MIN | Jeffrey Springs | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Max Kepler | AZ | Miles Mikolas | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 13 | Dylan Crews | WSH | Kohl Drake | 4 | 58.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 14 | Mike Trout | LAA | Carson Whisenhunt | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | CJ Abrams | WSH | Kohl Drake | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Drake Baldwin | ATL | Shane Baz | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Shohei Ohtani | LAD | Freddy Peralta | 1 | 58.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Bryce Eldridge | SF | José Soriano | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Matt Olson | ATL | Shane Baz | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Brandon Lowe | PIT | Jameson Taillon | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Christian Encarnacion-Strand | BAL | Reynaldo López | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 10 | Elly De La Cruz | CIN | Kyle Leahy | 1 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ketel Marte | AZ | Miles Mikolas | 4 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Drake Baldwin | ATL | Shane Baz | 1 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Matt Olson | ATL | Shane Baz | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Miguel Vargas | CWS | Ronel Blanco | 3 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 15 | Shohei Ohtani | LAD | Freddy Peralta | 1 | 61.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Byron Buxton | MIN | Jeffrey Springs | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jordan Walker | STL | Andrew Abbott | 3 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Pete Alonso | BAL | Reynaldo López | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Nathaniel Lowe | CIN | Kyle Leahy | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 20 | Max Kepler | AZ | Miles Mikolas | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
