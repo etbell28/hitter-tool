@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Max Scherzer | 1 | 69.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Esmerlyn Valdez | PIT | Merrill Kelly | 4 | 68.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Dominic Canzone | SEA | Kumar Rocker | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Kyle Schwarber | PHI | Tyler Phillips | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | CJ Abrams | WSH | Max Scherzer | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Sal Stewart | CIN | Slade Cecconi | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 8 | Elly De La Cruz | CIN | Slade Cecconi | 1 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Brandon Lowe | PIT | Merrill Kelly | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ben Rice | NYY | Noah Schultz | 2 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Mike Trout | LAA | Tatsuya Imai | 2 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Luis Garcia | WSH | Max Scherzer | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Bryce Eldridge | SF | Brandon Sproat | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Drake Baldwin | ATL | Zac Thornton | 2 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Matt Olson | ATL | Zac Thornton | 4 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Francisco Alvarez | NYM | Martín Pérez | 3 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Ronald Acuna | ATL | Zac Thornton | 1 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Pete Alonso | BAL | Keider Montero | 2 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Joc Pederson | TEX | George Kirby | 1 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Brandon Nimmo | TEX | George Kirby | 4 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | James Wood | WSH | Max Scherzer | 1 | 76.2 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Esmerlyn Valdez | PIT | Merrill Kelly | 4 | 75.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Ben Rice | NYY | Noah Schultz | 2 | 66.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 4 | Elly De La Cruz | CIN | Slade Cecconi | 1 | 65.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Sal Stewart | CIN | Slade Cecconi | 2 | 65.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 6 | Brandon Lowe | PIT | Merrill Kelly | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | CJ Abrams | WSH | Max Scherzer | 4 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Luis García Jr. | WSH | Max Scherzer | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Matt Olson | ATL | Zac Thornton | 3 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Drake Baldwin | ATL | Zac Thornton | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Ronald Acuña Jr. | ATL | Zac Thornton | 1 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Pete Alonso | BAL | Keider Montero | 2 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 13 | Francisco Alvarez | NYM | Martín Pérez | 3 | 63.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Munetaka Murakami | CWS | Max Fried | 2 | 62.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Riley Greene | DET | Kyle Bradish | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Kyle Schwarber | PHI | Tyler Phillips | 2 | 62.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Bryan Reynolds | PIT | Merrill Kelly | 3 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Nathaniel Lowe | CIN | Slade Cecconi | 5 | 61.6 | Tier 3 | Watch List | Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 19 | Corbin Carroll | AZ | Mitch Keller | 1 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Esmerlyn Valdez | Avg HR Score: 69.3
-- Esmerlyn Valdez + Yordan Alvarez | Avg HR Score: 64.8
-- Yordan Alvarez + Dominic Canzone | Avg HR Score: 60.4
-- Dominic Canzone + Kyle Schwarber | Avg HR Score: 59.9
-- Kyle Schwarber + CJ Abrams | Avg HR Score: 59.5
+- James Wood + Esmerlyn Valdez | Avg HR Score: 75.8
+- Esmerlyn Valdez + Ben Rice | Avg HR Score: 70.7
+- Ben Rice + Elly De La Cruz | Avg HR Score: 66.0
+- Elly De La Cruz + Sal Stewart | Avg HR Score: 65.9
+- Sal Stewart + Brandon Lowe | Avg HR Score: 65.8
 
 ## Best 3-Leg Pairings
 
-- James Wood + Esmerlyn Valdez + Yordan Alvarez | Avg HR Score: 66.5
-- Esmerlyn Valdez + Yordan Alvarez + Dominic Canzone | Avg HR Score: 63.2
-- Yordan Alvarez + Dominic Canzone + Kyle Schwarber | Avg HR Score: 60.1
-- Dominic Canzone + Kyle Schwarber + CJ Abrams | Avg HR Score: 59.7
-- Kyle Schwarber + CJ Abrams + Sal Stewart | Avg HR Score: 59.4
+- James Wood + Esmerlyn Valdez + Ben Rice | Avg HR Score: 72.5
+- Esmerlyn Valdez + Ben Rice + Elly De La Cruz | Avg HR Score: 69.1
+- Ben Rice + Elly De La Cruz + Sal Stewart | Avg HR Score: 65.9
+- Elly De La Cruz + Sal Stewart + Brandon Lowe | Avg HR Score: 65.8
+- Sal Stewart + Brandon Lowe + CJ Abrams | Avg HR Score: 65.6
 
 ## Best 4-Leg Pairings
 
-- James Wood + Esmerlyn Valdez + Yordan Alvarez + Dominic Canzone | Avg HR Score: 64.9
-- Esmerlyn Valdez + Yordan Alvarez + Dominic Canzone + Kyle Schwarber | Avg HR Score: 62.3
-- Yordan Alvarez + Dominic Canzone + Kyle Schwarber + CJ Abrams | Avg HR Score: 59.9
-- Dominic Canzone + Kyle Schwarber + CJ Abrams + Sal Stewart | Avg HR Score: 59.5
-- Kyle Schwarber + CJ Abrams + Sal Stewart + Elly De La Cruz | Avg HR Score: 59.3
+- James Wood + Esmerlyn Valdez + Ben Rice + Elly De La Cruz | Avg HR Score: 70.8
+- Esmerlyn Valdez + Ben Rice + Elly De La Cruz + Sal Stewart | Avg HR Score: 68.3
+- Ben Rice + Elly De La Cruz + Sal Stewart + Brandon Lowe | Avg HR Score: 65.8
+- Elly De La Cruz + Sal Stewart + Brandon Lowe + CJ Abrams | Avg HR Score: 65.7
+- Sal Stewart + Brandon Lowe + CJ Abrams + Luis García Jr. | Avg HR Score: 65.4
