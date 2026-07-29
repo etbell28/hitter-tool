@@ -5,7 +5,7 @@
 | 1 | Yordan Alvarez | HOU | Grayson Rodriguez | 2 | 73.7 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 2 | Munetaka Murakami | CWS | Cam Schlittler | 2 | 70.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Eduardo Valencia | DET | Trevor Rogers | 8 | 67.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 4 | James Wood | WSH | Trey Yesavage | 1 | 64.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | James Wood | WSH | Trey Yesavage | 1 | 64.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Sal Stewart | CIN | Joey Cantillo | 2 | 64.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Shohei Ohtani | LAD | Emerson Hancock | 1 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Ben Rice | NYY | Davis Martin | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -34,7 +34,7 @@
 ## Best 3-Leg Pairings
 
 - Yordan Alvarez + Munetaka Murakami + Eduardo Valencia | Avg HR Score: 70.4
-- Munetaka Murakami + Eduardo Valencia + James Wood | Avg HR Score: 67.5
+- Munetaka Murakami + Eduardo Valencia + James Wood | Avg HR Score: 67.4
 - Eduardo Valencia + James Wood + Sal Stewart | Avg HR Score: 65.5
 - James Wood + Sal Stewart + Shohei Ohtani | Avg HR Score: 64.5
 - Sal Stewart + Shohei Ohtani + Ben Rice | Avg HR Score: 64.2
