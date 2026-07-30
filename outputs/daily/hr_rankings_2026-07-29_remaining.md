@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Grayson Rodriguez | 2 | 78.2 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 2 | Shohei Ohtani | LAD | Emerson Hancock | 1 | 70.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Munetaka Murakami | CWS | Cam Schlittler | 2 | 69.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Dominic Canzone | SEA | Eric Lauer | 4 | 65.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Jac Caglianone | KC | Joe Ryan | 3 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 6 | Max Muncy | LAD | Emerson Hancock | 4 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Ben Rice | NYY | Davis Martin | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Carter Jensen | KC | Joe Ryan | 1 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 9 | Mike Trout | LAA | Hayden Wesneski | 2 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Julio Rodríguez | SEA | Eric Lauer | 3 | 62.4 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 11 | Cal Raleigh | SEA | Eric Lauer | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 12 | Randy Arozarena | SEA | Eric Lauer | 2 | 60.4 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 13 | Freddie Freeman | LAD | Emerson Hancock | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Salvador Perez | KC | Joe Ryan | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 15 | Taylor Trammell | HOU | Grayson Rodriguez | 6 | 59.2 | Longshot | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 16 | Kody Clemens | MIN | Randy Dobnak | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Christian Walker | HOU | Grayson Rodriguez | 4 | 59.1 | Longshot | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 18 | Jeremy Peña | HOU | Grayson Rodriguez | 1 | 58.1 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Colson Montgomery | CWS | Cam Schlittler | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Nick Kurtz | ATH | Patrick Sandoval | 2 | 57.9 | Longshot | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 1 | James Wood | WSH | Grant Holmes | 1 | 66.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Munetaka Murakami | CWS | Ryan Weathers | 2 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 3 | Esmerlyn Valdez | PIT | Rhett Lowder | 4 | 64.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 4 | Drake Baldwin | ATL | Jake Irvin | 2 | 63.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Matt Olson | ATL | Jake Irvin | 3 | 63.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Dominic Canzone | SEA | Roki Sasaki | 4 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Shohei Ohtani | LAD | Bryce Miller | 1 | 61.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Nick Kurtz | ATH | Sonny Gray | 2 | 60.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Brandon Lowe | PIT | Rhett Lowder | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Bryce Eldridge | SF | JP Sears | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Ben Rice | NYY | Sean Burke | 2 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Michael Harris | ATL | Jake Irvin | 5 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 13 | Ronald Acuna | ATL | Jake Irvin | 1 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Luis Garcia | WSH | Grant Holmes | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | CJ Abrams | WSH | Grant Holmes | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Miguel Vargas | CWS | Ryan Weathers | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jac Caglianone | KC | Bailey Ober | 3 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Rafael Devers | SF | JP Sears | 4 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Max Muncy | LAD | Bryce Miller | 4 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Cal Raleigh | SEA | Roki Sasaki | 5 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 74.6
-- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 70.4
-- Munetaka Murakami + Dominic Canzone | Avg HR Score: 67.8
-- Dominic Canzone + Jac Caglianone | Avg HR Score: 65.3
-- Jac Caglianone + Max Muncy | Avg HR Score: 65.0
+- James Wood + Munetaka Murakami | Avg HR Score: 65.7
+- Munetaka Murakami + Esmerlyn Valdez | Avg HR Score: 64.4
+- Esmerlyn Valdez + Drake Baldwin | Avg HR Score: 64.0
+- Drake Baldwin + Matt Olson | Avg HR Score: 63.7
+- Matt Olson + Dominic Canzone | Avg HR Score: 63.0
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 73.0
-- Shohei Ohtani + Munetaka Murakami + Dominic Canzone | Avg HR Score: 68.8
-- Munetaka Murakami + Dominic Canzone + Jac Caglianone | Avg HR Score: 66.8
-- Dominic Canzone + Jac Caglianone + Max Muncy | Avg HR Score: 65.2
-- Jac Caglianone + Max Muncy + Ben Rice | Avg HR Score: 64.7
+- James Wood + Munetaka Murakami + Esmerlyn Valdez | Avg HR Score: 65.2
+- Munetaka Murakami + Esmerlyn Valdez + Drake Baldwin | Avg HR Score: 64.2
+- Esmerlyn Valdez + Drake Baldwin + Matt Olson | Avg HR Score: 63.9
+- Drake Baldwin + Matt Olson + Dominic Canzone | Avg HR Score: 63.3
+- Matt Olson + Dominic Canzone + Shohei Ohtani | Avg HR Score: 62.5
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Munetaka Murakami + Dominic Canzone | Avg HR Score: 71.2
-- Shohei Ohtani + Munetaka Murakami + Dominic Canzone + Jac Caglianone | Avg HR Score: 67.8
-- Munetaka Murakami + Dominic Canzone + Jac Caglianone + Max Muncy | Avg HR Score: 66.3
-- Dominic Canzone + Jac Caglianone + Max Muncy + Ben Rice | Avg HR Score: 64.9
-- Jac Caglianone + Max Muncy + Ben Rice + Carter Jensen | Avg HR Score: 64.3
+- James Wood + Munetaka Murakami + Esmerlyn Valdez + Drake Baldwin | Avg HR Score: 64.8
+- Munetaka Murakami + Esmerlyn Valdez + Drake Baldwin + Matt Olson | Avg HR Score: 64.1
+- Esmerlyn Valdez + Drake Baldwin + Matt Olson + Dominic Canzone | Avg HR Score: 63.5
+- Drake Baldwin + Matt Olson + Dominic Canzone + Shohei Ohtani | Avg HR Score: 62.8
+- Matt Olson + Dominic Canzone + Shohei Ohtani + Nick Kurtz | Avg HR Score: 61.9
