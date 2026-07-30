@@ -11,8 +11,8 @@
 | 7 | Shohei Ohtani | LAD | Bryan Woo | 1 | 62.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Drake Baldwin | ATL | Jake Irvin | 1 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Jac Caglianone | KC | Bailey Ober | 3 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Carter Jensen | KC | Bailey Ober | 1 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Ben Rice | NYY | Sean Burke | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Ben Rice | NYY | Sean Burke | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Carter Jensen | KC | Bailey Ober | 1 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Ryan Jeffers | MIN | Noah Cameron | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Brandon Lowe | PIT | Rhett Lowder | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Salvador Perez | KC | Bailey Ober | 4 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
@@ -20,8 +20,8 @@
 | 16 | Bryce Eldridge | SF | JP Sears | 3 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 17 | Ronald Acuna | ATL | Jake Irvin | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 18 | Miguel Vargas | CWS | Ryan Weathers | 3 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Junior Caminero | TB | Cole Winn | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Kody Clemens | MIN | Noah Cameron | 5 | 56.9 | Longshot | Watch List | Strong Barrel |
+| 19 | Alec Burleson | STL | Javier Assad | 3 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Junior Caminero | TB | Cole Winn | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
