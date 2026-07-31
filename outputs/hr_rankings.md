@@ -17,11 +17,11 @@
 | 13 | Randy Arozarena | SEA | Roki Sasaki | 2 | 56.5 | Longshot | Watch List | Premium Lineup Spot |
 | 14 | Luke Raley | SEA | Roki Sasaki | 7 | 56.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 15 | Freddie Freeman | LAD | Bryan Woo | 3 | 55.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Manny Machado | SD |  | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Jackson Merrill | SD |  | 5 | 54.0 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 18 | Fernando Tatis Jr. | SD |  | 1 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Ty France | SD |  | 4 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Cole Young | SEA | Roki Sasaki | 1 | 52.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 16 | Francisco Lindor | NYM | Eury Pérez | 2 | 55.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Kyle Stowers | MIA | Nolan McLean | 4 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Manny Machado | SD |  | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Jackson Merrill | SD |  | 5 | 54.0 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 20 | Fernando Tatis Jr. | SD |  | 1 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
