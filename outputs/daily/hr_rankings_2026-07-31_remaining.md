@@ -11,17 +11,17 @@
 | 7 | Kyle Schwarber | PHI | Brandon Young | 2 | 66.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Carter Jensen | KC | Tomoyuki Sugano | 1 | 64.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 9 | Griffin Conine | MIA | Kodai Senga | 5 | 64.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 10 | Mike Trout | LAA | Shane Drohan | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Pete Alonso | BAL | Andrew Painter | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Kazuma Okamoto | TOR | Kyle Leahy | 3 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Dominic Canzone | SEA | Zebby Matthews | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Shohei Ohtani | LAD | Ranger Suarez | 1 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 15 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 16 | Manny Machado | SD | Carson Whisenhunt | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Jake Bauers | MIL | Ryan Johnson | 5 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Platoon Edge |
-| 18 | Luis García Jr. | WSH | Bryce Elder | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Matt Olson | ATL | Foster Griffin | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Ronald Acuña Jr. | ATL | Foster Griffin | 1 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Dominic Canzone | SEA | Zebby Matthews | 3 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Mike Trout | LAA | Shane Drohan | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Pete Alonso | BAL | Andrew Painter | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Kazuma Okamoto | TOR | Kyle Leahy | 3 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Riley Greene | DET | Jeffrey Springs | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Nick Kurtz | ATH | Tyler Holton | 1 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 16 | Shohei Ohtani | LAD | Ranger Suarez | 1 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 18 | Jake Bauers | MIL | Ryan Johnson | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 19 | Manny Machado | SD | Carson Whisenhunt | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Dillon Dingler | DET | Jeffrey Springs | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
