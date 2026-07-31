@@ -12,8 +12,8 @@
 | 8 | Esmerlyn Valdez | PIT | Hunter Greene | 4 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 9 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
 | 10 | Pete Alonso | BAL |  | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Nick Kurtz | ATH | Casey Mize | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Brandon Lowe | PIT | Hunter Greene | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Brandon Lowe | PIT | Hunter Greene | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Nick Kurtz | ATH |  | 1 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 13 | Ben Rice | NYY | Shota Imanaga | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 14 | Pete Crow-Armstrong | CHC | Will Warren | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Manny Machado | SD | Carson Whisenhunt | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
