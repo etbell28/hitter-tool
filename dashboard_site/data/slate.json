@@ -1,7 +1,7 @@
 {
   "date": "Sunday, August 2, 2026",
-  "generated_at": "03:16 AM ",
-  "generated_iso": "2026-08-02T03:16:27",
+  "generated_at": "06:16 AM ",
+  "generated_iso": "2026-08-02T06:16:12",
   "slate_projection": 260,
   "games_count": 15,
   "confirmed_count": 0,
@@ -1605,7 +1605,7 @@
       "weather_temp": null,
       "environment_score": 28.2,
       "top_player": "Mike Trout",
-      "top_score": 49.6,
+      "top_score": 49.5,
       "teams": "LAA / MIL"
     }
   ],
@@ -2092,31 +2092,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Dillon Dingler",
-          "team": "DET",
-          "order": 3,
-          "pitcher": "Gage Jump",
-          "score": 49.7,
-          "rank": 63,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Tyler Soderstrom",
           "team": "ATH",
           "order": 3,
           "pitcher": "Keider Montero",
-          "score": 49.7,
-          "rank": 64,
+          "score": 49.9,
+          "rank": 61,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2130,12 +2111,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Dillon Dingler",
+          "team": "DET",
+          "order": 3,
+          "pitcher": "Gage Jump",
+          "score": 49.6,
+          "rank": 66,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Spencer Torkelson",
           "team": "DET",
           "order": 6,
           "pitcher": "Gage Jump",
-          "score": 49.5,
-          "rank": 68,
+          "score": 49.6,
+          "rank": 67,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2153,7 +2153,7 @@
           "team": "ATH",
           "order": 8,
           "pitcher": "Keider Montero",
-          "score": 47.2,
+          "score": 47.1,
           "rank": 89,
           "badge": "EV EDGE",
           "badge_class": "blue",
@@ -2393,7 +2393,7 @@
       "temp": "",
       "wind": "",
       "environment_score": 28.2,
-      "top_score": 49.6,
+      "top_score": 49.5,
       "game_tags": "lineup caution",
       "disagreement_count": 18,
       "players": [
@@ -2402,8 +2402,8 @@
           "team": "LAA",
           "order": 2,
           "pitcher": "Jacob Misiorowski",
-          "score": 49.6,
-          "rank": 67,
+          "score": 49.5,
+          "rank": 68,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2446,7 +2446,7 @@
           "team": "MIL",
           "order": 2,
           "pitcher": "Walbert Ureña",
-          "score": 43.7,
+          "score": 43.8,
           "rank": 127,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
@@ -2484,8 +2484,8 @@
           "team": "LAA",
           "order": 6,
           "pitcher": "Jacob Misiorowski",
-          "score": 41.6,
-          "rank": 153,
+          "score": 41.5,
+          "rank": 154,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3612,7 +3612,7 @@
           "order": 4,
           "pitcher": "Peter Lambert",
           "score": 49.7,
-          "rank": 62,
+          "rank": 63,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3861,7 +3861,7 @@
       "temp": "",
       "wind": "",
       "environment_score": 28.2,
-      "top_score": 49.6,
+      "top_score": 49.5,
       "game_tags": "lineup caution",
       "disagreement_count": 18,
       "players": [
@@ -3870,8 +3870,8 @@
           "team": "LAA",
           "order": 2,
           "pitcher": "Jacob Misiorowski",
-          "score": 49.6,
-          "rank": 67,
+          "score": 49.5,
+          "rank": 68,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3914,7 +3914,7 @@
           "team": "MIL",
           "order": 2,
           "pitcher": "Walbert Ureña",
-          "score": 43.7,
+          "score": 43.8,
           "rank": 127,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
@@ -3952,8 +3952,8 @@
           "team": "LAA",
           "order": 6,
           "pitcher": "Jacob Misiorowski",
-          "score": 41.6,
-          "rank": 153,
+          "score": 41.5,
+          "rank": 154,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3998,31 +3998,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Dillon Dingler",
-          "team": "DET",
-          "order": 3,
-          "pitcher": "Gage Jump",
-          "score": 49.7,
-          "rank": 63,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Tyler Soderstrom",
           "team": "ATH",
           "order": 3,
           "pitcher": "Keider Montero",
-          "score": 49.7,
-          "rank": 64,
+          "score": 49.9,
+          "rank": 61,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -4036,12 +4017,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Dillon Dingler",
+          "team": "DET",
+          "order": 3,
+          "pitcher": "Gage Jump",
+          "score": 49.6,
+          "rank": 66,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Spencer Torkelson",
           "team": "DET",
           "order": 6,
           "pitcher": "Gage Jump",
-          "score": 49.5,
-          "rank": 68,
+          "score": 49.6,
+          "rank": 67,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4059,7 +4059,7 @@
           "team": "ATH",
           "order": 8,
           "pitcher": "Keider Montero",
-          "score": 47.2,
+          "score": 47.1,
           "rank": 89,
           "badge": "EV EDGE",
           "badge_class": "blue",
@@ -4276,7 +4276,7 @@
           "order": 4,
           "pitcher": "Taj Bradley",
           "score": 49.7,
-          "rank": 65,
+          "rank": 64,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
