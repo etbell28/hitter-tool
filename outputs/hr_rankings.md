@@ -7,7 +7,7 @@
 | 3 | James Wood | WSH | JR Ritchie | 1 | 66.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Yordan Alvarez | HOU | Kumar Rocker | 2 | 66.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Griffin Conine | MIA | Robert Stock | 5 | 65.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
-| 6 | Kyle Schwarber | PHI | Kyle Bradish | 2 | 64.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Kyle Schwarber | PHI | Kyle Bradish | 2 | 65.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Spencer Jones | NYY | Colin Rea | 5 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 8 | Esmerlyn Valdez | PIT | Chase Burns | 4 | 61.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 9 | Ben Rice | NYY | Colin Rea | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -20,8 +20,8 @@
 | 16 | Salvador Perez | KC | Kyle Freeland | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Jac Caglianone | KC | Kyle Freeland | 4 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 18 | Sal Stewart | CIN | Mitch Keller | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Brandon Lowe | PIT | Chase Burns | 2 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | John Rave | KC | Kyle Freeland | 8 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 19 | Kazuma Okamoto | TOR | Matthew Liberatore | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Brandon Lowe | PIT | Chase Burns | 2 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
@@ -29,20 +29,20 @@
 - Kyle Stowers + James Wood | Avg HR Score: 67.3
 - James Wood + Yordan Alvarez | Avg HR Score: 66.5
 - Yordan Alvarez + Griffin Conine | Avg HR Score: 66.0
-- Griffin Conine + Kyle Schwarber | Avg HR Score: 65.3
+- Griffin Conine + Kyle Schwarber | Avg HR Score: 65.7
 
 ## Best 3-Leg Pairings
 
 - Munetaka Murakami + Kyle Stowers + James Wood | Avg HR Score: 68.4
 - Kyle Stowers + James Wood + Yordan Alvarez | Avg HR Score: 67.0
 - James Wood + Yordan Alvarez + Griffin Conine | Avg HR Score: 66.3
-- Yordan Alvarez + Griffin Conine + Kyle Schwarber | Avg HR Score: 65.7
-- Griffin Conine + Kyle Schwarber + Spencer Jones | Avg HR Score: 64.7
+- Yordan Alvarez + Griffin Conine + Kyle Schwarber | Avg HR Score: 65.9
+- Griffin Conine + Kyle Schwarber + Spencer Jones | Avg HR Score: 64.9
 
 ## Best 4-Leg Pairings
 
 - Munetaka Murakami + Kyle Stowers + James Wood + Yordan Alvarez | Avg HR Score: 67.8
 - Kyle Stowers + James Wood + Yordan Alvarez + Griffin Conine | Avg HR Score: 66.7
-- James Wood + Yordan Alvarez + Griffin Conine + Kyle Schwarber | Avg HR Score: 66.0
-- Yordan Alvarez + Griffin Conine + Kyle Schwarber + Spencer Jones | Avg HR Score: 65.1
-- Griffin Conine + Kyle Schwarber + Spencer Jones + Esmerlyn Valdez | Avg HR Score: 63.9
+- James Wood + Yordan Alvarez + Griffin Conine + Kyle Schwarber | Avg HR Score: 66.1
+- Yordan Alvarez + Griffin Conine + Kyle Schwarber + Spencer Jones | Avg HR Score: 65.2
+- Griffin Conine + Kyle Schwarber + Spencer Jones + Esmerlyn Valdez | Avg HR Score: 64.1
