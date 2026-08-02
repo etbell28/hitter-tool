@@ -10,8 +10,8 @@
 | 6 | James Wood | WSH | JR Ritchie | 1 | 67.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | John Rave | KC | Kyle Freeland | 6 | 65.9 | Tier 3 | Watch List | Strong Barrel |
 | 8 | Owen Caissie | MIA | Robert Stock | 6 | 65.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge, Hot Hitter/Streak |
-| 9 | Kyle Schwarber | PHI | Kyle Bradish | 2 | 65.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ben Rice | NYY | Colin Rea | 2 | 65.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Ben Rice | NYY | Colin Rea | 2 | 65.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Kyle Schwarber | PHI | Kyle Bradish | 2 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Jac Caglianone | KC | Kyle Freeland | 3 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 12 | Salvador Perez | KC | Kyle Freeland | 4 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Mickey Moniak | COL | Seth Lugo | 2 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
