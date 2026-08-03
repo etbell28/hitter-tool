@@ -15,8 +15,8 @@
 | 11 | Jonathan Aranda | TB | Michael Lorenzen | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Esmerlyn Valdez | PIT | Brandon Sproat | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 13 | Jake Bauers | MIL | Bubba Chandler | 5 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 14 | Brandon Lowe | PIT | Brandon Sproat | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Kyle Schwarber | PHI | Andrew Alvarez | 3 | 54.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 14 | Kyle Schwarber | PHI | Andrew Alvarez | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 15 | Brandon Lowe | PIT | Brandon Sproat | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 16 | Trent Grisham | NYY | Michael McGreevy | 1 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Christian Walker | HOU | Shane Bieber | 4 | 53.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 18 | Jackson Merrill | SD | Brandon Pfaadt | 5 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
