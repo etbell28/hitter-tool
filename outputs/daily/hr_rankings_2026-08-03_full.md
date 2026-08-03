@@ -16,12 +16,12 @@
 | 12 | Alec Burleson | STL | Cam Schlittler | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Junior Caminero | TB | Michael Lorenzen | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 14 | Abimelec Ortiz | WSH | Aaron Nola | 6 | 58.2 | Longshot | Watch List | Projected Lineup, Good Environment, Platoon Edge |
-| 15 | Jordan Walker | STL | Cam Schlittler | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 16 | Ryan McMahon | NYY | Michael McGreevy | 7 | 57.9 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 17 | Hunter Goodman | COL | Ian Seymour | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | CJ Abrams | WSH | Aaron Nola | 4 | 57.5 | Longshot | Watch List | Projected Lineup, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Jazz Chisholm Jr. | NYY | Michael McGreevy | 6 | 57.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 20 | Daylen Lile | WSH | Aaron Nola | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Esmerlyn Valdez | PIT | Brandon Sproat | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 16 | Jake Bauers | MIL | Bubba Chandler | 5 | 58.2 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jordan Walker | STL | Cam Schlittler | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 18 | Ryan McMahon | NYY | Michael McGreevy | 7 | 57.9 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 19 | Hunter Goodman | COL | Ian Seymour | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | CJ Abrams | WSH | Aaron Nola | 4 | 57.5 | Longshot | Watch List | Projected Lineup, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
