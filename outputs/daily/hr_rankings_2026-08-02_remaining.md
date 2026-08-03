@@ -2,45 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Jake Bennett | 1 | 64.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Willson Contreras | BOS | Emmet Sheehan | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 3 | Wilyer Abreu | BOS | Emmet Sheehan | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 4 | Ceddanne Rafaela | BOS | Emmet Sheehan | 2 | 52.4 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Andy Pages | LAD | Jake Bennett | 2 | 51.9 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 6 | Freddie Freeman | LAD | Jake Bennett | 4 | 51.1 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
-| 7 | Teoscar Hernández | LAD | Jake Bennett | 7 | 49.7 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
-| 8 | Jarren Duran | BOS | Emmet Sheehan | 8 | 49.6 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 9 | Masataka Yoshida | BOS | Emmet Sheehan | 5 | 48.8 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 10 | Max Muncy | LAD | Jake Bennett | 8 | 47.7 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 11 | Andruw Monasterio | BOS | Emmet Sheehan | 7 | 47.6 | Longshot | Watch List | Good Environment |
-| 12 | Mookie Betts | LAD | Jake Bennett | 5 | 47.5 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 13 | Tommy Edman | LAD | Jake Bennett | 3 | 45.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Dalton Rushing | LAD | Jake Bennett | 9 | 44.7 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 15 | Kyle Tucker | LAD | Jake Bennett | 6 | 44.1 | Longshot | Watch List | Good Environment |
-| 16 | Carlos Narváez | BOS | Emmet Sheehan | 9 | 43.3 | Longshot | Watch List | Good Environment |
-| 17 | Nick Sogard | BOS | Emmet Sheehan | 1 | 42.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Caleb Durbin | BOS | Emmet Sheehan | 6 | 39.9 | Longshot | Watch List | Good Environment |
+| 1 | Yordan Alvarez | HOU | Shane Bieber | 2 | 71.2 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Spencer Jones | NYY | Michael McGreevy | 4 | 65.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | James Wood | WSH | Aaron Nola | 1 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Shohei Ohtani | LAD | Matthew Boyd | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Ben Rice | NYY | Michael McGreevy | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Kyle Schwarber | PHI |  | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Junior Caminero | TB | Michael Lorenzen | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Osleivis Basabe | SF |  | 9 | 58.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 9 | Bryce Eldridge | SF |  | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Esmerlyn Valdez | PIT | Brandon Sproat | 4 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 11 | Jonathan Aranda | TB | Michael Lorenzen | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jake Bauers | MIL | Bubba Chandler | 5 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 13 | Brandon Lowe | PIT | Brandon Sproat | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Trent Grisham | NYY | Michael McGreevy | 1 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Bryce Harper | PHI |  | 3 | 54.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Christian Walker | HOU | Shane Bieber | 4 | 53.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Rafael Devers | SF |  | 4 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Jackson Merrill | SD | Brandon Pfaadt | 5 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 19 | Taylor Trammell | HOU | Shane Bieber | 5 | 53.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 20 | Corey Seager | TEX | Logan Webb | 3 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Willson Contreras | Avg HR Score: 62.7
-- Willson Contreras + Wilyer Abreu | Avg HR Score: 60.2
-- Wilyer Abreu + Ceddanne Rafaela | Avg HR Score: 56.2
-- Ceddanne Rafaela + Andy Pages | Avg HR Score: 52.1
-- Andy Pages + Freddie Freeman | Avg HR Score: 51.5
+- Yordan Alvarez + Spencer Jones | Avg HR Score: 68.3
+- Spencer Jones + James Wood | Avg HR Score: 64.9
+- James Wood + Shohei Ohtani | Avg HR Score: 63.5
+- Shohei Ohtani + Ben Rice | Avg HR Score: 62.0
+- Ben Rice + Kyle Schwarber | Avg HR Score: 61.0
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Willson Contreras + Wilyer Abreu | Avg HR Score: 61.8
-- Willson Contreras + Wilyer Abreu + Ceddanne Rafaela | Avg HR Score: 57.6
-- Wilyer Abreu + Ceddanne Rafaela + Andy Pages | Avg HR Score: 54.8
-- Ceddanne Rafaela + Andy Pages + Freddie Freeman | Avg HR Score: 51.8
-- Andy Pages + Freddie Freeman + Teoscar Hernández | Avg HR Score: 50.9
+- Yordan Alvarez + Spencer Jones + James Wood | Avg HR Score: 67.0
+- Spencer Jones + James Wood + Shohei Ohtani | Avg HR Score: 64.1
+- James Wood + Shohei Ohtani + Ben Rice | Avg HR Score: 62.8
+- Shohei Ohtani + Ben Rice + Kyle Schwarber | Avg HR Score: 61.5
+- Ben Rice + Kyle Schwarber + Junior Caminero | Avg HR Score: 60.1
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Willson Contreras + Wilyer Abreu + Ceddanne Rafaela | Avg HR Score: 59.5
-- Willson Contreras + Wilyer Abreu + Ceddanne Rafaela + Andy Pages | Avg HR Score: 56.2
-- Wilyer Abreu + Ceddanne Rafaela + Andy Pages + Freddie Freeman | Avg HR Score: 53.9
-- Ceddanne Rafaela + Andy Pages + Freddie Freeman + Teoscar Hernández | Avg HR Score: 51.3
-- Andy Pages + Freddie Freeman + Teoscar Hernández + Jarren Duran | Avg HR Score: 50.6
+- Yordan Alvarez + Spencer Jones + James Wood + Shohei Ohtani | Avg HR Score: 65.9
+- Spencer Jones + James Wood + Shohei Ohtani + Ben Rice | Avg HR Score: 63.5
+- James Wood + Shohei Ohtani + Ben Rice + Kyle Schwarber | Avg HR Score: 62.2
+- Shohei Ohtani + Ben Rice + Kyle Schwarber + Junior Caminero | Avg HR Score: 60.7
+- Ben Rice + Kyle Schwarber + Junior Caminero + Osleivis Basabe | Avg HR Score: 59.6
