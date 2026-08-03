@@ -1,7 +1,7 @@
 {
   "date": "Monday, August 3, 2026",
-  "generated_at": "08:36 PM ",
-  "generated_iso": "2026-08-03T20:36:14",
+  "generated_at": "09:04 PM ",
+  "generated_iso": "2026-08-03T21:04:00",
   "slate_projection": 135,
   "games_count": 8,
   "confirmed_count": 54,
@@ -3790,7 +3790,7 @@
           "order": 7,
           "pitcher": "Michael Lorenzen",
           "score": 46.8,
-          "rank": 71,
+          "rank": 72,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3897,7 +3897,7 @@
           "order": 2,
           "pitcher": "Brandon Pfaadt",
           "score": 43.2,
-          "rank": 90,
+          "rank": 91,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5231,7 +5231,7 @@
           "order": 7,
           "pitcher": "Michael Lorenzen",
           "score": 46.8,
-          "rank": 71,
+          "rank": 72,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5338,7 +5338,7 @@
           "order": 2,
           "pitcher": "Brandon Pfaadt",
           "score": 43.2,
-          "rank": 90,
+          "rank": 91,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
