@@ -13,9 +13,9 @@
 | 9 | Munetaka Murakami | CWS | Patrick Sandoval | 2 | 64.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 10 | Jac Caglianone | KC | Joe Ryan | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Christian Encarnacion-Strand | BAL | Grayson Rodriguez | 4 | 63.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 12 | Spencer Jones | NYY | Hunter Dobbins | 5 | 61.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 13 | Jordan Walker | STL | Ryan Weathers | 2 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Nelson Velázquez | STL | Ryan Weathers | 5 | 61.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Corbin Carroll | AZ | Randy Vásquez | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Nelson Velázquez | STL | Ryan Weathers | 4 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Spencer Jones | NYY | Hunter Dobbins | 5 | 61.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 15 | Ben Rice | NYY | Hunter Dobbins | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Wilyer Abreu | BOS | Davis Martin | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Max Muncy | LAD | Javier Assad | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
