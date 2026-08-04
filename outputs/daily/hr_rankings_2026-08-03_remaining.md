@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Junior Caminero | TB | Michael Lorenzen | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 2 | Hunter Goodman | COL | Ian Seymour | 4 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Jonathan Aranda | TB | Michael Lorenzen | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Corbin Carroll | AZ | Michael King | 1 | 57.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Jackson Merrill | SD | Brandon Pfaadt | 5 | 56.2 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 6 | Yandy Díaz | TB | Michael Lorenzen | 1 | 55.3 | Longshot | Watch List | Premium Lineup Spot |
-| 7 | Victor Mesa Jr. | TB | Michael Lorenzen | 5 | 54.6 | Longshot | Watch List | Platoon Edge |
-| 8 | Manny Machado | SD | Brandon Pfaadt | 3 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Ketel Marte | AZ | Michael King | 4 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Mickey Moniak | COL | Ian Seymour | 5 | 53.8 | Longshot | Watch List | Strong Barrel |
-| 11 | Fernando Tatis Jr. | SD | Brandon Pfaadt | 1 | 52.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Ty France | SD | Brandon Pfaadt | 4 | 52.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Willi Castro | COL | Ian Seymour | 6 | 50.8 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 14 | Cedric Mullins | TB | Michael Lorenzen | 4 | 50.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 15 | Kyle Karros | COL | Ian Seymour | 2 | 50.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Cole Carrigg | COL | Ian Seymour | 3 | 50.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Max Kepler | AZ | Michael King | 5 | 50.1 | Longshot | Watch List | Platoon Edge |
-| 18 | Gabriel Moreno | AZ | Michael King | 3 | 47.4 | Longshot | Watch List | Premium Lineup Spot |
-| 19 | Jake Cronenworth | SD | Brandon Pfaadt | 2 | 45.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Geraldo Perdomo | AZ | Michael King | 2 | 44.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Zack Littell | 2 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Osleivis Basabe | SF | MacKenzie Gore | 7 | 65.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 3 | Shohei Ohtani | LAD | Javier Assad | 1 | 64.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Yordan Alvarez | HOU | Trey Yesavage | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Bryce Harper | PHI | Zack Littell | 3 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Spencer Jones | NYY |  | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Jordan Walker | STL | Ryan Weathers | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Ben Rice | NYY |  | 2 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Alec Burleson | STL | Ryan Weathers | 3 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Jake Bauers | MIL | Jared Jones | 5 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 11 | James Wood | WSH | Jesús Luzardo | 1 | 54.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 12 | Luis Garcia | NYY |  | 3 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Esmerlyn Valdez | PIT | Logan Henderson | 4 | 54.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 14 | Rafael Devers | SF | MacKenzie Gore | 4 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Hunter Goodman | COL | Freddy Peralta | 4 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Manny Machado | SD | Eduardo Rodriguez | 3 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Brandon Lowe | PIT | Logan Henderson | 2 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Fernando Tatis | SD | Eduardo Rodriguez | 1 | 52.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Bryan De La Cruz | PHI | Zack Littell | 5 | 51.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 20 | Ty France | SD | Eduardo Rodriguez | 4 | 51.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Junior Caminero + Hunter Goodman | Avg HR Score: 62.9
-- Hunter Goodman + Jonathan Aranda | Avg HR Score: 61.8
-- Jonathan Aranda + Corbin Carroll | Avg HR Score: 59.1
-- Corbin Carroll + Jackson Merrill | Avg HR Score: 56.7
-- Jackson Merrill + Yandy Díaz | Avg HR Score: 55.8
+- Kyle Schwarber + Osleivis Basabe | Avg HR Score: 66.4
+- Osleivis Basabe + Shohei Ohtani | Avg HR Score: 65.1
+- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 64.1
+- Yordan Alvarez + Bryce Harper | Avg HR Score: 62.9
+- Bryce Harper + Spencer Jones | Avg HR Score: 60.8
 
 ## Best 3-Leg Pairings
 
-- Junior Caminero + Hunter Goodman + Jonathan Aranda | Avg HR Score: 62.3
-- Hunter Goodman + Jonathan Aranda + Corbin Carroll | Avg HR Score: 60.2
-- Jonathan Aranda + Corbin Carroll + Jackson Merrill | Avg HR Score: 58.1
-- Corbin Carroll + Jackson Merrill + Yandy Díaz | Avg HR Score: 56.2
-- Jackson Merrill + Yandy Díaz + Victor Mesa Jr. | Avg HR Score: 55.4
+- Kyle Schwarber + Osleivis Basabe + Shohei Ohtani | Avg HR Score: 65.8
+- Osleivis Basabe + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 64.6
+- Shohei Ohtani + Yordan Alvarez + Bryce Harper | Avg HR Score: 63.5
+- Yordan Alvarez + Bryce Harper + Spencer Jones | Avg HR Score: 61.7
+- Bryce Harper + Spencer Jones + Jordan Walker | Avg HR Score: 59.6
 
 ## Best 4-Leg Pairings
 
-- Junior Caminero + Hunter Goodman + Jonathan Aranda + Corbin Carroll | Avg HR Score: 61.0
-- Hunter Goodman + Jonathan Aranda + Corbin Carroll + Jackson Merrill | Avg HR Score: 59.2
-- Jonathan Aranda + Corbin Carroll + Jackson Merrill + Yandy Díaz | Avg HR Score: 57.4
-- Corbin Carroll + Jackson Merrill + Yandy Díaz + Victor Mesa Jr. | Avg HR Score: 55.8
-- Jackson Merrill + Yandy Díaz + Victor Mesa Jr. + Manny Machado | Avg HR Score: 55.0
+- Kyle Schwarber + Osleivis Basabe + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 65.2
+- Osleivis Basabe + Shohei Ohtani + Yordan Alvarez + Bryce Harper | Avg HR Score: 64.0
+- Shohei Ohtani + Yordan Alvarez + Bryce Harper + Spencer Jones | Avg HR Score: 62.4
+- Yordan Alvarez + Bryce Harper + Spencer Jones + Jordan Walker | Avg HR Score: 60.5
+- Bryce Harper + Spencer Jones + Jordan Walker + Ben Rice | Avg HR Score: 58.7
