@@ -12,16 +12,16 @@
 | 8 | Bryce Harper | PHI | Jake Irvin | 4 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Matt Olson | ATL | Eury Pérez | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Jonathan Aranda | TB | Tomoyuki Sugano | 2 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 11 | Jake Burger | TEX | Carson Whisenhunt | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Brandon Nimmo | TEX | Carson Whisenhunt | 3 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Seiya Suzuki | CHC | Eric Lauer | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Seiya Suzuki | CHC | Eric Lauer | 2 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jake Burger | TEX | Carson Whisenhunt | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Brandon Nimmo | TEX | Carson Whisenhunt | 3 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 14 | Kyle Stowers | MIA | Bryce Elder | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Pete Alonso | BAL | Reid Detmers | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Alec Burleson | STL | Will Warren | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 17 | Bryce Eldridge | SF | Cody Bradford | 1 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Wyatt Langford | TEX | Carson Whisenhunt | 1 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Griffin Conine | MIA | Bryce Elder | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Pete Crow-Armstrong | CHC | Eric Lauer | 1 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Pete Crow-Armstrong | CHC | Eric Lauer | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Wyatt Langford | TEX | Carson Whisenhunt | 1 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Griffin Conine | MIA | Bryce Elder | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
