@@ -18,10 +18,10 @@
 | 14 | Jac Caglianone | KC | Bailey Ober | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Willson Contreras | BOS | Luis Castillo | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 16 | Esmerlyn Valdez | PIT | Dustin May | 4 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 17 | Munetaka Murakami | CWS | Ranger Suarez | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 18 | Tyler Stephenson | CIN | Mason Barnett | 4 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Coby Mayo | BAL | Ryan Johnson | 6 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment |
-| 20 | Jake Bauers | MIL | Braxton Ashcraft | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Francisco Alvarez | NYM | Foster Griffin | 5 | 56.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Munetaka Murakami | CWS | Ranger Suarez | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 19 | Tyler Stephenson | CIN | Mason Barnett | 4 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Coby Mayo | BAL | Ryan Johnson | 6 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment |
 
 ## Best 2-Leg Pairings
 
