@@ -12,14 +12,14 @@
 | 8 | Sal Stewart | CIN | Cade Cavalli | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 9 | Corbin Carroll | AZ | Roki Sasaki | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Bryce Eldridge | SF | Keider Montero | 1 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Mickey Moniak | COL | Kyle Leahy | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Angel Genao | CLE | Noah Schultz | 9 | 60.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 11 | Angel Genao | CLE | Noah Schultz | 9 | 60.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 12 | Mickey Moniak | COL | Kyle Leahy | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Jac Caglianone | KC | Kevin Gausman | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Hunter Goodman | COL | Kyle Leahy | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 15 | Jonathan Aranda | TB | Logan Gilbert | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Freddie Freeman | LAD | Merrill Kelly | 3 | 59.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Pete Alonso | BAL | Nathan Eovaldi | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Munetaka Murakami | CWS | Parker Messick | 2 | 59.3 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Munetaka Murakami | CWS | Parker Messick | 2 | 59.7 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 18 | Pete Alonso | BAL | Nathan Eovaldi | 2 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Elly De La Cruz | CIN | Cade Cavalli | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 20 | Rafael Devers | SF | Keider Montero | 4 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
