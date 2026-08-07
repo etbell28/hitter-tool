@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Miles Mikolas | 1 | 64.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Pete Alonso | BAL | Ryan Johnson | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 3 | Fernando Tatis | SD | Kohl Drake | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 4 | Christian Encarnacion-Strand | BAL | Ryan Johnson | 4 | 62.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 5 | Manny Machado | SD | Kohl Drake | 3 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 6 | Mike Trout | LAA | Brandon Young | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 7 | Ty France | SD | Kohl Drake | 4 | 60.8 | Tier 3 | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 8 | Matt Olson | ATL | Janson Junk | 3 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Sal Stewart | CIN | Mason Barnett | 2 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Bryce Harper | PHI | Miles Mikolas | 3 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Wilyer Abreu | BOS | Luis Castillo | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Jackson Merrill | SD | Kohl Drake | 5 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable |
-| 13 | Elly De La Cruz | CIN | Mason Barnett | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jac Caglianone | KC | Bailey Ober | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Willson Contreras | BOS | Luis Castillo | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Esmerlyn Valdez | PIT | Dustin May | 4 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 17 | Francisco Alvarez | NYM | Foster Griffin | 5 | 56.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Munetaka Murakami | CWS | Ranger Suarez | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 19 | Tyler Stephenson | CIN | Mason Barnett | 4 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Jake Bauers | MIL | Braxton Ashcraft | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Kyle Stowers | MIA | George Klassen | 6 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 2 | Kyle Schwarber | PHI | José Soriano | 1 | 58.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Heriberto Hernandez | MIA | George Klassen | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 4 | Pete Alonso | BAL | Nathan Eovaldi | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Wilyer Abreu | BOS | Jack Perkins | 3 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Munetaka Murakami | CWS | Parker Messick | 2 | 55.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 7 | Bryce Harper | PHI | José Soriano | 3 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Angel Genao | CLE | Noah Schultz | 9 | 54.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 9 | Sal Stewart | CIN | Cade Cavalli | 2 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Jackson Merrill | SD | Ronel Blanco | 5 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Christian Encarnacion-Strand | BAL | Nathan Eovaldi | 4 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 12 | Jac Caglianone | KC |  | 3 | 54.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Jackson Chourio | MIL |  | 2 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Fernando Tatis | SD | Ronel Blanco | 1 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Brandon Lowe | PIT | Zac Thornton | 2 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Pete Crow-Armstrong | CHC |  | 1 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Riley Greene | DET |  | 4 | 52.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Bobby Witt | KC |  | 2 | 52.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Ronald Acuna | ATL | Max Fried | 2 | 52.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Mike Trout | LAA | Tyler Phillips | 2 | 52.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso | Avg HR Score: 64.8
-- Pete Alonso + Fernando Tatis | Avg HR Score: 63.6
-- Fernando Tatis + Christian Encarnacion-Strand | Avg HR Score: 62.5
-- Christian Encarnacion-Strand + Manny Machado | Avg HR Score: 62.1
-- Manny Machado + Mike Trout | Avg HR Score: 61.8
+- Kyle Stowers + Kyle Schwarber | Avg HR Score: 59.6
+- Kyle Schwarber + Heriberto Hernandez | Avg HR Score: 58.2
+- Heriberto Hernandez + Pete Alonso | Avg HR Score: 57.1
+- Pete Alonso + Wilyer Abreu | Avg HR Score: 56.3
+- Wilyer Abreu + Munetaka Murakami | Avg HR Score: 55.7
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso + Fernando Tatis | Avg HR Score: 64.0
-- Pete Alonso + Fernando Tatis + Christian Encarnacion-Strand | Avg HR Score: 63.2
-- Fernando Tatis + Christian Encarnacion-Strand + Manny Machado | Avg HR Score: 62.3
-- Christian Encarnacion-Strand + Manny Machado + Mike Trout | Avg HR Score: 62.0
-- Manny Machado + Mike Trout + Ty France | Avg HR Score: 61.4
+- Kyle Stowers + Kyle Schwarber + Heriberto Hernandez | Avg HR Score: 59.0
+- Kyle Schwarber + Heriberto Hernandez + Pete Alonso | Avg HR Score: 57.7
+- Heriberto Hernandez + Pete Alonso + Wilyer Abreu | Avg HR Score: 56.7
+- Pete Alonso + Wilyer Abreu + Munetaka Murakami | Avg HR Score: 56.0
+- Wilyer Abreu + Munetaka Murakami + Bryce Harper | Avg HR Score: 55.4
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Pete Alonso + Fernando Tatis + Christian Encarnacion-Strand | Avg HR Score: 63.6
-- Pete Alonso + Fernando Tatis + Christian Encarnacion-Strand + Manny Machado | Avg HR Score: 62.8
-- Fernando Tatis + Christian Encarnacion-Strand + Manny Machado + Mike Trout | Avg HR Score: 62.1
-- Christian Encarnacion-Strand + Manny Machado + Mike Trout + Ty France | Avg HR Score: 61.7
-- Manny Machado + Mike Trout + Ty France + Matt Olson | Avg HR Score: 61.2
+- Kyle Stowers + Kyle Schwarber + Heriberto Hernandez + Pete Alonso | Avg HR Score: 58.4
+- Kyle Schwarber + Heriberto Hernandez + Pete Alonso + Wilyer Abreu | Avg HR Score: 57.3
+- Heriberto Hernandez + Pete Alonso + Wilyer Abreu + Munetaka Murakami | Avg HR Score: 56.4
+- Pete Alonso + Wilyer Abreu + Munetaka Murakami + Bryce Harper | Avg HR Score: 55.7
+- Wilyer Abreu + Munetaka Murakami + Bryce Harper + Angel Genao | Avg HR Score: 55.2
