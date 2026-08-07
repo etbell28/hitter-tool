@@ -12,16 +12,16 @@
 | 8 | Brian Serven | ATH | Payton Tolle | 6 | 63.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 9 | Mickey Moniak | COL | Kyle Leahy | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Yordan Alvarez | HOU | Robbie Ray | 2 | 62.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 11 | Bryce Harper | PHI | José Soriano | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Hunter Goodman | COL | Kyle Leahy | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Wilyer Abreu | BOS | Jack Perkins | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Wilyer Abreu | BOS | Jack Perkins | 3 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Bryce Harper | PHI | José Soriano | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 13 | Hunter Goodman | COL | Kyle Leahy | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 14 | Sal Stewart | CIN | Cade Cavalli | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Max Muncy | LAD | Merrill Kelly | 4 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Owen Caissie | MIA | George Klassen | 5 | 59.6 | Longshot | Watch List | Strong Barrel, Pitcher Vulnerable, Platoon Edge |
 | 17 | Ben Rice | NYY | Tyler Mahle | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Brandon Lowe | PIT | Zac Thornton | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Jordan Walker | STL | Ryan Feltner | 2 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Willson Contreras | BOS | Jack Perkins | 4 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Angel Genao | CLE | Noah Schultz | 9 | 58.8 | Longshot | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
