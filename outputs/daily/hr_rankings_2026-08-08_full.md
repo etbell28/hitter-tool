@@ -16,10 +16,10 @@
 | 12 | Drake Baldwin | ATL | Gerrit Cole | 1 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Osleivis Basabe | SF | Jackson Jobe | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
 | 14 | Bryce Eldridge | SF | Jackson Jobe | 1 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Michael Harris II | ATL | Gerrit Cole | 4 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 16 | Endy Rodríguez | PIT | Robert Stock | 6 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 17 | Rafael Devers | SF | Jackson Jobe | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Sal Stewart | CIN | Andrew Alvarez | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Endy Rodríguez | PIT | Robert Stock | 6 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
+| 16 | Rafael Devers | SF | Jackson Jobe | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Sal Stewart | CIN | Andrew Alvarez | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Michael Harris II | ATL | Gerrit Cole | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 19 | Willson Contreras | BOS | Gage Jump | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 20 | Pete Alonso | BAL | Jacob deGrom | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
