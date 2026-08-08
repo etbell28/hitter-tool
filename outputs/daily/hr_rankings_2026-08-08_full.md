@@ -11,17 +11,17 @@
 | 7 | Yordan Alvarez | HOU | Michael King | 2 | 67.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Bryce Harper | PHI | Max Scherzer | 3 | 67.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Esmerlyn Valdez | PIT | Robert Stock | 7 | 66.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable |
-| 10 | Ronald Acuña Jr. | ATL | Gerrit Cole | 2 | 66.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Bryan Reynolds | PIT | Robert Stock | 3 | 64.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 12 | Drake Baldwin | ATL | Gerrit Cole | 1 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Osleivis Basabe | SF | Jackson Jobe | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 14 | Bryce Eldridge | SF | Jackson Jobe | 1 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Endy Rodríguez | PIT | Robert Stock | 6 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 16 | Rafael Devers | SF | Jackson Jobe | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Sal Stewart | CIN | Andrew Alvarez | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Michael Harris II | ATL | Gerrit Cole | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Willson Contreras | BOS | Gage Jump | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 20 | Pete Alonso | BAL | Jacob deGrom | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Ronald Acuña Jr. | ATL | Gerrit Cole | 2 | 66.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Brett Bateman | TOR | Aaron Nola | 2 | 65.5 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Bryan Reynolds | PIT | Robert Stock | 3 | 64.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 13 | Jordan Walker | STL | Kyle Freeland | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Drake Baldwin | ATL | Gerrit Cole | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Hunter Goodman | COL | Matthew Liberatore | 4 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Osleivis Basabe | SF | Jackson Jobe | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 17 | Bryce Eldridge | SF | Jackson Jobe | 1 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Alec Burleson | STL | Kyle Freeland | 4 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Pete Crow-Armstrong | CHC | Seth Lugo | 1 | 63.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Endy Rodríguez | PIT | Robert Stock | 6 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
