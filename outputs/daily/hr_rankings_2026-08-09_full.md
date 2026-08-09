@@ -15,7 +15,7 @@
 | 11 | Hunter Goodman | COL | Michael McGreevy | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 12 | Luis García Jr. | NYY | Grant Holmes | 4 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Esmerlyn Valdez | PIT | Sean Manaea | 5 | 62.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 14 | Mickey Moniak | COL | Michael McGreevy | 5 | 62.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 14 | Mickey Moniak | COL | Michael McGreevy | 5 | 62.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 15 | Junior Caminero | TB | Emerson Hancock | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 16 | Jordan Walker | STL | Michael Lorenzen | 4 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 17 | Trent Grisham | NYY | Grant Holmes | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
