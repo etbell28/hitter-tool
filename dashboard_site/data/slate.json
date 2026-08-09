@@ -1,7 +1,7 @@
 {
   "date": "Sunday, August 9, 2026",
-  "generated_at": "03:46 AM ",
-  "generated_iso": "2026-08-09T03:46:56",
+  "generated_at": "04:52 AM ",
+  "generated_iso": "2026-08-09T04:52:59",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -788,7 +788,7 @@
       "pitcher": "Emerson Hancock",
       "pitcher_id": 676106.0,
       "pitcher_hand": "R",
-      "hr_score": 58.1,
+      "hr_score": 58.0,
       "tier": "Longshot",
       "play_type": "Watch List",
       "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak",
@@ -797,7 +797,7 @@
       "environment_score": 25.4,
       "lineup_score": 92.1,
       "platoon_score": 50.0,
-      "recent_form_score": 77.4,
+      "recent_form_score": 75.9,
       "confirmed_lineup": "No",
       "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3,
@@ -811,7 +811,7 @@
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
       "recent_games": 7,
       "recent_hits": 7,
-      "recent_abs": 26,
+      "recent_abs": 27,
       "recent_hr": 3,
       "recent_form_note": "Hot streak: 3 HR in last 7 games",
       "split_matchup_note": "same-side matchup; pitcher baseline 8.6% barrel, 15.0 HR allowed",
@@ -2008,7 +2008,7 @@
           "order": 1,
           "pitcher": "Brady Singer",
           "score": 50.8,
-          "rank": 53,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2320,7 +2320,7 @@
           "order": 4,
           "pitcher": "Cade Povich",
           "score": 54.5,
-          "rank": 25,
+          "rank": 26,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2645,7 +2645,7 @@
       {
         "names": "Ben Rice + Munetaka Murakami + Junior Caminero",
         "avg_score": 59.6,
-        "combo_score": 61.8,
+        "combo_score": 61.7,
         "risk": "Balanced / Projected",
         "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT"
@@ -2695,7 +2695,7 @@
       {
         "names": "Ben Rice + Munetaka Murakami + Griffin Conine + Junior Caminero",
         "avg_score": 59.6,
-        "combo_score": 62.9,
+        "combo_score": 62.8,
         "risk": "Aggressive / Projected",
         "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / EV EDGE + SLEEPER PICK + PITCHER TARGET / HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK"
@@ -2800,7 +2800,7 @@
           "order": 1,
           "pitcher": "Brady Singer",
           "score": 50.8,
-          "rank": 53,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3889,7 +3889,7 @@
           "order": 4,
           "pitcher": "Cade Povich",
           "score": 54.5,
-          "rank": 25,
+          "rank": 26,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4170,7 +4170,7 @@
       "temp": "",
       "wind": "",
       "environment_score": 25.4,
-      "top_score": 58.1,
+      "top_score": 58.0,
       "game_tags": "lineup caution",
       "disagreement_count": 18,
       "players": [
@@ -4179,7 +4179,7 @@
           "team": "TB",
           "order": 3,
           "pitcher": "Emerson Hancock",
-          "score": 58.1,
+          "score": 58.0,
           "rank": 11,
           "badge": "HOT BAT",
           "badge_class": "orange",
@@ -4200,8 +4200,8 @@
           "team": "TB",
           "order": 2,
           "pitcher": "Emerson Hancock",
-          "score": 54.5,
-          "rank": 26,
+          "score": 54.7,
+          "rank": 25,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4238,8 +4238,8 @@
           "team": "TB",
           "order": 4,
           "pitcher": "Emerson Hancock",
-          "score": 50.9,
-          "rank": 52,
+          "score": 50.8,
+          "rank": 53,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4369,7 +4369,7 @@
           "order": 5,
           "pitcher": null,
           "score": 46.1,
-          "rank": 102,
+          "rank": 103,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
