@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Shane Bieber | 1 | 65.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Abimelec Ortiz | WSH | Brady Singer | 2 | 65.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Bryce Harper | PHI | Shane Bieber | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Yordan Alvarez | HOU |  | 2 | 61.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 6 | Kyle Stowers | MIA | Grayson Rodriguez | 3 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 7 | Matt Olson | ATL | Cam Schlittler | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Ben Rice | NYY | Grant Holmes | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Griffin Conine | MIA | Grayson Rodriguez | 5 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 10 | Munetaka Murakami | CWS | Joey Cantillo | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 11 | Junior Caminero | TB | Emerson Hancock | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Alec Burleson | STL | Michael Lorenzen | 4 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Ronald Acuna | ATL | Cam Schlittler | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Jackson Chourio | MIL | Connor Prielipp | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Sal Stewart | CIN |  | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Spencer Jones | NYY | Grant Holmes | 7 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 17 | Hunter Goodman | COL | Michael McGreevy | 4 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 18 | Pete Alonso | BAL | Kumar Rocker | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Jake Bauers | MIL | Connor Prielipp | 3 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Corey Seager | TEX | Cade Povich | 3 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Junior Caminero | TB | George Kirby | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Jonathan Aranda | TB | George Kirby | 2 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Dominic Canzone | SEA | Casey Legumina | 4 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Victor Mesa Jr. | TB | George Kirby | 4 | 52.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Julio Rodríguez | SEA | Casey Legumina | 5 | 52.9 | Longshot | Watch List | Hot Hitter/Streak |
+| 6 | Randy Arozarena | SEA | Casey Legumina | 3 | 50.2 | Longshot | Watch List | Premium Lineup Spot |
+| 7 | Cal Raleigh | SEA | Casey Legumina | 8 | 49.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Yandy Díaz | TB | George Kirby | 1 | 49.5 | Longshot | Watch List | Premium Lineup Spot |
+| 9 | Cole Young | SEA | Casey Legumina | 2 | 48.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Taylor Ward | SEA | Casey Legumina | 1 | 45.2 | Longshot | Watch List | Premium Lineup Spot |
+| 11 | Cedric Mullins | TB | George Kirby | 6 | 43.8 | Longshot | Watch List | Platoon Edge |
+| 12 | Josh Naylor | SEA | Casey Legumina | 6 | 43.2 | Longshot | Watch List | Platoon Edge |
+| 13 | Brendan Donovan | SEA | Casey Legumina | 7 | 40.3 | Longshot | Watch List | Platoon Edge |
+| 14 | Chandler Simpson | TB | George Kirby | 5 | 38.9 | Longshot | Watch List | Platoon Edge |
+| 15 | Richie Palacios | TB | George Kirby | 8 | 38.1 | Longshot | Watch List | Platoon Edge |
+| 16 | Nick Fortes | TB | George Kirby | 7 | 37.6 | Longshot | Watch List | No major boost |
+| 17 | Colt Emerson | SEA | Casey Legumina | 9 | 37.6 | Longshot | Watch List | Platoon Edge |
+| 18 | Carson Williams | TB | George Kirby | 9 | 31.6 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 65.3
-- Abimelec Ortiz + Bryce Harper | Avg HR Score: 63.6
-- Bryce Harper + Shohei Ohtani | Avg HR Score: 62.0
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 61.7
-- Yordan Alvarez + Kyle Stowers | Avg HR Score: 61.3
+- Junior Caminero + Jonathan Aranda | Avg HR Score: 59.5
+- Jonathan Aranda + Dominic Canzone | Avg HR Score: 57.4
+- Dominic Canzone + Victor Mesa Jr. | Avg HR Score: 55.0
+- Victor Mesa Jr. + Julio Rodríguez | Avg HR Score: 52.9
+- Julio Rodríguez + Randy Arozarena | Avg HR Score: 51.5
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Abimelec Ortiz + Bryce Harper | Avg HR Score: 64.2
-- Abimelec Ortiz + Bryce Harper + Shohei Ohtani | Avg HR Score: 63.1
-- Bryce Harper + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 61.8
-- Shohei Ohtani + Yordan Alvarez + Kyle Stowers | Avg HR Score: 61.6
-- Yordan Alvarez + Kyle Stowers + Matt Olson | Avg HR Score: 61.2
+- Junior Caminero + Jonathan Aranda + Dominic Canzone | Avg HR Score: 58.7
+- Jonathan Aranda + Dominic Canzone + Victor Mesa Jr. | Avg HR Score: 55.9
+- Dominic Canzone + Victor Mesa Jr. + Julio Rodríguez | Avg HR Score: 54.3
+- Victor Mesa Jr. + Julio Rodríguez + Randy Arozarena | Avg HR Score: 52.0
+- Julio Rodríguez + Randy Arozarena + Cal Raleigh | Avg HR Score: 51.0
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Abimelec Ortiz + Bryce Harper + Shohei Ohtani | Avg HR Score: 63.7
-- Abimelec Ortiz + Bryce Harper + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 62.6
-- Bryce Harper + Shohei Ohtani + Yordan Alvarez + Kyle Stowers | Avg HR Score: 61.7
-- Shohei Ohtani + Yordan Alvarez + Kyle Stowers + Matt Olson | Avg HR Score: 61.4
-- Yordan Alvarez + Kyle Stowers + Matt Olson + Ben Rice | Avg HR Score: 61.0
+- Junior Caminero + Jonathan Aranda + Dominic Canzone + Victor Mesa Jr. | Avg HR Score: 57.3
+- Jonathan Aranda + Dominic Canzone + Victor Mesa Jr. + Julio Rodríguez | Avg HR Score: 55.1
+- Dominic Canzone + Victor Mesa Jr. + Julio Rodríguez + Randy Arozarena | Avg HR Score: 53.3
+- Victor Mesa Jr. + Julio Rodríguez + Randy Arozarena + Cal Raleigh | Avg HR Score: 51.5
+- Julio Rodríguez + Randy Arozarena + Cal Raleigh + Yandy Díaz | Avg HR Score: 50.6
