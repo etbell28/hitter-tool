@@ -15,13 +15,13 @@
 | 11 | Jake Bauers | MIL | Casey Mize | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Ronald Acuña Jr. | ATL | Christian Scott | 2 | 57.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 13 | Yordan Alvarez | HOU | Blade Tidwell | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jarren Duran | BOS | Jameson Taillon | 7 | 55.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 15 | Francisco Lindor | NYM | Bryce Elder | 2 | 55.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Tyler O'Neill | BAL | Dean Kremer | 4 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Junior Caminero | TB | Jacob Lopez | 3 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Drake Baldwin | ATL | Christian Scott | 1 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | JJ Wetherholt | STL | Andrew Painter | 1 | 54.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Royce Lewis | MIN | Trevor Rogers | 3 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Hunter Goodman | COL | Michael Soroka | 4 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Jarren Duran | BOS | Jameson Taillon | 7 | 55.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 16 | Francisco Lindor | NYM | Bryce Elder | 2 | 55.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Tyler O'Neill | BAL | Dean Kremer | 4 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Junior Caminero | TB | Jacob Lopez | 3 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Drake Baldwin | ATL | Christian Scott | 1 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | JJ Wetherholt | STL | Andrew Painter | 1 | 54.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
