@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Noah Cameron | 1 | 67.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Kyle Schwarber | PHI | Hunter Dobbins | 1 | 66.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Mike Trout | LAA | MacKenzie Gore | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Pete Alonso | BAL | Dean Kremer | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 5 | Alec Burleson | STL | Andrew Painter | 3 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Junior Caminero | TB | Jacob Lopez | 3 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Yordan Alvarez | HOU | Blade Tidwell | 2 | 62.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Jake Bauers | MIL | Casey Mize | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Corey Seager | TEX | Reid Detmers | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Jose Siri | LAA | MacKenzie Gore | 5 | 60.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 11 | Brandon Nimmo | TEX | Reid Detmers | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Bryce Harper | PHI | Hunter Dobbins | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jordan Walker | STL | Andrew Painter | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Bryce Eldridge | SF | Hayden Wesneski | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Jac Caglianone | KC | Tarik Skubal | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Tyler Soderstrom | ATH | Freddy Peralta | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Bobby Witt Jr. | KC | Tarik Skubal | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Zach Neto | LAA | MacKenzie Gore | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Rafael Devers | SF | Hayden Wesneski | 4 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Jake Burger | TEX | Reid Detmers | 5 | 56.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 1 | Shohei Ohtani | LAD | Michael Wacha | 1 | 62.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Pete Alonso | BAL | Bailey Ober | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 3 | Yordan Alvarez | HOU |  | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 4 | Jake Bauers | MIL | Walker Buehler | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Matt Olson | ATL | Nolan McLean | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Kyle Schwarber | PHI | Andre Pallante | 1 | 57.8 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Junior Caminero | TB |  | 3 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 8 | Corey Seager | TEX | Ryan Johnson | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Mike Trout | LAA | Cody Bradford | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Brandon Nimmo | TEX | Ryan Johnson | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Hunter Goodman | COL | Mitch Bratt | 4 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Tyler O'Neill | BAL | Bailey Ober | 4 | 54.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Ronald Acuna | ATL | Nolan McLean | 2 | 53.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Jackson Chourio | MIL | Walker Buehler | 2 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Jose Siri | LAA | Cody Bradford | 5 | 52.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 16 | Wilyer Abreu | BOS | Dylan Cease | 3 | 52.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jordan Walker | STL | Cristopher Sánchez | 4 | 52.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Jonathan Aranda | TB |  | 2 | 52.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Tyler Soderstrom | ATH | Nick Martinez | 2 | 52.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Fernando Tatis | SD | Kyle Harrison | 1 | 52.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber | Avg HR Score: 66.8
-- Kyle Schwarber + Mike Trout | Avg HR Score: 65.3
-- Mike Trout + Pete Alonso | Avg HR Score: 63.7
-- Pete Alonso + Alec Burleson | Avg HR Score: 62.8
-- Alec Burleson + Junior Caminero | Avg HR Score: 62.3
+- Shohei Ohtani + Pete Alonso | Avg HR Score: 61.4
+- Pete Alonso + Yordan Alvarez | Avg HR Score: 60.3
+- Yordan Alvarez + Jake Bauers | Avg HR Score: 59.4
+- Jake Bauers + Matt Olson | Avg HR Score: 58.5
+- Matt Olson + Kyle Schwarber | Avg HR Score: 58.1
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Mike Trout | Avg HR Score: 66.0
-- Kyle Schwarber + Mike Trout + Pete Alonso | Avg HR Score: 64.6
-- Mike Trout + Pete Alonso + Alec Burleson | Avg HR Score: 63.3
-- Pete Alonso + Alec Burleson + Junior Caminero | Avg HR Score: 62.6
-- Alec Burleson + Junior Caminero + Yordan Alvarez | Avg HR Score: 62.3
+- Shohei Ohtani + Pete Alonso + Yordan Alvarez | Avg HR Score: 61.0
+- Pete Alonso + Yordan Alvarez + Jake Bauers | Avg HR Score: 59.8
+- Yordan Alvarez + Jake Bauers + Matt Olson | Avg HR Score: 59.1
+- Jake Bauers + Matt Olson + Kyle Schwarber | Avg HR Score: 58.3
+- Matt Olson + Kyle Schwarber + Junior Caminero | Avg HR Score: 58.0
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Mike Trout + Pete Alonso | Avg HR Score: 65.2
-- Kyle Schwarber + Mike Trout + Pete Alonso + Alec Burleson | Avg HR Score: 64.0
-- Mike Trout + Pete Alonso + Alec Burleson + Junior Caminero | Avg HR Score: 63.0
-- Pete Alonso + Alec Burleson + Junior Caminero + Yordan Alvarez | Avg HR Score: 62.5
-- Alec Burleson + Junior Caminero + Yordan Alvarez + Jake Bauers | Avg HR Score: 62.0
+- Shohei Ohtani + Pete Alonso + Yordan Alvarez + Jake Bauers | Avg HR Score: 60.4
+- Pete Alonso + Yordan Alvarez + Jake Bauers + Matt Olson | Avg HR Score: 59.4
+- Yordan Alvarez + Jake Bauers + Matt Olson + Kyle Schwarber | Avg HR Score: 58.8
+- Jake Bauers + Matt Olson + Kyle Schwarber + Junior Caminero | Avg HR Score: 58.2
+- Matt Olson + Kyle Schwarber + Junior Caminero + Corey Seager | Avg HR Score: 57.8
