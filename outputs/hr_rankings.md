@@ -11,17 +11,17 @@
 | 7 | Ronald Acuña Jr. | ATL | Zac Thornton | 1 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Matt Olson | ATL | Zac Thornton | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 9 | Sal Stewart | CIN | Luis Castillo | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Shohei Ohtani | LAD | Daniel Lynch IV | 1 | 62.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 11 | Elly De La Cruz | CIN | Luis Castillo | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Corey Seager | TEX | George Klassen | 3 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Spencer Jones | NYY | Bryce Miller | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Brandon Nimmo | TEX | George Klassen | 4 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Andrew Pinckney | WSH | David Peterson | 6 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Griffin Conine | MIA | Carmen Mlodzinski | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Andrew Pinckney | WSH | David Peterson | 6 | 62.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 11 | Shohei Ohtani | LAD | Daniel Lynch IV | 1 | 62.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 12 | Elly De La Cruz | CIN | Luis Castillo | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Corey Seager | TEX | George Klassen | 3 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Spencer Jones | NYY | Bryce Miller | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Brandon Nimmo | TEX | George Klassen | 4 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Pete Crow-Armstrong | CHC | Jackson Kent | 1 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 17 | Trent Grisham | NYY | Bryce Miller | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Luis García Jr. | NYY | Bryce Miller | 4 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Colson Montgomery | CWS | Rhett Lowder | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Joc Pederson | TEX | George Klassen | 1 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Seiya Suzuki | CHC | Jackson Kent | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Luis García Jr. | NYY | Bryce Miller | 4 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Colson Montgomery | CWS | Rhett Lowder | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
