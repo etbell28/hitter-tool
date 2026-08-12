@@ -3,8 +3,8 @@
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Kyle Schwarber | PHI | Kyle Leahy | 1 | 73.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Yordan Alvarez | HOU | Adrian Houser | 2 | 67.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Pete Alonso | BAL | Zebby Matthews | 2 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Pete Alonso | BAL | Zebby Matthews | 2 | 67.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Yordan Alvarez | HOU | Adrian Houser | 2 | 67.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Munetaka Murakami | CWS | Rhett Lowder | 2 | 66.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Bryce Harper | PHI | Kyle Leahy | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Junior Caminero | TB | Jack Perkins | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
@@ -25,24 +25,24 @@
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Yordan Alvarez | Avg HR Score: 70.3
-- Yordan Alvarez + Pete Alonso | Avg HR Score: 67.2
-- Pete Alonso + Munetaka Murakami | Avg HR Score: 66.8
+- Kyle Schwarber + Pete Alonso | Avg HR Score: 70.4
+- Pete Alonso + Yordan Alvarez | Avg HR Score: 67.5
+- Yordan Alvarez + Munetaka Murakami | Avg HR Score: 67.0
 - Munetaka Murakami + Bryce Harper | Avg HR Score: 65.0
 - Bryce Harper + Junior Caminero | Avg HR Score: 63.4
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Yordan Alvarez + Pete Alonso | Avg HR Score: 69.2
-- Yordan Alvarez + Pete Alonso + Munetaka Murakami | Avg HR Score: 67.0
-- Pete Alonso + Munetaka Murakami + Bryce Harper | Avg HR Score: 65.7
+- Kyle Schwarber + Pete Alonso + Yordan Alvarez | Avg HR Score: 69.4
+- Pete Alonso + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 67.2
+- Yordan Alvarez + Munetaka Murakami + Bryce Harper | Avg HR Score: 65.9
 - Munetaka Murakami + Bryce Harper + Junior Caminero | Avg HR Score: 64.4
 - Bryce Harper + Junior Caminero + Eduardo Valencia | Avg HR Score: 63.2
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Yordan Alvarez + Pete Alonso + Munetaka Murakami | Avg HR Score: 68.5
-- Yordan Alvarez + Pete Alonso + Munetaka Murakami + Bryce Harper | Avg HR Score: 66.2
-- Pete Alonso + Munetaka Murakami + Bryce Harper + Junior Caminero | Avg HR Score: 65.1
+- Kyle Schwarber + Pete Alonso + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 68.7
+- Pete Alonso + Yordan Alvarez + Munetaka Murakami + Bryce Harper | Avg HR Score: 66.3
+- Yordan Alvarez + Munetaka Murakami + Bryce Harper + Junior Caminero | Avg HR Score: 65.2
 - Munetaka Murakami + Bryce Harper + Junior Caminero + Eduardo Valencia | Avg HR Score: 64.0
 - Bryce Harper + Junior Caminero + Eduardo Valencia + Jackson Chourio | Avg HR Score: 62.8
