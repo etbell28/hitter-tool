@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Carson Whisenhunt | 2 | 69.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Shohei Ohtani | LAD | Michael Wacha | 1 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Junior Caminero | TB | Mason Barnett | 3 | 65.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 4 | Mike Trout | LAA | Cody Bradford | 2 | 64.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Corbin Carroll | AZ | Tomoyuki Sugano | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 6 | Nelson Velázquez | HOU | Carson Whisenhunt | 6 | 63.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Corey Seager | TEX | Ryan Johnson | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Jonathan Aranda | TB | Mason Barnett | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 9 | Brandon Nimmo | TEX | Ryan Johnson | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Ketel Marte | AZ | Tomoyuki Sugano | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 11 | Jake Bauers | MIL | Walker Buehler | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Lars Nootbaar | AZ | Tomoyuki Sugano | 1 | 59.1 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 13 | Joc Pederson | TEX | Ryan Johnson | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jackson Chourio | MIL | Walker Buehler | 2 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Max Muncy | LAD | Michael Wacha | 5 | 58.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Zach Neto | LAA | Cody Bradford | 1 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Bryce Eldridge | SF | Hunter Brown | 3 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Christian Walker | HOU | Carson Whisenhunt | 5 | 57.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 19 | Victor Mesa Jr. | TB | Mason Barnett | 6 | 56.9 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 20 | Cam Smith | HOU | Carson Whisenhunt | 8 | 56.5 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 1 | Shohei Ohtani | LAD | Michael Wacha | 1 | 66.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Max Muncy | LAD | Michael Wacha | 5 | 54.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 3 | Freddie Freeman | LAD | Michael Wacha | 2 | 52.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 4 | Kyle Tucker | LAD | Michael Wacha | 4 | 51.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Jac Caglianone | KC | Blake Snell | 3 | 50.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Bobby Witt Jr. | KC | Blake Snell | 2 | 48.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Andy Pages | LAD | Michael Wacha | 3 | 47.8 | Longshot | Watch List | Premium Lineup Spot |
+| 8 | Salvador Perez | KC | Blake Snell | 4 | 43.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Carter Jensen | KC | Blake Snell | 5 | 42.5 | Longshot | Watch List | Strong Barrel |
+| 10 | Mookie Betts | LAD | Michael Wacha | 6 | 42.4 | Longshot | Watch List | No major boost |
+| 11 | Tommy Edman | LAD | Michael Wacha | 7 | 40.5 | Longshot | Watch List | Platoon Edge |
+| 12 | John Rave | KC | Blake Snell | 8 | 34.2 | Longshot | Watch List | Strong Barrel |
+| 13 | Michael Massey | KC | Blake Snell | 6 | 33.4 | Longshot | Watch List | No major boost |
+| 14 | Nick Loftin | KC | Blake Snell | 1 | 33.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 15 | Ben Rortvedt | LAD | Michael Wacha | 9 | 32.1 | Longshot | Watch List | Platoon Edge |
+| 16 | Alex Call | LAD | Michael Wacha | 8 | 28.6 | Longshot | Watch List | No major boost |
+| 17 | Tyler Tolbert | KC | Blake Snell | 7 | 27.3 | Longshot | Watch List | Platoon Edge |
+| 18 | Kyle Isbel | KC | Blake Snell | 9 | 23.5 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 69.3
-- Shohei Ohtani + Junior Caminero | Avg HR Score: 67.3
-- Junior Caminero + Mike Trout | Avg HR Score: 65.2
-- Mike Trout + Corbin Carroll | Avg HR Score: 64.5
-- Corbin Carroll + Nelson Velázquez | Avg HR Score: 64.0
+- Shohei Ohtani + Max Muncy | Avg HR Score: 60.5
+- Max Muncy + Freddie Freeman | Avg HR Score: 53.6
+- Freddie Freeman + Kyle Tucker | Avg HR Score: 51.8
+- Kyle Tucker + Jac Caglianone | Avg HR Score: 50.6
+- Jac Caglianone + Bobby Witt Jr. | Avg HR Score: 49.4
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Junior Caminero | Avg HR Score: 68.1
-- Shohei Ohtani + Junior Caminero + Mike Trout | Avg HR Score: 66.5
-- Junior Caminero + Mike Trout + Corbin Carroll | Avg HR Score: 64.9
-- Mike Trout + Corbin Carroll + Nelson Velázquez | Avg HR Score: 64.2
-- Corbin Carroll + Nelson Velázquez + Corey Seager | Avg HR Score: 63.7
+- Shohei Ohtani + Max Muncy + Freddie Freeman | Avg HR Score: 57.7
+- Max Muncy + Freddie Freeman + Kyle Tucker | Avg HR Score: 52.8
+- Freddie Freeman + Kyle Tucker + Jac Caglianone | Avg HR Score: 51.2
+- Kyle Tucker + Jac Caglianone + Bobby Witt Jr. | Avg HR Score: 50.0
+- Jac Caglianone + Bobby Witt Jr. + Andy Pages | Avg HR Score: 48.8
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Junior Caminero + Mike Trout | Avg HR Score: 67.2
-- Shohei Ohtani + Junior Caminero + Mike Trout + Corbin Carroll | Avg HR Score: 65.9
-- Junior Caminero + Mike Trout + Corbin Carroll + Nelson Velázquez | Avg HR Score: 64.5
-- Mike Trout + Corbin Carroll + Nelson Velázquez + Corey Seager | Avg HR Score: 64.0
-- Corbin Carroll + Nelson Velázquez + Corey Seager + Jonathan Aranda | Avg HR Score: 63.5
+- Shohei Ohtani + Max Muncy + Freddie Freeman + Kyle Tucker | Avg HR Score: 56.1
+- Max Muncy + Freddie Freeman + Kyle Tucker + Jac Caglianone | Avg HR Score: 52.1
+- Freddie Freeman + Kyle Tucker + Jac Caglianone + Bobby Witt Jr. | Avg HR Score: 50.6
+- Kyle Tucker + Jac Caglianone + Bobby Witt Jr. + Andy Pages | Avg HR Score: 49.5
+- Jac Caglianone + Bobby Witt Jr. + Andy Pages + Salvador Perez | Avg HR Score: 47.4
