@@ -5,7 +5,7 @@
 | 1 | Kyle Schwarber | PHI | Taj Bradley | 1 | 64.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Ben Rice | NYY | Logan Gilbert | 2 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Munetaka Murakami | CWS | Andrew Abbott | 2 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 4 | Shohei Ohtani | LAD | Shane Drohan | 1 | 59.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Shohei Ohtani | LAD | Shane Drohan | 1 | 59.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 5 | Jake Bauers | MIL | Roki Sasaki | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Spencer Jones | NYY | Logan Gilbert | 3 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Mike Trout | LAA | Jacob deGrom | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
@@ -27,22 +27,22 @@
 
 - Kyle Schwarber + Ben Rice | Avg HR Score: 62.7
 - Ben Rice + Munetaka Murakami | Avg HR Score: 61.1
-- Munetaka Murakami + Shohei Ohtani | Avg HR Score: 60.4
-- Shohei Ohtani + Jake Bauers | Avg HR Score: 59.6
+- Munetaka Murakami + Shohei Ohtani | Avg HR Score: 60.5
+- Shohei Ohtani + Jake Bauers | Avg HR Score: 59.7
 - Jake Bauers + Spencer Jones | Avg HR Score: 59.4
 
 ## Best 3-Leg Pairings
 
 - Kyle Schwarber + Ben Rice + Munetaka Murakami | Avg HR Score: 62.2
-- Ben Rice + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 60.6
-- Munetaka Murakami + Shohei Ohtani + Jake Bauers | Avg HR Score: 60.1
+- Ben Rice + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 60.7
+- Munetaka Murakami + Shohei Ohtani + Jake Bauers | Avg HR Score: 60.2
 - Shohei Ohtani + Jake Bauers + Spencer Jones | Avg HR Score: 59.5
 - Jake Bauers + Spencer Jones + Mike Trout | Avg HR Score: 58.9
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Ben Rice + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 61.5
+- Kyle Schwarber + Ben Rice + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 61.6
 - Ben Rice + Munetaka Murakami + Shohei Ohtani + Jake Bauers | Avg HR Score: 60.4
 - Munetaka Murakami + Shohei Ohtani + Jake Bauers + Spencer Jones | Avg HR Score: 59.9
-- Shohei Ohtani + Jake Bauers + Spencer Jones + Mike Trout | Avg HR Score: 59.1
+- Shohei Ohtani + Jake Bauers + Spencer Jones + Mike Trout | Avg HR Score: 59.2
 - Jake Bauers + Spencer Jones + Mike Trout + Wilyer Abreu | Avg HR Score: 58.6
