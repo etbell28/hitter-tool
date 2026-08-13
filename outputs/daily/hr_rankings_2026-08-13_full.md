@@ -9,8 +9,8 @@
 | 5 | Trent Grisham | NYY | Logan Gilbert | 1 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Kyle Schwarber | PHI | Taj Bradley | 1 | 64.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Willson Contreras | BOS | Max Scherzer | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Luis García Jr. | NYY | Logan Gilbert | 4 | 62.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 9 | Eduardo Valencia | DET | Parker Messick | 4 | 61.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Eduardo Valencia | DET | Parker Messick | 4 | 61.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Luis García Jr. | NYY | Logan Gilbert | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 10 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Shohei Ohtani | LAD | Shane Drohan | 1 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 12 | Jake Bauers | MIL | Roki Sasaki | 3 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -18,10 +18,10 @@
 | 14 | Jazz Chisholm Jr. | NYY | Logan Gilbert | 6 | 57.9 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
 | 15 | Mike Trout | LAA | Jacob deGrom | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 16 | Ryan McMahon | NYY | Logan Gilbert | 8 | 56.3 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 17 | George Lombard Jr. | NYY | Logan Gilbert | 5 | 56.2 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 18 | Jackson Chourio | MIL | Roki Sasaki | 2 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Esmerlyn Valdez | PIT | Tyler Phillips | 5 | 56.1 | Longshot | Watch List | Strong Barrel |
-| 20 | Elly De La Cruz | CIN | Davis Martin | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jackson Chourio | MIL | Roki Sasaki | 2 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Esmerlyn Valdez | PIT | Tyler Phillips | 5 | 56.1 | Longshot | Watch List | Strong Barrel |
+| 19 | Elly De La Cruz | CIN | Davis Martin | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Brandon Lowe | PIT | Tyler Phillips | 2 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Ben Rice + Wilyer Abreu + Abimelec Ortiz + Trent Grisham | Avg HR Score: 65.8
 - Wilyer Abreu + Abimelec Ortiz + Trent Grisham + Kyle Schwarber | Avg HR Score: 64.8
 - Abimelec Ortiz + Trent Grisham + Kyle Schwarber + Willson Contreras | Avg HR Score: 64.2
-- Trent Grisham + Kyle Schwarber + Willson Contreras + Luis García Jr. | Avg HR Score: 63.6
+- Trent Grisham + Kyle Schwarber + Willson Contreras + Eduardo Valencia | Avg HR Score: 63.4
