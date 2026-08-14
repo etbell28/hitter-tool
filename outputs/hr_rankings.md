@@ -2,7 +2,7 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Abimelec Ortiz | WSH | Robert Stock | 2 | 76.3 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Abimelec Ortiz | WSH | Robert Stock | 2 | 78.5 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Jac Caglianone | KC | Grayson Rodriguez | 3 | 71.2 | Tier 2 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 3 | Spencer Jones | NYY | Shane Bieber | 3 | 68.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Ben Rice | NYY | Shane Bieber | 2 | 68.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -25,7 +25,7 @@
 
 ## Best 2-Leg Pairings
 
-- Abimelec Ortiz + Jac Caglianone | Avg HR Score: 73.8
+- Abimelec Ortiz + Jac Caglianone | Avg HR Score: 74.8
 - Jac Caglianone + Spencer Jones | Avg HR Score: 70.0
 - Spencer Jones + Ben Rice | Avg HR Score: 68.8
 - Ben Rice + Matt Olson | Avg HR Score: 68.1
@@ -33,7 +33,7 @@
 
 ## Best 3-Leg Pairings
 
-- Abimelec Ortiz + Jac Caglianone + Spencer Jones | Avg HR Score: 72.1
+- Abimelec Ortiz + Jac Caglianone + Spencer Jones | Avg HR Score: 72.8
 - Jac Caglianone + Spencer Jones + Ben Rice | Avg HR Score: 69.6
 - Spencer Jones + Ben Rice + Matt Olson | Avg HR Score: 68.3
 - Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 67.5
@@ -41,7 +41,7 @@
 
 ## Best 4-Leg Pairings
 
-- Abimelec Ortiz + Jac Caglianone + Spencer Jones + Ben Rice | Avg HR Score: 71.2
+- Abimelec Ortiz + Jac Caglianone + Spencer Jones + Ben Rice | Avg HR Score: 71.8
 - Jac Caglianone + Spencer Jones + Ben Rice + Matt Olson | Avg HR Score: 69.0
 - Spencer Jones + Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 67.8
 - Ben Rice + Matt Olson + Pete Alonso + Mike Trout | Avg HR Score: 67.1
