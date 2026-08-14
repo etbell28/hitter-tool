@@ -15,10 +15,10 @@
 | 11 | Matt Olson | ATL | Brandon Pfaadt | 3 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Carter Jensen | KC | Grayson Rodriguez | 1 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Bobby Witt Jr. | KC | Grayson Rodriguez | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Eduardo Valencia | DET | Sean Newcomb | 4 | 63.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Zac Veen | COL | Landen Roupp | 7 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 16 | Luis García Jr. | NYY | Shane Bieber | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Bryce Eldridge | SF | Kyle Freeland | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Bryce Eldridge | SF | Kyle Freeland | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Eduardo Valencia | DET | Sean Newcomb | 4 | 63.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Zac Veen | COL | Landen Roupp | 7 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 17 | Luis García Jr. | NYY | Shane Bieber | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Corey Seager | TEX |  | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
 | 19 | Sal Stewart | CIN | Sandy Alcantara | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 20 | Ronald Acuña Jr. | ATL | Brandon Pfaadt | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
