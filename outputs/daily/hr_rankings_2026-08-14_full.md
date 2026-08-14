@@ -20,8 +20,8 @@
 | 16 | Zac Veen | COL | Landen Roupp | 7 | 57.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
 | 17 | Seiya Suzuki | CHC | Matthew Liberatore | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Jackson Merrill | SD | Gavin Williams | 5 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 19 | Junior Caminero | TB |  | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Luis Garcia | NYY | Shane Bieber | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Luis Garcia | NYY | Shane Bieber | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Ronald Acuna | ATL | Brandon Pfaadt | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
