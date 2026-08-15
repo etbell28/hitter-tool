@@ -1,7 +1,7 @@
 {
   "date": "Saturday, August 15, 2026",
-  "generated_at": "10:09 PM ",
-  "generated_iso": "2026-08-15T22:09:09",
+  "generated_at": "10:36 PM ",
+  "generated_iso": "2026-08-15T22:36:40",
   "slate_projection": 162,
   "games_count": 9,
   "confirmed_count": 153,
@@ -412,12 +412,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 100.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -720,12 +720,12 @@
       "platoon_score": 78.0,
       "recent_form_score": 22.4,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1928,12 +1928,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 100.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2236,12 +2236,12 @@
       "platoon_score": 78.0,
       "recent_form_score": 22.4,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -3245,8 +3245,8 @@
       "wind": "Out To CF",
       "environment_score": 67.2,
       "top_score": 62.7,
-      "game_tags": "deep stack · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "deep stack",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Jac Caglianone",
@@ -3268,8 +3268,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Bobby Witt Jr.",
@@ -3289,8 +3289,8 @@
             "gold"
           ],
           "badge_summary": "EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Mike Trout",
@@ -3327,8 +3327,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Zach Neto",
@@ -5231,8 +5231,8 @@
       "wind": "Out To CF",
       "environment_score": 67.2,
       "top_score": 62.7,
-      "game_tags": "deep stack · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "deep stack",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Jac Caglianone",
@@ -5254,8 +5254,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Bobby Witt Jr.",
@@ -5275,8 +5275,8 @@
             "gold"
           ],
           "badge_summary": "EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Mike Trout",
@@ -5313,8 +5313,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Zach Neto",
@@ -5447,8 +5447,8 @@
       ]
     }
   ],
-  "lineup_disagreements": 27,
-  "rotowire_found": 151,
+  "lineup_disagreements": 18,
+  "rotowire_found": 153,
   "slate_size": 162,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",
   "model_profile": "Weighted Statcast baseline: 2026 70% / 2025 30%. Streak context is noted but does not override daily matchup math."
