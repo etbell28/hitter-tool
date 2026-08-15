@@ -7,8 +7,8 @@
 | 3 | Yordan Alvarez | HOU | Emerson Hancock | 2 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Munetaka Murakami | CWS | Troy Melton | 2 | 64.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Griffin Conine | MIA | Brady Singer | 3 | 64.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Rafael Devers | SF | Michael Lorenzen | 2 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Eduardo Valencia | DET | Anthony Kay | 5 | 63.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 6 | Eduardo Valencia | DET | Anthony Kay | 5 | 63.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 7 | Rafael Devers | SF | Michael Lorenzen | 2 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Pete Alonso | BAL | Ian Seymour | 2 | 63.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Pete Crow-Armstrong | CHC | Michael McGreevy | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Kyle Schwarber | PHI | Connor Prielipp | 1 | 62.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -29,20 +29,20 @@
 - Zac Veen + Yordan Alvarez | Avg HR Score: 65.9
 - Yordan Alvarez + Munetaka Murakami | Avg HR Score: 64.7
 - Munetaka Murakami + Griffin Conine | Avg HR Score: 64.3
-- Griffin Conine + Rafael Devers | Avg HR Score: 64.0
+- Griffin Conine + Eduardo Valencia | Avg HR Score: 64.0
 
 ## Best 3-Leg Pairings
 
 - Bryce Eldridge + Zac Veen + Yordan Alvarez | Avg HR Score: 66.6
 - Zac Veen + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 65.4
 - Yordan Alvarez + Munetaka Murakami + Griffin Conine | Avg HR Score: 64.5
-- Munetaka Murakami + Griffin Conine + Rafael Devers | Avg HR Score: 64.1
-- Griffin Conine + Rafael Devers + Eduardo Valencia | Avg HR Score: 63.8
+- Munetaka Murakami + Griffin Conine + Eduardo Valencia | Avg HR Score: 64.1
+- Griffin Conine + Eduardo Valencia + Rafael Devers | Avg HR Score: 63.9
 
 ## Best 4-Leg Pairings
 
 - Bryce Eldridge + Zac Veen + Yordan Alvarez + Munetaka Murakami | Avg HR Score: 66.0
 - Zac Veen + Yordan Alvarez + Munetaka Murakami + Griffin Conine | Avg HR Score: 65.1
-- Yordan Alvarez + Munetaka Murakami + Griffin Conine + Rafael Devers | Avg HR Score: 64.3
-- Munetaka Murakami + Griffin Conine + Rafael Devers + Eduardo Valencia | Avg HR Score: 63.9
-- Griffin Conine + Rafael Devers + Eduardo Valencia + Pete Alonso | Avg HR Score: 63.6
+- Yordan Alvarez + Munetaka Murakami + Griffin Conine + Eduardo Valencia | Avg HR Score: 64.3
+- Munetaka Murakami + Griffin Conine + Eduardo Valencia + Rafael Devers | Avg HR Score: 64.0
+- Griffin Conine + Eduardo Valencia + Rafael Devers + Pete Alonso | Avg HR Score: 63.7
