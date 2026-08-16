@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Joshua Báez | STL | Edward Cabrera | 5 | 77.4 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 2 | Kyle Schwarber | PHI | Dean Kremer | 1 | 71.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Abimelec Ortiz | WSH | Christian Scott | 2 | 69.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Munetaka Murakami | CWS | Drew Anderson | 2 | 67.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Shohei Ohtani | LAD | Logan Henderson | 1 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Alec Burleson | STL | Edward Cabrera | 3 | 66.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Matt Olson | ATL | Michael Soroka | 3 | 65.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Francisco Lindor | NYM | Jake Irvin | 2 | 65.8 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Jac Caglianone | KC | Ryan Johnson | 3 | 65.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Eduardo Valencia | DET | Sean Burke | 5 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 12 | Corbin Carroll | AZ | Bryce Elder | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Sal Stewart | CIN | Eury Pérez | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 14 | Wilyer Abreu | BOS | Lake Bachar | 3 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Yordan Alvarez | HOU | Bryan Woo | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jared Young | NYM | Jake Irvin | 5 | 62.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Zac Veen | COL | Blade Tidwell | 6 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 18 | Mike Trout | LAA | Noah Cameron | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 60.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 20 | Byron Buxton | MIN | Andrew Painter | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Bryan Woo | 2 | 66.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Dominic Canzone | SEA | Hunter Brown | 4 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Daulton Varsho | HOU | Bryan Woo | 5 | 48.4 | Longshot | Watch List | Platoon Edge |
+| 4 | Christian Walker | HOU | Bryan Woo | 6 | 46.7 | Longshot | Watch List | Strong Barrel |
+| 5 | Julio Rodriguez | SEA | Hunter Brown | 5 | 44.7 | Longshot | Watch List | Projected Lineup |
+| 6 | Randy Arozarena | SEA | Hunter Brown | 3 | 44.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 7 | Brock Rodden | SEA | Hunter Brown | 9 | 43.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 8 | Jeremy Peña | HOU | Bryan Woo | 1 | 43.7 | Longshot | Watch List | Premium Lineup Spot |
+| 9 | Isaac Paredes | HOU | Bryan Woo | 3 | 43.2 | Longshot | Watch List | Premium Lineup Spot |
+| 10 | Cal Raleigh | SEA | Hunter Brown | 8 | 42.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Cole Young | SEA | Hunter Brown | 2 | 42.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 12 | Josh Naylor | SEA | Hunter Brown | 6 | 41.1 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
+| 13 | Jose Altuve | HOU | Bryan Woo | 4 | 39.9 | Longshot | Watch List | Premium Lineup Spot |
+| 14 | Taylor Ward | SEA | Hunter Brown | 1 | 39.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 15 | Yainer Diaz | HOU | Bryan Woo | 8 | 37.6 | Longshot | Watch List | No major boost |
+| 16 | LaMonte Wade Jr. | HOU | Bryan Woo | 7 | 36.9 | Longshot | Watch List | Platoon Edge |
+| 17 | Brendan Donovan | SEA | Hunter Brown | 7 | 33.7 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 18 | Nick Allen | HOU | Bryan Woo | 9 | 28.6 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Joshua Báez + Kyle Schwarber | Avg HR Score: 74.2
-- Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 70.4
-- Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 68.8
-- Munetaka Murakami + Shohei Ohtani | Avg HR Score: 67.4
-- Shohei Ohtani + Alec Burleson | Avg HR Score: 66.7
+- Yordan Alvarez + Dominic Canzone | Avg HR Score: 59.7
+- Dominic Canzone + Daulton Varsho | Avg HR Score: 50.7
+- Daulton Varsho + Christian Walker | Avg HR Score: 47.5
+- Christian Walker + Julio Rodriguez | Avg HR Score: 45.7
+- Julio Rodriguez + Randy Arozarena | Avg HR Score: 44.7
 
 ## Best 3-Leg Pairings
 
-- Joshua Báez + Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 72.7
-- Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 69.5
-- Abimelec Ortiz + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 68.2
-- Munetaka Murakami + Shohei Ohtani + Alec Burleson | Avg HR Score: 67.0
-- Shohei Ohtani + Alec Burleson + Matt Olson | Avg HR Score: 66.4
+- Yordan Alvarez + Dominic Canzone + Daulton Varsho | Avg HR Score: 55.9
+- Dominic Canzone + Daulton Varsho + Christian Walker | Avg HR Score: 49.4
+- Daulton Varsho + Christian Walker + Julio Rodriguez | Avg HR Score: 46.6
+- Christian Walker + Julio Rodriguez + Randy Arozarena | Avg HR Score: 45.3
+- Julio Rodriguez + Randy Arozarena + Brock Rodden | Avg HR Score: 44.4
 
 ## Best 4-Leg Pairings
 
-- Joshua Báez + Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 71.5
-- Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 68.9
-- Abimelec Ortiz + Munetaka Murakami + Shohei Ohtani + Alec Burleson | Avg HR Score: 67.7
-- Munetaka Murakami + Shohei Ohtani + Alec Burleson + Matt Olson | Avg HR Score: 66.7
-- Shohei Ohtani + Alec Burleson + Matt Olson + Francisco Lindor | Avg HR Score: 66.2
+- Yordan Alvarez + Dominic Canzone + Daulton Varsho + Christian Walker | Avg HR Score: 53.6
+- Dominic Canzone + Daulton Varsho + Christian Walker + Julio Rodriguez | Avg HR Score: 48.2
+- Daulton Varsho + Christian Walker + Julio Rodriguez + Randy Arozarena | Avg HR Score: 46.1
+- Christian Walker + Julio Rodriguez + Randy Arozarena + Brock Rodden | Avg HR Score: 45.0
+- Julio Rodriguez + Randy Arozarena + Brock Rodden + Jeremy Peña | Avg HR Score: 44.2
