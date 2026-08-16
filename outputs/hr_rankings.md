@@ -13,8 +13,8 @@
 | 9 | Pete Alonso | BAL | Freddy Peralta | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 10 | Francisco Lindor | NYM | Jake Irvin | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 11 | Alec Burleson | STL | Edward Cabrera | 4 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Mike Trout | LAA | Noah Cameron | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Matt Olson | ATL | Michael Soroka | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Matt Olson | ATL | Michael Soroka | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Mike Trout | LAA | Noah Cameron | 2 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Sal Stewart | CIN | Eury Pérez | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 15 | Heriberto Hernandez | MIA | Nick Lodolo | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Junior Caminero | TB | Trevor Rogers | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
