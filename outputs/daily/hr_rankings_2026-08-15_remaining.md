@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Jac Caglianone | KC | Reid Detmers | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Bobby Witt Jr. | KC | Reid Detmers | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Mike Trout | LAA | Randy Dobnak | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Corey Seager | TEX | J.T. Ginn | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Salvador Perez | KC | Reid Detmers | 4 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Zack Gelof | ATH | MacKenzie Gore | 2 | 55.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 7 | Brandon Nimmo | TEX | J.T. Ginn | 2 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Joc Pederson | TEX | J.T. Ginn | 1 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Henry Bolte | ATH | MacKenzie Gore | 1 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Zach Neto | LAA | Randy Dobnak | 4 | 51.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Josh Lowe | LAA | Randy Dobnak | 6 | 50.1 | Longshot | Watch List | Platoon Edge |
-| 12 | Lawrence Butler | ATH | MacKenzie Gore | 6 | 49.8 | Longshot | Watch List | No major boost |
-| 13 | Brian Serven | ATH | MacKenzie Gore | 8 | 49.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 14 | Moisés Ballesteros | LAA | Randy Dobnak | 5 | 49.0 | Longshot | Watch List | Platoon Edge |
-| 15 | Max Muncy | ATH | MacKenzie Gore | 7 | 47.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Jonah Heim | ATH | MacKenzie Gore | 4 | 47.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Starling Marte | KC | Reid Detmers | 7 | 47.0 | Longshot | Watch List | Platoon Edge |
-| 18 | Michael Massey | KC | Reid Detmers | 6 | 46.5 | Longshot | Watch List | No major boost |
-| 19 | Wyatt Langford | TEX | J.T. Ginn | 4 | 46.5 | Longshot | Watch List | Premium Lineup Spot |
-| 20 | Jake Burger | TEX | J.T. Ginn | 7 | 46.4 | Longshot | Watch List | Strong Barrel |
+| 1 | Kyle Schwarber | PHI | Dean Kremer | 1 | 64.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Munetaka Murakami | CWS | Drew Anderson | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Yordan Alvarez | HOU | Bryan Woo | 2 | 63.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Griffin Conine | MIA | Nick Lodolo | 4 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Jac Caglianone | KC | Ryan Johnson | 3 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Eduardo Valencia | DET | Sean Burke | 5 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 7 | Shohei Ohtani | LAD | Logan Henderson | 1 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Zac Veen | COL | Blade Tidwell | 6 | 60.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 9 | Pete Alonso | BAL | Freddy Peralta | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Francisco Lindor | NYM | Jake Irvin | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Alec Burleson | STL | Edward Cabrera | 4 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Matt Olson | ATL | Michael Soroka | 3 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Mike Trout | LAA | Noah Cameron | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Sal Stewart | CIN | Eury Pérez | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Heriberto Hernandez | MIA | Nick Lodolo | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Junior Caminero | TB | Trevor Rogers | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jared Young | NYM | Jake Irvin | 5 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 18 | Jordan Walker | STL | Edward Cabrera | 3 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Jackson Merrill | SD | Tanner Bibee | 5 | 54.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 20 | Carson Benge | NYM | Jake Irvin | 4 | 53.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Jac Caglianone + Bobby Witt Jr. | Avg HR Score: 61.7
-- Bobby Witt Jr. + Mike Trout | Avg HR Score: 60.3
-- Mike Trout + Corey Seager | Avg HR Score: 59.5
-- Corey Seager + Salvador Perez | Avg HR Score: 57.5
-- Salvador Perez + Zack Gelof | Avg HR Score: 55.8
+- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 64.0
+- Munetaka Murakami + Yordan Alvarez | Avg HR Score: 63.8
+- Yordan Alvarez + Griffin Conine | Avg HR Score: 62.4
+- Griffin Conine + Jac Caglianone | Avg HR Score: 60.9
+- Jac Caglianone + Eduardo Valencia | Avg HR Score: 60.7
 
 ## Best 3-Leg Pairings
 
-- Jac Caglianone + Bobby Witt Jr. + Mike Trout | Avg HR Score: 61.1
-- Bobby Witt Jr. + Mike Trout + Corey Seager | Avg HR Score: 59.9
-- Mike Trout + Corey Seager + Salvador Perez | Avg HR Score: 58.3
-- Corey Seager + Salvador Perez + Zack Gelof | Avg HR Score: 56.9
-- Salvador Perez + Zack Gelof + Brandon Nimmo | Avg HR Score: 55.5
+- Kyle Schwarber + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 63.9
+- Munetaka Murakami + Yordan Alvarez + Griffin Conine | Avg HR Score: 62.9
+- Yordan Alvarez + Griffin Conine + Jac Caglianone | Avg HR Score: 61.8
+- Griffin Conine + Jac Caglianone + Eduardo Valencia | Avg HR Score: 60.8
+- Jac Caglianone + Eduardo Valencia + Shohei Ohtani | Avg HR Score: 60.6
 
 ## Best 4-Leg Pairings
 
-- Jac Caglianone + Bobby Witt Jr. + Mike Trout + Corey Seager | Avg HR Score: 60.6
-- Bobby Witt Jr. + Mike Trout + Corey Seager + Salvador Perez | Avg HR Score: 58.9
-- Mike Trout + Corey Seager + Salvador Perez + Zack Gelof | Avg HR Score: 57.7
-- Corey Seager + Salvador Perez + Zack Gelof + Brandon Nimmo | Avg HR Score: 56.5
-- Salvador Perez + Zack Gelof + Brandon Nimmo + Joc Pederson | Avg HR Score: 55.4
+- Kyle Schwarber + Munetaka Murakami + Yordan Alvarez + Griffin Conine | Avg HR Score: 63.2
+- Munetaka Murakami + Yordan Alvarez + Griffin Conine + Jac Caglianone | Avg HR Score: 62.3
+- Yordan Alvarez + Griffin Conine + Jac Caglianone + Eduardo Valencia | Avg HR Score: 61.5
+- Griffin Conine + Jac Caglianone + Eduardo Valencia + Shohei Ohtani | Avg HR Score: 60.8
+- Jac Caglianone + Eduardo Valencia + Shohei Ohtani + Zac Veen | Avg HR Score: 60.6
