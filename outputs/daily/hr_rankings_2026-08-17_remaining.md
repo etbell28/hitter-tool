@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Tomoyuki Sugano | 1 | 78.3 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Max Muncy | LAD | Tomoyuki Sugano | 4 | 71.9 | Tier 2 | Watch List | Strong Barrel, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Munetaka Murakami | CWS | Shota Imanaga | 2 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 4 | Freddie Freeman | LAD | Tomoyuki Sugano | 2 | 65.2 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 5 | Andy Pages | LAD | Tomoyuki Sugano | 3 | 62.2 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment, Premium Lineup Spot |
-| 6 | Adael Amador | COL | Blake Snell | 7 | 62.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge |
-| 7 | Miguel Vargas | CWS | Shota Imanaga | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Mookie Betts | LAD | Tomoyuki Sugano | 5 | 60.7 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment |
-| 9 | Pete Crow-Armstrong | CHC | Luis Castillo | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Kyle Tucker | LAD | Tomoyuki Sugano | 6 | 58.5 | Longshot | Watch List | Pitcher Vulnerable, Good Environment, Platoon Edge |
-| 11 | Randal Grichuk | CWS | Shota Imanaga | 4 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Seiya Suzuki | CHC | Luis Castillo | 2 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Teoscar Hernández | LAD | Tomoyuki Sugano | 8 | 56.0 | Longshot | Watch List | Pitcher Vulnerable, Good Environment |
-| 14 | Hunter Feduccia | LAD | Tomoyuki Sugano | 9 | 55.4 | Longshot | Watch List | Pitcher Vulnerable, Good Environment, Platoon Edge |
-| 15 | Michael Busch | CHC | Luis Castillo | 3 | 55.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Tommy Edman | LAD | Tomoyuki Sugano | 7 | 54.2 | Longshot | Watch List | Pitcher Vulnerable, Good Environment, Platoon Edge |
-| 17 | Ian Happ | CHC | Luis Castillo | 5 | 53.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Michael Conforto | CHC | Luis Castillo | 8 | 50.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 19 | Alex Bregman | CHC | Luis Castillo | 4 | 49.6 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Brenton Doyle | CWS | Shota Imanaga | 6 | 46.1 | Longshot | Watch List | Platoon Edge |
+| 1 | Joshua Baez | STL | Andrew Abbott | 1 | 71.0 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Adael Amador | COL | Eric Lauer | 7 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 3 | Shohei Ohtani | LAD | Ryan Feltner | 1 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Munetaka Murakami | CWS | Kevin Gausman | 2 | 64.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Matt Olson | ATL | Zebby Matthews | 3 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Wilyer Abreu | BOS | Merrill Kelly | 3 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Kyle Schwarber | PHI |  | 1 | 61.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 8 | Pete Alonso | BAL | Carlos Rodón | 2 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Willson Contreras | BOS | Merrill Kelly | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Sal Stewart | CIN | Kyle Leahy | 2 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Jac Caglianone | KC | Jack Perkins | 3 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Drake Baldwin | ATL | Zebby Matthews | 1 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Ronald Acuna | ATL | Zebby Matthews | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Jordan Walker | STL | Andrew Abbott | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Esmerlyn Valdez | PIT | Keider Montero | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Tyler Stephenson | CIN | Kyle Leahy | 3 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Elly De La Cruz | CIN | Kyle Leahy | 1 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Rafael Flores | PIT | Keider Montero | 6 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
+| 19 | Christian Encarnacion-Strand | BAL | Carlos Rodón | 6 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 20 | Alec Burleson | STL | Andrew Abbott | 4 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Max Muncy | Avg HR Score: 75.1
-- Max Muncy + Munetaka Murakami | Avg HR Score: 69.6
-- Munetaka Murakami + Freddie Freeman | Avg HR Score: 66.2
-- Freddie Freeman + Andy Pages | Avg HR Score: 63.7
-- Andy Pages + Adael Amador | Avg HR Score: 62.1
+- Joshua Baez + Adael Amador | Avg HR Score: 69.2
+- Adael Amador + Shohei Ohtani | Avg HR Score: 65.9
+- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 64.5
+- Munetaka Murakami + Matt Olson | Avg HR Score: 63.4
+- Matt Olson + Wilyer Abreu | Avg HR Score: 62.0
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Max Muncy + Munetaka Murakami | Avg HR Score: 72.5
-- Max Muncy + Munetaka Murakami + Freddie Freeman | Avg HR Score: 68.1
-- Munetaka Murakami + Freddie Freeman + Andy Pages | Avg HR Score: 64.9
-- Freddie Freeman + Andy Pages + Adael Amador | Avg HR Score: 63.1
-- Andy Pages + Adael Amador + Miguel Vargas | Avg HR Score: 62.0
+- Joshua Baez + Adael Amador + Shohei Ohtani | Avg HR Score: 67.6
+- Adael Amador + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 65.5
+- Shohei Ohtani + Munetaka Murakami + Matt Olson | Avg HR Score: 63.8
+- Munetaka Murakami + Matt Olson + Wilyer Abreu | Avg HR Score: 62.9
+- Matt Olson + Wilyer Abreu + Kyle Schwarber | Avg HR Score: 61.9
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Max Muncy + Munetaka Murakami + Freddie Freeman | Avg HR Score: 70.7
-- Max Muncy + Munetaka Murakami + Freddie Freeman + Andy Pages | Avg HR Score: 66.6
-- Munetaka Murakami + Freddie Freeman + Andy Pages + Adael Amador | Avg HR Score: 64.2
-- Freddie Freeman + Andy Pages + Adael Amador + Miguel Vargas | Avg HR Score: 62.8
-- Andy Pages + Adael Amador + Miguel Vargas + Mookie Betts | Avg HR Score: 61.7
+- Joshua Baez + Adael Amador + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 66.8
+- Adael Amador + Shohei Ohtani + Munetaka Murakami + Matt Olson | Avg HR Score: 64.7
+- Shohei Ohtani + Munetaka Murakami + Matt Olson + Wilyer Abreu | Avg HR Score: 63.3
+- Munetaka Murakami + Matt Olson + Wilyer Abreu + Kyle Schwarber | Avg HR Score: 62.5
+- Matt Olson + Wilyer Abreu + Kyle Schwarber + Pete Alonso | Avg HR Score: 61.5
