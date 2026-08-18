@@ -15,10 +15,10 @@
 | 11 | Sal Stewart | CIN | Kyle Leahy | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 12 | Wilyer Abreu | BOS | Merrill Kelly | 3 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 13 | Ronald Acuña Jr. | ATL | Zebby Matthews | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 14 | Jac Caglianone | KC | Jack Perkins | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Ben Rice | NYY | Shane Baz | 2 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jordan Walker | STL | Andrew Abbott | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Jake Bauers | MIL | Bryce Miller | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jake Bauers | MIL | Bryce Miller | 3 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Jac Caglianone | KC | Jack Perkins | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Ben Rice | NYY | Shane Baz | 2 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jordan Walker | STL | Andrew Abbott | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 18 | Elly De La Cruz | CIN | Kyle Leahy | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 19 | Willson Contreras | BOS | Merrill Kelly | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 20 | Miguel Vargas | CWS | Kevin Gausman | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
