@@ -11,13 +11,13 @@
 | 7 | Eduardo Valencia | DET | Braxton Ashcraft | 4 | 64.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 8 | Oneil Cruz | PIT | Keider Montero | 5 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 9 | Sal Stewart | CIN | Kyle Leahy | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 10 | Matt Olson | ATL | Zebby Matthews | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Wilyer Abreu | BOS | Merrill Kelly | 5 | 62.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 10 | Wilyer Abreu | BOS | Merrill Kelly | 3 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Matt Olson | ATL | Zebby Matthews | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Jordan Walker | STL | Andrew Abbott | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Ben Rice | NYY | Shane Baz | 2 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Elly De La Cruz | CIN | Kyle Leahy | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 15 | Spencer Jones | NYY | Shane Baz | 3 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Willson Contreras | BOS | Merrill Kelly | 4 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Willson Contreras | BOS | Merrill Kelly | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 17 | Tyler Stephenson | CIN | Kyle Leahy | 5 | 60.2 | Tier 3 | Watch List | Strong Barrel, Good Environment |
 | 18 | Jo Adell | CLE | Carson Whisenhunt | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Max Muncy | LAD | Ryan Feltner | 4 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
