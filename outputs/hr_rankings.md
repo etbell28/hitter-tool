@@ -18,10 +18,10 @@
 | 14 | Pete Alonso | BAL | Will Warren | 2 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 15 | Bryan Reynolds | PIT | Jackson Jobe | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Griffin Conine | MIA | Aaron Nola | 4 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Kyle Schwarber | PHI | Sandy Alcantara | 1 | 60.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Sal Stewart | CIN | Matthew Liberatore | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Fernando Tatis Jr. | SD | Robert Stock | 1 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Zac Veen | COL | Roki Sasaki | 6 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 17 | Wilyer Abreu | BOS | Brandon Pfaadt | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 18 | Kyle Schwarber | PHI | Sandy Alcantara | 1 | 60.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Sal Stewart | CIN | Matthew Liberatore | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Willson Contreras | BOS | Brandon Pfaadt | 4 | 60.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
