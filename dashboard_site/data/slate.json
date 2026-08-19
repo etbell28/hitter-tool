@@ -1,7 +1,7 @@
 {
   "date": "Wednesday, August 19, 2026",
-  "generated_at": "03:29 AM ",
-  "generated_iso": "2026-08-19T03:29:13",
+  "generated_at": "04:11 AM ",
+  "generated_iso": "2026-08-19T04:11:21",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -2924,7 +2924,7 @@
           "order": 5,
           "pitcher": "Robert Stock",
           "score": 50.5,
-          "rank": 62,
+          "rank": 63,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3835,7 +3835,7 @@
           "order": 6,
           "pitcher": "Max Scherzer",
           "score": 50.5,
-          "rank": 64,
+          "rank": 65,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
