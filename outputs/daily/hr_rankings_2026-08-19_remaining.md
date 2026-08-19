@@ -4,7 +4,7 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Shohei Ohtani | LAD | Kyle Freeland | 1 | 73.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 2 | Pete Alonso | BAL | Will Warren | 2 | 69.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Abimelec Ortiz | WSH | Kumar Rocker | 2 | 69.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Abimelec Ortiz | WSH | Kumar Rocker | 2 | 69.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 4 | Zac Veen | COL | Roki Sasaki | 5 | 66.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 5 | Sal Stewart | CIN | Matthew Liberatore | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Bobby Witt Jr. | KC | Jeffrey Springs | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -26,15 +26,15 @@
 ## Best 2-Leg Pairings
 
 - Shohei Ohtani + Pete Alonso | Avg HR Score: 71.6
-- Pete Alonso + Abimelec Ortiz | Avg HR Score: 69.6
+- Pete Alonso + Abimelec Ortiz | Avg HR Score: 69.7
 - Abimelec Ortiz + Zac Veen | Avg HR Score: 67.8
 - Zac Veen + Sal Stewart | Avg HR Score: 65.2
 - Sal Stewart + Bobby Witt Jr. | Avg HR Score: 63.0
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Pete Alonso + Abimelec Ortiz | Avg HR Score: 70.8
-- Pete Alonso + Abimelec Ortiz + Zac Veen | Avg HR Score: 68.4
+- Shohei Ohtani + Pete Alonso + Abimelec Ortiz | Avg HR Score: 70.9
+- Pete Alonso + Abimelec Ortiz + Zac Veen | Avg HR Score: 68.5
 - Abimelec Ortiz + Zac Veen + Sal Stewart | Avg HR Score: 66.6
 - Zac Veen + Sal Stewart + Bobby Witt Jr. | Avg HR Score: 64.1
 - Sal Stewart + Bobby Witt Jr. + Jake Bauers | Avg HR Score: 62.5
@@ -42,7 +42,7 @@
 ## Best 4-Leg Pairings
 
 - Shohei Ohtani + Pete Alonso + Abimelec Ortiz + Zac Veen | Avg HR Score: 69.7
-- Pete Alonso + Abimelec Ortiz + Zac Veen + Sal Stewart | Avg HR Score: 67.3
-- Abimelec Ortiz + Zac Veen + Sal Stewart + Bobby Witt Jr. | Avg HR Score: 65.4
+- Pete Alonso + Abimelec Ortiz + Zac Veen + Sal Stewart | Avg HR Score: 67.4
+- Abimelec Ortiz + Zac Veen + Sal Stewart + Bobby Witt Jr. | Avg HR Score: 65.5
 - Zac Veen + Sal Stewart + Bobby Witt Jr. + Jake Bauers | Avg HR Score: 63.4
 - Sal Stewart + Bobby Witt Jr. + Jake Bauers + Samuel Basallo | Avg HR Score: 62.1
