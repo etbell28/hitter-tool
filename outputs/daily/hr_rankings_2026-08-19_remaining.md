@@ -10,13 +10,13 @@
 | 6 | Andy Pages | LAD | Kyle Freeland | 2 | 60.7 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
 | 7 | Mickey Moniak | COL | Roki Sasaki | 2 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Teoscar Hernández | LAD | Kyle Freeland | 3 | 60.1 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 9 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 59.7 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 59.8 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Jac Caglianone | KC | Jeffrey Springs | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 11 | Dominic Canzone | SEA | Dustin May | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Corey Seager | TEX | Cade Cavalli | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Lawrence Butler | ATH | Seth Lugo | 4 | 56.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 14 | Freddie Freeman | LAD | Kyle Freeland | 4 | 56.7 | Longshot | Watch List | Premium Lineup Spot |
-| 15 | Mike Trout | LAA | Ethan Pecko | 2 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Mike Trout | LAA | Ethan Pecko | 2 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 16 | Mookie Betts | LAD | Kyle Freeland | 5 | 55.8 | Longshot | Watch List | Platoon Edge |
 | 17 | Brett Sullivan | COL | Roki Sasaki | 8 | 55.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 18 | Jackson Chourio | MIL | Logan Gilbert | 2 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
