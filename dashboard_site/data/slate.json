@@ -1,7 +1,7 @@
 {
   "date": "Thursday, August 20, 2026",
-  "generated_at": "03:28 AM ",
-  "generated_iso": "2026-08-20T03:28:01",
+  "generated_at": "04:10 AM ",
+  "generated_iso": "2026-08-20T04:10:52",
   "slate_projection": 162,
   "games_count": 9,
   "confirmed_count": 0,
@@ -1908,7 +1908,7 @@
           "order": 7,
           "pitcher": "Grayson Rodriguez",
           "score": 47.1,
-          "rank": 58,
+          "rank": 59,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3122,8 +3122,8 @@
           "team": "ATH",
           "order": 9,
           "pitcher": "Randy Dobnak",
-          "score": 47.0,
-          "rank": 59,
+          "score": 47.2,
+          "rank": 58,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3697,7 +3697,7 @@
           "order": 7,
           "pitcher": "Grayson Rodriguez",
           "score": 47.1,
-          "rank": 58,
+          "rank": 59,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
