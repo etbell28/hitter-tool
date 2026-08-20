@@ -14,7 +14,7 @@
 | 10 | Elly De La Cruz | CIN | Michael McGreevy | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 11 | Miguel Vargas | CWS | Grant Holmes | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 12 | Pete Alonso | BAL | Gerrit Cole | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Rafael Devers | SF | Gavin Williams | 3 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Rafael Devers | SF | Gavin Williams | 3 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Matt Olson | ATL | Anthony Kay | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 15 | Jake Bauers | MIL | George Kirby | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Tyler Stephenson | CIN | Michael McGreevy | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
