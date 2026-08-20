@@ -1,11 +1,11 @@
 {
   "date": "Thursday, August 20, 2026",
-  "generated_at": "03:17 PM ",
-  "generated_iso": "2026-08-20T15:17:00",
+  "generated_at": "03:59 PM ",
+  "generated_iso": "2026-08-20T15:59:34",
   "slate_projection": 162,
   "games_count": 9,
-  "confirmed_count": 81,
-  "projected_count": 81,
+  "confirmed_count": 90,
+  "projected_count": 72,
   "top20": [
     {
       "rank": 1,
@@ -938,12 +938,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 30.3,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1016,12 +1016,12 @@
       "platoon_score": 78.0,
       "recent_form_score": 37.8,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1242,12 +1242,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 52.1,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2680,12 +2680,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 30.3,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2758,12 +2758,12 @@
       "platoon_score": 78.0,
       "recent_form_score": 37.8,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2984,12 +2984,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 52.1,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -3237,8 +3237,8 @@
       "wind": "L To R",
       "environment_score": 50.1,
       "top_score": 71.8,
-      "game_tags": "top-25 target · deep stack · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "top-25 target · deep stack",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Munetaka Murakami",
@@ -3302,8 +3302,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Ronald Acuña Jr.",
@@ -3321,8 +3321,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Drake Baldwin",
@@ -3340,8 +3340,8 @@
             "blue"
           ],
           "badge_summary": "EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -3574,8 +3574,8 @@
       "wind": "In From CF",
       "environment_score": 34.7,
       "top_score": 55.2,
-      "game_tags": "lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "monitor",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Bobby Witt Jr.",
@@ -3603,8 +3603,8 @@
           "team": "ATH",
           "order": 4,
           "pitcher": "Randy Dobnak",
-          "score": 49.0,
-          "rank": 51,
+          "score": 49.6,
+          "rank": 46,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3614,8 +3614,8 @@
             "orange"
           ],
           "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Salvador Perez",
@@ -3641,8 +3641,8 @@
           "team": "ATH",
           "order": 3,
           "pitcher": "Randy Dobnak",
-          "score": 45.6,
-          "rank": 80,
+          "score": 46.2,
+          "rank": 78,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3652,25 +3652,25 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
-          "player": "Vinnie Pasquantino",
-          "team": "KC",
-          "order": 5,
-          "pitcher": "Gage Jump",
-          "score": 44.4,
-          "rank": 91,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "player": "Henry Bolte",
+          "team": "ATH",
+          "order": 1,
+          "pitcher": "Randy Dobnak",
+          "score": 45.0,
+          "rank": 89,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
           "badges": [
-            "WATCH"
+            "EV EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "blue"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "EV EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -3954,7 +3954,7 @@
           "order": 1,
           "pitcher": "Jacob deGrom",
           "score": 49.1,
-          "rank": 50,
+          "rank": 51,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4787,8 +4787,8 @@
       "wind": "In From CF",
       "environment_score": 34.7,
       "top_score": 55.2,
-      "game_tags": "lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "monitor",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Bobby Witt Jr.",
@@ -4816,8 +4816,8 @@
           "team": "ATH",
           "order": 4,
           "pitcher": "Randy Dobnak",
-          "score": 49.0,
-          "rank": 51,
+          "score": 49.6,
+          "rank": 46,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4827,8 +4827,8 @@
             "orange"
           ],
           "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Salvador Perez",
@@ -4854,8 +4854,8 @@
           "team": "ATH",
           "order": 3,
           "pitcher": "Randy Dobnak",
-          "score": 45.6,
-          "rank": 80,
+          "score": 46.2,
+          "rank": 78,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4865,25 +4865,25 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
-          "player": "Vinnie Pasquantino",
-          "team": "KC",
-          "order": 5,
-          "pitcher": "Gage Jump",
-          "score": 44.4,
-          "rank": 91,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "player": "Henry Bolte",
+          "team": "ATH",
+          "order": 1,
+          "pitcher": "Randy Dobnak",
+          "score": 45.0,
+          "rank": 89,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
           "badges": [
-            "WATCH"
+            "EV EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "blue"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "EV EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -4896,8 +4896,8 @@
       "wind": "L To R",
       "environment_score": 50.1,
       "top_score": 71.8,
-      "game_tags": "top-25 target · deep stack · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "top-25 target · deep stack",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Munetaka Murakami",
@@ -4961,8 +4961,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Ronald Acuña Jr.",
@@ -4980,8 +4980,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Drake Baldwin",
@@ -4999,8 +4999,8 @@
             "blue"
           ],
           "badge_summary": "EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -5079,7 +5079,7 @@
           "order": 5,
           "pitcher": "George Kirby",
           "score": 49.2,
-          "rank": 48,
+          "rank": 49,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5282,7 +5282,7 @@
           "order": 1,
           "pitcher": "Jacob deGrom",
           "score": 49.1,
-          "rank": 50,
+          "rank": 51,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5447,7 +5447,7 @@
       ]
     }
   ],
-  "lineup_disagreements": 90,
+  "lineup_disagreements": 72,
   "rotowire_found": 162,
   "slate_size": 162,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",
