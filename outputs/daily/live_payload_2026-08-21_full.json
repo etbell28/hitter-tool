@@ -1,7 +1,7 @@
 {
   "date": "Friday, August 21, 2026",
-  "generated_at": "03:52 PM ",
-  "generated_iso": "2026-08-21T15:52:28",
+  "generated_at": "04:37 PM ",
+  "generated_iso": "2026-08-21T16:37:20",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -1912,7 +1912,7 @@
           "order": 4,
           "pitcher": "Jesús Luzardo",
           "score": 48.7,
-          "rank": 61,
+          "rank": 62,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2218,7 +2218,7 @@
           "order": 4,
           "pitcher": "Eduardo Rodriguez",
           "score": 48.9,
-          "rank": 57,
+          "rank": 58,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2348,7 +2348,7 @@
           "order": 4,
           "pitcher": "Sean Burke",
           "score": 48.9,
-          "rank": 56,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2768,10 +2768,10 @@
         {
           "player": "Drake Baldwin",
           "team": "ATL",
-          "order": 1,
+          "order": 2,
           "pitcher": "Jacob Misiorowski",
-          "score": 48.6,
-          "rank": 62,
+          "score": 49.6,
+          "rank": 53,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2806,10 +2806,10 @@
         {
           "player": "Ronald Acuna",
           "team": "ATL",
-          "order": 2,
+          "order": 1,
           "pitcher": "Jacob Misiorowski",
-          "score": 46.9,
-          "rank": 81,
+          "score": 46.0,
+          "rank": 88,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2926,7 +2926,7 @@
           "order": 4,
           "pitcher": "Jesús Luzardo",
           "score": 48.7,
-          "rank": 61,
+          "rank": 62,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3249,7 +3249,7 @@
           "order": 3,
           "pitcher": "Ryan Gusto",
           "score": 46.6,
-          "rank": 84,
+          "rank": 83,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3471,7 +3471,7 @@
           "order": 4,
           "pitcher": "Sean Burke",
           "score": 48.9,
-          "rank": 56,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3638,7 +3638,7 @@
           "order": 4,
           "pitcher": "Hayden Wesneski",
           "score": 49.5,
-          "rank": 53,
+          "rank": 54,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4001,7 +4001,7 @@
           "order": 4,
           "pitcher": "Eduardo Rodriguez",
           "score": 48.9,
-          "rank": 57,
+          "rank": 58,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4129,7 +4129,7 @@
           "order": 4,
           "pitcher": "Connor Prielipp",
           "score": 48.9,
-          "rank": 58,
+          "rank": 59,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4347,7 +4347,7 @@
           "order": 5,
           "pitcher": "Matthew Boyd",
           "score": 49.4,
-          "rank": 54,
+          "rank": 55,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
