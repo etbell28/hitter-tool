@@ -19,9 +19,9 @@
 | 15 | Rafael Devers | SF | Sonny Gray | 2 | 53.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Jordan Walker | STL | Jesús Luzardo | 4 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 17 | Spencer Jones | NYY |  | 7 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 18 | Andres Chaparro | WSH | Ryan Gusto | 3 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Christian Encarnacion-Strand | BAL | Freddy Peralta | 5 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 20 | Zach Neto | LAA | MacKenzie Gore | 4 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Zach Neto | LAA | MacKenzie Gore | 4 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Andres Chaparro | WSH | Ryan Gusto | 3 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Christian Encarnacion-Strand | BAL | Freddy Peralta | 5 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 
 ## Best 2-Leg Pairings
 
