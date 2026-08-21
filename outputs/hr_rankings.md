@@ -11,17 +11,17 @@
 | 7 | Pete Alonso | BAL | Freddy Peralta | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 8 | Jo Adell | CLE | Tanner Gordon | 5 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel |
 | 9 | Kyle Schwarber | PHI | Hunter Dobbins | 1 | 61.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Eduardo Valencia | DET | Noah Cameron | 5 | 61.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 11 | Bryce Eldridge | SF | Sonny Gray | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Randal Grichuk | CWS | Sean Manaea | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Chase DeLauter | CLE | Tanner Gordon | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 14 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 59.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 15 | Corey Seager | TEX | Reid Detmers | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Mike Trout | LAA | MacKenzie Gore | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Junior Caminero | TB | Trevor Rogers | 4 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Corbin Carroll | AZ | Nick Lodolo | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Griffin Conine | MIA | Brad Lord | 3 | 56.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Fernando Tatis Jr. | SD | Connor Prielipp | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Eduardo Valencia | DET | Noah Cameron | 5 | 61.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Bryce Eldridge | SF | Sonny Gray | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Randal Grichuk | CWS | Sean Manaea | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Chase DeLauter | CLE | Tanner Gordon | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 15 | Mike Trout | LAA | MacKenzie Gore | 2 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Byron Buxton | MIN |  | 2 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 59.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 18 | Corey Seager | TEX | Reid Detmers | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Manny Machado | SD | Connor Prielipp | 3 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
