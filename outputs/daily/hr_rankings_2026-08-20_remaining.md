@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Grayson Rodriguez | 2 | 71.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Abimelec Ortiz | WSH | Jacob deGrom | 2 | 69.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Andrés Chaparro | WSH | Jacob deGrom | 3 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Mike Trout | LAA | Peter Lambert | 2 | 53.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 5 | José Tena | WSH | Jacob deGrom | 4 | 53.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 6 | Corey Seager | TEX | Andrew Alvarez | 2 | 53.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 7 | Taylor Trammell | HOU | Grayson Rodriguez | 6 | 53.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 8 | Daulton Varsho | HOU | Grayson Rodriguez | 5 | 52.4 | Longshot | Watch List | Platoon Edge |
-| 9 | Jake Burger | TEX | Andrew Alvarez | 3 | 51.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Cam Smith | HOU | Grayson Rodriguez | 7 | 50.4 | Longshot | Watch List | Strong Barrel |
-| 11 | Daylen Lile | WSH | Jacob deGrom | 1 | 50.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 12 | Andrew Pinckney | WSH | Jacob deGrom | 9 | 50.0 | Longshot | Watch List | Strong Barrel |
-| 13 | Brady House | WSH | Jacob deGrom | 5 | 49.9 | Longshot | Watch List | No major boost |
-| 14 | Isaac Paredes | HOU | Grayson Rodriguez | 3 | 48.3 | Longshot | Watch List | Premium Lineup Spot |
-| 15 | Zach Neto | LAA | Peter Lambert | 4 | 47.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | LaMonte Wade Jr. | HOU | Grayson Rodriguez | 1 | 47.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Wyatt Langford | TEX | Andrew Alvarez | 1 | 47.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | Dylan Crews | WSH | Jacob deGrom | 7 | 46.1 | Longshot | Watch List | Strong Barrel |
-| 19 | Brandon Nimmo | TEX | Andrew Alvarez | 4 | 46.0 | Longshot | Watch List | Premium Lineup Spot |
-| 20 | Jose Altuve | HOU | Grayson Rodriguez | 4 | 45.2 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Munetaka Murakami | CWS | Sean Manaea | 2 | 64.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 2 | Joshua Baez | STL | Jesús Luzardo | 5 | 63.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 3 | Abimelec Ortiz | WSH | Ryan Gusto | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Yordan Alvarez | HOU | J.T. Ginn | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Pete Alonso | BAL | Freddy Peralta | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Miguel Vargas | CWS | Sean Manaea | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Bryce Eldridge | SF | Sonny Gray | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Ben Rice | NYY |  | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Mike Trout | LAA | MacKenzie Gore | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Corey Seager | TEX | Reid Detmers | 2 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 55.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 13 | Junior Caminero | TB | Trevor Rogers | 2 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Angel Genao | CLE | Tanner Gordon | 5 | 54.4 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 15 | Rafael Devers | SF | Sonny Gray | 2 | 53.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Jordan Walker | STL | Jesús Luzardo | 4 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Spencer Jones | NYY |  | 7 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 18 | Andres Chaparro | WSH | Ryan Gusto | 3 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Christian Encarnacion-Strand | BAL | Freddy Peralta | 5 | 52.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 20 | Jake Burger | TEX | Reid Detmers | 3 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Abimelec Ortiz | Avg HR Score: 70.3
-- Abimelec Ortiz + Andrés Chaparro | Avg HR Score: 63.1
-- Andrés Chaparro + Mike Trout | Avg HR Score: 55.5
-- Mike Trout + José Tena | Avg HR Score: 53.6
-- José Tena + Corey Seager | Avg HR Score: 53.2
+- Munetaka Murakami + Joshua Baez | Avg HR Score: 64.0
+- Joshua Baez + Abimelec Ortiz | Avg HR Score: 63.9
+- Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 62.5
+- Yordan Alvarez + Pete Alonso | Avg HR Score: 60.6
+- Pete Alonso + Miguel Vargas | Avg HR Score: 59.3
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Abimelec Ortiz + Andrés Chaparro | Avg HR Score: 65.9
-- Abimelec Ortiz + Andrés Chaparro + Mike Trout | Avg HR Score: 60.1
-- Andrés Chaparro + Mike Trout + José Tena | Avg HR Score: 54.7
-- Mike Trout + José Tena + Corey Seager | Avg HR Score: 53.4
-- José Tena + Corey Seager + Taylor Trammell | Avg HR Score: 53.2
+- Munetaka Murakami + Joshua Baez + Abimelec Ortiz | Avg HR Score: 64.0
+- Joshua Baez + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 62.9
+- Abimelec Ortiz + Yordan Alvarez + Pete Alonso | Avg HR Score: 61.7
+- Yordan Alvarez + Pete Alonso + Miguel Vargas | Avg HR Score: 59.9
+- Pete Alonso + Miguel Vargas + Bryce Eldridge | Avg HR Score: 59.0
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Abimelec Ortiz + Andrés Chaparro + Mike Trout | Avg HR Score: 62.9
-- Abimelec Ortiz + Andrés Chaparro + Mike Trout + José Tena | Avg HR Score: 58.4
-- Andrés Chaparro + Mike Trout + José Tena + Corey Seager | Avg HR Score: 54.3
-- Mike Trout + José Tena + Corey Seager + Taylor Trammell | Avg HR Score: 53.4
-- José Tena + Corey Seager + Taylor Trammell + Daulton Varsho | Avg HR Score: 53.0
+- Munetaka Murakami + Joshua Baez + Abimelec Ortiz + Yordan Alvarez | Avg HR Score: 63.2
+- Joshua Baez + Abimelec Ortiz + Yordan Alvarez + Pete Alonso | Avg HR Score: 62.3
+- Abimelec Ortiz + Yordan Alvarez + Pete Alonso + Miguel Vargas | Avg HR Score: 60.9
+- Yordan Alvarez + Pete Alonso + Miguel Vargas + Bryce Eldridge | Avg HR Score: 59.5
+- Pete Alonso + Miguel Vargas + Bryce Eldridge + Ben Rice | Avg HR Score: 58.7
