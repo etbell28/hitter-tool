@@ -10,7 +10,7 @@
 | 6 | Miguel Vargas | CWS | Sean Manaea | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Bryce Eldridge | SF | Sonny Gray | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Ben Rice | NYY |  | 2 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Mike Trout | LAA | MacKenzie Gore | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Mike Trout | LAA | MacKenzie Gore | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Corey Seager | TEX | Reid Detmers | 2 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 12 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 55.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
@@ -19,9 +19,9 @@
 | 15 | Rafael Devers | SF | Sonny Gray | 2 | 53.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Jordan Walker | STL | Jesús Luzardo | 4 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 17 | Spencer Jones | NYY |  | 7 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 18 | Andres Chaparro | WSH | Ryan Gusto | 3 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Christian Encarnacion-Strand | BAL | Freddy Peralta | 5 | 52.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 20 | Jake Burger | TEX | Reid Detmers | 3 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Andres Chaparro | WSH | Ryan Gusto | 3 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Christian Encarnacion-Strand | BAL | Freddy Peralta | 5 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 20 | Zach Neto | LAA | MacKenzie Gore | 4 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
