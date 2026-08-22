@@ -16,12 +16,12 @@
 | 12 | Alec Burleson | STL | Andrew Painter | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Mickey Moniak | COL | Tanner Bibee | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 14 | Francisco Lindor | NYM | Luis Castillo | 2 | 60.5 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
-| 15 | Corbin Carroll | AZ | Rhett Lowder | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Zach Neto | LAA | Cody Bradford | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 59.1 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 19 | Jared Young | NYM | Luis Castillo | 5 | 59.1 | Longshot | Watch List | Platoon Edge |
-| 20 | Junior Caminero | TB | Brandon Young | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Jac Caglianone | KC | Drew Anderson | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Corbin Carroll | AZ | Rhett Lowder | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Zach Neto | LAA | Cody Bradford | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 59.1 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 20 | Jared Young | NYM | Luis Castillo | 5 | 59.1 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
