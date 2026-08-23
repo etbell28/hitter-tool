@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Lake Bachar | 1 | 65.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Kyle Schwarber | PHI | Kyle Leahy | 1 | 63.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Joshua Baez | STL | Cristopher Sánchez | 5 | 62.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 4 | Jo Adell | CLE | Tomoyuki Sugano | 4 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Munetaka Murakami | CWS | Nolan McLean | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Pete Alonso | BAL | Nick Martinez | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Spencer Jones | NYY | José Soriano | 5 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 8 | Ben Rice | NYY | José Soriano | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Abimelec Ortiz | WSH | Janson Junk | 4 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Bryce Harper | PHI | Kyle Leahy | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Jake Bauers | MIL | Tyler Mahle | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Corey Seager | TEX | Yusei Kikuchi | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 13 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 14 | Nathaniel Lowe | CLE | Tomoyuki Sugano | 5 | 57.0 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Platoon Edge |
-| 15 | Jordan Walker | STL | Cristopher Sánchez | 4 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Bobby Witt | KC |  | 2 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Fernando Tatis | SD | Bailey Ober | 1 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Yordan Alvarez | HOU | Brady Basso | 2 | 55.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 19 | Pete Crow-Armstrong | CHC | Bryce Miller | 1 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Sal Stewart | CIN | Mitch Bratt | 2 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Jake Bauers | MIL | Tyler Mahle | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Matt Olson | ATL | Shane Drohan | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 3 | Ronald Acuna | ATL | Shane Drohan | 1 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Drake Baldwin | ATL | Shane Drohan | 2 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Jackson Chourio | MIL | Tyler Mahle | 1 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | William Contreras | MIL | Tyler Mahle | 3 | 52.5 | Longshot | Watch List | Premium Lineup Spot |
+| 7 | Brice Turang | MIL | Tyler Mahle | 2 | 52.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 8 | Garrett Mitchell | MIL | Tyler Mahle | 8 | 52.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Christian Yelich | MIL | Tyler Mahle | 6 | 51.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Austin Riley | ATL | Shane Drohan | 8 | 49.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Michael Harris | ATL | Shane Drohan | 6 | 49.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 12 | Andrew Vaughn | MIL | Tyler Mahle | 5 | 48.6 | Longshot | Watch List | No major boost |
+| 13 | Lane Thomas | ATL | Shane Drohan | 5 | 46.7 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 14 | Ozzie Albies | ATL | Shane Drohan | 4 | 43.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 15 | Joey Ortiz | MIL | Tyler Mahle | 7 | 40.5 | Longshot | Watch List | No major boost |
+| 16 | Mauricio Dubon | ATL | Shane Drohan | 7 | 38.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 17 | David Hamilton | MIL | Tyler Mahle | 9 | 38.4 | Longshot | Watch List | Platoon Edge |
+| 18 | Sean Murphy | ATL | Shane Drohan | 9 | 34.6 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber | Avg HR Score: 64.8
-- Kyle Schwarber + Joshua Baez | Avg HR Score: 63.3
-- Joshua Baez + Jo Adell | Avg HR Score: 62.6
-- Jo Adell + Munetaka Murakami | Avg HR Score: 61.8
-- Munetaka Murakami + Pete Alonso | Avg HR Score: 60.8
+- Jake Bauers + Matt Olson | Avg HR Score: 61.0
+- Matt Olson + Ronald Acuna | Avg HR Score: 57.6
+- Ronald Acuna + Drake Baldwin | Avg HR Score: 56.0
+- Drake Baldwin + Jackson Chourio | Avg HR Score: 55.3
+- Jackson Chourio + William Contreras | Avg HR Score: 53.7
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Joshua Baez | Avg HR Score: 64.1
-- Kyle Schwarber + Joshua Baez + Jo Adell | Avg HR Score: 63.1
-- Joshua Baez + Jo Adell + Munetaka Murakami | Avg HR Score: 62.1
-- Jo Adell + Munetaka Murakami + Pete Alonso | Avg HR Score: 61.3
-- Munetaka Murakami + Pete Alonso + Spencer Jones | Avg HR Score: 60.4
+- Jake Bauers + Matt Olson + Ronald Acuna | Avg HR Score: 59.5
+- Matt Olson + Ronald Acuna + Drake Baldwin | Avg HR Score: 57.0
+- Ronald Acuna + Drake Baldwin + Jackson Chourio | Avg HR Score: 55.7
+- Drake Baldwin + Jackson Chourio + William Contreras | Avg HR Score: 54.4
+- Jackson Chourio + William Contreras + Brice Turang | Avg HR Score: 53.2
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Kyle Schwarber + Joshua Baez + Jo Adell | Avg HR Score: 63.7
-- Kyle Schwarber + Joshua Baez + Jo Adell + Munetaka Murakami | Avg HR Score: 62.5
-- Joshua Baez + Jo Adell + Munetaka Murakami + Pete Alonso | Avg HR Score: 61.7
-- Jo Adell + Munetaka Murakami + Pete Alonso + Spencer Jones | Avg HR Score: 61.0
-- Munetaka Murakami + Pete Alonso + Spencer Jones + Ben Rice | Avg HR Score: 60.0
+- Jake Bauers + Matt Olson + Ronald Acuna + Drake Baldwin | Avg HR Score: 58.5
+- Matt Olson + Ronald Acuna + Drake Baldwin + Jackson Chourio | Avg HR Score: 56.5
+- Ronald Acuna + Drake Baldwin + Jackson Chourio + William Contreras | Avg HR Score: 54.9
+- Drake Baldwin + Jackson Chourio + William Contreras + Brice Turang | Avg HR Score: 53.9
+- Jackson Chourio + William Contreras + Brice Turang + Garrett Mitchell | Avg HR Score: 53.0
