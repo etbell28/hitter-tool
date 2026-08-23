@@ -9,12 +9,12 @@
 | 5 | Jo Adell | CLE | Tomoyuki Sugano | 3 | 66.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Max Muncy | LAD | Lake Bachar | 4 | 66.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Munetaka Murakami | CWS | Nolan McLean | 2 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Ben Rice | NYY | José Soriano | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Ben Rice | NYY | José Soriano | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Spencer Jones | NYY | José Soriano | 6 | 62.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 10 | Bryce Harper | PHI | Kyle Leahy | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Bryce Harper | PHI | Kyle Leahy | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Nathaniel Lowe | CLE | Tomoyuki Sugano | 4 | 61.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 12 | Cal Raleigh | SEA | Shota Imanaga | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Junior Caminero | TB | Shane Baz | 3 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 12 | Junior Caminero | TB | Shane Baz | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 13 | Cal Raleigh | SEA | Shota Imanaga | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Chase DeLauter | CLE | Tomoyuki Sugano | 2 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 15 | Pete Crow-Armstrong | CHC | Bryce Miller | 1 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 16 | Jordan Walker | STL | Cristopher Sánchez | 3 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
