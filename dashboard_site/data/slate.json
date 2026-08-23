@@ -1,7 +1,7 @@
 {
   "date": "Sunday, August 23, 2026",
-  "generated_at": "03:38 AM ",
-  "generated_iso": "2026-08-23T03:38:16",
+  "generated_at": "04:22 AM ",
+  "generated_iso": "2026-08-23T04:22:54",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -10,6 +10,82 @@
   "projected_top20": [
     {
       "rank": 1,
+      "hitter_id": 660271,
+      "player": "Shohei Ohtani",
+      "team": "LAD",
+      "opponent": "PIT",
+      "game_start_time": "2026-08-23T20:10:00Z",
+      "game_status": "Scheduled",
+      "batting_order": 1,
+      "pitcher": "Lake Bachar",
+      "pitcher_id": 669199.0,
+      "pitcher_hand": "R",
+      "hr_score": 65.7,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "power_score": 81.5,
+      "pitcher_score": 46.1,
+      "environment_score": 27.6,
+      "lineup_score": 88.7,
+      "platoon_score": 80.0,
+      "recent_form_score": 79.9,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
+      "rotowire_batting_order": 1,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 8,
+      "recent_abs": 28,
+      "recent_hr": 3,
+      "recent_form_note": "Hot streak: 3 HR in last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 9.7% barrel, 11.4 HR allowed",
+      "pitch_mix_note": "lift-pull EV profile; pitcher allows elevated contact",
+      "barrel_pct": 18.67,
+      "hard_hit_pct": 54.57,
+      "avg_exit_velocity": 93.99,
+      "ev50": 104.5751,
+      "xslg": 0.6,
+      "xiso": 0.3106,
+      "xwoba": 0.4138,
+      "bat_speed": 75.03,
+      "fast_swing_pct": 53.15,
+      "pull_pct": 46.63,
+      "fb_pct": 32.2,
+      "hr_total": 37.5,
+      "iso": 0.2847,
+      "pitcher_barrel_pct_allowed": 9.72,
+      "pitcher_hard_hit_pct_allowed": 37.09,
+      "pitcher_avg_exit_velocity_allowed": 89.46,
+      "pitcher_xslg_allowed": 0.3899,
+      "pitcher_xiso_allowed": 0.1794,
+      "pitcher_fb_pct_allowed": 32.06,
+      "wind_direction": null,
+      "weather_temp": null,
+      "ballpark": "UNIQLO Field at Dodger Stadium",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "HOT BAT",
+        "EV EDGE"
+      ],
+      "badge": "HOT BAT",
+      "badge_class": "orange",
+      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_classes": [
+        "orange",
+        "blue"
+      ]
+    },
+    {
+      "rank": 2,
       "hitter_id": 656941,
       "player": "Kyle Schwarber",
       "team": "PHI",
@@ -85,7 +161,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hitter_id": 695491,
       "player": "Joshua Baez",
       "team": "STL",
@@ -160,84 +236,6 @@
         "red",
         "blue",
         "teal"
-      ]
-    },
-    {
-      "rank": 3,
-      "hitter_id": 660271,
-      "player": "Shohei Ohtani",
-      "team": "LAD",
-      "opponent": "PIT",
-      "game_start_time": "2026-08-23T20:10:00Z",
-      "game_status": "Scheduled",
-      "batting_order": 1,
-      "pitcher": null,
-      "pitcher_id": null,
-      "pitcher_hand": null,
-      "hr_score": 62.7,
-      "tier": "Tier 3",
-      "play_type": "Watch List",
-      "reason_tags": "Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak",
-      "power_score": 81.5,
-      "pitcher_score": 41.2,
-      "environment_score": 27.6,
-      "lineup_score": 88.7,
-      "platoon_score": 60.0,
-      "recent_form_score": 79.9,
-      "confirmed_lineup": "No",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 1,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
-      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
-      "source_warnings": "lineup projected / unconfirmed",
-      "stat_years_used": "H:2026/2025 P:",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 8,
-      "recent_abs": 28,
-      "recent_hr": 3,
-      "recent_form_note": "Hot streak: 3 HR in last 7 games",
-      "split_matchup_note": "handedness incomplete; pitcher baseline 0.0% barrel, 0.0 HR allowed",
-      "pitch_mix_note": "lift-pull EV profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 18.67,
-      "hard_hit_pct": 54.57,
-      "avg_exit_velocity": 93.99,
-      "ev50": 104.5751,
-      "xslg": 0.6,
-      "xiso": 0.3106,
-      "xwoba": 0.4138,
-      "bat_speed": 75.03,
-      "fast_swing_pct": 53.15,
-      "pull_pct": 46.63,
-      "fb_pct": 32.2,
-      "hr_total": 37.5,
-      "iso": 0.2847,
-      "pitcher_barrel_pct_allowed": null,
-      "pitcher_hard_hit_pct_allowed": null,
-      "pitcher_avg_exit_velocity_allowed": null,
-      "pitcher_xslg_allowed": null,
-      "pitcher_xiso_allowed": null,
-      "pitcher_fb_pct_allowed": null,
-      "wind_direction": null,
-      "weather_temp": null,
-      "ballpark": "UNIQLO Field at Dodger Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "FIRE / TOUGH SP",
-        "HOT BAT",
-        "EV EDGE"
-      ],
-      "badge": "FIRE / TOUGH SP",
-      "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
-      "badge_classes": [
-        "red",
-        "orange",
-        "blue"
       ]
     },
     {
@@ -1590,7 +1588,7 @@
       "weather_temp": null,
       "environment_score": 27.6,
       "top_player": "Shohei Ohtani",
-      "top_score": 62.7,
+      "top_score": 65.7,
       "teams": "LAD / PIT"
     },
     {
@@ -1844,7 +1842,7 @@
           "order": 1,
           "pitcher": "Kyle Leahy",
           "score": 63.9,
-          "rank": 1,
+          "rank": 2,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -1865,7 +1863,7 @@
           "order": 5,
           "pitcher": "Cristopher Sánchez",
           "score": 62.8,
-          "rank": 2,
+          "rank": 3,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -1928,7 +1926,7 @@
           "order": 3,
           "pitcher": "Cristopher Sánchez",
           "score": 49.2,
-          "rank": 62,
+          "rank": 63,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2018,7 +2016,7 @@
           "order": 6,
           "pitcher": "Nick Martinez",
           "score": 50.3,
-          "rank": 51,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2037,7 +2035,7 @@
           "order": 3,
           "pitcher": "Nick Martinez",
           "score": 50.0,
-          "rank": 53,
+          "rank": 54,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2087,7 +2085,7 @@
           "order": 2,
           "pitcher": "Jake Bennett",
           "score": 50.1,
-          "rank": 52,
+          "rank": 53,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2106,7 +2104,7 @@
           "order": 1,
           "pitcher": "Jake Bennett",
           "score": 49.4,
-          "rank": 60,
+          "rank": 61,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2125,7 +2123,7 @@
           "order": 4,
           "pitcher": "Matt Wilkinson",
           "score": 47.7,
-          "rank": 77,
+          "rank": 78,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2213,7 +2211,7 @@
           "order": 4,
           "pitcher": "Mitch Bratt",
           "score": 50.0,
-          "rank": 56,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2272,30 +2270,28 @@
       "temp": "",
       "wind": "",
       "environment_score": 27.6,
-      "top_score": 62.7,
-      "game_tags": "lineup caution",
+      "top_score": 65.7,
+      "game_tags": "top-25 target · lineup caution",
       "disagreement_count": 18,
       "players": [
         {
           "player": "Shohei Ohtani",
           "team": "LAD",
           "order": 1,
-          "pitcher": null,
-          "score": 62.7,
-          "rank": 3,
-          "badge": "FIRE / TOUGH SP",
-          "badge_class": "red",
+          "pitcher": "Lake Bachar",
+          "score": 65.7,
+          "rank": 1,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
           "badges": [
-            "FIRE / TOUGH SP",
             "HOT BAT",
             "EV EDGE"
           ],
           "badge_classes": [
-            "red",
             "orange",
             "blue"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         },
@@ -2321,12 +2317,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Freddie Freeman",
+          "team": "LAD",
+          "order": 2,
+          "pitcher": "Lake Bachar",
+          "score": 50.6,
+          "rank": 51,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Esmerlyn Valdez",
           "team": "PIT",
           "order": 2,
           "pitcher": "Blake Snell",
           "score": 48.9,
-          "rank": 66,
+          "rank": 67,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2345,7 +2360,7 @@
           "order": 4,
           "pitcher": "Blake Snell",
           "score": 48.9,
-          "rank": 67,
+          "rank": 68,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -2357,25 +2372,6 @@
             "blue"
           ],
           "badge_summary": "FIRE / TOUGH SP + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Freddie Freeman",
-          "team": "LAD",
-          "order": 2,
-          "pitcher": null,
-          "score": 47.6,
-          "rank": 78,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -2441,7 +2437,7 @@
           "order": 6,
           "pitcher": "Nolan McLean",
           "score": 48.4,
-          "rank": 71,
+          "rank": 72,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2533,6 +2529,30 @@
   "projected_pairings": {
     "2": [
       {
+        "names": "Shohei Ohtani + Kyle Schwarber",
+        "avg_score": 64.8,
+        "combo_score": 67.0,
+        "risk": "Balanced / Projected",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT · score floor"
+      },
+      {
+        "names": "Shohei Ohtani + Joshua Baez",
+        "avg_score": 64.2,
+        "combo_score": 66.9,
+        "risk": "Balanced / Projected",
+        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + EV EDGE + SLEEPER PICK",
+        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
+      },
+      {
+        "names": "Shohei Ohtani + Jo Adell",
+        "avg_score": 64.1,
+        "combo_score": 66.7,
+        "risk": "Balanced / Projected",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+      },
+      {
         "names": "Kyle Schwarber + Jo Adell",
         "avg_score": 63.2,
         "combo_score": 65.8,
@@ -2541,36 +2561,12 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Kyle Schwarber + Shohei Ohtani",
-        "avg_score": 63.3,
-        "combo_score": 65.5,
-        "risk": "Balanced / Projected",
-        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT · score floor"
-      },
-      {
-        "names": "Joshua Baez + Shohei Ohtani",
-        "avg_score": 62.8,
-        "combo_score": 65.4,
-        "risk": "Balanced / Projected",
-        "badges": "FIRE / TOUGH SP + EV EDGE + SLEEPER PICK / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
-      },
-      {
         "names": "Joshua Baez + Jo Adell",
         "avg_score": 62.6,
         "combo_score": 65.3,
         "risk": "Balanced / Projected",
         "badges": "FIRE / TOUGH SP + EV EDGE + SLEEPER PICK / HOT BAT + EV EDGE + PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
-      },
-      {
-        "names": "Shohei Ohtani + Jo Adell",
-        "avg_score": 62.6,
-        "combo_score": 65.2,
-        "risk": "Balanced / Projected",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
         "names": "Kyle Schwarber + Munetaka Murakami",
@@ -2599,19 +2595,19 @@
     ],
     "3": [
       {
-        "names": "Kyle Schwarber + Shohei Ohtani + Jo Adell",
-        "avg_score": 63.0,
-        "combo_score": 66.3,
+        "names": "Shohei Ohtani + Kyle Schwarber + Jo Adell",
+        "avg_score": 64.0,
+        "combo_score": 67.3,
         "risk": "Balanced / Projected",
-        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Joshua Baez + Shohei Ohtani + Jo Adell",
-        "avg_score": 62.7,
-        "combo_score": 66.0,
+        "names": "Shohei Ohtani + Joshua Baez + Jo Adell",
+        "avg_score": 63.7,
+        "combo_score": 67.0,
         "risk": "Balanced / Projected",
-        "badges": "FIRE / TOUGH SP + EV EDGE + SLEEPER PICK / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET",
+        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + EV EDGE + SLEEPER PICK / HOT BAT + EV EDGE + PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       },
       {
@@ -2665,19 +2661,19 @@
     ],
     "4": [
       {
-        "names": "Kyle Schwarber + Shohei Ohtani + Jo Adell + Munetaka Murakami",
-        "avg_score": 62.5,
-        "combo_score": 66.5,
+        "names": "Shohei Ohtani + Kyle Schwarber + Jo Adell + Munetaka Murakami",
+        "avg_score": 63.3,
+        "combo_score": 67.2,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET / FIRE / TOUGH SP + HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Kyle Schwarber + Shohei Ohtani + Jo Adell + Pete Alonso",
-        "avg_score": 62.4,
-        "combo_score": 66.3,
+        "names": "Shohei Ohtani + Kyle Schwarber + Jo Adell + Pete Alonso",
+        "avg_score": 63.1,
+        "combo_score": 67.1,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET / HOT BAT + EV EDGE",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + PITCHER TARGET / HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
@@ -2806,7 +2802,7 @@
           "order": 6,
           "pitcher": "Nick Martinez",
           "score": 50.3,
-          "rank": 51,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2825,7 +2821,7 @@
           "order": 3,
           "pitcher": "Nick Martinez",
           "score": 50.0,
-          "rank": 53,
+          "rank": 54,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2856,7 +2852,7 @@
           "order": 1,
           "pitcher": "Kyle Leahy",
           "score": 63.9,
-          "rank": 1,
+          "rank": 2,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2877,7 +2873,7 @@
           "order": 5,
           "pitcher": "Cristopher Sánchez",
           "score": 62.8,
-          "rank": 2,
+          "rank": 3,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -2940,7 +2936,7 @@
           "order": 3,
           "pitcher": "Cristopher Sánchez",
           "score": 49.2,
-          "rank": 62,
+          "rank": 63,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3120,7 +3116,7 @@
           "order": 9,
           "pitcher": "Janson Junk",
           "score": 50.0,
-          "rank": 54,
+          "rank": 55,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -3141,7 +3137,7 @@
           "order": 6,
           "pitcher": "Jackson Kent",
           "score": 48.2,
-          "rank": 73,
+          "rank": 74,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3254,7 +3250,7 @@
           "order": 4,
           "pitcher": null,
           "score": 48.8,
-          "rank": 68,
+          "rank": 69,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3327,7 +3323,7 @@
           "order": 5,
           "pitcher": "Cristian Javier",
           "score": 48.1,
-          "rank": 75,
+          "rank": 76,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3346,7 +3342,7 @@
           "order": 4,
           "pitcher": "Cristian Javier",
           "score": 46.1,
-          "rank": 89,
+          "rank": 90,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3459,7 +3455,7 @@
           "order": 6,
           "pitcher": "Nolan McLean",
           "score": 48.4,
-          "rank": 71,
+          "rank": 72,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3604,7 +3600,7 @@
           "order": 7,
           "pitcher": "Yusei Kikuchi",
           "score": 49.9,
-          "rank": 57,
+          "rank": 58,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3767,7 +3763,7 @@
           "order": 2,
           "pitcher": "Jake Bennett",
           "score": 50.1,
-          "rank": 52,
+          "rank": 53,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3786,7 +3782,7 @@
           "order": 1,
           "pitcher": "Jake Bennett",
           "score": 49.4,
-          "rank": 60,
+          "rank": 61,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3805,7 +3801,7 @@
           "order": 4,
           "pitcher": "Matt Wilkinson",
           "score": 47.7,
-          "rank": 77,
+          "rank": 78,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3845,30 +3841,28 @@
       "temp": "",
       "wind": "",
       "environment_score": 27.6,
-      "top_score": 62.7,
-      "game_tags": "lineup caution",
+      "top_score": 65.7,
+      "game_tags": "top-25 target · lineup caution",
       "disagreement_count": 18,
       "players": [
         {
           "player": "Shohei Ohtani",
           "team": "LAD",
           "order": 1,
-          "pitcher": null,
-          "score": 62.7,
-          "rank": 3,
-          "badge": "FIRE / TOUGH SP",
-          "badge_class": "red",
+          "pitcher": "Lake Bachar",
+          "score": 65.7,
+          "rank": 1,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
           "badges": [
-            "FIRE / TOUGH SP",
             "HOT BAT",
             "EV EDGE"
           ],
           "badge_classes": [
-            "red",
             "orange",
             "blue"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         },
@@ -3894,12 +3888,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Freddie Freeman",
+          "team": "LAD",
+          "order": 2,
+          "pitcher": "Lake Bachar",
+          "score": 50.6,
+          "rank": 51,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Esmerlyn Valdez",
           "team": "PIT",
           "order": 2,
           "pitcher": "Blake Snell",
           "score": 48.9,
-          "rank": 66,
+          "rank": 67,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3918,7 +3931,7 @@
           "order": 4,
           "pitcher": "Blake Snell",
           "score": 48.9,
-          "rank": 67,
+          "rank": 68,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -3930,25 +3943,6 @@
             "blue"
           ],
           "badge_summary": "FIRE / TOUGH SP + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Freddie Freeman",
-          "team": "LAD",
-          "order": 2,
-          "pitcher": null,
-          "score": 47.6,
-          "rank": 78,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -4226,7 +4220,7 @@
           "order": 4,
           "pitcher": "Mitch Bratt",
           "score": 50.0,
-          "rank": 56,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4360,7 +4354,7 @@
           "order": 1,
           "pitcher": "Shane Drohan",
           "score": 49.8,
-          "rank": 58,
+          "rank": 59,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4379,7 +4373,7 @@
           "order": 1,
           "pitcher": "Tyler Mahle",
           "score": 49.4,
-          "rank": 61,
+          "rank": 62,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
