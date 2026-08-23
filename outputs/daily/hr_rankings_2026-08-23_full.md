@@ -13,15 +13,15 @@
 | 9 | Spencer Jones | NYY | José Soriano | 6 | 62.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 10 | Junior Caminero | TB | Shane Baz | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 11 | Munetaka Murakami | CWS | Nolan McLean | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Luis García Jr. | NYY | José Soriano | 3 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Jonathan Aranda | TB | Shane Baz | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Brandon Marsh | PHI | Kyle Leahy | 5 | 58.3 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 15 | Eduardo Valencia | DET | Daniel Lynch IV | 5 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 16 | Yordan Alvarez | HOU | Brady Basso | 2 | 58.0 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 17 | Samuel Basallo | BAL | Nick Martinez | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Jake Bauers | MIL | Tyler Mahle | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Abimelec Ortiz | WSH | Janson Junk | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Corey Seager | TEX | Yusei Kikuchi | 2 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 12 | Abimelec Ortiz | WSH | Janson Junk | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Eduardo Valencia | DET | Daniel Lynch IV | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Luis García Jr. | NYY | José Soriano | 3 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Jonathan Aranda | TB | Shane Baz | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Brandon Marsh | PHI | Kyle Leahy | 5 | 58.3 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 17 | Yordan Alvarez | HOU | Brady Basso | 2 | 58.0 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 18 | Samuel Basallo | BAL | Nick Martinez | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Bryce Eldridge | SF | Jake Bennett | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Jake Bauers | MIL | Tyler Mahle | 3 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
