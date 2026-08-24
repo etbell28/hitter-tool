@@ -17,7 +17,7 @@
 | 13 | Miguel Vargas | CWS | Kumar Rocker | 3 | 56.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 14 | Elly De La Cruz | CIN | Carson Whisenhunt | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Yandy Díaz | TB | Framber Valdez | 1 | 56.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Corey Seager | TEX | José Urquidy | 2 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Corey Seager | TEX | José Urquidy | 2 | 56.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Ian Happ | CHC | Merrill Kelly | 5 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 18 | Bryce Harper | PHI | Logan Gilbert | 3 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Mickey Moniak | COL | Cade Cavalli | 2 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
