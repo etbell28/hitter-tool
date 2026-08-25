@@ -9,19 +9,19 @@
 | 5 | Jake Bauers | MIL | Zac Thornton | 4 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Matt Olson | ATL | Tyler Glasnow | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Kyle Schwarber | PHI | George Kirby | 1 | 61.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Pete Alonso | BAL |  | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 9 | Jackson Chourio | MIL | Zac Thornton | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ben Rice | NYY | Ethan Pecko | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Oneil Cruz | PIT | Michael King | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 12 | Drake Baldwin | ATL | Tyler Glasnow | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Spencer Jones | NYY | Ethan Pecko | 6 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 14 | Eduardo Valencia | DET | Ian Seymour | 5 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 15 | Jac Caglianone | KC | Max Scherzer | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Rafael Devers | SF | Brady Singer | 2 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Freddie Freeman | LAD | Bryce Elder | 2 | 57.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | William Contreras | MIL | Zac Thornton | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 19 | Bobby Witt | KC | Max Scherzer | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Cal Raleigh | SEA | Aaron Nola | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 8 | Eduardo Valencia | DET | Ian Seymour | 5 | 60.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Pete Alonso | BAL |  | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Jackson Chourio | MIL | Zac Thornton | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ben Rice | NYY | Ethan Pecko | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Oneil Cruz | PIT | Michael King | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 13 | Drake Baldwin | ATL | Tyler Glasnow | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jac Caglianone | KC | Max Scherzer | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Spencer Jones | NYY | Ethan Pecko | 6 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 16 | Junior Caminero | TB | Jackson Jobe | 3 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Bobby Witt | KC | Max Scherzer | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Rafael Devers | SF | Brady Singer | 2 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Freddie Freeman | LAD | Bryce Elder | 2 | 57.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Carter Jensen | KC | Max Scherzer | 1 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Shohei Ohtani + Max Muncy + Munetaka Murakami + Jake Bauers | Avg HR Score: 65.5
 - Max Muncy + Munetaka Murakami + Jake Bauers + Matt Olson | Avg HR Score: 63.1
 - Munetaka Murakami + Jake Bauers + Matt Olson + Kyle Schwarber | Avg HR Score: 62.2
-- Jake Bauers + Matt Olson + Kyle Schwarber + Pete Alonso | Avg HR Score: 61.2
+- Jake Bauers + Matt Olson + Kyle Schwarber + Eduardo Valencia | Avg HR Score: 61.3
