@@ -4,7 +4,7 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Pete Alonso | BAL | Matthew Liberatore | 2 | 69.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Kyle Schwarber | PHI | George Kirby | 1 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 67.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Oneil Cruz | PIT | Michael King | 5 | 65.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 5 | Cal Raleigh | SEA | Aaron Nola | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 6 | Rafael Devers | SF | Brady Singer | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -20,22 +20,22 @@
 | 16 | Christian Encarnacion-Strand | BAL | Matthew Liberatore | 5 | 58.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 17 | Elly De La Cruz | CIN | Adrian Houser | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Pete Crow-Armstrong | CHC | Brandon Pfaadt | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Corey Seager | TEX | Anthony Kay | 2 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Miguel Vargas | CWS | Jacob deGrom | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Corey Seager | TEX | Anthony Kay | 2 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Miguel Vargas | CWS | Jacob deGrom | 3 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
 - Pete Alonso + Kyle Schwarber | Avg HR Score: 68.8
-- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 67.7
-- Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.1
+- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 67.6
+- Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.0
 - Oneil Cruz + Cal Raleigh | Avg HR Score: 64.3
 - Cal Raleigh + Rafael Devers | Avg HR Score: 63.5
 
 ## Best 3-Leg Pairings
 
 - Pete Alonso + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.2
-- Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.8
-- Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 65.3
+- Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.7
+- Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 65.2
 - Oneil Cruz + Cal Raleigh + Rafael Devers | Avg HR Score: 64.0
 - Cal Raleigh + Rafael Devers + Mike Trout | Avg HR Score: 63.4
 
