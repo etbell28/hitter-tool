@@ -13,12 +13,12 @@
 | 9 | Abimelec Ortiz | WSH | Tanner Gordon | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Spencer Jones | NYY | Peter Lambert | 6 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 11 | Max Muncy | LAD | AJ Smith-Shawver | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Jo Adell | CLE | Grayson Rodriguez | 4 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Oneil Cruz | PIT |  | 5 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 14 | Ben Rice | NYY | Peter Lambert | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Ben Rice | NYY | Peter Lambert | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Jo Adell | CLE | Grayson Rodriguez | 4 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Oneil Cruz | PIT |  | 5 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 | 15 | Drake Baldwin | ATL | Roki Sasaki | 1 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Miguel Vargas | CWS | MacKenzie Gore | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Luis Garcia | NYY | Peter Lambert | 3 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Luis Garcia | NYY | Peter Lambert | 3 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | Hunter Goodman | COL |  | 3 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 19 | Ronald Acuna | ATL | Roki Sasaki | 2 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 20 | Bryce Harper | PHI | Bryan Woo | 3 | 54.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
