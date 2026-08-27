@@ -17,11 +17,11 @@
 | 13 | Andrew Vaughn | MIL | Sean Manaea | 4 | 56.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 | 14 | Carter Jensen | KC | Spencer Arrighetti | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Trent Grisham | NYY | Hayden Wesneski | 1 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Gary Sánchez | MIL | Sean Manaea | 5 | 55.1 | Longshot | Watch List | Platoon Edge |
-| 17 | Bobby Witt Jr. | KC | Spencer Arrighetti | 2 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Daulton Varsho | HOU | Gerrit Cole | 5 | 53.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 19 | Luis Lara | MIL | Sean Manaea | 2 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Kazuma Okamoto | TOR | Noah Cameron | 5 | 52.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Corbin Carroll | AZ | Landen Roupp | 2 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Gary Sánchez | MIL | Sean Manaea | 5 | 55.1 | Longshot | Watch List | Platoon Edge |
+| 18 | Bobby Witt Jr. | KC | Spencer Arrighetti | 2 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Daulton Varsho | HOU | Gerrit Cole | 5 | 53.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 20 | Luis Lara | MIL | Sean Manaea | 2 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
