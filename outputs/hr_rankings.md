@@ -9,19 +9,19 @@
 | 5 | Rafael Devers | SF | Jose Cabrera | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Jackson Chourio | MIL | Sean Manaea | 1 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Luis García Jr. | NYY | Hayden Wesneski | 3 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | William Contreras | MIL | Sean Manaea | 3 | 58.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 9 | Matt Olson | ATL | Yoshinobu Yamamoto | 3 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Jonah Cox | SF | Jose Cabrera | 4 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Jac Caglianone | KC | Spencer Arrighetti | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Shohei Ohtani | LAD | Chris Sale | 1 | 56.8 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 13 | Andrew Vaughn | MIL | Sean Manaea | 4 | 56.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 14 | Carter Jensen | KC | Spencer Arrighetti | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Trent Grisham | NYY | Hayden Wesneski | 1 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Corbin Carroll | AZ | Landen Roupp | 2 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Gary Sánchez | MIL | Sean Manaea | 5 | 55.1 | Longshot | Watch List | Platoon Edge |
-| 18 | Bobby Witt Jr. | KC | Spencer Arrighetti | 2 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Daulton Varsho | HOU | Gerrit Cole | 5 | 53.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 20 | Luis Lara | MIL | Sean Manaea | 2 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 8 | Jac Caglianone | KC | Spencer Arrighetti | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Carter Jensen | KC | Spencer Arrighetti | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | William Contreras | MIL | Sean Manaea | 3 | 58.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Bobby Witt Jr. | KC | Spencer Arrighetti | 2 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Matt Olson | ATL | Yoshinobu Yamamoto | 3 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Jonah Cox | SF | Jose Cabrera | 4 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Shohei Ohtani | LAD | Chris Sale | 1 | 56.8 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 15 | Andrew Vaughn | MIL | Sean Manaea | 4 | 56.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 16 | Trent Grisham | NYY | Hayden Wesneski | 1 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Kazuma Okamoto | TOR | Noah Cameron | 5 | 55.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Corbin Carroll | AZ | Landen Roupp | 2 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Gary Sánchez | MIL | Sean Manaea | 5 | 55.1 | Longshot | Watch List | Platoon Edge |
+| 20 | Vinnie Pasquantino | KC | Spencer Arrighetti | 4 | 55.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Ben Rice + Spencer Jones + Bryce Eldridge + Rafael Devers | Avg HR Score: 63.1
 - Spencer Jones + Bryce Eldridge + Rafael Devers + Jackson Chourio | Avg HR Score: 62.3
 - Bryce Eldridge + Rafael Devers + Jackson Chourio + Luis García Jr. | Avg HR Score: 61.5
-- Rafael Devers + Jackson Chourio + Luis García Jr. + William Contreras | Avg HR Score: 60.3
+- Rafael Devers + Jackson Chourio + Luis García Jr. + Jac Caglianone | Avg HR Score: 60.8
