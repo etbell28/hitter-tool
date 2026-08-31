@@ -2,7 +2,7 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Bryce Eldridge | SF | Bryce Elder | 3 | 67.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 1 | Bryce Eldridge | SF | Bryce Elder | 3 | 67.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Matt Olson | ATL | Anthony Molina | 3 | 66.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 3 | Pete Alonso | BAL | Tanner Gordon | 2 | 66.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 4 | Rafael Devers | SF | Bryce Elder | 2 | 66.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -41,7 +41,7 @@
 
 ## Best 4-Leg Pairings
 
-- Bryce Eldridge + Matt Olson + Pete Alonso + Rafael Devers | Avg HR Score: 66.7
+- Bryce Eldridge + Matt Olson + Pete Alonso + Rafael Devers | Avg HR Score: 66.8
 - Matt Olson + Pete Alonso + Rafael Devers + Kyle Schwarber | Avg HR Score: 65.9
 - Pete Alonso + Rafael Devers + Kyle Schwarber + Drake Baldwin | Avg HR Score: 65.3
 - Rafael Devers + Kyle Schwarber + Drake Baldwin + Yordan Alvarez | Avg HR Score: 64.5
