@@ -9,9 +9,9 @@
 | 5 | Drake Baldwin | ATL | Anthony Molina | 1 | 63.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Sal Stewart | CIN | Michael King | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 7 | Kyle Schwarber | PHI | Brandon Pfaadt | 1 | 61.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Ronald Acuña Jr. | ATL | Anthony Molina | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 9 | Fernando Tatis | SD | Brady Singer | 1 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Jackson Merrill | SD | Brady Singer | 5 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 8 | Fernando Tatis Jr. | SD | Brady Singer | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 9 | Jackson Merrill | SD | Brady Singer | 5 | 61.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Ronald Acuña Jr. | ATL | Anthony Molina | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 11 | Elly De La Cruz | CIN | Michael King | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Yordan Alvarez | HOU | Anthony Kay | 2 | 60.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 13 | Junior Caminero | TB | Robert Stock | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -45,4 +45,4 @@
 - Matt Olson + Rafael Devers + Pete Alonso + Drake Baldwin | Avg HR Score: 65.4
 - Rafael Devers + Pete Alonso + Drake Baldwin + Sal Stewart | Avg HR Score: 64.3
 - Pete Alonso + Drake Baldwin + Sal Stewart + Kyle Schwarber | Avg HR Score: 63.2
-- Drake Baldwin + Sal Stewart + Kyle Schwarber + Ronald Acuña Jr. | Avg HR Score: 62.4
+- Drake Baldwin + Sal Stewart + Kyle Schwarber + Fernando Tatis Jr. | Avg HR Score: 62.5
