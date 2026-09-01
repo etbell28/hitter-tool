@@ -16,12 +16,12 @@
 | 12 | Ronald Acuña Jr. | ATL | Jake Irvin | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 13 | Michael Harris II | ATL | Jake Irvin | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 14 | Shohei Ohtani | LAD | Michael McGreevy | 1 | 63.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Munetaka Murakami | CWS | Ronel Blanco | 2 | 62.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Rafael Devers | SF | Paul Skenes | 2 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Carter Jensen | KC | Tyler Phillips | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Julio Rodríguez | SEA | Jedixson Paez | 3 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
-| 19 | Joshua Baez | STL | Eric Lauer | 5 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 20 | Fernando Tatis | SD | Nick Lodolo | 1 | 60.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Jackson Chourio | MIL | Matthew Boyd | 1 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Munetaka Murakami | CWS | Ronel Blanco | 2 | 62.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Rafael Devers | SF | Paul Skenes | 2 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Carter Jensen | KC | Tyler Phillips | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Julio Rodríguez | SEA | Jedixson Paez | 3 | 61.9 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
+| 20 | Jake Bauers | MIL | Matthew Boyd | 4 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
