@@ -12,10 +12,10 @@
 | 8 | Bryce Eldridge | SF | Zac Thornton | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 9 | Alec Burleson | STL | Mason Adams | 3 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Pete Crow-Armstrong | CHC | Ryan Gusto | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Leo Bernal | STL | Mason Adams | 8 | 59.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 12 | Hunter Goodman | COL | Matthew Liberatore | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Kyle Stowers | MIA | Javier Assad | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Kyle Stowers | MIA | Javier Assad | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Leo Bernal | STL | Mason Adams | 8 | 59.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 13 | Hunter Goodman | COL | Matthew Liberatore | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Carter Jensen | KC | Max Scherzer | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 16 | James Wood | WSH | Tyler Glasnow | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Francisco Lindor | NYM | Anthony Molina | 1 | 57.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
