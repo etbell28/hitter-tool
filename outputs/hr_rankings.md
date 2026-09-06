@@ -13,15 +13,15 @@
 | 9 | Roman Anthony | BOS | Kyle Bradish | 1 | 61.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 10 | Elly De La Cruz | CIN | Kyle Harrison | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Matt Olson | ATL | Aaron Nola | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Ronald Acuña Jr. | ATL | Aaron Nola | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Tyler Stephenson | CIN | Kyle Harrison | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | James Wood | WSH | Justin Wrobleski | 1 | 60.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 15 | Yordan Alvarez | HOU | Eduardo Rodriguez | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Spencer Jones | NYY | Michael King | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Jackson Chourio | MIL | Brady Singer | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Junior Caminero | TB | MacKenzie Gore | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Junior Caminero | TB | MacKenzie Gore | 3 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Yordan Alvarez | HOU | Eduardo Rodriguez | 2 | 60.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 14 | Ronald Acuña Jr. | ATL | Aaron Nola | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Tyler Stephenson | CIN | Kyle Harrison | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | James Wood | WSH | Justin Wrobleski | 1 | 60.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Spencer Jones | NYY | Michael King | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Jackson Chourio | MIL | Brady Singer | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Drake Baldwin | ATL | Aaron Nola | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Mark Vientos | NYM | Cesar Perdomo | 5 | 58.2 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 20 | Rafael Devers | SF | Christian Scott | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
