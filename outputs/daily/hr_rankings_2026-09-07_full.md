@@ -9,11 +9,11 @@
 | 5 | Pete Alonso | BAL | Joey Cantillo | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Roman Anthony | BOS | Grayson Rodriguez | 1 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Rafael Devers | SF | Michael McGreevy | 2 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Kyle Stowers | MIA | Jonah Tong | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Wilyer Abreu | BOS | Grayson Rodriguez | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Bryce Eldridge | SF | Michael McGreevy | 3 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Shohei Ohtani | LAD | Chase Burns | 1 | 59.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Bobby Witt Jr. | KC | Derek Law | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Kyle Stowers | MIA | Jonah Tong | 1 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Bryce Eldridge | SF | Michael McGreevy | 3 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Shohei Ohtani | LAD | Chase Burns | 1 | 59.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Bobby Witt Jr. | KC | Derek Law | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Wilyer Abreu | BOS | Grayson Rodriguez | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Bryce Harper | PHI | Grant Holmes | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Ronald Acuña Jr. | ATL | Jesús Luzardo | 1 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 15 | Fernando Tatis | SD | Jake Irvin | 1 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
