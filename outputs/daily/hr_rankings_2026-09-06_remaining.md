@@ -12,8 +12,8 @@
 | 8 | Fernando Tatis | SD | Jake Irvin | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 9 | Bryce Harper | PHI | Grant Holmes | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Elly De La Cruz | CIN |  | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Ronald Acuna | ATL | Jesús Luzardo | 2 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | James Wood | WSH | Nick Pivetta | 1 | 55.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | James Wood | WSH | Nick Pivetta | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Ronald Acuna | ATL | Jesús Luzardo | 2 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 13 | Manny Machado | SD | Jake Irvin | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 14 | Riley Greene | DET |  | 4 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 15 | Griffin Conine | MIA | Jonah Tong | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
