@@ -2,45 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Justin Wrobleski | 1 | 62.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Daylen Lile | WSH | Justin Wrobleski | 4 | 50.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 3 | Dylan Crews | WSH | Justin Wrobleski | 5 | 50.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 4 | Brady House | WSH | Justin Wrobleski | 7 | 49.7 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 5 | Will Smith | LAD | Andrew Alvarez | 3 | 49.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Abimelec Ortiz | WSH | Justin Wrobleski | 2 | 48.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 7 | Teoscar Hernández | LAD | Andrew Alvarez | 5 | 48.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 8 | CJ Abrams | WSH | Justin Wrobleski | 3 | 48.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 9 | Mookie Betts | LAD | Andrew Alvarez | 2 | 46.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Freddie Freeman | LAD | Andrew Alvarez | 4 | 46.0 | Longshot | Watch List | Premium Lineup Spot |
-| 11 | Keibert Ruiz | WSH | Justin Wrobleski | 6 | 42.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 12 | Max Muncy | LAD | Andrew Alvarez | 8 | 42.5 | Longshot | Watch List | Strong Barrel |
-| 13 | Tommy Edman | LAD | Andrew Alvarez | 1 | 41.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 14 | Jacob Young | WSH | Justin Wrobleski | 8 | 39.1 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 15 | Kyle Tucker | LAD | Andrew Alvarez | 6 | 39.1 | Longshot | Watch List | No major boost |
-| 16 | Enrique Hernández | LAD | Andrew Alvarez | 9 | 36.1 | Longshot | Watch List | Platoon Edge |
-| 17 | Miguel Rojas | LAD | Andrew Alvarez | 7 | 34.8 | Longshot | Watch List | Platoon Edge |
-| 18 | Nasim Nunez | WSH | Justin Wrobleski | 9 | 32.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Grant Holmes | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Rafael Devers | SF | Michael McGreevy | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Juan Soto | NYM | Eury Pérez | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Bryce Eldridge | SF | Michael McGreevy | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Pete Alonso | BAL | Joey Cantillo | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Roman Anthony | BOS | Grayson Rodriguez | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Kyle Stowers | MIA | Jonah Tong | 1 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Fernando Tatis | SD | Jake Irvin | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Bryce Harper | PHI | Grant Holmes | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Elly De La Cruz | CIN |  | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Ronald Acuna | ATL | Jesús Luzardo | 2 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | James Wood | WSH | Nick Pivetta | 1 | 55.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Manny Machado | SD | Jake Irvin | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Riley Greene | DET |  | 4 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Griffin Conine | MIA | Jonah Tong | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Sal Stewart | CIN |  | 3 | 54.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Jackson Merrill | SD | Jake Irvin | 5 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 18 | Mike Trout | LAA |  | 2 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Jackson Chourio | MIL | Matthew Boyd | 3 | 53.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Christian Encarnacion-Strand | BAL | Joey Cantillo | 4 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Daylen Lile | Avg HR Score: 56.5
-- Daylen Lile + Dylan Crews | Avg HR Score: 50.3
-- Dylan Crews + Brady House | Avg HR Score: 50.0
-- Brady House + Will Smith | Avg HR Score: 49.5
-- Will Smith + Abimelec Ortiz | Avg HR Score: 49.1
+- Kyle Schwarber + Rafael Devers | Avg HR Score: 62.8
+- Rafael Devers + Juan Soto | Avg HR Score: 61.2
+- Juan Soto + Bryce Eldridge | Avg HR Score: 60.3
+- Bryce Eldridge + Pete Alonso | Avg HR Score: 59.6
+- Pete Alonso + Roman Anthony | Avg HR Score: 59.0
 
 ## Best 3-Leg Pairings
 
-- James Wood + Daylen Lile + Dylan Crews | Avg HR Score: 54.4
-- Daylen Lile + Dylan Crews + Brady House | Avg HR Score: 50.1
-- Dylan Crews + Brady House + Will Smith | Avg HR Score: 49.8
-- Brady House + Will Smith + Abimelec Ortiz | Avg HR Score: 49.3
-- Will Smith + Abimelec Ortiz + Teoscar Hernández | Avg HR Score: 49.0
+- Kyle Schwarber + Rafael Devers + Juan Soto | Avg HR Score: 62.1
+- Rafael Devers + Juan Soto + Bryce Eldridge | Avg HR Score: 60.7
+- Juan Soto + Bryce Eldridge + Pete Alonso | Avg HR Score: 60.0
+- Bryce Eldridge + Pete Alonso + Roman Anthony | Avg HR Score: 59.3
+- Pete Alonso + Roman Anthony + Kyle Stowers | Avg HR Score: 58.6
 
 ## Best 4-Leg Pairings
 
-- James Wood + Daylen Lile + Dylan Crews + Brady House | Avg HR Score: 53.2
-- Daylen Lile + Dylan Crews + Brady House + Will Smith | Avg HR Score: 49.9
-- Dylan Crews + Brady House + Will Smith + Abimelec Ortiz | Avg HR Score: 49.5
-- Brady House + Will Smith + Abimelec Ortiz + Teoscar Hernández | Avg HR Score: 49.1
-- Will Smith + Abimelec Ortiz + Teoscar Hernández + CJ Abrams | Avg HR Score: 48.8
+- Kyle Schwarber + Rafael Devers + Juan Soto + Bryce Eldridge | Avg HR Score: 61.5
+- Rafael Devers + Juan Soto + Bryce Eldridge + Pete Alonso | Avg HR Score: 60.4
+- Juan Soto + Bryce Eldridge + Pete Alonso + Roman Anthony | Avg HR Score: 59.7
+- Bryce Eldridge + Pete Alonso + Roman Anthony + Kyle Stowers | Avg HR Score: 58.9
+- Pete Alonso + Roman Anthony + Kyle Stowers + Fernando Tatis | Avg HR Score: 58.3
