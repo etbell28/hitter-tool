@@ -15,13 +15,13 @@
 | 11 | Elly De La Cruz | CIN | Tarik Skubal | 2 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Teoscar Hernández | LAD | Nick Lodolo | 5 | 60.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 13 | Spencer Jones | NYY | Gabriel Hughes | 5 | 60.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
-| 14 | Ronald Acuña Jr. | ATL | Freddy Peralta | 2 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Cal Raleigh | SEA | Cal Quantrill | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Cal Raleigh | SEA | Cal Quantrill | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 15 | Ronald Acuña Jr. | ATL | Freddy Peralta | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 16 | Will Smith | LAD | Nick Lodolo | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Matt Olson | ATL | Freddy Peralta | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jonathan Aranda | TB | AJ Smith-Shawver | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Bobby Witt Jr. | KC | Corbin Burnes | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 20 | Corey Seager | TEX | Bryce Miller | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Matt Olson | ATL | Freddy Peralta | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Bobby Witt Jr. | KC | Corbin Burnes | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 19 | Corey Seager | TEX | Bryce Miller | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jonathan Aranda | TB | AJ Smith-Shawver | 2 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
