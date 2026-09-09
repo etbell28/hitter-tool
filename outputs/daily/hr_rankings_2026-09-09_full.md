@@ -14,14 +14,14 @@
 | 10 | Munetaka Murakami | CWS | Lake Bachar | 3 | 60.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Juan Soto | NYM | Janson Junk | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Luis Garcia | NYY | Tomoyuki Sugano | 4 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 13 | Kody Clemens | MIN | Keider Montero | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jac Caglianone | KC | Zac Gallen | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Kyle Schwarber | PHI | Hunter Brown | 1 | 58.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Kyle Stowers | MIA | Robert Stock | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Oneil Cruz | PIT | Davis Martin | 5 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 18 | Brett Callahan | DET | Zebby Matthews | 6 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 19 | Yordan Alvarez | HOU | Cristopher Sánchez | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 20 | Ronald Acuna | ATL | Griffin Jax | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Rafael Devers | SF | Andre Pallante | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Bryce Eldridge | SF | Andre Pallante | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Kody Clemens | MIN | Keider Montero | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Jac Caglianone | KC | Zac Gallen | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Kyle Schwarber | PHI | Hunter Brown | 1 | 58.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Joshua Báez | STL | Blade Tidwell | 5 | 58.6 | Longshot | Watch List | Strong Barrel |
+| 19 | Kyle Stowers | MIA | Robert Stock | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Oneil Cruz | PIT | Davis Martin | 5 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
