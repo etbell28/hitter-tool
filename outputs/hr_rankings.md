@@ -6,10 +6,10 @@
 | 2 | Corey Seager | TEX | Logan Gilbert | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 3 | Ben Rice | NYY | Ryan Feltner | 1 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Spencer Jones | NYY | Ryan Feltner | 5 | 61.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 5 | Cal Raleigh | SEA | Jacob deGrom | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Cal Raleigh | SEA | Jacob deGrom | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Luis García Jr. | NYY | Ryan Feltner | 4 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Joc Pederson | TEX | Logan Gilbert | 1 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Dominic Canzone | SEA | Jacob deGrom | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Dominic Canzone | SEA | Jacob deGrom | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Joc Pederson | TEX | Logan Gilbert | 1 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Colson Montgomery | CWS | Jared Jones | 5 | 55.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 10 | Lazaro Montes | SEA | Jacob deGrom | 8 | 55.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 11 | Miguel Vargas | CWS | Jared Jones | 2 | 54.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
@@ -29,20 +29,20 @@
 - Corey Seager + Ben Rice | Avg HR Score: 63.0
 - Ben Rice + Spencer Jones | Avg HR Score: 62.0
 - Spencer Jones + Cal Raleigh | Avg HR Score: 60.8
-- Cal Raleigh + Luis García Jr. | Avg HR Score: 59.0
+- Cal Raleigh + Luis García Jr. | Avg HR Score: 58.9
 
 ## Best 3-Leg Pairings
 
 - Munetaka Murakami + Corey Seager + Ben Rice | Avg HR Score: 63.7
 - Corey Seager + Ben Rice + Spencer Jones | Avg HR Score: 62.6
-- Ben Rice + Spencer Jones + Cal Raleigh | Avg HR Score: 61.3
-- Spencer Jones + Cal Raleigh + Luis García Jr. | Avg HR Score: 60.0
-- Cal Raleigh + Luis García Jr. + Joc Pederson | Avg HR Score: 58.3
+- Ben Rice + Spencer Jones + Cal Raleigh | Avg HR Score: 61.2
+- Spencer Jones + Cal Raleigh + Luis García Jr. | Avg HR Score: 59.9
+- Cal Raleigh + Luis García Jr. + Dominic Canzone | Avg HR Score: 58.2
 
 ## Best 4-Leg Pairings
 
 - Munetaka Murakami + Corey Seager + Ben Rice + Spencer Jones | Avg HR Score: 63.2
 - Corey Seager + Ben Rice + Spencer Jones + Cal Raleigh | Avg HR Score: 61.9
 - Ben Rice + Spencer Jones + Cal Raleigh + Luis García Jr. | Avg HR Score: 60.5
-- Spencer Jones + Cal Raleigh + Luis García Jr. + Joc Pederson | Avg HR Score: 59.2
-- Cal Raleigh + Luis García Jr. + Joc Pederson + Dominic Canzone | Avg HR Score: 58.0
+- Spencer Jones + Cal Raleigh + Luis García Jr. + Dominic Canzone | Avg HR Score: 59.1
+- Cal Raleigh + Luis García Jr. + Dominic Canzone + Joc Pederson | Avg HR Score: 57.9
