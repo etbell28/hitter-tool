@@ -13,13 +13,13 @@
 | 9 | Ben Rice | NYY | Ryan Feltner | 1 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Spencer Jones | NYY | Ryan Feltner | 5 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 11 | Ronald Acuña Jr. | ATL | Nick Martinez | 2 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Drake Baldwin | ATL | Nick Martinez | 1 | 57.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Drake Baldwin | ATL | Nick Martinez | 1 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Cal Raleigh | SEA | Jacob deGrom | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Ryan Vilade | TB | Martín Pérez | 2 | 55.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 15 | Lazaro Montes | SEA | Jacob deGrom | 7 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 14 | Lazaro Montes | SEA | Jacob deGrom | 7 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 15 | Ryan Vilade | TB | Martín Pérez | 2 | 55.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 | 16 | Luis Garcia | NYY | Ryan Feltner | 4 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Dominic Canzone | SEA | Jacob deGrom | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Yandy Díaz | TB | Martín Pérez | 1 | 54.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 18 | Yandy Díaz | TB | Martín Pérez | 1 | 54.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 | 19 | Joc Pederson | TEX | Logan Gilbert | 1 | 53.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Trea Turner | PHI | Cristian Javier | 2 | 52.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
 
