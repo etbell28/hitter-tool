@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Max Muncy | LAD | Rhett Lowder | 4 | 63.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Carter Jensen | KC | Zac Gallen | 1 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Elly De La Cruz | CIN | Yoshinobu Yamamoto | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Will Smith | LAD | Rhett Lowder | 2 | 60.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 5 | Bobby Witt Jr. | KC | Zac Gallen | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 6 | Teoscar Hernández | LAD | Rhett Lowder | 5 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 7 | Salvador Perez | KC | Zac Gallen | 4 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | Sal Stewart | CIN | Yoshinobu Yamamoto | 3 | 56.6 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 9 | Vinnie Pasquantino | KC | Zac Gallen | 3 | 55.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 10 | Mookie Betts | LAD | Rhett Lowder | 3 | 55.5 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
-| 11 | Kyle Tucker | LAD | Rhett Lowder | 6 | 52.9 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 12 | Tommy Edman | LAD | Rhett Lowder | 1 | 52.4 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | JJ Bleday | CIN | Yoshinobu Yamamoto | 4 | 52.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Ketel Marte | AZ | Daniel Lynch IV | 2 | 51.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Hunter Feduccia | LAD | Rhett Lowder | 7 | 49.7 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 16 | John Rave | KC | Zac Gallen | 7 | 49.6 | Longshot | Watch List | Platoon Edge |
-| 17 | Carlos Jorge | CIN | Yoshinobu Yamamoto | 1 | 49.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Michael Massey | KC | Zac Gallen | 5 | 49.4 | Longshot | Watch List | Platoon Edge |
-| 19 | Héctor Rodríguez | CIN | Yoshinobu Yamamoto | 5 | 48.8 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 20 | Tim Tawa | AZ | Daniel Lynch IV | 5 | 47.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Cristian Javier | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Aaron Judge | NYY | Ryan Feltner | 3 | 63.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 3 | Corey Seager | TEX | Logan Gilbert | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Munetaka Murakami | CWS | Jared Jones | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Yordan Alvarez | HOU | Zack Wheeler | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Ben Rice | NYY | Ryan Feltner | 1 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Spencer Jones | NYY | Ryan Feltner | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 8 | Junior Caminero | TB | Martín Pérez | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Cal Raleigh | SEA | Jacob deGrom | 4 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Ronald Acuna | ATL | Nick Martinez | 2 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Matt Olson | ATL | Nick Martinez | 3 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Luis Garcia | NYY | Ryan Feltner | 4 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Dominic Canzone | SEA | Jacob deGrom | 3 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Bryce Harper | PHI | Cristian Javier | 3 | 53.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Drake Baldwin | ATL | Nick Martinez | 1 | 52.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Colson Montgomery | CWS | Jared Jones | 5 | 51.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 17 | Jonathan Aranda | TB | Martín Pérez | 2 | 51.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Brandon Nimmo | TEX | Logan Gilbert | 4 | 51.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 19 | Jake Burger | TEX | Logan Gilbert | 6 | 51.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
+| 20 | Randal Grichuk | CWS | Jared Jones | 4 | 51.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Max Muncy + Carter Jensen | Avg HR Score: 63.8
-- Carter Jensen + Elly De La Cruz | Avg HR Score: 63.2
-- Elly De La Cruz + Will Smith | Avg HR Score: 61.3
-- Will Smith + Bobby Witt Jr. | Avg HR Score: 59.2
-- Bobby Witt Jr. + Teoscar Hernández | Avg HR Score: 58.4
+- Kyle Schwarber + Aaron Judge | Avg HR Score: 64.0
+- Aaron Judge + Corey Seager | Avg HR Score: 62.4
+- Corey Seager + Munetaka Murakami | Avg HR Score: 60.9
+- Munetaka Murakami + Yordan Alvarez | Avg HR Score: 60.4
+- Yordan Alvarez + Ben Rice | Avg HR Score: 59.5
 
 ## Best 3-Leg Pairings
 
-- Max Muncy + Carter Jensen + Elly De La Cruz | Avg HR Score: 63.4
-- Carter Jensen + Elly De La Cruz + Will Smith | Avg HR Score: 62.1
-- Elly De La Cruz + Will Smith + Bobby Witt Jr. | Avg HR Score: 60.3
-- Will Smith + Bobby Witt Jr. + Teoscar Hernández | Avg HR Score: 58.9
-- Bobby Witt Jr. + Teoscar Hernández + Salvador Perez | Avg HR Score: 57.9
+- Kyle Schwarber + Aaron Judge + Corey Seager | Avg HR Score: 62.9
+- Aaron Judge + Corey Seager + Munetaka Murakami | Avg HR Score: 61.9
+- Corey Seager + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 60.6
+- Munetaka Murakami + Yordan Alvarez + Ben Rice | Avg HR Score: 60.0
+- Yordan Alvarez + Ben Rice + Spencer Jones | Avg HR Score: 59.3
 
 ## Best 4-Leg Pairings
 
-- Max Muncy + Carter Jensen + Elly De La Cruz + Will Smith | Avg HR Score: 62.5
-- Carter Jensen + Elly De La Cruz + Will Smith + Bobby Witt Jr. | Avg HR Score: 61.2
-- Elly De La Cruz + Will Smith + Bobby Witt Jr. + Teoscar Hernández | Avg HR Score: 59.9
-- Will Smith + Bobby Witt Jr. + Teoscar Hernández + Salvador Perez | Avg HR Score: 58.4
-- Bobby Witt Jr. + Teoscar Hernández + Salvador Perez + Sal Stewart | Avg HR Score: 57.5
+- Kyle Schwarber + Aaron Judge + Corey Seager + Munetaka Murakami | Avg HR Score: 62.4
+- Aaron Judge + Corey Seager + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 61.4
+- Corey Seager + Munetaka Murakami + Yordan Alvarez + Ben Rice | Avg HR Score: 60.2
+- Munetaka Murakami + Yordan Alvarez + Ben Rice + Spencer Jones | Avg HR Score: 59.7
+- Yordan Alvarez + Ben Rice + Spencer Jones + Junior Caminero | Avg HR Score: 58.9
