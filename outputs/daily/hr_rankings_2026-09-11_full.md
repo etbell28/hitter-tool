@@ -5,8 +5,8 @@
 | 1 | Riley Greene | DET | Mason Adams | 4 | 71.4 | Tier 2 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Yohandy Morales | WSH | Yusei Kikuchi | 6 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 3 | Aaron Judge | NYY | Nolan McLean | 3 | 66.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 4 | Corey Seager | TEX | Merrill Kelly | 2 | 66.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Pete Alonso | BAL | Max Scherzer | 2 | 65.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Pete Alonso | BAL | Max Scherzer | 2 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Corey Seager | TEX | Merrill Kelly | 2 | 66.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | James Wood | WSH | Yusei Kikuchi | 1 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 7 | Juan Soto | NYM | Carlos Rodón | 2 | 63.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 8 | Junior Caminero | TB | Miguel Ullola | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
@@ -20,29 +20,29 @@
 | 16 | Colt Keith | DET | Mason Adams | 3 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 17 | Carter Jensen | KC | Sonny Gray | 1 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 18 | Kevin McGonigle | DET | Mason Adams | 1 | 59.8 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 19 | Wilyer Abreu | BOS | Seth Lugo | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Joc Pederson | TEX | Merrill Kelly | 1 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Coby Mayo | BAL | Max Scherzer | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Wilyer Abreu | BOS | Seth Lugo | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
 - Riley Greene + Yohandy Morales | Avg HR Score: 70.0
 - Yohandy Morales + Aaron Judge | Avg HR Score: 67.5
-- Aaron Judge + Corey Seager | Avg HR Score: 66.3
-- Corey Seager + Pete Alonso | Avg HR Score: 66.1
-- Pete Alonso + James Wood | Avg HR Score: 65.0
+- Aaron Judge + Pete Alonso | Avg HR Score: 66.5
+- Pete Alonso + Corey Seager | Avg HR Score: 66.3
+- Corey Seager + James Wood | Avg HR Score: 65.1
 
 ## Best 3-Leg Pairings
 
 - Riley Greene + Yohandy Morales + Aaron Judge | Avg HR Score: 68.8
-- Yohandy Morales + Aaron Judge + Corey Seager | Avg HR Score: 67.1
-- Aaron Judge + Corey Seager + Pete Alonso | Avg HR Score: 66.2
-- Corey Seager + Pete Alonso + James Wood | Avg HR Score: 65.4
-- Pete Alonso + James Wood + Juan Soto | Avg HR Score: 64.6
+- Yohandy Morales + Aaron Judge + Pete Alonso | Avg HR Score: 67.2
+- Aaron Judge + Pete Alonso + Corey Seager | Avg HR Score: 66.4
+- Pete Alonso + Corey Seager + James Wood | Avg HR Score: 65.5
+- Corey Seager + James Wood + Juan Soto | Avg HR Score: 64.7
 
 ## Best 4-Leg Pairings
 
-- Riley Greene + Yohandy Morales + Aaron Judge + Corey Seager | Avg HR Score: 68.2
-- Yohandy Morales + Aaron Judge + Corey Seager + Pete Alonso | Avg HR Score: 66.8
-- Aaron Judge + Corey Seager + Pete Alonso + James Wood | Avg HR Score: 65.7
-- Corey Seager + Pete Alonso + James Wood + Juan Soto | Avg HR Score: 65.0
-- Pete Alonso + James Wood + Juan Soto + Junior Caminero | Avg HR Score: 64.2
+- Riley Greene + Yohandy Morales + Aaron Judge + Pete Alonso | Avg HR Score: 68.2
+- Yohandy Morales + Aaron Judge + Pete Alonso + Corey Seager | Avg HR Score: 66.9
+- Aaron Judge + Pete Alonso + Corey Seager + James Wood | Avg HR Score: 65.8
+- Pete Alonso + Corey Seager + James Wood + Juan Soto | Avg HR Score: 65.1
+- Corey Seager + James Wood + Juan Soto + Junior Caminero | Avg HR Score: 64.2
