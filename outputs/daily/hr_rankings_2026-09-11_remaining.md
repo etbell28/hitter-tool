@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Riley Greene | DET | Mason Adams | 4 | 71.4 | Tier 2 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Yohandy Morales | WSH | Yusei Kikuchi | 6 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 3 | Aaron Judge | NYY | Nolan McLean | 3 | 66.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 4 | Pete Alonso | BAL | Max Scherzer | 2 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 5 | Corey Seager | TEX | Merrill Kelly | 2 | 66.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 7 | Rafael Devers | SF | Robbie Ray | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 8 | James Wood | WSH | Yusei Kikuchi | 1 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 9 | Bryce Eldridge | SF | Robbie Ray | 3 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Juan Soto | NYM | Carlos Rodón | 2 | 63.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 11 | Junior Caminero | TB | Miguel Ullola | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Jonathan Aranda | TB | Miguel Ullola | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Ben Rice | NYY | Nolan McLean | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Elly De La Cruz | CIN | Dustin May | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Spencer Jones | NYY | Nolan McLean | 5 | 61.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 16 | Randal Grichuk | CWS | Matthew Liberatore | 2 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Roman Anthony | BOS | Seth Lugo | 1 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Colt Keith | DET | Mason Adams | 3 | 60.5 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 19 | Matt Olson | ATL | Aaron Nola | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Carter Jensen | KC | Sonny Gray | 1 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Aaron Judge | NYY | Zac Thornton | 3 | 66.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Riley Greene | DET | Tanner Gordon | 4 | 63.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Juan Soto | NYM | Gerrit Cole | 2 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Kyle Schwarber | PHI | Tyler Mahle | 1 | 62.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Corey Seager | TEX | Brandon Pfaadt | 2 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Pete Alonso | BAL |  | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 7 | Elly De La Cruz | CIN |  | 2 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Rafael Devers | SF | Michael King | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Oneil Cruz | PIT | Clay Holmes | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Bryce Eldridge | SF | Michael King | 3 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ben Rice | NYY | Zac Thornton | 1 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 12 | Spencer Jones | NYY | Zac Thornton | 5 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 13 | Jake Bauers | MIL | Brady Singer | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 14 | James Wood | WSH | Walbert Ureña | 1 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Alec Burleson | STL | Luis Castillo | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Joshua Baez | STL | Luis Castillo | 5 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 17 | Max Muncy | ATH | Bryan Woo | 5 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 18 | Colson Montgomery | CWS | Kyle Leahy | 4 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Max Muncy | LAD | Tyler Phillips | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Cal Raleigh | SEA | Gage Jump | 4 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Riley Greene + Yohandy Morales | Avg HR Score: 70.0
-- Yohandy Morales + Aaron Judge | Avg HR Score: 67.5
-- Aaron Judge + Pete Alonso | Avg HR Score: 66.4
-- Pete Alonso + Corey Seager | Avg HR Score: 66.3
-- Corey Seager + Cal Raleigh | Avg HR Score: 65.3
+- Aaron Judge + Riley Greene | Avg HR Score: 65.3
+- Riley Greene + Juan Soto | Avg HR Score: 63.1
+- Juan Soto + Kyle Schwarber | Avg HR Score: 62.5
+- Kyle Schwarber + Corey Seager | Avg HR Score: 61.0
+- Corey Seager + Pete Alonso | Avg HR Score: 59.1
 
 ## Best 3-Leg Pairings
 
-- Riley Greene + Yohandy Morales + Aaron Judge | Avg HR Score: 68.8
-- Yohandy Morales + Aaron Judge + Pete Alonso | Avg HR Score: 67.1
-- Aaron Judge + Pete Alonso + Corey Seager | Avg HR Score: 66.3
-- Pete Alonso + Corey Seager + Cal Raleigh | Avg HR Score: 65.7
-- Corey Seager + Cal Raleigh + Rafael Devers | Avg HR Score: 65.0
+- Aaron Judge + Riley Greene + Juan Soto | Avg HR Score: 64.4
+- Riley Greene + Juan Soto + Kyle Schwarber | Avg HR Score: 62.9
+- Juan Soto + Kyle Schwarber + Corey Seager | Avg HR Score: 61.5
+- Kyle Schwarber + Corey Seager + Pete Alonso | Avg HR Score: 60.2
+- Corey Seager + Pete Alonso + Elly De La Cruz | Avg HR Score: 59.0
 
 ## Best 4-Leg Pairings
 
-- Riley Greene + Yohandy Morales + Aaron Judge + Pete Alonso | Avg HR Score: 68.2
-- Yohandy Morales + Aaron Judge + Pete Alonso + Corey Seager | Avg HR Score: 66.9
-- Aaron Judge + Pete Alonso + Corey Seager + Cal Raleigh | Avg HR Score: 65.9
-- Pete Alonso + Corey Seager + Cal Raleigh + Rafael Devers | Avg HR Score: 65.3
-- Corey Seager + Cal Raleigh + Rafael Devers + James Wood | Avg HR Score: 64.8
+- Aaron Judge + Riley Greene + Juan Soto + Kyle Schwarber | Avg HR Score: 63.9
+- Riley Greene + Juan Soto + Kyle Schwarber + Corey Seager | Avg HR Score: 62.0
+- Juan Soto + Kyle Schwarber + Corey Seager + Pete Alonso | Avg HR Score: 60.8
+- Kyle Schwarber + Corey Seager + Pete Alonso + Elly De La Cruz | Avg HR Score: 59.9
+- Corey Seager + Pete Alonso + Elly De La Cruz + Rafael Devers | Avg HR Score: 58.9
