@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Aaron Judge | NYY | Zac Thornton | 2 | 74.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Juan Soto | NYM | Gerrit Cole | 2 | 70.1 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Munetaka Murakami | CWS | Kyle Leahy | 4 | 69.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Jake Bauers | MIL | Brady Singer | 2 | 66.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Riley Greene | DET | Tanner Gordon | 5 | 65.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 6 | Kyle Schwarber | PHI | Tyler Mahle | 1 | 64.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Elly De La Cruz | CIN | Shane Drohan | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Oneil Cruz | PIT | Clay Holmes | 1 | 63.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 9 | Heliot Ramos | NYY | Zac Thornton | 4 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Rafael Devers | SF | Michael King | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Bryce Eldridge | SF | Michael King | 3 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Spencer Jones | NYY | Zac Thornton | 6 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 13 | Jackson Chourio | MIL | Brady Singer | 3 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Francisco Lindor | NYM | Gerrit Cole | 1 | 61.0 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Sal Stewart | CIN | Shane Drohan | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | James Wood | WSH | Walbert Ureña | 1 | 60.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Joshua Báez | STL | Sean Newcomb | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Pete Crow-Armstrong | CHC | Paul Skenes | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Kyle Teel | CWS | Kyle Leahy | 2 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Corey Seager | TEX | Brandon Pfaadt | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Munetaka Murakami | CWS | Kyle Leahy | 4 | 69.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Jake Bauers | MIL | Brady Singer | 3 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Kyle Schwarber | PHI | Tyler Mahle | 1 | 64.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Elly De La Cruz | CIN | Shane Drohan | 2 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Rafael Devers | SF | Michael King | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Bryce Eldridge | SF | Michael King | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Jackson Chourio | MIL | Brady Singer | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 8 | Sal Stewart | CIN | Shane Drohan | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | James Wood | WSH | Walbert Ureña | 1 | 60.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Joshua Báez | STL | Sean Newcomb | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Kyle Teel | CWS | Kyle Leahy | 2 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Brice Turang | MIL | Brady Singer | 2 | 59.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Corey Seager | TEX | Brandon Pfaadt | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Garrett Mitchell | MIL | Brady Singer | 6 | 58.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Miguel Vargas | CWS | Kyle Leahy | 3 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Jo Adell | CLE | Connor Prielipp | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Max Muncy | LAD | Tyler Phillips | 4 | 57.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Tyler Stephenson | CIN | Shane Drohan | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Christian Yelich | MIL | Brady Singer | 4 | 57.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Ronald Acuña Jr. | ATL | Tim Mayza | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Aaron Judge + Juan Soto | Avg HR Score: 72.1
-- Juan Soto + Munetaka Murakami | Avg HR Score: 69.7
 - Munetaka Murakami + Jake Bauers | Avg HR Score: 67.8
-- Jake Bauers + Riley Greene | Avg HR Score: 65.8
-- Riley Greene + Kyle Schwarber | Avg HR Score: 64.9
+- Jake Bauers + Kyle Schwarber | Avg HR Score: 65.5
+- Kyle Schwarber + Elly De La Cruz | Avg HR Score: 64.4
+- Elly De La Cruz + Rafael Devers | Avg HR Score: 63.6
+- Rafael Devers + Bryce Eldridge | Avg HR Score: 62.9
 
 ## Best 3-Leg Pairings
 
-- Aaron Judge + Juan Soto + Munetaka Murakami | Avg HR Score: 71.1
-- Juan Soto + Munetaka Murakami + Jake Bauers | Avg HR Score: 68.5
-- Munetaka Murakami + Jake Bauers + Riley Greene | Avg HR Score: 66.9
-- Jake Bauers + Riley Greene + Kyle Schwarber | Avg HR Score: 65.4
-- Riley Greene + Kyle Schwarber + Elly De La Cruz | Avg HR Score: 64.7
+- Munetaka Murakami + Jake Bauers + Kyle Schwarber | Avg HR Score: 66.7
+- Jake Bauers + Kyle Schwarber + Elly De La Cruz | Avg HR Score: 65.1
+- Kyle Schwarber + Elly De La Cruz + Rafael Devers | Avg HR Score: 63.9
+- Elly De La Cruz + Rafael Devers + Bryce Eldridge | Avg HR Score: 63.3
+- Rafael Devers + Bryce Eldridge + Jackson Chourio | Avg HR Score: 62.3
 
 ## Best 4-Leg Pairings
 
-- Aaron Judge + Juan Soto + Munetaka Murakami + Jake Bauers | Avg HR Score: 69.9
-- Juan Soto + Munetaka Murakami + Jake Bauers + Riley Greene | Avg HR Score: 67.7
-- Munetaka Murakami + Jake Bauers + Riley Greene + Kyle Schwarber | Avg HR Score: 66.3
-- Jake Bauers + Riley Greene + Kyle Schwarber + Elly De La Cruz | Avg HR Score: 65.1
-- Riley Greene + Kyle Schwarber + Elly De La Cruz + Oneil Cruz | Avg HR Score: 64.5
+- Munetaka Murakami + Jake Bauers + Kyle Schwarber + Elly De La Cruz | Avg HR Score: 66.1
+- Jake Bauers + Kyle Schwarber + Elly De La Cruz + Rafael Devers | Avg HR Score: 64.5
+- Kyle Schwarber + Elly De La Cruz + Rafael Devers + Bryce Eldridge | Avg HR Score: 63.6
+- Elly De La Cruz + Rafael Devers + Bryce Eldridge + Jackson Chourio | Avg HR Score: 62.8
+- Rafael Devers + Bryce Eldridge + Jackson Chourio + Sal Stewart | Avg HR Score: 62.0
