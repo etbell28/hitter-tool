@@ -1,7 +1,7 @@
 {
   "date": "Sunday, September 13, 2026",
-  "generated_at": "03:25 AM ",
-  "generated_iso": "2026-09-13T03:25:15",
+  "generated_at": "03:55 AM ",
+  "generated_iso": "2026-09-13T03:55:20",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -3553,7 +3553,7 @@
           "order": 3,
           "pitcher": null,
           "score": 46.3,
-          "rank": 92,
+          "rank": 93,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4339,7 +4339,7 @@
           "order": 3,
           "pitcher": "Logan Webb",
           "score": 46.5,
-          "rank": 90,
+          "rank": 91,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
