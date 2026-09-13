@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Grayson Rodriguez | 1 | 64.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Grant Holmes | 1 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Munetaka Murakami | CWS | Michael McGreevy | 4 | 62.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Juan Soto | NYM | Cam Schlittler | 2 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Yordan Alvarez | HOU | Freddy Peralta | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Aaron Judge | NYY | Christian Scott | 3 | 59.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 7 | Mike Trout | LAA | Jake Irvin | 2 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 8 | Oneil Cruz | PIT | Matthew Boyd | 2 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Matt Olson | ATL | Andrew Painter | 3 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Elly De La Cruz | CIN | Robert Gasser | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Rafael Devers | SF | Nick Pivetta | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Jake Bauers | MIL | Chase Burns | 3 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Griffin Conine | MIA | Emmet Sheehan | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Kyle Stowers | MIA | Emmet Sheehan | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Bryce Eldridge | SF | Nick Pivetta | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Ben Rice | NYY | Christian Scott | 1 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Bryce Harper | PHI | Grant Holmes | 3 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Rafael Flores | PIT | Matthew Boyd | 6 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 19 | Zach Neto | LAA | Jake Irvin | 1 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Leo Bernal | STL |  | 5 | 54.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 1 | Bryce Eldridge | SF | Nick Pivetta | 3 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Jackson Merrill | SD | Logan Webb | 5 | 58.9 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 3 | Fernando Tatis Jr. | SD | Logan Webb | 1 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Manny Machado | SD | Logan Webb | 3 | 53.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Drew Gilbert | SF | Nick Pivetta | 1 | 46.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 6 | Jonah Cox | SF | Nick Pivetta | 4 | 45.9 | Longshot | Watch List | Premium Lineup Spot |
+| 7 | Shay Whitcomb | SF | Nick Pivetta | 6 | 44.8 | Longshot | Watch List | Strong Barrel |
+| 8 | Luis Campusano | SD | Logan Webb | 4 | 43.9 | Longshot | Watch List | Premium Lineup Spot |
+| 9 | Jung Hoo Lee | SF | Nick Pivetta | 2 | 43.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Xander Bogaerts | SD | Logan Webb | 6 | 42.6 | Longshot | Watch List | No major boost |
+| 11 | Scott Bandura | SF | Nick Pivetta | 5 | 41.8 | Longshot | Watch List | Platoon Edge |
+| 12 | Dustin Harris | SD | Logan Webb | 2 | 40.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Jake Cronenworth | SD | Logan Webb | 7 | 38.3 | Longshot | Watch List | Platoon Edge |
+| 14 | Christian Koss | SF | Nick Pivetta | 9 | 37.2 | Longshot | Watch List | Hot Hitter/Streak |
+| 15 | Ethan Salas | SD | Logan Webb | 9 | 35.3 | Longshot | Watch List | Platoon Edge |
+| 16 | Andrew Knizner | SF | Nick Pivetta | 7 | 35.0 | Longshot | Watch List | No major boost |
+| 17 | Brett Harris | SF | Nick Pivetta | 8 | 31.1 | Longshot | Watch List | No major boost |
+| 18 | Samad Taylor | SD | Logan Webb | 8 | 29.5 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Kyle Schwarber | Avg HR Score: 64.8
-- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 63.8
-- Munetaka Murakami + Juan Soto | Avg HR Score: 62.0
-- Juan Soto + Yordan Alvarez | Avg HR Score: 60.8
-- Yordan Alvarez + Aaron Judge | Avg HR Score: 59.8
+- Bryce Eldridge + Jackson Merrill | Avg HR Score: 61.2
+- Jackson Merrill + Fernando Tatis Jr. | Avg HR Score: 57.9
+- Fernando Tatis Jr. + Manny Machado | Avg HR Score: 55.3
+- Manny Machado + Drew Gilbert | Avg HR Score: 50.2
+- Drew Gilbert + Jonah Cox | Avg HR Score: 46.2
 
 ## Best 3-Leg Pairings
 
-- James Wood + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 64.1
-- Kyle Schwarber + Munetaka Murakami + Juan Soto | Avg HR Score: 62.9
-- Munetaka Murakami + Juan Soto + Yordan Alvarez | Avg HR Score: 61.5
-- Juan Soto + Yordan Alvarez + Aaron Judge | Avg HR Score: 60.3
-- Yordan Alvarez + Aaron Judge + Mike Trout | Avg HR Score: 59.5
+- Bryce Eldridge + Jackson Merrill + Fernando Tatis Jr. | Avg HR Score: 59.8
+- Jackson Merrill + Fernando Tatis Jr. + Manny Machado | Avg HR Score: 56.5
+- Fernando Tatis Jr. + Manny Machado + Drew Gilbert | Avg HR Score: 52.4
+- Manny Machado + Drew Gilbert + Jonah Cox | Avg HR Score: 48.7
+- Drew Gilbert + Jonah Cox + Shay Whitcomb | Avg HR Score: 45.8
 
 ## Best 4-Leg Pairings
 
-- James Wood + Kyle Schwarber + Munetaka Murakami + Juan Soto | Avg HR Score: 63.4
-- Kyle Schwarber + Munetaka Murakami + Juan Soto + Yordan Alvarez | Avg HR Score: 62.3
-- Munetaka Murakami + Juan Soto + Yordan Alvarez + Aaron Judge | Avg HR Score: 61.0
-- Juan Soto + Yordan Alvarez + Aaron Judge + Mike Trout | Avg HR Score: 59.9
-- Yordan Alvarez + Aaron Judge + Mike Trout + Oneil Cruz | Avg HR Score: 59.2
+- Bryce Eldridge + Jackson Merrill + Fernando Tatis Jr. + Manny Machado | Avg HR Score: 58.3
+- Jackson Merrill + Fernando Tatis Jr. + Manny Machado + Drew Gilbert | Avg HR Score: 54.0
+- Fernando Tatis Jr. + Manny Machado + Drew Gilbert + Jonah Cox | Avg HR Score: 50.8
+- Manny Machado + Drew Gilbert + Jonah Cox + Shay Whitcomb | Avg HR Score: 47.8
+- Drew Gilbert + Jonah Cox + Shay Whitcomb + Luis Campusano | Avg HR Score: 45.3
