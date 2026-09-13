@@ -21,7 +21,7 @@
 | 17 | Bobby Witt Jr. | KC | Payton Tolle | 2 | 53.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Michael Busch | CHC | Bubba Chandler | 3 | 52.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Dominic Canzone | SEA | Jacob Lopez | 3 | 52.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Lawrence Butler | ATH | Bryce Miller | 4 | 52.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Willson Contreras | BOS | Noah Cameron | 4 | 52.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
