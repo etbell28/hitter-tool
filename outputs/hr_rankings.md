@@ -21,7 +21,7 @@
 | 17 | Kody Clemens | MIN | Tanner Bibee | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Max Muncy | LAD | Eury Pérez | 3 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 19 | Elly De La Cruz | CIN | Robert Gasser | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Riley Greene | DET | Gabriel Hughes | 4 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Kazuma Okamoto | TOR | Trevor Rogers | 4 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
