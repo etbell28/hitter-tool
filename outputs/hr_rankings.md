@@ -16,12 +16,12 @@
 | 12 | Kody Clemens | MIN | Will Warren | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Ty France | SD | Tomoyuki Sugano | 4 | 61.4 | Tier 3 | Watch List | Premium Lineup Spot |
 | 14 | Pete Alonso | BAL | Jonah Tong | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Pete Crow-Armstrong | CHC | Reynaldo López | 1 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Luis García Jr. | NYY | Dean Kremer | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Matt Olson | ATL | David Peterson | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Will Smith | LAD | Nick Lodolo | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Elly De La Cruz | CIN | Tarik Skubal | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Hunter Goodman | COL | Casey Mize | 3 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Mike Trout | LAA | Kade Anderson | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Pete Crow-Armstrong | CHC | Reynaldo López | 1 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Luis García Jr. | NYY | Dean Kremer | 4 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Matt Olson | ATL | David Peterson | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Will Smith | LAD | Nick Lodolo | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Elly De La Cruz | CIN | Tarik Skubal | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
