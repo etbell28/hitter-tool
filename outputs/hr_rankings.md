@@ -4,14 +4,14 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Yordan Alvarez | HOU | Seth Lugo | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 2 | Juan Soto | NYM | Aaron Nola | 2 | 66.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Kyle Schwarber | PHI | Nolan McLean | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Carter Jensen | KC | Miguel Ullola | 1 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Carter Jensen | KC | Miguel Ullola | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Kyle Schwarber | PHI | Nolan McLean | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Riley Greene | DET | Erick Fedde | 4 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Fernando Tatis Jr. | SD | Tanner Gordon | 1 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 7 | Jackson Merrill | SD | Tanner Gordon | 5 | 62.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 8 | Junior Caminero | TB | Jeffrey Springs | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Jac Caglianone | KC | Miguel Ullola | 3 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Bobby Witt | KC | Miguel Ullola | 2 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Jac Caglianone | KC | Miguel Ullola | 3 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Bobby Witt Jr. | KC | Miguel Ullola | 2 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 11 | Francisco Lindor | NYM | Aaron Nola | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 12 | Manny Machado | SD | Tanner Gordon | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 13 | Corey Seager | TEX | Sonny Gray | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -26,23 +26,23 @@
 ## Best 2-Leg Pairings
 
 - Yordan Alvarez + Juan Soto | Avg HR Score: 67.3
-- Juan Soto + Kyle Schwarber | Avg HR Score: 65.2
-- Kyle Schwarber + Carter Jensen | Avg HR Score: 63.7
-- Carter Jensen + Riley Greene | Avg HR Score: 62.8
+- Juan Soto + Carter Jensen | Avg HR Score: 65.2
+- Carter Jensen + Kyle Schwarber | Avg HR Score: 64.0
+- Kyle Schwarber + Riley Greene | Avg HR Score: 63.1
 - Riley Greene + Fernando Tatis Jr. | Avg HR Score: 62.2
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Juan Soto + Kyle Schwarber | Avg HR Score: 66.2
-- Juan Soto + Kyle Schwarber + Carter Jensen | Avg HR Score: 64.6
-- Kyle Schwarber + Carter Jensen + Riley Greene | Avg HR Score: 63.2
-- Carter Jensen + Riley Greene + Fernando Tatis Jr. | Avg HR Score: 62.6
+- Yordan Alvarez + Juan Soto + Carter Jensen | Avg HR Score: 66.2
+- Juan Soto + Carter Jensen + Kyle Schwarber | Avg HR Score: 64.8
+- Carter Jensen + Kyle Schwarber + Riley Greene | Avg HR Score: 63.4
+- Kyle Schwarber + Riley Greene + Fernando Tatis Jr. | Avg HR Score: 62.8
 - Riley Greene + Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 62.2
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Juan Soto + Kyle Schwarber + Carter Jensen | Avg HR Score: 65.5
-- Juan Soto + Kyle Schwarber + Carter Jensen + Riley Greene | Avg HR Score: 64.0
-- Kyle Schwarber + Carter Jensen + Riley Greene + Fernando Tatis Jr. | Avg HR Score: 63.0
-- Carter Jensen + Riley Greene + Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 62.5
+- Yordan Alvarez + Juan Soto + Carter Jensen + Kyle Schwarber | Avg HR Score: 65.7
+- Juan Soto + Carter Jensen + Kyle Schwarber + Riley Greene | Avg HR Score: 64.2
+- Carter Jensen + Kyle Schwarber + Riley Greene + Fernando Tatis Jr. | Avg HR Score: 63.1
+- Kyle Schwarber + Riley Greene + Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 62.6
 - Riley Greene + Fernando Tatis Jr. + Jackson Merrill + Junior Caminero | Avg HR Score: 61.9
