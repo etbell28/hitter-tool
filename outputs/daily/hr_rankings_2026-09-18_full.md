@@ -9,9 +9,9 @@
 | 5 | Pete Alonso | BAL | Dustin May | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Bryce Eldridge | SF | Tyler Glasnow | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Pete Crow-Armstrong | CHC | Chase Burns | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Juan Soto | NYM | Andrew Painter | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Oneil Cruz | PIT | Randy Dobnak | 4 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Kyle Schwarber | PHI | Zac Thornton | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Oneil Cruz | PIT | Randy Dobnak | 4 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Kyle Schwarber | PHI | Zac Thornton | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Juan Soto | NYM |  | 2 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 11 | Matt Olson | ATL | Peter Lambert | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Cal Raleigh | SEA |  | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Elly De La Cruz | CIN | Clay Holmes | 2 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -45,4 +45,4 @@
 - Emmanuel Rodriguez + Yordan Alvarez + James Wood + Pete Alonso | Avg HR Score: 62.1
 - Yordan Alvarez + James Wood + Pete Alonso + Bryce Eldridge | Avg HR Score: 61.0
 - James Wood + Pete Alonso + Bryce Eldridge + Pete Crow-Armstrong | Avg HR Score: 60.2
-- Pete Alonso + Bryce Eldridge + Pete Crow-Armstrong + Juan Soto | Avg HR Score: 59.2
+- Pete Alonso + Bryce Eldridge + Pete Crow-Armstrong + Oneil Cruz | Avg HR Score: 59.1
