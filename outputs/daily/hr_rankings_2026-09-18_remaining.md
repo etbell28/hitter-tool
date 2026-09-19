@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Emmanuel Rodriguez | MIN | Grayson Rodriguez | 6 | 72.8 | Tier 2 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 2 | Bryce Eldridge | SF | Tyler Glasnow | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Kody Clemens | MIN | Grayson Rodriguez | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Mike Trout | LAA | Connor Prielipp | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Will Smith | LAD | Cesar Perdomo | 2 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Josh Bell | MIN | Grayson Rodriguez | 5 | 58.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Teoscar Hernández | LAD | Cesar Perdomo | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Griffin Conine | MIA | Nick Pivetta | 4 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Kyle Stowers | MIA | Nick Pivetta | 1 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Ben Rice | NYY | Eduardo Rodriguez | 4 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Zach Neto | LAA | Connor Prielipp | 1 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Jose Siri | LAA | Connor Prielipp | 3 | 56.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Lars Nootbaar | AZ | Gerrit Cole | 1 | 56.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Fernando Tatis Jr. | SD | Tyler Phillips | 1 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Corbin Carroll | AZ | Gerrit Cole | 7 | 55.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Jackson Merrill | SD | Tyler Phillips | 5 | 55.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Ketel Marte | AZ | Gerrit Cole | 2 | 55.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Spencer Jones | NYY | Eduardo Rodriguez | 6 | 54.9 | Longshot | Watch List | Strong Barrel |
-| 19 | Heliot Ramos | NYY | Eduardo Rodriguez | 3 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Ryan Jeffers | MIN | Grayson Rodriguez | 4 | 53.7 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Grant Holmes | 2 | 66.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | James Wood | WSH | Michael McGreevy | 1 | 62.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Pete Alonso | BAL | Robert Gasser | 2 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Ben Rice | NYY | Brandon Pfaadt | 4 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Emmanuel Rodriguez | MIN | Reid Detmers | 6 | 60.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 6 | Elly De La Cruz | CIN | Matthew Boyd | 2 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Juan Soto | NYM | Andrew Painter | 2 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Munetaka Murakami | CWS | Jackson Jobe | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Riley Greene | DET | Sean Burke | 4 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Matt Olson | ATL | Hayden Wesneski | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Pete Crow-Armstrong | CHC | Nick Lodolo | 1 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Sal Stewart | CIN | Matthew Boyd | 3 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Cal Raleigh | SEA |  | 4 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Corey Seager | TEX | José Soriano | 2 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Spencer Jones | NYY | Brandon Pfaadt | 6 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 16 | Junior Caminero | TB |  | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Kyle Schwarber | PHI | Christian Scott | 1 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Seiya Suzuki | CHC | Nick Lodolo | 2 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Fernando Tatis | SD | Eury Pérez | 1 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Oneil Cruz | PIT | Noah Cameron | 4 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Emmanuel Rodriguez + Bryce Eldridge | Avg HR Score: 68.8
-- Bryce Eldridge + Kody Clemens | Avg HR Score: 63.2
-- Kody Clemens + Mike Trout | Avg HR Score: 61.5
-- Mike Trout + Will Smith | Avg HR Score: 60.0
-- Will Smith + Josh Bell | Avg HR Score: 58.6
+- Yordan Alvarez + James Wood | Avg HR Score: 64.7
+- James Wood + Pete Alonso | Avg HR Score: 62.2
+- Pete Alonso + Ben Rice | Avg HR Score: 61.0
+- Ben Rice + Emmanuel Rodriguez | Avg HR Score: 60.2
+- Emmanuel Rodriguez + Elly De La Cruz | Avg HR Score: 59.9
 
 ## Best 3-Leg Pairings
 
-- Emmanuel Rodriguez + Bryce Eldridge + Kody Clemens | Avg HR Score: 66.4
-- Bryce Eldridge + Kody Clemens + Mike Trout | Avg HR Score: 62.5
-- Kody Clemens + Mike Trout + Will Smith | Avg HR Score: 60.5
-- Mike Trout + Will Smith + Josh Bell | Avg HR Score: 59.5
-- Will Smith + Josh Bell + Teoscar Hernández | Avg HR Score: 58.3
+- Yordan Alvarez + James Wood + Pete Alonso | Avg HR Score: 63.7
+- James Wood + Pete Alonso + Ben Rice | Avg HR Score: 61.6
+- Pete Alonso + Ben Rice + Emmanuel Rodriguez | Avg HR Score: 60.7
+- Ben Rice + Emmanuel Rodriguez + Elly De La Cruz | Avg HR Score: 60.1
+- Emmanuel Rodriguez + Elly De La Cruz + Juan Soto | Avg HR Score: 59.8
 
 ## Best 4-Leg Pairings
 
-- Emmanuel Rodriguez + Bryce Eldridge + Kody Clemens + Mike Trout | Avg HR Score: 65.1
-- Bryce Eldridge + Kody Clemens + Mike Trout + Will Smith | Avg HR Score: 61.6
-- Kody Clemens + Mike Trout + Will Smith + Josh Bell | Avg HR Score: 60.0
-- Mike Trout + Will Smith + Josh Bell + Teoscar Hernández | Avg HR Score: 59.0
-- Will Smith + Josh Bell + Teoscar Hernández + Griffin Conine | Avg HR Score: 58.0
+- Yordan Alvarez + James Wood + Pete Alonso + Ben Rice | Avg HR Score: 62.9
+- James Wood + Pete Alonso + Ben Rice + Emmanuel Rodriguez | Avg HR Score: 61.2
+- Pete Alonso + Ben Rice + Emmanuel Rodriguez + Elly De La Cruz | Avg HR Score: 60.5
+- Ben Rice + Emmanuel Rodriguez + Elly De La Cruz + Juan Soto | Avg HR Score: 60.0
+- Emmanuel Rodriguez + Elly De La Cruz + Juan Soto + Munetaka Murakami | Avg HR Score: 59.8
