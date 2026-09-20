@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Lazaro Montes | SEA | Tomoyuki Sugano | 8 | 65.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 2 | Cal Raleigh | SEA | Tomoyuki Sugano | 4 | 64.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Dominic Canzone | SEA | Tomoyuki Sugano | 3 | 63.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Ben Rice | NYY | Corbin Burnes | 1 | 63.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Pete Crow-Armstrong | CHC | Rhett Lowder | 1 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Leo Bernal | STL | Jake Irvin | 4 | 60.2 | Tier 3 | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 7 | Yordan Alvarez | HOU | Martín Pérez | 2 | 60.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 8 | Elly De La Cruz | CIN |  | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Riley Greene | DET | Davis Martin | 4 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Randy Arozarena | SEA | Tomoyuki Sugano | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Oneil Cruz | PIT | Michael Wacha | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Kyle Schwarber | PHI | Jonah Tong | 1 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Munetaka Murakami | CWS | Troy Melton | 4 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Carter Jensen | KC | Lake Bachar | 1 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Sal Stewart | CIN |  | 3 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Corey Seager | TEX |  | 2 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Luis Garcia | NYY | Corbin Burnes | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Garrett Mitchell | MIL | Brandon Young | 2 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Pete Alonso | BAL | Jacob Misiorowski | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Matt Olson | ATL | Hunter Brown | 3 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Jake Bauers | MIL | Brandon Young | 4 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Pete Alonso | BAL | Jacob Misiorowski | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Brice Turang | MIL | Brandon Young | 2 | 56.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 4 | William Contreras | MIL | Brandon Young | 3 | 55.8 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Jackson Chourio | MIL | Brandon Young | 1 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Garrett Mitchell | MIL | Brandon Young | 8 | 54.7 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 7 | Christian Yelich | MIL | Brandon Young | 6 | 52.5 | Longshot | Watch List | Platoon Edge |
+| 8 | Coby Mayo | BAL | Jacob Misiorowski | 4 | 51.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 9 | Samuel Basallo | BAL | Jacob Misiorowski | 5 | 50.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Gunnar Henderson | BAL | Jacob Misiorowski | 3 | 49.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Colton Cowser | BAL | Jacob Misiorowski | 7 | 46.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Dylan Beavers | BAL | Jacob Misiorowski | 1 | 46.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Joey Ortiz | MIL | Brandon Young | 5 | 45.4 | Longshot | Watch List | No major boost |
+| 14 | Jeremiah Jackson | BAL | Jacob Misiorowski | 6 | 43.7 | Longshot | Watch List | No major boost |
+| 15 | Cooper Pratt | MIL | Brandon Young | 7 | 39.7 | Longshot | Watch List | No major boost |
+| 16 | Sal Frelick | MIL | Brandon Young | 9 | 37.2 | Longshot | Watch List | Platoon Edge |
+| 17 | Carlos Narváez | BAL | Jacob Misiorowski | 9 | 36.0 | Longshot | Watch List | No major boost |
+| 18 | Leody Taveras | BAL | Jacob Misiorowski | 8 | 34.9 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Lazaro Montes + Cal Raleigh | Avg HR Score: 64.6
-- Cal Raleigh + Dominic Canzone | Avg HR Score: 63.7
-- Dominic Canzone + Ben Rice | Avg HR Score: 63.1
-- Ben Rice + Pete Crow-Armstrong | Avg HR Score: 62.0
-- Pete Crow-Armstrong + Leo Bernal | Avg HR Score: 60.6
+- Jake Bauers + Pete Alonso | Avg HR Score: 62.4
+- Pete Alonso + Brice Turang | Avg HR Score: 58.9
+- Brice Turang + William Contreras | Avg HR Score: 56.2
+- William Contreras + Jackson Chourio | Avg HR Score: 55.7
+- Jackson Chourio + Garrett Mitchell | Avg HR Score: 55.2
 
 ## Best 3-Leg Pairings
 
-- Lazaro Montes + Cal Raleigh + Dominic Canzone | Avg HR Score: 64.1
-- Cal Raleigh + Dominic Canzone + Ben Rice | Avg HR Score: 63.5
-- Dominic Canzone + Ben Rice + Pete Crow-Armstrong | Avg HR Score: 62.4
-- Ben Rice + Pete Crow-Armstrong + Leo Bernal | Avg HR Score: 61.4
-- Pete Crow-Armstrong + Leo Bernal + Yordan Alvarez | Avg HR Score: 60.4
+- Jake Bauers + Pete Alonso + Brice Turang | Avg HR Score: 60.5
+- Pete Alonso + Brice Turang + William Contreras | Avg HR Score: 57.8
+- Brice Turang + William Contreras + Jackson Chourio | Avg HR Score: 56.0
+- William Contreras + Jackson Chourio + Garrett Mitchell | Avg HR Score: 55.4
+- Jackson Chourio + Garrett Mitchell + Christian Yelich | Avg HR Score: 54.3
 
 ## Best 4-Leg Pairings
 
-- Lazaro Montes + Cal Raleigh + Dominic Canzone + Ben Rice | Avg HR Score: 63.9
-- Cal Raleigh + Dominic Canzone + Ben Rice + Pete Crow-Armstrong | Avg HR Score: 62.9
-- Dominic Canzone + Ben Rice + Pete Crow-Armstrong + Leo Bernal | Avg HR Score: 61.9
-- Ben Rice + Pete Crow-Armstrong + Leo Bernal + Yordan Alvarez | Avg HR Score: 61.0
-- Pete Crow-Armstrong + Leo Bernal + Yordan Alvarez + Elly De La Cruz | Avg HR Score: 60.1
+- Jake Bauers + Pete Alonso + Brice Turang + William Contreras | Avg HR Score: 59.3
+- Pete Alonso + Brice Turang + William Contreras + Jackson Chourio | Avg HR Score: 57.3
+- Brice Turang + William Contreras + Jackson Chourio + Garrett Mitchell | Avg HR Score: 55.7
+- William Contreras + Jackson Chourio + Garrett Mitchell + Christian Yelich | Avg HR Score: 54.6
+- Jackson Chourio + Garrett Mitchell + Christian Yelich + Coby Mayo | Avg HR Score: 53.7
