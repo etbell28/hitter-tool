@@ -21,7 +21,7 @@
 | 17 | Kyle Stowers | MIA | Walker Buehler | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Matt Olson | ATL | Hunter Brown | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 19 | Mike Trout | LAA | Dean Kremer | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Shea Langeliers | ATH | Gavin Williams | 2 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Shea Langeliers | ATH | Gavin Williams | 2 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
