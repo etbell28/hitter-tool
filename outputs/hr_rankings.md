@@ -13,15 +13,15 @@
 | 9 | Drake Baldwin | ATL | Brandon Williamson | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 10 | Sal Stewart | CIN | JR Ritchie | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 11 | Corbin Carroll | AZ | Kyle Freeland | 7 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 12 | Emmanuel Rodriguez | MIN | Anthony Molina | 6 | 59.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 13 | Hunter Goodman | COL | Michael Soroka | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 14 | Juan Soto | NYM | MacKenzie Gore | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Oneil Cruz | PIT | Andre Pallante | 4 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Pete Crow-Armstrong | CHC | Janson Junk | 1 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Corey Seager | TEX | Sean Manaea | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 18 | Heriberto Hernandez | MIA | Shota Imanaga | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Tyler Stephenson | CIN | JR Ritchie | 4 | 56.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Leo Bernal | STL | Jared Jones | 5 | 56.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Pete Crow-Armstrong | CHC | Janson Junk | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Emmanuel Rodriguez | MIN | Anthony Molina | 6 | 59.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
+| 14 | Hunter Goodman | COL | Michael Soroka | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Heriberto Hernandez | MIA | Shota Imanaga | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Juan Soto | NYM | MacKenzie Gore | 2 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Oneil Cruz | PIT | Andre Pallante | 4 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Corey Seager | TEX | Sean Manaea | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Griffin Conine | MIA | Shota Imanaga | 4 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Kyle Stowers | MIA | Shota Imanaga | 1 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
