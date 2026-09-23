@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Logan Gilbert | 2 | 69.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Ronald Acuña Jr. | ATL | Brandon Williamson | 1 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Matt Olson | ATL | Brandon Williamson | 3 | 66.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Elly De La Cruz | CIN | JR Ritchie | 2 | 65.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Emmanuel Rodriguez | MIN | Anthony Molina | 6 | 65.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 6 | Gabriel Moreno | AZ | Kyle Freeland | 3 | 63.0 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Ketel Marte | AZ | Kyle Freeland | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 8 | Shea Langeliers | ATH | Yusei Kikuchi | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Drake Baldwin | ATL | Brandon Williamson | 2 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Sal Stewart | CIN | JR Ritchie | 3 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Corbin Carroll | AZ | Kyle Freeland | 7 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 12 | Juan Soto | NYM | MacKenzie Gore | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 13 | Pete Crow-Armstrong | CHC | Janson Junk | 1 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Corey Seager | TEX | Sean Manaea | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Max Muncy | LAD | Michael King | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Zack Gelof | ATH | Yusei Kikuchi | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Cal Raleigh | SEA | Cristian Javier | 4 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Victor Bericoto | SF | Taj Bradley | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Spencer Jones | NYY | Drew Rasmussen | 5 | 58.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Hunter Goodman | COL | Michael Soroka | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | George Kirby | 2 | 63.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Munetaka Murakami | CWS | Seth Lugo | 4 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Rafael Flores | PIT | Matthew Liberatore | 5 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 4 | Oneil Cruz | PIT | Matthew Liberatore | 4 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Pete Crow-Armstrong | CHC | Ryan Gusto | 1 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Kyle Schwarber | PHI | Logan Henderson | 1 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Hunter Goodman | COL | Merrill Kelly | 4 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 8 | Jonathan Aranda | TB | Gerrit Cole | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Juan Soto | NYM |  | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Ronald Acuna | ATL | Andrew Abbott | 1 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Jake Bauers | MIL | Aaron Nola | 5 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 12 | Carter Jensen | KC | Erick Fedde | 1 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Matt Olson | ATL | Andrew Abbott | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Junior Caminero | TB | Gerrit Cole | 3 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Mike Trout | LAA | Jeffrey Springs | 2 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | James Wood | WSH | Framber Valdez | 1 | 55.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Ben Rice | NYY | Ian Seymour | 1 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Kyle Stowers | MIA | Kevin Gausman | 3 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Brandon Lowe | PIT | Matthew Liberatore | 2 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Spencer Jones | NYY | Ian Seymour | 6 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Ronald Acuña Jr. | Avg HR Score: 68.2
-- Ronald Acuña Jr. + Matt Olson | Avg HR Score: 66.2
-- Matt Olson + Elly De La Cruz | Avg HR Score: 66.0
-- Elly De La Cruz + Emmanuel Rodriguez | Avg HR Score: 65.6
-- Emmanuel Rodriguez + Gabriel Moreno | Avg HR Score: 64.1
+- Yordan Alvarez + Munetaka Murakami | Avg HR Score: 62.4
+- Munetaka Murakami + Rafael Flores | Avg HR Score: 61.1
+- Rafael Flores + Oneil Cruz | Avg HR Score: 60.3
+- Oneil Cruz + Pete Crow-Armstrong | Avg HR Score: 59.7
+- Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 59.6
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Ronald Acuña Jr. + Matt Olson | Avg HR Score: 67.5
-- Ronald Acuña Jr. + Matt Olson + Elly De La Cruz | Avg HR Score: 66.1
-- Matt Olson + Elly De La Cruz + Emmanuel Rodriguez | Avg HR Score: 65.7
-- Elly De La Cruz + Emmanuel Rodriguez + Gabriel Moreno | Avg HR Score: 64.7
-- Emmanuel Rodriguez + Gabriel Moreno + Ketel Marte | Avg HR Score: 63.7
+- Yordan Alvarez + Munetaka Murakami + Rafael Flores | Avg HR Score: 61.9
+- Munetaka Murakami + Rafael Flores + Oneil Cruz | Avg HR Score: 60.6
+- Rafael Flores + Oneil Cruz + Pete Crow-Armstrong | Avg HR Score: 60.1
+- Oneil Cruz + Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 59.6
+- Pete Crow-Armstrong + Kyle Schwarber + Hunter Goodman | Avg HR Score: 59.3
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Ronald Acuña Jr. + Matt Olson + Elly De La Cruz | Avg HR Score: 67.1
-- Ronald Acuña Jr. + Matt Olson + Elly De La Cruz + Emmanuel Rodriguez | Avg HR Score: 65.9
-- Matt Olson + Elly De La Cruz + Emmanuel Rodriguez + Gabriel Moreno | Avg HR Score: 65.0
-- Elly De La Cruz + Emmanuel Rodriguez + Gabriel Moreno + Ketel Marte | Avg HR Score: 64.2
-- Emmanuel Rodriguez + Gabriel Moreno + Ketel Marte + Shea Langeliers | Avg HR Score: 63.5
+- Yordan Alvarez + Munetaka Murakami + Rafael Flores + Oneil Cruz | Avg HR Score: 61.4
+- Munetaka Murakami + Rafael Flores + Oneil Cruz + Pete Crow-Armstrong | Avg HR Score: 60.4
+- Rafael Flores + Oneil Cruz + Pete Crow-Armstrong + Kyle Schwarber | Avg HR Score: 60.0
+- Oneil Cruz + Pete Crow-Armstrong + Kyle Schwarber + Hunter Goodman | Avg HR Score: 59.4
+- Pete Crow-Armstrong + Kyle Schwarber + Hunter Goodman + Jonathan Aranda | Avg HR Score: 59.0
