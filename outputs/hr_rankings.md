@@ -3,7 +3,7 @@
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Yordan Alvarez | HOU | Mason Barnett | 2 | 66.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Juan Soto | NYM | Kumar Rocker | 2 | 65.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Juan Soto | NYM | Kumar Rocker | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Matt Olson | ATL | Brady Singer | 3 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 4 | Munetaka Murakami | CWS | Randy Dobnak | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Oneil Cruz | PIT | Kyle Leahy | 1 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -18,8 +18,8 @@
 | 14 | Hunter Goodman | COL | Eduardo Rodriguez | 3 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Drake Baldwin | ATL | Brady Singer | 1 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Spencer Jones | NYY | Ian Seymour | 4 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Jake Burger | TEX | Zac Thornton | 4 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Corey Seager | TEX | Zac Thornton | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Jake Burger | TEX | Zac Thornton | 4 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Corey Seager | TEX | Zac Thornton | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Dominic Canzone | SEA | Grayson Rodriguez | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Cal Raleigh | SEA | Grayson Rodriguez | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
@@ -42,7 +42,7 @@
 ## Best 4-Leg Pairings
 
 - Yordan Alvarez + Juan Soto + Matt Olson + Munetaka Murakami | Avg HR Score: 64.6
-- Juan Soto + Matt Olson + Munetaka Murakami + Oneil Cruz | Avg HR Score: 63.7
+- Juan Soto + Matt Olson + Munetaka Murakami + Oneil Cruz | Avg HR Score: 63.8
 - Matt Olson + Munetaka Murakami + Oneil Cruz + Shohei Ohtani | Avg HR Score: 62.4
 - Munetaka Murakami + Oneil Cruz + Shohei Ohtani + Lars Nootbaar | Avg HR Score: 61.5
 - Oneil Cruz + Shohei Ohtani + Lars Nootbaar + Corbin Carroll | Avg HR Score: 60.5
