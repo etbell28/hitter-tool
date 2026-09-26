@@ -10,15 +10,15 @@
 | 6 | Matt Olson | ATL | Jack Ralston | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | James Wood | WSH | Jonah Tong | 1 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Carter Jensen | KC | Tanner Bibee | 1 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Shohei Ohtani | LAD | Matt Wilkinson | 2 | 61.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 9 | Shohei Ohtani | LAD | Matt Wilkinson | 2 | 61.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 10 | Juan Soto | NYM | Connelly Early | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 11 | Elly De La Cruz | CIN | Trey Yesavage | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Riley Greene | DET | Kirby Yates | 5 | 60.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 13 | Ryan O'Hearn | PIT | Justin Verlander | 1 | 60.2 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 14 | Corey Seager | TEX | Bailey Ober | 3 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Kyle Schwarber | PHI | Griffin Jax | 1 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jac Caglianone | KC | Tanner Bibee | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Will Smith | LAD | Matt Wilkinson | 3 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Will Smith | LAD | Matt Wilkinson | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Jac Caglianone | KC | Tanner Bibee | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Ronald Acuña Jr. | ATL | Jack Ralston | 2 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Randal Grichuk | CWS | Jose Quintana | 3 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 20 | Miguel Vargas | CWS | Jose Quintana | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
