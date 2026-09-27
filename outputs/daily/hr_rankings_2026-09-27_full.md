@@ -10,18 +10,18 @@
 | 6 | Pete Alonso | BAL | Elmer Rodríguez | 2 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 7 | Spencer Jones | NYY | Shane Baz | 4 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Ben Rice | NYY | Shane Baz | 1 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Elly De La Cruz | CIN | Max Scherzer | 2 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Kyle Schwarber | PHI | Nick Martinez | 2 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Kyle Schwarber | PHI | Nick Martinez | 2 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Elly De La Cruz | CIN | Max Scherzer | 2 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Riley Greene | DET | Jared Jones | 4 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Randal Grichuk | CWS | Kyle Freeland | 1 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Francisco Lindor | NYM | DJ Herz | 1 | 60.1 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 14 | Pete Crow-Armstrong | CHC | Tanner Houck | 1 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Willson Contreras | BOS | Shota Imanaga | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Corbin Carroll | AZ | Randy Vásquez | 5 | 59.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Oneil Cruz | PIT | River Ryan | 4 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Hunter Goodman | COL | Anthony Kay | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Bo Bichette | NYM | DJ Herz | 3 | 59.3 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 20 | Matt Olson | ATL | Janson Junk | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Hunter Goodman | COL | Anthony Kay | 3 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Corbin Carroll | AZ | Randy Vásquez | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Bo Bichette | NYM | DJ Herz | 3 | 59.3 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 19 | Matt Olson | ATL | Janson Junk | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Griffin Conine | MIA | JR Ritchie | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
