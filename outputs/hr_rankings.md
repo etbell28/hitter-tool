@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Spencer Jones | NYY | Sonny Gray | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Ben Rice | NYY | Sonny Gray | 1 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Pete Crow-Armstrong | CHC | Nick Pivetta | 1 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Fernando Tatis Jr. | SD | Kevin Gausman | 1 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Luis García Jr. | NYY | Sonny Gray | 3 | 53.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Seiya Suzuki | CHC | Nick Pivetta | 4 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Michael Busch | CHC | Nick Pivetta | 3 | 52.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Jackson Merrill | SD | Kevin Gausman | 5 | 52.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 9 | Manny Machado | SD | Kevin Gausman | 3 | 50.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Willson Contreras | BOS | Max Fried | 3 | 50.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Jazz Chisholm Jr. | NYY | Sonny Gray | 6 | 49.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 12 | Ian Happ | CHC | Nick Pivetta | 5 | 49.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 13 | Cody Bellinger | NYY | Sonny Gray | 2 | 48.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 14 | Trent Grisham | NYY | Sonny Gray | 7 | 48.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 15 | Alex Bregman | CHC | Nick Pivetta | 2 | 48.3 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Jahmai Jones | BOS | Max Fried | 1 | 48.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Austin Wells | NYY | Sonny Gray | 8 | 46.9 | Longshot | Watch List | Platoon Edge |
-| 18 | Ryan McMahon | NYY | Sonny Gray | 9 | 46.5 | Longshot | Watch List | Platoon Edge |
-| 19 | George Lombard Jr. | NYY | Sonny Gray | 5 | 46.2 | Longshot | Watch List | Hot Hitter/Streak |
-| 20 | Ty France | SD | Kevin Gausman | 4 | 46.0 | Longshot | Watch List | Premium Lineup Spot |
+| 1 | Kyle Schwarber | PHI |  | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 2 | Matt Olson | ATL |  | 4 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 3 | Wilyer Abreu | BOS | Gerrit Cole | 4 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Willson Contreras | BOS | Gerrit Cole | 3 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Drake Baldwin | ATL |  | 2 | 54.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 6 | Ronald Acuna | ATL |  | 1 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 7 | Fernando Tatis | SD |  | 1 | 53.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 8 | Jahmai Jones | BOS | Gerrit Cole | 1 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Pete Crow-Armstrong | CHC |  | 1 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Spencer Jones | NYY | Ranger Suarez | 4 | 51.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Ben Rice | NYY | Ranger Suarez | 1 | 51.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 12 | Seiya Suzuki | CHC |  | 4 | 50.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Bryce Harper | PHI |  | 3 | 50.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Adley Rutschman | BOS | Gerrit Cole | 2 | 50.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 15 | Austin Riley | ATL |  | 6 | 50.0 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 16 | Manny Machado | SD |  | 3 | 49.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Jackson Merrill | SD |  | 5 | 48.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 18 | Michael Busch | CHC |  | 3 | 47.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Alex Bregman | CHC |  | 2 | 46.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Ian Happ | CHC |  | 5 | 45.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Spencer Jones + Ben Rice | Avg HR Score: 61.3
-- Ben Rice + Pete Crow-Armstrong | Avg HR Score: 59.3
-- Pete Crow-Armstrong + Fernando Tatis Jr. | Avg HR Score: 56.2
-- Fernando Tatis Jr. + Luis García Jr. | Avg HR Score: 54.3
-- Luis García Jr. + Seiya Suzuki | Avg HR Score: 53.4
+- Kyle Schwarber + Matt Olson | Avg HR Score: 56.6
+- Matt Olson + Wilyer Abreu | Avg HR Score: 55.3
+- Wilyer Abreu + Willson Contreras | Avg HR Score: 55.0
+- Willson Contreras + Drake Baldwin | Avg HR Score: 54.8
+- Drake Baldwin + Ronald Acuna | Avg HR Score: 54.5
 
 ## Best 3-Leg Pairings
 
-- Spencer Jones + Ben Rice + Pete Crow-Armstrong | Avg HR Score: 60.0
-- Ben Rice + Pete Crow-Armstrong + Fernando Tatis Jr. | Avg HR Score: 57.8
-- Pete Crow-Armstrong + Fernando Tatis Jr. + Luis García Jr. | Avg HR Score: 55.4
-- Fernando Tatis Jr. + Luis García Jr. + Seiya Suzuki | Avg HR Score: 53.9
-- Luis García Jr. + Seiya Suzuki + Michael Busch | Avg HR Score: 53.2
+- Kyle Schwarber + Matt Olson + Wilyer Abreu | Avg HR Score: 56.2
+- Matt Olson + Wilyer Abreu + Willson Contreras | Avg HR Score: 55.1
+- Wilyer Abreu + Willson Contreras + Drake Baldwin | Avg HR Score: 54.9
+- Willson Contreras + Drake Baldwin + Ronald Acuna | Avg HR Score: 54.6
+- Drake Baldwin + Ronald Acuna + Fernando Tatis | Avg HR Score: 54.3
 
 ## Best 4-Leg Pairings
 
-- Spencer Jones + Ben Rice + Pete Crow-Armstrong + Fernando Tatis Jr. | Avg HR Score: 58.8
-- Ben Rice + Pete Crow-Armstrong + Fernando Tatis Jr. + Luis García Jr. | Avg HR Score: 56.8
-- Pete Crow-Armstrong + Fernando Tatis Jr. + Luis García Jr. + Seiya Suzuki | Avg HR Score: 54.8
-- Fernando Tatis Jr. + Luis García Jr. + Seiya Suzuki + Michael Busch | Avg HR Score: 53.6
-- Luis García Jr. + Seiya Suzuki + Michael Busch + Jackson Merrill | Avg HR Score: 53.0
+- Kyle Schwarber + Matt Olson + Wilyer Abreu + Willson Contreras | Avg HR Score: 55.8
+- Matt Olson + Wilyer Abreu + Willson Contreras + Drake Baldwin | Avg HR Score: 55.0
+- Wilyer Abreu + Willson Contreras + Drake Baldwin + Ronald Acuna | Avg HR Score: 54.8
+- Willson Contreras + Drake Baldwin + Ronald Acuna + Fernando Tatis | Avg HR Score: 54.5
+- Drake Baldwin + Ronald Acuna + Fernando Tatis + Jahmai Jones | Avg HR Score: 53.9
