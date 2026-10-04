@@ -2,45 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Jackson Chourio | MIL | Robbie Ray | 1 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Jake Bauers | MIL | Robbie Ray | 4 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 3 | William Contreras | MIL | Robbie Ray | 3 | 53.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 4 | Brice Turang | MIL | Robbie Ray | 2 | 51.4 | Longshot | Watch List | Premium Lineup Spot |
-| 5 | Fernando Tatis Jr. | SD | Jacob Misiorowski | 1 | 50.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 6 | Jackson Merrill | SD | Jacob Misiorowski | 5 | 48.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Christian Yelich | MIL | Robbie Ray | 5 | 48.0 | Longshot | Watch List | No major boost |
-| 8 | Manny Machado | SD | Jacob Misiorowski | 3 | 46.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Garrett Mitchell | MIL | Robbie Ray | 8 | 45.5 | Longshot | Watch List | Strong Barrel |
-| 10 | Ty France | SD | Jacob Misiorowski | 4 | 42.0 | Longshot | Watch List | Premium Lineup Spot |
-| 11 | Cooper Pratt | MIL | Robbie Ray | 6 | 39.9 | Longshot | Watch List | Platoon Edge |
-| 12 | Luis Lara | MIL | Robbie Ray | 7 | 38.6 | Longshot | Watch List | Platoon Edge |
-| 13 | Xander Bogaerts | SD | Jacob Misiorowski | 6 | 37.8 | Longshot | Watch List | No major boost |
-| 14 | Joey Ortiz | MIL | Robbie Ray | 9 | 37.6 | Longshot | Watch List | Platoon Edge |
-| 15 | Ethan Salas | SD | Jacob Misiorowski | 7 | 36.2 | Longshot | Watch List | Platoon Edge |
-| 16 | Dustin Harris | SD | Jacob Misiorowski | 2 | 34.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Jake Cronenworth | SD | Jacob Misiorowski | 9 | 32.3 | Longshot | Watch List | Platoon Edge |
-| 18 | Luis Campusano | SD | Jacob Misiorowski | 8 | 30.1 | Longshot | Watch List | No major boost |
+| 1 | Shohei Ohtani | LAD |  | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 2 | Jake Bauers | MIL | Michael King | 4 | 54.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Will Smith | LAD |  | 3 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Fernando Tatis | SD | Logan Henderson | 1 | 52.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 5 | Jackson Chourio | MIL | Michael King | 1 | 50.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 6 | Jackson Merrill | SD | Logan Henderson | 5 | 50.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 7 | Brice Turang | MIL | Michael King | 2 | 49.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 8 | Teoscar Hernandez | LAD |  | 5 | 48.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 9 | Manny Machado | SD | Logan Henderson | 3 | 48.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 10 | Ronald Acuna | ATL | Blake Snell | 2 | 46.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Christian Yelich | MIL | Michael King | 5 | 46.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 12 | William Contreras | MIL | Michael King | 3 | 46.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 13 | Freddie Freeman | LAD |  | 4 | 45.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 14 | Matt Olson | ATL | Blake Snell | 4 | 44.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Mookie Betts | LAD |  | 1 | 44.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 16 | Garrett Mitchell | MIL | Michael King | 8 | 44.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 17 | Ty France | SD | Logan Henderson | 4 | 43.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 18 | Andy Pages | LAD |  | 7 | 43.1 | Longshot | Watch List | Projected Lineup |
+| 19 | Drake Baldwin | ATL | Blake Snell | 1 | 42.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 20 | Kyle Tucker | LAD |  | 6 | 41.3 | Longshot | Watch List | Projected Lineup |
 
 ## Best 2-Leg Pairings
 
-- Jackson Chourio + Jake Bauers | Avg HR Score: 56.5
-- Jake Bauers + William Contreras | Avg HR Score: 54.4
-- William Contreras + Brice Turang | Avg HR Score: 52.2
-- Brice Turang + Fernando Tatis Jr. | Avg HR Score: 51.1
-- Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 49.8
+- Shohei Ohtani + Jake Bauers | Avg HR Score: 56.8
+- Jake Bauers + Will Smith | Avg HR Score: 54.2
+- Will Smith + Fernando Tatis | Avg HR Score: 53.5
+- Fernando Tatis + Jackson Chourio | Avg HR Score: 51.6
+- Jackson Chourio + Jackson Merrill | Avg HR Score: 50.4
 
 ## Best 3-Leg Pairings
 
-- Jackson Chourio + Jake Bauers + William Contreras | Avg HR Score: 55.4
-- Jake Bauers + William Contreras + Brice Turang | Avg HR Score: 53.4
-- William Contreras + Brice Turang + Fernando Tatis Jr. | Avg HR Score: 51.8
-- Brice Turang + Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 50.3
-- Fernando Tatis Jr. + Jackson Merrill + Christian Yelich | Avg HR Score: 49.2
+- Shohei Ohtani + Jake Bauers + Will Smith | Avg HR Score: 56.0
+- Jake Bauers + Will Smith + Fernando Tatis | Avg HR Score: 53.7
+- Will Smith + Fernando Tatis + Jackson Chourio | Avg HR Score: 52.5
+- Fernando Tatis + Jackson Chourio + Jackson Merrill | Avg HR Score: 51.2
+- Jackson Chourio + Jackson Merrill + Brice Turang | Avg HR Score: 50.2
 
 ## Best 4-Leg Pairings
 
-- Jackson Chourio + Jake Bauers + William Contreras + Brice Turang | Avg HR Score: 54.4
-- Jake Bauers + William Contreras + Brice Turang + Fernando Tatis Jr. | Avg HR Score: 52.8
-- William Contreras + Brice Turang + Fernando Tatis Jr. + Jackson Merrill | Avg HR Score: 51.0
-- Brice Turang + Fernando Tatis Jr. + Jackson Merrill + Christian Yelich | Avg HR Score: 49.7
-- Fernando Tatis Jr. + Jackson Merrill + Christian Yelich + Manny Machado | Avg HR Score: 48.5
+- Shohei Ohtani + Jake Bauers + Will Smith + Fernando Tatis | Avg HR Score: 55.1
+- Jake Bauers + Will Smith + Fernando Tatis + Jackson Chourio | Avg HR Score: 52.9
+- Will Smith + Fernando Tatis + Jackson Chourio + Jackson Merrill | Avg HR Score: 51.9
+- Fernando Tatis + Jackson Chourio + Jackson Merrill + Brice Turang | Avg HR Score: 50.8
+- Jackson Chourio + Jackson Merrill + Brice Turang + Teoscar Hernandez | Avg HR Score: 49.8
