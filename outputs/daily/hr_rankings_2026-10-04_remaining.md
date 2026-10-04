@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD |  | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Jake Bauers | MIL | Michael King | 4 | 54.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Will Smith | LAD |  | 3 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Fernando Tatis | SD | Logan Henderson | 1 | 52.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Jackson Chourio | MIL | Michael King | 1 | 50.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 6 | Jackson Merrill | SD | Logan Henderson | 5 | 50.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 7 | Brice Turang | MIL | Michael King | 2 | 49.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 8 | Teoscar Hernandez | LAD |  | 5 | 48.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 9 | Manny Machado | SD | Logan Henderson | 3 | 48.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Ronald Acuna | ATL | Blake Snell | 2 | 46.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Christian Yelich | MIL | Michael King | 5 | 46.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 12 | William Contreras | MIL | Michael King | 3 | 46.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 13 | Freddie Freeman | LAD |  | 4 | 45.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 14 | Matt Olson | ATL | Blake Snell | 4 | 44.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Mookie Betts | LAD |  | 1 | 44.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 16 | Garrett Mitchell | MIL | Michael King | 8 | 44.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 17 | Ty France | SD | Logan Henderson | 4 | 43.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 18 | Andy Pages | LAD |  | 7 | 43.1 | Longshot | Watch List | Projected Lineup |
-| 19 | Drake Baldwin | ATL | Blake Snell | 1 | 42.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Kyle Tucker | LAD |  | 6 | 41.3 | Longshot | Watch List | Projected Lineup |
+| 1 | Shohei Ohtani | LAD | Ray Kerr | 2 | 57.9 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 2 | Will Smith | LAD | Ray Kerr | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Ronald Acuña Jr. | ATL | Blake Snell | 2 | 51.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Teoscar Hernández | LAD | Ray Kerr | 5 | 49.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 5 | Matt Olson | ATL | Blake Snell | 3 | 49.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Drake Baldwin | ATL | Blake Snell | 1 | 47.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Mookie Betts | LAD | Ray Kerr | 1 | 45.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 8 | Freddie Freeman | LAD | Ray Kerr | 4 | 44.2 | Longshot | Watch List | Premium Lineup Spot |
+| 9 | Andy Pages | LAD | Ray Kerr | 7 | 44.1 | Longshot | Watch List | Platoon Edge |
+| 10 | Austin Riley | ATL | Blake Snell | 8 | 42.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 11 | Michael Harris II | ATL | Blake Snell | 5 | 41.3 | Longshot | Watch List | No major boost |
+| 12 | Kyle Tucker | LAD | Ray Kerr | 6 | 39.7 | Longshot | Watch List | No major boost |
+| 13 | Sean Murphy | ATL | Blake Snell | 7 | 35.6 | Longshot | Watch List | Platoon Edge |
+| 14 | Tommy Edman | LAD | Ray Kerr | 9 | 35.4 | Longshot | Watch List | Platoon Edge |
+| 15 | Miguel Rojas | LAD | Ray Kerr | 8 | 33.5 | Longshot | Watch List | Platoon Edge |
+| 16 | Ozzie Albies | ATL | Blake Snell | 4 | 33.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Mauricio Dubón | ATL | Blake Snell | 6 | 31.8 | Longshot | Watch List | Platoon Edge |
+| 18 | Lane Thomas | ATL | Blake Snell | 9 | 29.6 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Jake Bauers | Avg HR Score: 56.8
-- Jake Bauers + Will Smith | Avg HR Score: 54.2
-- Will Smith + Fernando Tatis | Avg HR Score: 53.5
-- Fernando Tatis + Jackson Chourio | Avg HR Score: 51.6
-- Jackson Chourio + Jackson Merrill | Avg HR Score: 50.4
+- Shohei Ohtani + Will Smith | Avg HR Score: 56.5
+- Will Smith + Ronald Acuña Jr. | Avg HR Score: 53.2
+- Ronald Acuña Jr. + Teoscar Hernández | Avg HR Score: 50.3
+- Teoscar Hernández + Matt Olson | Avg HR Score: 49.2
+- Matt Olson + Drake Baldwin | Avg HR Score: 48.1
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Jake Bauers + Will Smith | Avg HR Score: 56.0
-- Jake Bauers + Will Smith + Fernando Tatis | Avg HR Score: 53.7
-- Will Smith + Fernando Tatis + Jackson Chourio | Avg HR Score: 52.5
-- Fernando Tatis + Jackson Chourio + Jackson Merrill | Avg HR Score: 51.2
-- Jackson Chourio + Jackson Merrill + Brice Turang | Avg HR Score: 50.2
+- Shohei Ohtani + Will Smith + Ronald Acuña Jr. | Avg HR Score: 54.8
+- Will Smith + Ronald Acuña Jr. + Teoscar Hernández | Avg HR Score: 52.0
+- Ronald Acuña Jr. + Teoscar Hernández + Matt Olson | Avg HR Score: 49.9
+- Teoscar Hernández + Matt Olson + Drake Baldwin | Avg HR Score: 48.5
+- Matt Olson + Drake Baldwin + Mookie Betts | Avg HR Score: 47.1
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Jake Bauers + Will Smith + Fernando Tatis | Avg HR Score: 55.1
-- Jake Bauers + Will Smith + Fernando Tatis + Jackson Chourio | Avg HR Score: 52.9
-- Will Smith + Fernando Tatis + Jackson Chourio + Jackson Merrill | Avg HR Score: 51.9
-- Fernando Tatis + Jackson Chourio + Jackson Merrill + Brice Turang | Avg HR Score: 50.8
-- Jackson Chourio + Jackson Merrill + Brice Turang + Teoscar Hernandez | Avg HR Score: 49.8
+- Shohei Ohtani + Will Smith + Ronald Acuña Jr. + Teoscar Hernández | Avg HR Score: 53.5
+- Will Smith + Ronald Acuña Jr. + Teoscar Hernández + Matt Olson | Avg HR Score: 51.2
+- Ronald Acuña Jr. + Teoscar Hernández + Matt Olson + Drake Baldwin | Avg HR Score: 49.2
+- Teoscar Hernández + Matt Olson + Drake Baldwin + Mookie Betts | Avg HR Score: 47.7
+- Matt Olson + Drake Baldwin + Mookie Betts + Freddie Freeman | Avg HR Score: 46.4
