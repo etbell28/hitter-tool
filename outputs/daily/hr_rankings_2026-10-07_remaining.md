@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Tyler Mahle | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 2 | Matt Olson | ATL | Tyler Glasnow | 3 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Drake Baldwin | ATL | Tyler Glasnow | 1 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Fernando Tatis | SD |  | 1 | 53.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Ronald Acuna | ATL | Tyler Glasnow | 2 | 53.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 6 | Will Smith | LAD | Tyler Mahle | 4 | 52.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Jake Bauers | MIL |  | 2 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 8 | Jackson Chourio | MIL |  | 1 | 50.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Jackson Merrill | SD |  | 2 | 50.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Manny Machado | SD |  | 3 | 49.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Teoscar Hernandez | LAD | Tyler Mahle | 3 | 48.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Michael Harris | ATL | Tyler Glasnow | 5 | 48.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 13 | Freddie Freeman | LAD | Tyler Mahle | 2 | 47.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 14 | Brice Turang | MIL |  | 4 | 46.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 15 | William Contreras | MIL |  | 3 | 46.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 16 | Ty France | SD |  | 4 | 45.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 17 | Garrett Mitchell | MIL |  | 6 | 44.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 18 | Austin Riley | ATL | Tyler Glasnow | 8 | 44.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 19 | Christian Yelich | MIL |  | 5 | 44.0 | Longshot | Watch List | Projected Lineup |
-| 20 | Mookie Betts | LAD | Tyler Mahle | 1 | 42.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 1 | Ben Rice | NYY | Drew Rasmussen | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Munetaka Murakami | CWS | Parker Messick | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Junior Caminero | TB | Carlos Rodón | 3 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Jo Adell | CLE |  | 4 | 51.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 5 | Spencer Jones | NYY | Drew Rasmussen | 8 | 50.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 6 | Jonathan Aranda | TB | Carlos Rodón | 2 | 49.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 7 | Luis Garcia | NYY | Drew Rasmussen | 3 | 49.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Miguel Vargas | CWS | Parker Messick | 2 | 48.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Victor Mesa | TB | Carlos Rodón | 4 | 48.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 10 | Yandy Diaz | TB | Carlos Rodón | 1 | 48.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 11 | Trent Grisham | NYY | Drew Rasmussen | 1 | 47.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Ryan Vilade | TB | Carlos Rodón | 5 | 46.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 13 | Chase DeLauter | CLE |  | 3 | 46.7 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 14 | Austin Wells | NYY | Drew Rasmussen | 6 | 45.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 15 | Randal Grichuk | CWS | Parker Messick | 8 | 43.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 16 | Jose Ramirez | CLE |  | 2 | 43.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 17 | Nathaniel Lowe | CLE |  | 5 | 43.4 | Longshot | Watch List | Projected Lineup |
+| 18 | Cody Bellinger | NYY | Drew Rasmussen | 4 | 43.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 19 | George Lombard | NYY | Drew Rasmussen | 5 | 41.5 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
+| 20 | Kyle Teel | CWS | Parker Messick | 4 | 40.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Matt Olson | Avg HR Score: 57.5
-- Matt Olson + Drake Baldwin | Avg HR Score: 55.2
-- Drake Baldwin + Fernando Tatis | Avg HR Score: 54.0
-- Fernando Tatis + Ronald Acuna | Avg HR Score: 53.5
-- Ronald Acuna + Will Smith | Avg HR Score: 52.9
+- Ben Rice + Munetaka Murakami | Avg HR Score: 56.8
+- Munetaka Murakami + Junior Caminero | Avg HR Score: 56.3
+- Junior Caminero + Jo Adell | Avg HR Score: 53.8
+- Jo Adell + Spencer Jones | Avg HR Score: 51.1
+- Spencer Jones + Jonathan Aranda | Avg HR Score: 50.1
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Matt Olson + Drake Baldwin | Avg HR Score: 56.4
-- Matt Olson + Drake Baldwin + Fernando Tatis | Avg HR Score: 54.7
-- Drake Baldwin + Fernando Tatis + Ronald Acuna | Avg HR Score: 53.7
-- Fernando Tatis + Ronald Acuna + Will Smith | Avg HR Score: 53.2
-- Ronald Acuna + Will Smith + Jake Bauers | Avg HR Score: 52.7
+- Ben Rice + Munetaka Murakami + Junior Caminero | Avg HR Score: 56.6
+- Munetaka Murakami + Junior Caminero + Jo Adell | Avg HR Score: 54.7
+- Junior Caminero + Jo Adell + Spencer Jones | Avg HR Score: 52.8
+- Jo Adell + Spencer Jones + Jonathan Aranda | Avg HR Score: 50.5
+- Spencer Jones + Jonathan Aranda + Luis Garcia | Avg HR Score: 49.7
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Matt Olson + Drake Baldwin + Fernando Tatis | Avg HR Score: 55.8
-- Matt Olson + Drake Baldwin + Fernando Tatis + Ronald Acuna | Avg HR Score: 54.3
-- Drake Baldwin + Fernando Tatis + Ronald Acuna + Will Smith | Avg HR Score: 53.5
-- Fernando Tatis + Ronald Acuna + Will Smith + Jake Bauers | Avg HR Score: 53.0
-- Ronald Acuna + Will Smith + Jake Bauers + Jackson Chourio | Avg HR Score: 52.2
+- Ben Rice + Munetaka Murakami + Junior Caminero + Jo Adell | Avg HR Score: 55.3
+- Munetaka Murakami + Junior Caminero + Jo Adell + Spencer Jones | Avg HR Score: 53.7
+- Junior Caminero + Jo Adell + Spencer Jones + Jonathan Aranda | Avg HR Score: 52.0
+- Jo Adell + Spencer Jones + Jonathan Aranda + Luis Garcia | Avg HR Score: 50.1
+- Spencer Jones + Jonathan Aranda + Luis Garcia + Miguel Vargas | Avg HR Score: 49.4
