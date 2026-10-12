@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Jacob Misiorowski | 4 | 57.6 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Jackson Chourio | MIL | Tarik Skubal | 1 | 52.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Jake Bauers | MIL | Tarik Skubal | 4 | 50.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Will Smith | LAD | Jacob Misiorowski | 3 | 50.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | William Contreras | MIL | Tarik Skubal | 3 | 47.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 6 | Max Muncy | LAD | Jacob Misiorowski | 6 | 47.4 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 7 | Brice Turang | MIL | Tarik Skubal | 2 | 46.3 | Longshot | Watch List | Premium Lineup Spot |
-| 8 | Freddie Freeman | LAD | Jacob Misiorowski | 2 | 45.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 9 | Teoscar Hernández | LAD | Jacob Misiorowski | 5 | 44.6 | Longshot | Watch List | Strong Barrel |
-| 10 | Garrett Mitchell | MIL | Tarik Skubal | 6 | 43.8 | Longshot | Watch List | Strong Barrel |
-| 11 | Andrew Vaughn | MIL | Tarik Skubal | 5 | 43.5 | Longshot | Watch List | Platoon Edge |
-| 12 | Mookie Betts | LAD | Jacob Misiorowski | 1 | 40.3 | Longshot | Watch List | Premium Lineup Spot |
-| 13 | Andy Pages | LAD | Jacob Misiorowski | 7 | 39.3 | Longshot | Watch List | No major boost |
-| 14 | Kyle Tucker | LAD | Jacob Misiorowski | 8 | 36.8 | Longshot | Watch List | Platoon Edge |
-| 15 | Enrique Hernández | LAD | Jacob Misiorowski | 9 | 33.4 | Longshot | Watch List | No major boost |
-| 16 | Cooper Pratt | MIL | Tarik Skubal | 7 | 33.1 | Longshot | Watch List | Platoon Edge |
-| 17 | Joey Ortiz | MIL | Tarik Skubal | 9 | 32.5 | Longshot | Watch List | Platoon Edge |
-| 18 | Luis Lara | MIL | Tarik Skubal | 8 | 31.8 | Longshot | Watch List | Platoon Edge |
+| 1 | Shohei Ohtani | LAD | Logan Henderson | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Will Smith | LAD | Logan Henderson | 3 | 52.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Jake Bauers | MIL | Yoshinobu Yamamoto | 4 | 50.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Freddie Freeman | LAD | Logan Henderson | 2 | 47.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 5 | Jackson Chourio | MIL | Yoshinobu Yamamoto | 1 | 47.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 6 | Teoscar Hernandez | LAD | Logan Henderson | 5 | 46.4 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 7 | Brice Turang | MIL | Yoshinobu Yamamoto | 2 | 46.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 8 | Garrett Mitchell | MIL | Yoshinobu Yamamoto | 6 | 44.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 9 | William Contreras | MIL | Yoshinobu Yamamoto | 3 | 42.8 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 10 | Mookie Betts | LAD | Logan Henderson | 1 | 42.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 11 | Andy Pages | LAD | Logan Henderson | 7 | 41.1 | Longshot | Watch List | Projected Lineup |
+| 12 | Max Muncy | LAD | Logan Henderson | 6 | 40.3 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 13 | Kyle Tucker | LAD | Logan Henderson | 8 | 38.6 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 14 | Andrew Vaughn | MIL | Yoshinobu Yamamoto | 5 | 38.4 | Longshot | Watch List | Projected Lineup |
+| 15 | Enrique Hernandez | LAD | Logan Henderson | 9 | 35.2 | Longshot | Watch List | Projected Lineup |
+| 16 | Luis Lara | MIL | Yoshinobu Yamamoto | 8 | 29.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 17 | Cooper Pratt | MIL | Yoshinobu Yamamoto | 7 | 28.1 | Longshot | Watch List | Projected Lineup |
+| 18 | Joey Ortiz | MIL | Yoshinobu Yamamoto | 9 | 27.4 | Longshot | Watch List | Projected Lineup |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Jackson Chourio | Avg HR Score: 54.9
-- Jackson Chourio + Jake Bauers | Avg HR Score: 51.5
-- Jake Bauers + Will Smith | Avg HR Score: 50.5
-- Will Smith + William Contreras | Avg HR Score: 49.1
-- William Contreras + Max Muncy | Avg HR Score: 47.6
+- Shohei Ohtani + Will Smith | Avg HR Score: 55.8
+- Will Smith + Jake Bauers | Avg HR Score: 51.5
+- Jake Bauers + Freddie Freeman | Avg HR Score: 49.0
+- Freddie Freeman + Jackson Chourio | Avg HR Score: 47.1
+- Jackson Chourio + Teoscar Hernandez | Avg HR Score: 46.8
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Jackson Chourio + Jake Bauers | Avg HR Score: 53.5
-- Jackson Chourio + Jake Bauers + Will Smith | Avg HR Score: 51.1
-- Jake Bauers + Will Smith + William Contreras | Avg HR Score: 49.7
-- Will Smith + William Contreras + Max Muncy | Avg HR Score: 48.6
-- William Contreras + Max Muncy + Brice Turang | Avg HR Score: 47.2
+- Shohei Ohtani + Will Smith + Jake Bauers | Avg HR Score: 54.2
+- Will Smith + Jake Bauers + Freddie Freeman | Avg HR Score: 50.1
+- Jake Bauers + Freddie Freeman + Jackson Chourio | Avg HR Score: 48.4
+- Freddie Freeman + Jackson Chourio + Teoscar Hernandez | Avg HR Score: 46.9
+- Jackson Chourio + Teoscar Hernandez + Brice Turang | Avg HR Score: 46.6
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Jackson Chourio + Jake Bauers + Will Smith | Avg HR Score: 52.7
-- Jackson Chourio + Jake Bauers + Will Smith + William Contreras | Avg HR Score: 50.3
-- Jake Bauers + Will Smith + William Contreras + Max Muncy | Avg HR Score: 49.1
-- Will Smith + William Contreras + Max Muncy + Brice Turang | Avg HR Score: 48.0
-- William Contreras + Max Muncy + Brice Turang + Freddie Freeman | Avg HR Score: 46.7
+- Shohei Ohtani + Will Smith + Jake Bauers + Freddie Freeman | Avg HR Score: 52.4
+- Will Smith + Jake Bauers + Freddie Freeman + Jackson Chourio | Avg HR Score: 49.3
+- Jake Bauers + Freddie Freeman + Jackson Chourio + Teoscar Hernandez | Avg HR Score: 47.9
+- Freddie Freeman + Jackson Chourio + Teoscar Hernandez + Brice Turang | Avg HR Score: 46.8
+- Jackson Chourio + Teoscar Hernandez + Brice Turang + Garrett Mitchell | Avg HR Score: 46.0
