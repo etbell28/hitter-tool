@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Junior Caminero | TB | Robert Gasser | 4 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Jake Bauers | MIL | Freddy Peralta | 2 | 55.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Jackson Chourio | MIL | Freddy Peralta | 1 | 51.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Ryan Vilade | TB | Robert Gasser | 2 | 50.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 5 | Yandy Díaz | TB | Robert Gasser | 1 | 49.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 6 | Brice Turang | MIL | Freddy Peralta | 5 | 48.7 | Longshot | Watch List | Platoon Edge |
-| 7 | Christian Yelich | MIL | Freddy Peralta | 3 | 48.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 8 | Garrett Mitchell | MIL | Freddy Peralta | 6 | 48.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 9 | William Contreras | MIL | Freddy Peralta | 4 | 46.7 | Longshot | Watch List | Premium Lineup Spot |
-| 10 | Victor Mesa Jr. | TB | Robert Gasser | 7 | 45.9 | Longshot | Watch List | No major boost |
-| 11 | Jonny DeLuca | TB | Robert Gasser | 6 | 40.0 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 12 | Ben Williamson | TB | Robert Gasser | 5 | 38.3 | Longshot | Watch List | Platoon Edge |
-| 13 | Nick Fortes | TB | Robert Gasser | 8 | 34.8 | Longshot | Watch List | Platoon Edge |
-| 14 | Chandler Simpson | TB | Robert Gasser | 3 | 34.2 | Longshot | Watch List | Premium Lineup Spot |
-| 15 | David Hamilton | MIL | Freddy Peralta | 9 | 32.3 | Longshot | Watch List | Platoon Edge |
-| 16 | Cooper Pratt | MIL | Freddy Peralta | 7 | 32.2 | Longshot | Watch List | No major boost |
-| 17 | Sal Frelick | MIL | Freddy Peralta | 8 | 31.2 | Longshot | Watch List | Platoon Edge |
-| 18 | Taylor Walls | TB | Robert Gasser | 9 | 31.2 | Longshot | Watch List | Platoon Edge |
+| 1 | Junior Caminero | TB |  | 4 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 2 | Jake Bauers | MIL |  | 2 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 3 | Jackson Chourio | MIL |  | 1 | 51.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 4 | Ryan Vilade | TB |  | 2 | 47.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 5 | William Contreras | MIL |  | 4 | 47.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 6 | Yandy Diaz | TB |  | 1 | 46.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 7 | Christian Yelich | MIL |  | 3 | 46.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 8 | Brice Turang | MIL |  | 5 | 46.2 | Longshot | Watch List | Projected Lineup |
+| 9 | Garrett Mitchell | MIL |  | 6 | 45.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 10 | Victor Mesa | TB |  | 7 | 44.9 | Longshot | Watch List | Projected Lineup |
+| 11 | Jonny DeLuca | TB |  | 6 | 36.5 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
+| 12 | Ben Williamson | TB |  | 5 | 34.7 | Longshot | Watch List | Projected Lineup |
+| 13 | Chandler Simpson | TB |  | 3 | 33.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
+| 14 | Cooper Pratt | MIL |  | 7 | 32.5 | Longshot | Watch List | Projected Lineup |
+| 15 | Nick Fortes | TB |  | 8 | 31.3 | Longshot | Watch List | Projected Lineup |
+| 16 | David Hamilton | MIL |  | 9 | 29.9 | Longshot | Watch List | Projected Lineup |
+| 17 | Taylor Walls | TB |  | 9 | 29.4 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 18 | Sal Frelick | MIL |  | 8 | 28.8 | Longshot | Watch List | Projected Lineup |
 
 ## Best 2-Leg Pairings
 
-- Junior Caminero + Jake Bauers | Avg HR Score: 56.8
-- Jake Bauers + Jackson Chourio | Avg HR Score: 53.5
-- Jackson Chourio + Ryan Vilade | Avg HR Score: 51.0
-- Ryan Vilade + Yandy Díaz | Avg HR Score: 50.2
-- Yandy Díaz + Brice Turang | Avg HR Score: 49.3
+- Junior Caminero + Jake Bauers | Avg HR Score: 53.8
+- Jake Bauers + Jackson Chourio | Avg HR Score: 52.5
+- Jackson Chourio + Ryan Vilade | Avg HR Score: 49.4
+- Ryan Vilade + William Contreras | Avg HR Score: 47.0
+- William Contreras + Yandy Diaz | Avg HR Score: 46.7
 
 ## Best 3-Leg Pairings
 
-- Junior Caminero + Jake Bauers + Jackson Chourio | Avg HR Score: 55.0
-- Jake Bauers + Jackson Chourio + Ryan Vilade | Avg HR Score: 52.5
-- Jackson Chourio + Ryan Vilade + Yandy Díaz | Avg HR Score: 50.6
-- Ryan Vilade + Yandy Díaz + Brice Turang | Avg HR Score: 49.7
-- Yandy Díaz + Brice Turang + Christian Yelich | Avg HR Score: 49.1
+- Junior Caminero + Jake Bauers + Jackson Chourio | Avg HR Score: 53.1
+- Jake Bauers + Jackson Chourio + Ryan Vilade | Avg HR Score: 50.7
+- Jackson Chourio + Ryan Vilade + William Contreras | Avg HR Score: 48.6
+- Ryan Vilade + William Contreras + Yandy Diaz | Avg HR Score: 46.8
+- William Contreras + Yandy Diaz + Christian Yelich | Avg HR Score: 46.5
 
 ## Best 4-Leg Pairings
 
-- Junior Caminero + Jake Bauers + Jackson Chourio + Ryan Vilade | Avg HR Score: 53.9
-- Jake Bauers + Jackson Chourio + Ryan Vilade + Yandy Díaz | Avg HR Score: 51.9
-- Jackson Chourio + Ryan Vilade + Yandy Díaz + Brice Turang | Avg HR Score: 50.1
-- Ryan Vilade + Yandy Díaz + Brice Turang + Christian Yelich | Avg HR Score: 49.5
-- Yandy Díaz + Brice Turang + Christian Yelich + Garrett Mitchell | Avg HR Score: 48.8
+- Junior Caminero + Jake Bauers + Jackson Chourio + Ryan Vilade | Avg HR Score: 51.6
+- Jake Bauers + Jackson Chourio + Ryan Vilade + William Contreras | Avg HR Score: 49.8
+- Jackson Chourio + Ryan Vilade + William Contreras + Yandy Diaz | Avg HR Score: 48.0
+- Ryan Vilade + William Contreras + Yandy Diaz + Christian Yelich | Avg HR Score: 46.7
+- William Contreras + Yandy Diaz + Christian Yelich + Brice Turang | Avg HR Score: 46.5
